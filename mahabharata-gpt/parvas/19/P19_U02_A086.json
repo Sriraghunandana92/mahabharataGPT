@@ -1,0 +1,660 @@
+{
+  "adhyaya_id": "P19_U02_A086",
+  "book": 19,
+  "parva_name": "हरिवंशः",
+  "upaparva_name": "विष्णुपर्व",
+  "adhyaya_name": "अन्धकवधः-०८६",
+  "chapter": 141,
+  "verse_count": 63,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "जनमेजय उवाच।\n              श्रुतोऽयं षट्पुरवधो रम्यो मुनिवरोत्तम। पुरोक्तमन्धकवधं वैशम्पायन कीर्तय॥१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "भानुमत्याश्च हरणं निकुम्भस्य वधं तथा। प्रब्रूहि वदतां श्रेष्ट परं कौतूहलं हि मे॥२॥",
+      "english": null,
+      "bhavadeepa": "षडशीतितमेऽमुष्मिन्नथाध्याये हि वर्ण्यते। अन्धकस्य वधः प्रोक्तो राजप्रश्नानुसारतः॥१॥ श्रुतोऽयमिति॥१॥",
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६",
+      "combined_translation": "2-2"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "वैशम्पायन उवाच।\n              दितिर्हतेषु पुत्रेषु विष्णुना प्रभविष्णुना। तपसाऽऽराधयामास मारीचं कश्यपं पुरा॥३॥",
+      "english": null,
+      "bhavadeepa": "निकुम्भस्य त्रिदेहस्य वधं भानुमत्या हरणे भगवता प्रोक्तम्॥२॥",
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६",
+      "combined_translation": "3-3"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "तपसा कालयुक्तेन तथा शुश्रूषया मुनेः। आनुकूल्येन च तथा माधुर्येण च भारत॥४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६",
+      "combined_translation": "4-4"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "परितुष्टः कश्यपस्तु तामुवाच तपोधनः। परितुष्टोऽस्मि ते भद्रे वरं वरय सुव्रते॥५॥",
+      "english": null,
+      "bhavadeepa": "कालयुक्तेन बहुकालीनेन॥४॥",
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६",
+      "combined_translation": "5-5"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "दितिरुवाच\n              हतपुत्रास्मि भगवन्देवैर्धर्मभृतां वर। अवध्यं पुत्रमिच्छामि देवैरमितविक्रमम्॥६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६",
+      "combined_translation": "6-6"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "कश्यप उवाच।\n              अवध्यस्ते सुतो देवि दाक्षायणि भवेदिति। देवानां संशयो नात्र कश्चित्कमललोचने॥७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६",
+      "combined_translation": "7-7"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "देवदेवमृते रुद्रं तस्य न प्रभवाम्यहम्। आत्मा ततस्ते पुत्रेण रक्षितव्यो हि सर्वथा॥८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६",
+      "combined_translation": "8-8"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "अन्वालभत तां देवीं कश्यपः सत्यवागथ। अङ्गुल्योदरदेशे तु सा पुत्रं सुषुवे ततः॥९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६",
+      "combined_translation": "9-9"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "सहस्रबाहुं कौरव्य सहस्रशिरसं तथा। द्विसहस्रेक्षणं चैव तावच्चरणमेव च॥१०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६",
+      "combined_translation": "10-10"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "स व्रजत्यन्धवद्यस्मादनन्धोऽपि हि भारत। तमन्धकोऽयं नाम्नेति प्रोचुस्तत्र निवासिनः॥११॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६",
+      "combined_translation": "11-11"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "अवध्योऽस्मीति लोकान्स सर्वान्बाधति भारत। हरत्यपि च रत्नानि सर्वाण्यात्मबलाश्रयात्॥१२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६",
+      "combined_translation": "12-12"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "वासयत्यात्मवीर्येण निगृह्याप्सरसां गणान्। स वेश्मन्यूर्जितोऽत्यर्थं सर्वलोकभयङ्करः॥१३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६",
+      "combined_translation": "13-13"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "परदारापहरणं पररत्नविलोपनम्। चकार सततं मोहादन्धकः पापनिश्चयः॥१४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६",
+      "combined_translation": "14-14"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "त्रैलोक्यविजयं कर्तुमुद्यतः स तु भारत। सहायैरसुरैः सार्धं बहुभिः सर्वधर्षिभिः॥१५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६",
+      "combined_translation": "15-15"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "तच्छ्रुत्वा भगवाञ्छक्रः कश्यपं पितरं ब्रवीत्। अन्धकेनेदमारब्धमीदृशं मुनिसत्तम॥१६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६",
+      "combined_translation": "16-16"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "आज्ञापय विभो कार्यमस्माकं समनन्तरम्। यवीयसः कथं नाम सोढव्यं स्यान्मुने मया॥१७॥",
+      "english": null,
+      "bhavadeepa": "ब्रवीत् अब्रवीत्॥१६॥",
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६",
+      "combined_translation": "17-17"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "इष्टपुत्रे प्रहर्तव्यं कथं नाम मया विभो। इहात्रभवती कुर्यान्मन्युं मयि हते सुते॥१८॥",
+      "english": null,
+      "bhavadeepa": "सोढव्यं दुर्वृत्तत्वमिति शेषः॥१७॥",
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६",
+      "combined_translation": "18-18"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "देवेन्द्रवचनं श्रुत्वा कश्यपोऽथाब्रवीन्मुनिः। वारयिष्यामि देवेन्द्र सर्वथा भद्रमस्तु ते॥१९॥",
+      "english": null,
+      "bhavadeepa": "अत्रभवती पूज्या दितिः तस्याः इष्टपुत्रे मया हते सति सा मयि मन्युं कुर्यात्॥१८॥",
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६",
+      "english_ref": 1,
+      "combined_translation": "1-19"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "अन्धकं वारयामास दित्या सह तु कश्यपः। त्रैलोक्यविजयाद्वीरं कृच्छ्रकृच्छ्रेण भारत॥२०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "वारितोऽपि स दुष्टात्मा बाधत्येव दिवौकसः। तैस्तैरुपायैर्दुष्टात्मा प्रमथ्य च तथामरान्॥२१॥",
+      "english": null,
+      "bhavadeepa": "कृच्छ्रकृच्छ्रेण अतिकृच्छ्रेण॥२०॥",
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "बभञ्ज कानने वृक्षानुद्यानानि च दुर्मतिः। उच्चैःश्रवःसुतानश्वान्बलादप्यानयद्दिवः॥२२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "नागान्दिशागजसुतान्दिव्यानपि च भारत। बलाद्धरति देवानां पश्यतां वरदर्पितः॥२३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "देवानाप्याययन्ते तु ये यज्ञैस्तपसा तथा। तेषां चकार विघ्नं स दुष्टात्मा देवकण्टकः॥२४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "नेजुर्यज्ञैस्त्रयो वर्णास्तेपुश्च न तपांस्यपि। अन्धकस्य भयाद्राजन्यज्ञविघ्नानि कुर्वतः॥२५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "तस्येच्छया वाति वायुरादित्यश्च तपत्युत। चन्द्रमा वा सनक्षत्रो दृश्यते नैव वा पुनः॥२६॥",
+      "english": null,
+      "bhavadeepa": "नेजुः यज्ञं न चक्रुः॥२५॥",
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "न व्रजन्ति विमानानि विहायसि भयात्प्रभो। अन्धकस्यातिघोरस्य बलदृप्तस्य दुर्मतेः॥२७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "निरोङ्कारवषट्कारं जगद्वीर तथाभवत्। अन्धकस्यातिघोरस्य भयात्कुरुकुलोद्वह॥२८॥",
+      "english": null,
+      "bhavadeepa": "अन्धकस्य भयादिति शेषः॥२७॥",
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "कुरूंस्तथोत्तरान्पापो द्रावयामास भारत। भद्राश्वान् केतुमालांश्च जम्बूद्वीपांस्तथैव च॥२९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "मानयन्ति च तं देवा दानवाश्च दुरासदाः। भूतानि च तथान्यानि समर्थान्यपि सर्वथा॥३०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "ऋषयो वध्यमानास्तु समेता ब्रह्मवादिनः। अचिन्तयन्नन्धकस्य वधं धर्मभृतां वर॥३१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "तेषां बृहस्पतिर्मध्ये धीमानिदमथाब्रवीत्। नास्य रुद्रादृते मृत्युर्विद्यते च कथञ्चन॥३२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "तथा वरे दीयमाने कश्यपेनापि शब्दितः। नाहं रुद्रात्परित्रातुं शक्त इत्येव धीमतः॥३३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "तमुपायं चिन्तयामः शर्वो येन सनातनः। जानीयात्सर्वभूतानि पीड्यमानानि शङ्करः॥३४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "विदितार्थं हि भगवानवश्यं जगतः प्रभुः। अश्रुप्रमार्जनं देवः करिष्यति सतां गतिः॥३५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "व्रतं हि देवदेवस्य भवस्य जगतो गुरोः। सन्तोऽसद्भ्यो रक्षितव्या ब्राह्मणास्तु विशेषतः॥३६॥",
+      "english": null,
+      "bhavadeepa": "अश्रुप्रमार्जनं शोकापनयनम्॥३५॥",
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "ते वयं नारदं सर्वे प्रयाम शरणं द्विजम्। उपायं वेत्स्यते तत्र वयस्यो हि भवस्य सः॥३७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "बृहस्पतिवचः श्रुत्वा सर्वेऽप्यथ तपोधनाः। तावद्ददृशुराकाशे प्राप्तं देवर्षिसत्तमम्॥३८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "पूजयित्वा यथान्यायं सत्कृत्य विधिवन्मुनिम्।\n              देवा ऊचुः\n              देवर्षे भगवन्साधो कैलासं व्रज सत्वरम्॥३९॥",
+      "english": null,
+      "bhavadeepa": "तपोधनाः हे शौनकादयः॥३८॥",
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "विज्ञप्तुमर्हसे देवमन्धकस्य वधे हरम्। त्राणार्थे नारदं प्रोचुस्तांस्तथेति स चोक्तवान्॥४०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "ऋषिष्वथ प्रयातेषु तत्कार्यं नारदो मुनिः। विचर्य मनसा विद्वानिति कार्यं स दृष्टवान्॥४१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "स देवदेवं भगवान्द्रष्टुं मुनिरथाययौ। मन्दारवनमध्यस्थो यत्र नित्यो वृषध्वजः॥४२॥",
+      "english": null,
+      "bhavadeepa": "इति वक्ष्यमाणं कार्यं कर्तव्यम्॥४१॥",
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "स तत्र रजनीमेकामुषित्वा मुनिसत्तमः। मन्दाराणां वने रम्ये दयितः शूलपाणिनः॥४३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "आजगाम पुनः स्वर्गं लब्ध्वानुज्ञां वृषध्वजात्। मन्दारपुष्पैः सुकृतां मालामाबध्य भारत॥४४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "ग्रथितां सविशेषां तां सर्वगन्धोत्तमोत्तमाम्। सन्तानमाल्यदामं च तैरेव कुसुमैः कृतम्॥४५॥",
+      "english": null,
+      "bhavadeepa": "मन्दारः सुरतरुस्तत्पुष्पैः॥४४॥",
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "तच्च कण्ठे समासज्य महागन्धं नराधिप। आययावन्धको यत्र दुरात्मा बलदर्पितः॥४६॥",
+      "english": null,
+      "bhavadeepa": "सन्तानोऽपि देवद्रुम एव॥४५॥",
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "अन्धकस्त्वथ तं दृष्ट्वा गन्धमाघ्राय चोत्तमम्। सन्तानकानां स्रङ्मालां महागन्धां महामुने॥४७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "कुत्रायं पुष्पजातिर्वा कमनीया तपोधन। गन्धान्वर्णाञ्छुभांस्तान्हि भोः पुष्यति मुहुर्मुहुः। स्वर्गे सन्तानकुसुमान्यतिवर्तति सर्वथा॥४८॥",
+      "english": null,
+      "bhavadeepa": "स्रङ्माला पुष्पदाम॥४७॥",
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "कः प्रभुस्तस्य वृक्षस्य शक्यं वाऽऽनयितुं मुने। आचक्ष्व यद्यनुग्राह्या वयं ते देवतातिथे॥४९॥",
+      "english": null,
+      "bhavadeepa": "इयमिति वक्तव्येऽयमिति उक्तिर्मत्तत्वात्। सन्तानकुसुमानि अतिवर्तति अभिभवति॥४८॥",
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "तमुवाच मुनिश्रेष्ठः प्रहसन्निव भारत। आदाय दक्षिणे हस्ते महतस्तपसो निधिः॥५०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "मन्दरे पर्वतश्रेष्ठे वीर कामगमं वनम्। तत्र चैवंविधं पुष्पं भोः सृष्टिः शूलपाणिनः॥५१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "न तु तत्र वनं कश्चिदच्छन्देन महात्मनः। प्रवेष्टुं लभते तद्धि रक्षन्ति प्रवरोत्तमाः॥५२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "नानाप्रहरणा घोरा नानावेषा दुरासदाः। अवध्याः सर्वभूतानां महादेवाभिरक्षिताः॥५३॥",
+      "english": null,
+      "bhavadeepa": "महात्मनो महादेवस्य प्रवरोत्तमाः गणोत्तमाः॥५२॥",
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "नित्यं प्रक्रीडते तत्र सोमः सप्रवरो हरः। मन्दारद्रुमखण्डेषु सर्वात्मा सर्वभावनः॥५४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 55,
+      "sanskrit": "तपोविशेषैराराध्य हरं त्रिभुवनेशवरम्। शक्यं मन्दारपुष्पाणि प्राप्तुं कश्यपवंशज॥५५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 56,
+      "sanskrit": "स्त्रीरत्नमणिरत्नानि यानि चान्यानि चाप्यथ। काङ्क्षितानि फलन्ति स्म ते द्रुमा हरवल्लभाः॥५६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 57,
+      "sanskrit": "न तत्र सूर्यः सोमोऽथ तपत्यतुलविक्रमः। स्वयम्प्रभं तरुवनं तद्भ्यो दुःखविवर्जितम्॥५७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 58,
+      "sanskrit": "तत्र गन्धान्स्रवन्त्यन्ये नीराण्यन्ये महाद्रुमाः। वासांसि विविधान्यन्ये सुगन्धीनि महाबल॥५८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 59,
+      "sanskrit": "भक्ष्यं भोज्यं च पेयं च चोष्यं लेह्यं तथैव च। तरुभ्यः स्रवते तेभ्यो विविधं मनसेप्सितम्॥५९॥",
+      "english": null,
+      "bhavadeepa": "नीराणि रसान्॥५८॥",
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 60,
+      "sanskrit": "पिपासा वा बुभुक्षा वा ग्लानिश्चिन्तापि वानघ। न मन्दारवने वीर भवतीत्युपधार्यताम्॥६०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 61,
+      "sanskrit": "न ते वर्णयितुं शक्या गुणा वर्षशतैरपि। गुणा ये तत्र वर्द्धन्ते स्वर्गाद्बहुगुणोत्तराः॥६१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 62,
+      "sanskrit": "अतीव हि जयेल्लोकान्समहेन्द्रान्न संशयः। एकाहमपि यस्तत्र वसेच्च दितिजोत्तम॥६२॥",
+      "english": null,
+      "bhavadeepa": "वर्धन्ते प्रसरन्ति॥६१॥",
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    },
+    {
+      "verse": 63,
+      "sanskrit": "स्वर्गस्यापि हि तत्स्वर्गं सुखानामपि तत्सुखम्। बभूव जगतः सर्वमिति मे धीयते मनः॥६३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 141,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "अन्धकवधः-०८६"
+    }
+  ]
+}

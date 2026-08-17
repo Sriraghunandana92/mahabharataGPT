@@ -1,0 +1,509 @@
+{
+  "adhyaya_id": "P05_U06_A082",
+  "book": 5,
+  "parva_name": "उद्योगपर्व",
+  "upaparva_name": "भगवद्यानपर्व",
+  "adhyaya_name": "द्व्यशीतितमोऽध्यायः",
+  "chapter": 82,
+  "verse_count": 49,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वैशम्पायन उवाच।\n              राज्ञस्तु वचनं श्रुत्वा धर्मार्थसहितं हितम्। कृष्णा दाशार्हमासीनमब्रवीच्छोककर्शिता ॥१॥",
+      "english": "Vaishampayana said Hearing the king's words which were beneficial as well as conducive to morality and worldly good, Krishna, the daughter of king Drupada, of long and very black tresses, afflicted with grief, said to the scion of the Dasharha race, who was seated there, after having given due respects to Sahadeva and the great car-warrior Satyaki.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः",
+      "combined_translation": "1-2"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "सुता द्रुपदराजस्य स्वसितायतमूर्धजा। संपूज्य सहदेवं च सात्यकिं च महारथम् ॥२॥",
+      "english": null,
+      "bhavadeepa": "राज्ञस्विति ॥१॥",
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः",
+      "english_ref": 1,
+      "combined_translation": "1-2"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "भीमसेनं च संशान्तं दृष्ट्वा परमदुर्मनाः। अश्रुपूर्णेक्षणा वाक्यमुवाचेदं मनस्विनी ॥३॥",
+      "english": "Seeing Bhimasena inclined towards peace, that intelligent lady with a sense of her wrongs said these words with tears in her eyes:",
+      "bhavadeepa": "स्वसितायतमूर्धजा अतिकृष्णा दीर्घाश्च केशा यस्याः ॥२॥",
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "विदितं ते महाबाहो धर्मज्ञ मधुसूदन। यथा निकृतिमास्थाय भ्रंशिताः पाण्डवाः सुखात् ॥४॥",
+      "english": "O you of long arms, this is known to you. slayer of Madhu, how the Pandavas were deprived of all happiness through deceit.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "धृतराष्ट्रस्य पुत्रेण सामात्येन जनार्दन। यथा च सञ्जयो राज्ञा मन्त्रं रहसि श्रावितः ॥५॥",
+      "english": "By the son of Dhritarashtra within ministers, O Janardana; and what message was covered through Sanjaya in private by the king.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "युधिष्ठिरस्य दाशार्ह तच्चापि विदितं तव। यथोक्तः सञ्जयश्चैव तच्च सर्वं श्रुतं त्वया ॥६॥",
+      "english": "Yudhishthira, that too is known to you of the Dasharha race and by you has been heard all what Sanjaya said.",
+      "bhavadeepa": "मन्त्रं शमप्रधानम् ॥५॥",
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "पञ्च नस्तात दीयन्तां ग्रामा इति महाद्युते। अविस्थलं वृकस्थलं माकन्दीं वारणावतम् ॥७॥",
+      "english": "Give us Avisthala, Vrikasthala, Makandi and Varanavata, with any other village for a fifth and let there be an end of our quarrel over this matter.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "अवसानं महाबाहो कञ्चिदेकं च पञ्चमम्। इति दुर्योधनो वाच्यः सुहृदश्चास्य केशव ॥८॥",
+      "english": "O you of great luster, (this was the massage) give us, O sire, five villages namely, Avisthala, Vrikasthala, Makandi, Varanavata and any one for the last or the fifth, O you of long arms. In these terms was Duryodhana to be addressed and his friends too, O Keshava.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "न चापि ह्यकरोद्वाक्यं श्रुत्वा कृष्ण सुयोधनः। युधिष्ठिरस्य दाशार्ह श्रीमतः सन्धिमिच्छतः ॥९॥",
+      "english": "Suyodhana, though he heard these words of Yudhishthira endued with prosperity and desirous if peace, did not act up to them, O you of the Dasharha race.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "अप्रदानेन राज्यस्य यदि कृष्ण सुयोधनः। सन्धिमिच्छेन्न कर्तव्यं तत्र गत्वा कथञ्चन ॥१०॥",
+      "english": "If, O Krishna, Suyodhana desires peace without returning the kingdom; then it is by no means proper that you should go there.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "शक्ष्यन्ति हि महाबाहो पाण्डवाः सृञ्जयैः सह। धार्तराष्ट्रबलं घोरं कुद्धं प्रतिसमासितुम् ॥११॥",
+      "english": "O you of long arms, the Pandavas supported by the Srinjayas will be able to fight with the terrible army of Dhritarashtra excited with range.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "न हि साम्ना न दानेन शक्योऽर्थस्तेषु कश्चन। तस्मात्तेषु न कर्तव्या कृपा ते मधुसूदन ॥१२॥",
+      "english": "Not by peaceful means, nor by surrender can our object be gained from them; therefore, O destroyer of Madhu, mercy ought not to be shown to them by you.",
+      "bhavadeepa": "प्रतिसमासितुं प्रतिपक्षतया स्थातुम् ॥११॥",
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "साम्ना दानेन वा कृष्ण ये न शाम्यन्ति शत्रवः। योक्तव्यस्तेषु दण्डः स्याज्जीवितं परिरक्षता ॥१३॥",
+      "english": "Those enemies, who do not assume an attitude of peace by words of humility or by surrender, ought to be visited with punishment by him who cares to preserve his life.",
+      "bhavadeepa": "कश्चन अर्थः शमोपायः शक्यः कर्तुमिति शेषः ॥१२॥",
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "तस्मात्तेषु महादण्डः क्षेप्तव्यः क्षिप्रमच्युत। त्वया चैव महाबाहो पाण्डवैः सह सृञ्जयैः ॥१४॥",
+      "english": "Therefore should heavy punishment fall or them from yourself, O Acchyuta of long arms, supported by the Pandavas and the Srinjayas.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "एतत्समर्थं पार्थानां तव चैव यशस्करम्। क्रियमाणं भवेत् कृष्ण क्षत्रस्य च सुखावहम् ॥१५॥",
+      "english": "This would be just the thing for the son of Pritha to do; and will also redound to your glory; and the accomplishment will be, O Krishna, the source of happiness to the entire Kshatriya race.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "क्षत्रियेण हि हन्तव्यः क्षत्रियो लोभमास्थितः। अक्षत्रियो वा दाशार्ह स्वधर्ममनुतिष्ठता ॥१६॥",
+      "english": "A Kshatriya who is avaricious ought to be killed by a Kshatriya who is desirous of proving true to his our religion; and even if the covetous man is not a Kshatriya he ought to be slain.",
+      "bhavadeepa": "समर्थं युक्तम् ॥१५॥",
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "अन्यत्र ब्राह्मणात्तात सर्वपापेष्ववस्थितात्। गुरुर्हि सर्ववर्णानां ब्राह्मणः प्रसृताग्रभुक् ॥१७॥",
+      "english": "An exception should be made, O Sire, in the case of a Brahmana, though he be addicted to all sorts of vices; for a Brahmana is the preceptor of all the other classes and he is allowed precedence in everything.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "यथाऽवध्ये वध्यमाने भवेद्दोषो जनार्दन। स वध्यस्यावधे दृष्ट इति धर्मविदो विदुः ॥१८॥",
+      "english": "The sin, that accrues from killing from one that ought but to be killed, is ihe fame as that which accrues him not slaying one that deserves death. Such has been the instructions of those conversant with the rulers of virtue.",
+      "bhavadeepa": "प्रसृतं प्रदत्तं च तदग्र्यं च तस्य भोक्ता प्रसृताग्रभुक् । पूज्य इत्यर्थः ॥१७॥",
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "यथा त्वां न स्पृशेदेष दोषः कृष्ण तथा कुरु। पाण्डवैः सह दाशार्हैः सृञ्जयैश्च ससैनिकैः ॥१९॥",
+      "english": "Do that, O Krishna, so that this sin may not touch you along with the Pandavas, O you of the Dasharha race and the Srinjayas and their armies.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "पुनरुक्तं च वक्ष्यामि विश्रम्भेण जनार्दन। का तु सीमन्तिनी मादृक् पृथिव्यामस्ति केशव ॥२०॥",
+      "english": "Out of excessive confidence on you, O Janardana, that I repeat what has been already repeated again and again. What woman is there in this world equal to me?",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "सुता द्रुपद्रराजस्य वेदिमध्यात् समुत्थिता। धृष्टद्युम्नस्य भगिनी तव कृष्ण प्रिया सखी ॥२१॥",
+      "english": "The daughter of king Drupada born of the sacrificial altar, sister of Dhrishtadyumna and your dear friend, O Krishna.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "आजमीढकुलं प्राप्ता स्नुषा पाण्डोर्महात्मनः। महिषी पाण्डुपुत्राणां पञ्चेन्द्रसमवर्चसाम् ॥२२॥",
+      "english": "I have become a member of the Ajamida race; and the daughter-in-law of the highsouled Pandu and the chief queen of the sons of Pandu, who in splendor are equal to five Indra's.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "सुता मे पञ्चभिर्वीरैः पञ्च जाता महारथाः। अभिमन्युर्यथा कृष्ण तथा ते तव धर्मतः ॥२३॥",
+      "english": "By the five heroes are born of me five sons, great car-warriors, who morally bear the same relation with you, O Krishna, as Abhimanyu.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "साऽहं केशग्रहं प्राप्ता परिक्लिष्टा सभां गता। पश्यतां पाण्डुपुत्राणां त्वयि जीवति केशव ॥२४॥",
+      "english": "When I, who am such, coming to the Council Chamber was caught hold of by the extremity of my hairs and annoyed within the range of vision of the Pandu's sons and during your life time, O Keshava.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "जीवत्सु पाण्डुपुत्रेषु पञ्चालेष्वथ वृष्णिषु। दासीभूताऽस्मि पापानां सभामध्ये व्यवस्थिता ॥२५॥",
+      "english": "During the life time of the Pandu's, the Panchalas and the Vrishnis I was treated like a maid-servant and made to stand in the Council Chamber of those incarnations of vice.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "निरमर्षेष्वचेष्टेषु प्रेक्षमाणेषु पाण्डुषु। पाहि मामिति गोविन्द मनसा चिन्तितोऽसि मे ॥२६॥",
+      "english": "The sons of Pandu, gazing at me, without any wrath and without any efforts to extricate me, O Govinda, were thought of by me, saying-\"save me.\"",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "यत्र मां भगवान्राजा श्वशुरो वाक्यमब्रवीत्। वरं वृणीष्व पाञ्चालि वरार्हाऽसि मता मम ॥२७॥",
+      "english": "On this the prosperous king (Dhritarashtra), my father-in-law, said these words chose a boon, O Princess of Panchala, in my opinion you are the proper recipient of a boon.”",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "अदासाः पाण्डवाः सन्तु सरथाः सायुधा इति। मयोक्ते यत्र निर्मुक्ता वनवासाय केशव ॥२८॥",
+      "english": "\"Let the Pandavas be liberated with their chariots and soldiers\" was the boon I asked for; and at my solicitation were they liberated and sent to exile in the forest, OKeshava.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "एवंविधानां दुःखानामभिज्ञोऽसि जनार्दन। त्रायस्व पुण्डरीकाक्ष सभर्तृज्ञातिबान्धवान् ॥२९॥",
+      "english": "You, O Janardana, are very well aware of such-like troubles; and save us, o you with eyes like lotus, along with my husbands, kinsmen and friends.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "नन्वहं कृष्ण भीष्मस्य धृतराष्ट्रस्य चोभयोः। स्नुषा भवामि धर्मेण साऽहं दासीकृता बलात् ॥३०॥",
+      "english": "I am, morally speaking, O Krishna, the daughter-in-law of both Bhishma and Dhritarashtra; and yet I, who am such, was made a slave by force.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "धिक् पार्थस्य धनुष्मत्तां भीमसेनस्य धिग्बलम्। यत्र दुर्योधनः कृष्ण मुहूर्तमपि जीवति ॥३१॥",
+      "english": "Shame to the skill in archery of the son of Pritha and shame to the strength of Bhimasena! that Duryodhana, O Krishna, should be alive for one single moment.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "यदि तेऽहमनुग्राह्या यदि तेऽस्ति कृपा मयि। धार्तराष्ट्रेषु वै कोपः सर्वः कृष्ण विधीयताम् ॥३२॥",
+      "english": "If I ain fit to be favored by you, if there is mercy in you for me; then direct all your wrath on the sons of Dhritarashtra.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "वैशम्पायन उवाच।\n              इत्युक्त्वा मृदुसंहारं वृजिनाग्रं सुदर्शनम्। सुनीलमसितापाङ्गी सर्वगन्धाधिवासितम् ॥३३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः",
+      "english_ref": 8,
+      "combined_translation": "8-33"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "सर्वलक्षणसम्पन्नं महाभुजगवर्चसम्। केशपक्षं वरारोहा गृह्य वामेन पाणिना ॥३४॥",
+      "english": "Vaishampayana said Saying this, pretty Krishna having lotuslike eyes, of a black colour and the gait of an elephant and possessed of beautiful hips, taking hold of her beautiful ringlets with curls at their ends and of a deep blue colour, perfumed with all sorts of scents, with all the auspicious marks and very soft though bound up in a braid by her left hand, approached the lotus-eyed Krishna; and with eyes full of tears said these words.",
+      "bhavadeepa": "मृदुसंहारं वेणीरूपेण समाहृतमपि मृदुं वृजिनाग्रं कुटिलाग्रं केशवत्सूक्ष्माग्रं वा । ‘वृजिनः कुटिलेऽन्यवत्’ इति विश्वः सुदर्शनं रमणीयम् ॥३३॥",
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः",
+      "combined_translation": "34-35"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "पद्माक्षी पुण्डरीकाक्षमुपेत्य गजगामिनी। अश्रुपूर्णेक्षणा कृष्णा कृष्णं वचनमब्रवीत् ॥३५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः",
+      "english_ref": 34,
+      "combined_translation": "34-35"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "अयं ते पुण्डरीकाक्ष दुःशासनकरोद्धृतः। स्मर्तव्यः सर्वकार्येषु परेषां सन्धिमिच्छता ॥३६॥",
+      "english": "O you with lotus-like eyes, desirous of peace with the enemy, you should remember in all your acts that these (tresses) were seized by the hands of Dushasana.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "यदि भीमार्जुनौ कृष्ण कृपणौ सन्धिकामुकौ। पिता मे योत्स्यते वृद्धः सह पुत्रैर्महारथैः ॥३७॥",
+      "english": "If Bhima and Arjuna, O Krishna, are so mean as to desire peace, then my old father will fight along with his sons who are great car-warriors.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "पञ्च चैव महावीर्याः पुत्रा मे मधुसूदन। अभिमन्युं पुरस्कृत्य योत्स्यन्ते कुरुभिः सहः ॥३८॥",
+      "english": "And my five sons, too, O slayer of Madhu, of great heroism, having placed Abhimanyu in the front will fight the Kurus.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "दुःशासनभुजं श्यामं संछिन्नं पांसुगुण्ठितम्। यद्यहं तु न पश्यामि का शान्तिर्हृदयस्य मे ॥३९॥",
+      "english": "If I do not see the dark-coloured hand of Dushasana torn off from his body and reduced to powder, then what peace shall there be in my heart?",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "त्रयोदश हि वर्षाणि प्रतीक्षन्त्या गतानि मे। विधाय हृदये मन्युं प्रदीप्तमिव पावकम् ॥४०॥",
+      "english": "Thirteen years have elapsed, during which I was waiting, entertaining in my heart feelings of revenge which were like blazing fire.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "विदीर्यते मे हृदयं भीमवाक्शल्यपीडितम्। योऽयमद्य महाबाहुर्धर्ममेवानुपश्यति ॥४१॥",
+      "english": "My heart, O Bhima, is rent asunder, pierced by darts of sharp words, as it were, at the thought that the long-armed one (Bhima) has an eye on morality.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "इत्युक्त्वा बाष्परुद्धेन कण्ठेनायतलोचना। रुरोद कृष्णा सोत्कम्पं सस्वरं बाष्पगद्गदम् ॥४२॥",
+      "english": "Saying this with voice choked with tears, Krishna of distended eyes began to weep aloud in convulsive sobs and with her eyes full of tears.",
+      "bhavadeepa": "हे भीम शत्रुभयङ्कर कृष्ण योऽयं भवान् ॥४१॥",
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "स्तनौ पीनायतश्रोणी सहितावभिवर्षती। द्रवीभूतमिवात्युष्णं मुञ्चती वारि नेत्रजम् ॥४३॥",
+      "english": "And the lady with beautiful hips began to shower from her eyes extremely hot tears, which flowed down her round bosom.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "तामुवाच महाबाहुः केशवः परिसान्त्वयन्। अचिराद्द्रक्ष्यसे कृष्णे रुदतीर्भरतस्त्रियः ॥४४॥",
+      "english": "Keshava with long arms then spoke these words with a view to comfort her, before long will you see, O Krishna, the ladies of Bharata's household weeping.",
+      "bhavadeepa": "अत्युष्णं वह्निम् ॥४३॥",
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "एवं ता भीरु रोत्स्यन्ति निहतज्ञातिबान्धवाः। हतमित्रा हतबला येषां क्रुद्धाऽसि भामिनी ॥४५॥",
+      "english": "O timid one, they will weep as you now do, having their kinsmen and friends killed. Alrcady, O lady, are those with whom you are angry deprived of their friends and of their strength.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "अहं च तत्करिष्यामि भीमार्जुनयमैः सह। युधिष्ठिरनियोगेन दैवाच्च विधिनिर्मितात् ॥४६॥",
+      "english": "I shall accomplish this with Bhima, Arjuna and the twins, supported by Yudhishthira, through the ordainment of the gods.",
+      "bhavadeepa": "रोत्स्यन्ति रोदिष्यन्ति ॥४५॥",
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "धार्तराष्ट्राः कालपक्वा न चेच्छृण्वन्ति मे वचः। शेष्यन्ते निहता भूमौ श्वसृगालादनीकृताः ॥४७॥",
+      "english": "If the sons of Dhritarashtra, whose time is now arrived, do not hear my advice; then they will sleep dead on the bare earth and be food for dogs and jackals.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "चलेद्धि हिमवान् शैलो मेदिनी शतधा फलेत्। द्यौः पतेच्च सनक्षत्रा न मे मोघं वचो भवेत् ॥४८॥",
+      "english": "The Himavat mountains could move; the earth could be split up into a hundred pieces; and the heavenly regions with stars might fall; but my words would not be vain.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "सत्यं ते प्रतिजानामि कृष्णे बाष्पो निगृह्यताम्। हतामित्रान् श्रिया युक्तानचिराद्द्रक्ष्यसे पतीन् ॥४९॥",
+      "english": "I tell you truly, O Krishna, stop your tears. You will ever (in future) see your husbands endued with prosperity and with all their enemies killed.",
+      "bhavadeepa": null,
+      "chapter": 82,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्व्यशीतितमोऽध्यायः"
+    }
+  ]
+}

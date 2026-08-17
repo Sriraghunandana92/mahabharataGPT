@@ -1,0 +1,627 @@
+{
+  "adhyaya_id": "P11_U02_A016",
+  "book": 11,
+  "parva_name": "स्त्रीपर्व",
+  "upaparva_name": "स्त्रीविलापपर्व",
+  "adhyaya_name": "षोडशोऽध्यायः",
+  "chapter": 16,
+  "verse_count": 61,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वैशम्पायन उवाच।एवमुक्त्वा तु गान्धारी कुरूणामवकर्तनम्। अपश्यत्तत्र तिष्ठन्ती सर्वं दिव्येन चक्षुषा॥१॥",
+      "english": "Vaishampayana said Having said so, Gandhari, though standing on that spot which was distant from the field of battle, saw with her spiritual eye, the slaughter of the Kurus.",
+      "bhavadeepa": "वाम् आवाम्॥४४॥",
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "पतिव्रता महाभागा समानव्रतचारिणी। उग्रेण तपसा युक्ता सततं सत्यवादिनी॥२॥",
+      "english": null,
+      "bhavadeepa": "एवमिति अवकर्तनं युद्धस्थानम्॥१॥",
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "वरदानेन कृष्णस्य महर्षेः पुण्यकर्मणः। दिव्यज्ञानबलोपेता विविधं पर्यदेवयत्॥३॥",
+      "english": "By virtue of the gift of the boon by the great Rishi Vyasa of pure deeds, she came by spiritual knowledge and power. The lady then piteously bewailed.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "ददर्श सा बुद्धिमती दूरादपि यथाऽन्तिके। रणाजिरं नृवीराणामद्भुतं रोमहर्षणम्॥४॥",
+      "english": "The highly intelligent Kuru dame saw, from a distance, but as if from a near point, that field of battle, terrible to look at and full of wonderful sights, of those foremost of warriors.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "अस्थिकेशवसाकीर्णं शोणितौघपरिप्लुतम्। शरीरैर्बहुसाहस्रैर्विनिकीर्णं समन्ततः॥५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "गजाश्वरथयोधानामावृतं रुधिराविलैः। शरीरैरशिरस्कैश्च विदेहैश्च शिरोगणैः॥६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "गजाश्वनरनारीणां निःसनैरभिसंवृतम्। सृगालबलकाकोलकङ्ककाकनिषेवितम्॥७॥",
+      "english": "And it resounded with the cries of elephants and horses and men and women, and abounded with jackals and cranes and ravens and Kankas and crows.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "रक्षसां पुरुषादानां मोदनं कुरराकुलम्। अशिवाभिः शिवाभिश्च नादितं गृध्रसेवितम्॥८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "ततो व्यासाभ्यनुज्ञातो धृतराष्ट्रो महीपतिः। पाण्डुपुत्राश्च ते सर्वे युधिष्ठिरपुरोगमाः॥९॥",
+      "english": "Then at the command of Vyasa king Dhritarashtra and all the sons of Pandu led by Yudhishthira, with Vasudeva and all the Kuru ladies, went to the battle-field.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "वासुदेवं पुरस्कृत्य हतबन्धुं च पार्थिवम्। कुरुस्त्रियः समादाय जग्मुरायोधनं प्रति॥१०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "समासाद्य कुरुक्षेत्रं ताः स्त्रियो निहतेश्वराः। अपश्यन्त हतांस्तत्र पुत्रान्भ्रातॄन्पितॄन्पतीन्॥११॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "क्रव्यादैर्भक्ष्यमाणान्वै गोमायुबलवायसैः। भूतैः पिशाचै रक्षोभिर्विविधैश्च निशाचरैः॥१२॥",
+      "english": "Having reached Kurukshetra, those widowed ladies beheld their killed their killed brothers and sons and sires and husbands lying on carth, as their bodies were being devoured by beasts of prey and wolves and ravens and crows and ghosts and Pishchas and Rakshasas and various other night-rangers.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "रुद्राक्रीडनिभं दृष्ट्वा तदा विशसनं स्त्रियः। महार्हेभ्योऽथ यानेभ्यो विक्रोशन्त्यो निपेतिरे॥१३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "अदृष्टपूर्वं पशन्त्यो दुःखार्ता भरतस्त्रियः। शरीरेष्वस्खलन्नन्याः न्यपन्त्यश्चापरा भुवि॥१४॥",
+      "english": "Witnessing sights the like of which they had never before seen, the Bharata ladies felt their limbs to be deprived of strength and dropped down on the ground.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "श्रान्तानां चाप्यनाथानां नासीत्काचन चेतना। पाञ्चालकुरुयोषाणां कृपणं तदभून्महत्॥१५॥",
+      "english": "Others became so stupefied that they lost their consciousness. Indeed, the Panchala and the Kuru ladies plunged into indescribable distress.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "दुःखोपहतचित्ताभिः समन्तादनुनादितम्। दृष्ट्वा योधनमत्युग्रं धर्मज्ञा सुबलात्मजा॥१६॥",
+      "english": "Seeing that dreadful field of battle filled on all sides with the cries of those grief-stricken ladies, the daughter of Subala, acquainted with all forms of duty, addressed the louts-eyed, Keshava that foremost of all men. Beholding that universal destruction of the Kurus and filled with grief at the sight, she said,-'Look, O lotus-eyed Mahadeva, at these daughters-inlaw of mine! Deprived of their husbands they are with dishevelled hair, crying piteously like a flight of she-ospreys.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः",
+      "combined_translation": "16-18"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "ततः सा पुण्डरीकाक्षमामन्त्र्य पुरुषोत्तमम्। कुरूणां वैशमं दृष्ट्वा इदं वचनमब्रवीत्॥१७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "पश्यैताः पुण्डरीकाक्ष स्नुषा मे निहतेश्वराः। प्रकीर्णकेशाः क्रोशन्तीः कुरुरीरिव माधव॥१८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः",
+      "english_ref": 16,
+      "combined_translation": "16-18"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "अमूस्त्वभिसमागम्य स्मरन्त्यो भर्तृजान् गुणान्। पृथगेवाभ्यधावन्त्यः पुत्रान्भ्रातॄन्पितॄन्पतीन्॥१९॥",
+      "english": "Seeing those dead bodies, they are remembering the great Bharata chiefs! They are running here and those in a body towards their sons and brothers and sires and husbands.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "वीरसूभिर्महाबाहो हतपुत्राभिरावृतम्। क्वचिच्च वीरपत्नीभिर्हतवीराभिरावृतम्॥२०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "शोभितं पुरुषव्याघ्रैः कर्णभीष्माभिमन्युभिः। द्रोणद्रुपदशल्यैश्च ज्वलद्भिरिव पावकैः॥२१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "काञ्चनैः कवचैर्निष्कैर्मणिभिश्च महाधनैः। अद्भुतैर्हस्तकेयूरैः स्रग्भिश्च समलङ्कृतम्॥२२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "वीरबाहुविसृष्टाभिः शक्तिभिः परिघैरपि। खड्गैश्च विविधैस्तीक्ष्णैः सशरैश्च शरासनैः॥२३॥",
+      "english": "Behold, it is covered with darts and spikes discharged by heroic hands, and swords and various kinds of keen arrows and bows.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "क्रव्यादसङ्घैर्मुदितैस्तिष्ठद्भिः सहितैः क्वचित्। क्वचिदाक्रीडमानैश्च शयानैश्चापरैः क्वचित्॥२४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "एतदेवंविधं वीर सम्पश्यायोधनं विभो। पश्यमना हि दह्यामि शोकेनाहं जनार्दन॥२५॥",
+      "english": "Behold, O powerful hero, the field of battle in this state! At this sight, O Janarddana, I am burning with grief.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "पाञ्चालानां कुरूणां च विनाशे मधुसूदन। पञ्चानामपि भूतानामहं वधमचिन्तयम्॥२६॥",
+      "english": "With the destruction of the Panchalas and the Kurus, O slayer of Madhu, I think, the five elements have been destroyed.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "तान्सुपर्णाश्च गृध्राश्च कर्षयन्त्यसृगुक्षिताः। विगृह्य चरणैर्गृध्रा भक्षयन्ति सहस्रशः॥२७॥",
+      "english": "Dreadful vultures and thousands of others birds, are dragging those bodies stained with blood and seizing them by their armour, are devouring them.",
+      "bhavadeepa": "पञ्चानां भूतानां पृथिव्यादीनां कुरुपञ्चालवधात् कृत्स्नं पाञ्चभौतिकं जगन्नष्टमिति भावः॥२६॥",
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "जयद्रथस्य कर्णस्य तथैव द्रोणभीष्मयोः। अभिमन्योर्विनाशं च कश्चिन्तयितुमर्हति॥२८॥",
+      "english": "Who is there that could even imagine the death of such heroes as Jayadratha, Karna, Drona, Bhishma and Abhimanyu.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "अवध्यकल्पान्निहतान्गतसत्वानचेतसः। गृध्रकङ्कवटश्येनश्वसृगालसमावृतान्॥२९॥",
+      "english": "Alas, though incapable of being killed they have yet been killed, O slayer of Madhu! Behold, vultures, Kankas, ravens hawks, dogs and jackals are feasting upon them.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "अमर्षवशमापन्नान्दुर्योधनवशे स्थितान्। पश्येमान्पुरुषव्याघ्रान्संशान्तान्पावकानिव॥३०॥",
+      "english": "There, those foremost of men, who fought on Duryodhana's side, and went to the field in anger and now lying like extinguished fires.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "शयना ये पुरा सर्वे मृदूनि शयनानि च। विपन्नास्तेऽद्य वसुधां विवृतामधिशेरते॥३१॥",
+      "english": "All of them deserve sleeping on soft and clean beds, But alas, in a distressful condition they are sleeping to-day on the naked ground.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "बन्दिभिः सततं काले स्तुवद्भिरभिनन्दिताः। शिवानामशिवा घोराः शृण्वन्ति विविधा गिरः॥३२॥",
+      "english": "Recounting their praises poets used to place them before at proper times. They are now listening to the fierce and inauspicious yells of jackals.",
+      "bhavadeepa": "शयनानि आस्तीर्येति शेषः॥३१॥",
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "ये पुरा शेरते वीराः शयनेषु यशस्विनः। चन्दनागुरुदिग्धाङ्गास्तेऽद्य पांसुषु शेरते॥३३॥",
+      "english": "Those great heroes who used formerly to sleep on rich beds with their limbs smeared with sandal-paste and powered alone, are now sleeping on the dust.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "तेषामाभरणान्येते गृघ्रगोमायुवायसाः। आक्षिपन्ति शिवा घोरा विनदन्त्यः पुनः पुनः॥३४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "बाणान्विनिशितान्पीतान्निस्त्रिंशान्विमला गदाः। युद्धाभिमानिनः सर्वे जीवन्त इव बिभ्रति॥३५॥",
+      "english": "Those heroes, look even cheerful, now, and have still beside them their keen arrows, welltempered swords, and bright maces, as if life has not yet left them!",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "सुरूपवर्णा बहवः क्रव्यादैरवघट्टिताः। ऋषभप्रतिरूपाक्षाः शेरते हरितस्रजः॥३६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "अपरे पुनरालिङ्ग्य गदाः परिघबाहवः। शेरतेऽभिमुखाः शूरा दयिता इव योषितः॥३७॥",
+      "english": "Some with massive arms, are sleeping with maces under them as if those were beloved wives.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "बिभ्रतः कवचान्यन्ये विमलान्यायुधानि च। न धर्षयन्ति क्रव्यादा जीवन्तीति जनार्दन॥३८॥",
+      "english": "Others with armour on, are holding in their hands their effulgent weapons. Beasts of prey are not tearing him, O Janarddana, thinking them to be still alive.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "क्रव्यादैः कृष्यमाणानामपरेषां महात्मनाम्। शातकौम्भ्यः स्रजश्चित्रा विप्रकीर्णाः समन्ततः॥३९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "एते गोमायवो भीमा निहतानां यशस्विनाम्। कण्ठान्तरगतान्हारानाक्षिपन्ति सहस्रशः॥४०॥",
+      "english": "There, thousands of fierce wolves, are dragging the golden chains sound the necks of many illustrious but dead heroes.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "सर्वेष्वपररात्रेषु यानवन्दन्त बन्दिनः। स्तुतिभिश्च परार्ध्याभिरुपचारैश्च शिक्षिताः॥४१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "तानिमाः परिदेवन्ति दुःखर्ताः परमाङ्गनाः। कृपणं वृष्णिशार्दूल दुःखशोकार्दिता भृशम्॥४२॥",
+      "english": "Many, whom clever bards formerly used with their hymns and panegyris, to delight every morning, are now surrounded by fair ladies stricken with grief and weeping and crying around them in distress, O foremost of Vrishni's race.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "रक्तोत्पलवनानीव विभान्ति रुचिराणि च। मुखानि परमस्त्रीणां परिशुष्काणि केशव॥४३॥",
+      "english": "The faces of those beautiful ladies, O Keshava, though pale, still shine like red lotuses.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "रुदिताद्विरता ह्येता ध्यायन्त्यः सपरिच्छदाः। कुरुस्त्रियोऽभिगच्छन्ति तेन तेनैव दुःखिताः॥४४॥",
+      "english": "Those Kuru ladies have ceased weeping with their followers and companions. They are all filled with anxiety. Bewilders with sorrows, they are running here and there.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "एतान्यादित्यवर्णानि तपनीयनिभानि च। रोषरोदनताभ्राणि वक्त्राणि कुरुयोषिताम्॥४५॥",
+      "english": "The faces of those fair ladies have, with weeping and ire, become effulgent as the morning sun, or gold, or burnished copper.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "श्यामानां वरवर्णानां गौरीणामेकवाससाम्। दुर्योधनवरस्त्रीणां पश्य वृन्दानि केशव॥४६॥",
+      "english": "Hearing each other's unmeaning lamentations those ladies, on account of the loud cries of woe coming from every side, are unable to understand each other's meaning.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "आसामपरिपूर्णार्थं निशम्य परिदेवितम्। इतरेरसङ्क्रन्दान्न विजानन्ति योषितः॥४७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "एता दीर्घमिवोच्छ्वस्य विक्रुश्य च विलप्य च। विस्पन्दमाना दुःखेन वीरा जहति जीवितम्॥४८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "बह्व्यो दृष्ट्वा शरीराणि क्रोशन्ति विलपन्ति च। पाणिभिश्चापरा घ्नन्ति शिरांसि मृदुपाणयः॥४९॥",
+      "english": null,
+      "bhavadeepa": "एताः शोचन्तीरभिलक्ष्येति शेषः॥४८॥",
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "शिरोभिः पतितैर्हस्तैः सर्वाङ्गैर्यूथशः कृतैः। इतरेतसम्पृक्तैराकीर्णा भाति मेदिनी॥५०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "विशिरस्कानथो कायान्दृष्ट्वा ह्येताननिन्दितान्। मुह्यन्त्यनुगता नार्यो विदेहानि शिरांसि च॥५१॥",
+      "english": "Joining particular heads with particular trunks, those ladies, beside themselves with grief, are again discovering their mistakes, and saying,-This is not this one's—and are weeping more bitterly.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "शिरः कायेन सन्धाय प्रेक्षमाणा विचेतसः। अपश्यन्त्यो परं तत्र नेदमस्येऽति दुःखिताः॥५२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "बाहूरुचरणानन्यान्विशिखोन्मथितान्पृथक्। सन्दधत्योऽसुखाविष्टा मूर्छन्त्येताः पुनः पुनः॥५३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "उत्कृत्यशिरसश्चान्यान्विजग्धान्मृगपक्षिभिः। दृष्ट्वा काश्चिन्न जानन्ति भर्तॄन्भरतयोषितः॥५४॥",
+      "english": "Some amongst the Bharata ladies, beholding the bodies of their husbands, mangled by animals and birds and shorn of heads,-are not recognising them.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 55,
+      "sanskrit": "पाणिभिश्चापरा घ्नन्ति शिरांसि मधुसूदन। प्रेक्ष्य भ्रातॄन्पितॄन्पुत्रान्पतींश्च निहतान्परैः॥५५॥",
+      "english": null,
+      "bhavadeepa": "विजग्धान् भक्षितान्॥५४॥",
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 56,
+      "sanskrit": "बाहुभिश्च सखड्गैश्च शिरोभिश्च सकुण्डलैः। अगम्यकल्पा पृथिवी मांसशोणितकर्दमा॥५६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 57,
+      "sanskrit": "बभूव भरतश्रेष्ठ प्राणिभिर्गतजीवितैः। न दुःखेषूचिताः पूर्वं दुःखं गाहन्त्यनिन्दिताः॥५७॥",
+      "english": "Seeing the field covered with the dead bodies of their brothers and sires, and sons, those faultless ladies, who had never before experienced the least distress, are now plunged into indescribable misery.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 58,
+      "sanskrit": "भ्रातृभिः पतिभिः पुत्रैरुपाकीर्णां वसुन्धराम्। यूथानीव किशोरीणां सुकेशीनां जनार्दन॥५८॥",
+      "english": "Look, O Janarddana, at those Dhritarashtra's daughters-in-law, resembling a number of beautiful fillies adorned with excellent manes.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 59,
+      "sanskrit": "स्नुषाणां धृतराष्ट्रस्य पश्य वृन्दान्यनेकशः। इतो दुःखतरं किन्नु केशव प्रतिभाति मे॥५९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 60,
+      "sanskrit": "यदिमाः कुर्वते सर्वा रवमुच्चावचं स्त्रियः। नूनमाचरितं पापं मया पूर्वेषु जन्मसु॥६०॥",
+      "english": "O Keshava, is there a more sorrowful sight for me to see then that presented by those ladies of fair forms who are put into such a miserable plight? I must, forsooth, have perpetrated great sins in my previous existence, since I am beholding, O Keshava, my sons and grandsons and brothers all killed by foes.' While thus bewailing Gandhari saw the dead body of her son Duryodhana.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः",
+      "combined_translation": "60-61"
+    },
+    {
+      "verse": 61,
+      "sanskrit": "या पश्यामि हतान्पुत्रान्पौत्रान्भ्रातॄंश्च माधव। एवमार्ता विलपती समाभाष्य जनार्दनम्। गान्धारी पुत्रशोकार्ता ददर्श निहतं सुतम्॥६१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "षोडशोऽध्यायः",
+      "english_ref": 60,
+      "combined_translation": "60-61"
+    }
+  ]
+}

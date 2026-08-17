@@ -1,0 +1,452 @@
+{
+  "adhyaya_id": "P11_U01_A001",
+  "book": 11,
+  "parva_name": "स्त्रीपर्व",
+  "upaparva_name": "जलप्रदानिकपर्व",
+  "adhyaya_name": "प्रथमोऽध्यायः",
+  "chapter": 1,
+  "verse_count": 44,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "जनमेजय उवाच।हते दुर्योधने चैव हते सैन्ये च सर्वशः। धृतराष्ट्रो महाराज श्रुत्वा किमकरोन्मुने॥१॥",
+      "english": "Janamejaya said “After Duryodhana, and all the warriors had fallen, what, O sage, did king Dhritarashtra do after hearing of it.",
+      "bhavadeepa": null,
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "तथैव कौरवो राजा धर्मपुत्रो महामनाः। कृपप्रभृतयश्चैव किमकुर्वत ते त्रयः॥२॥",
+      "english": "What also did the Kuru king, the great son of Dharma, do? And what did those three, viz., Kripa and others do?",
+      "bhavadeepa": "एवं तत्त्वदृष्ट्या शोको न कर्तव्य इत्युक्तम्। लोकदृष्ट्यापि स न कार्य इत्याह हते दुर्योधने चैवेत्यादिनाऽध्यायेनैकेन॥१॥",
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः",
+      "combined_translation": "2-2"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "अश्वत्थाम्नः श्रुतं कर्म शापश्चान्योन्यकारितः। वृत्तान्मुत्रं ब्रूहि यदभाषत सञ्जयः॥३॥",
+      "english": "I have heard everything about the deeds of Ashvatthaman. Tell me what took place after that mutual denunciation of curses. Tell me all that Sanjaya said to the blind old king!”",
+      "bhavadeepa": null,
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "वैशम्पायन उवाच।हते पुत्रशते दीनं छिन्नशाखमिव द्रुमम्। पुत्रशोकाभिसन्तप्तं धृतराष्ट्रं महीपतिम्॥४॥",
+      "english": null,
+      "bhavadeepa": "अन्योन्यकारितात्पाण्डवानां गर्भे ब्रह्मशिरोऽस्त्रं पतत्विति अश्वत्थाम्ना शापो दत्तः सहस्रवर्षाणि गलत्कुष्ठो भविष्यसीत्यश्वत्थाम्नः कृष्णेन शापो दत्त इत्यर्थः॥३॥",
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "ध्यानमूकत्वमापन्नं चिन्तया समभिप्लुतम्। अभिगम्य महाराज सञ्जयो वाक्यमब्रवीत्॥५॥",
+      "english": "Possessed of great wisdom, approaching the king the greatly wise Sanjaya, addressed him, saying-Why do you grieve, O monarch? Grief is absolutely useless.",
+      "bhavadeepa": null,
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "किं शोचसि महाराज नास्ति शोके सहायता। अक्षौहिण्यो हताश्चाष्टौ दश चैव विशाम्पते॥६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "निर्जितेयं वसुमती शून्या सम्प्रति केवला। नानादिग्भ्यः समागम्य नानादेश्या नराधिपाः॥७॥",
+      "english": "Kings of various countries, united with your son, and have all been killed.",
+      "bhavadeepa": null,
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "सहैव तव पुत्रेण सर्वे वै निधनं गताः। पितॄणां पुत्रपौत्राणां ज्ञातीनां सुहृदां तथा। गुरूणां चानुपूर्व्येण ये चान्येऽनुचरा हताः॥८॥",
+      "english": null,
+      "bhavadeepa": "शून्या राजभिर्हीना केवला उपरतोत्सवा॥७॥",
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "वैशम्पायन उवाच।तच्छ्रुत्वा करुणं वाक्यं पुत्रपौत्रवधार्दितः। पपात भुवि दुर्धर्षो वाताहत इव द्रुमः॥९॥",
+      "english": null,
+      "bhavadeepa": "आनुपूर्व्येणेति। आदौ हतानाम् आदावेव पश्चाद्धतानां पश्चादेवेति पौर्वापर्येण प्रेतानां परेतानां कार्याणि पारलौकिकानि कर्माणि॥८॥",
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "धृतराष्ट्र उवाच।हतपुत्रो हतामात्यो हतसर्वसुहृज्जनः। दुःखं नूनं गमिष्यामि विचरन्पृथिवीमिमाम्॥१०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "किन्नु बन्धुविहीनस्य जीवितेन ममाद्य वै। लूनपक्षस्य इव मे जराजीर्णस्य पक्षिणः॥११॥",
+      "english": "What necessity have I now of life itself, deprived as I am of relatives and friends, I am like a bird shorn of its wings and afflicted with decrepitude?",
+      "bhavadeepa": "दुःखं यथा स्तात्तथा भविष्यामि॥१०॥",
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "हृतराज्यो हतबन्धुर्हतपुत्रश्च वै तथा। न भ्राजिष्ये महाप्राज्ञ क्षीणरश्मिरिवांशुमान्॥१२॥",
+      "english": "Deprived of kingdom, deprived of relatives, and shorn of eyes, I cannot, O you of great wisdom, shine any longer on Earth like a luminary divested of its splendour.",
+      "bhavadeepa": null,
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "न कृतं सुहृदां वाक्यं जामदग्न्यस्य जल्पतः। नारदस्य च देवर्षेः कृष्णद्वैपायनस्य च॥१३॥",
+      "english": "I did not follow the advice of friends, of Jamadagni's son, of the celestial Rishi Narada, and of Krishna-Dvaipayana.",
+      "bhavadeepa": null,
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "सभामध्ये तु कृष्णेन यच्छ्रेयोऽभिहितं मम। अलं वैरेण ते राजन्पुत्रः सङ्गृद्यतामिति॥१४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "तच्च वाक्यमकृत्वाऽहं भृशं तप्यामि दुर्मतिः। न हि श्रोताऽस्मि भीष्मस्य धर्मयुक्तं प्रभाषितम्॥१५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "दुर्योधनस्य च तथा वृषभस्येव नर्दतः। दुःशासनवधं श्रुत्वा कर्णस्य च विपर्ययम्॥१६॥",
+      "english": null,
+      "bhavadeepa": "श्रोतास्मि श्रुतवानस्मि॥१५॥",
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "द्रोणसूर्योपरागं च हृदयं मे विदीर्यते। न स्मराम्यात्मनः किञ्चित्पुरा सञ्जय दुष्कृतम्॥१७॥",
+      "english": "I did not listen to the good counsels of Bhishma. Alas, having heard of the destruction of Duryodhana whose roars were as deep as those of a bull, of the death of Dusshasana and the extinction of Karna and the setting of the Drona-sun, my-heart is not sundered into pieces.",
+      "bhavadeepa": "विपर्ययं विनाशम्॥१६॥",
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "यस्येदं फलमद्येह मया मूढेन भुज्यते। नूनं व्यपकृतं किञ्चिन्मया पूर्वेषु जन्मसु॥१८॥",
+      "english": "I do not, O Sanjaya, remember any evil act committed by me in my pristine birth, consequences of which fool as I am, I am now suffering.",
+      "bhavadeepa": null,
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "येन मां दुःखभागेषु धाता कर्मसु युक्तवान्। परिणामश्च वयसः सर्वबन्धुक्षयश्च मे॥१९॥",
+      "english": "Forsooth, I committed great sins in my previous lives, for which the great God has made me suffer such a grief.",
+      "bhavadeepa": null,
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "सुहृन्मित्रविनाशश्च दैवयोगादुपागतः। कोऽन्योऽस्ति दुःखिततरो मत्तोऽन्यो हि पुमान्भुवि॥२०॥",
+      "english": "This destruction of all my relatives, wellwishers and friends, at this old age has been brought about by Destiny. Who is there on Earth more afflicted than my wretched self.",
+      "bhavadeepa": null,
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "तन्ममाद्यैव पश्यन्तु पाण्डवाः संशितव्रताः। विवृतं ब्रह्मलोकस्य दीर्घमध्वानमास्थितम्॥२१॥",
+      "english": "Therefore, let the Pandavas come and see me this very day determined upon following the long way that leads to the regions of Brahman.\"",
+      "bhavadeepa": null,
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "वैशम्पायन उवाच।तस्य लालप्यमानस्य बहुशोकं वितन्वतः। शोकापहं नरेन्द्रस्य सञ्जयो वाक्यमब्रवीत्॥२२॥",
+      "english": "Vaishampayana continued-\"While king Dhritarashtra was thus bewailing, Sanjaya addressed him in the following words for driving away his grief.",
+      "bhavadeepa": "तन्मामिति। अद्यैव प्राणत्यागं करिष्यामीत्यर्थः॥२१॥",
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "शोकं राजन्व्यपनुद श्रुतास्ते वेदनिश्चयाः। शास्त्रागमाश्च विविधा वृद्धेभ्यो नृपसत्तम॥२३॥",
+      "english": null,
+      "bhavadeepa": "वितन्वतः विरचयतः॥२२॥",
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "सृञ्जये पुत्रशोकार्ते यदूचुर्मुनयः पुरा। यथा यौवनजं दर्पमास्थिते ते सुते नृप॥२४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "न त्वया सुहृदां वाक्यं ब्रुवतामवधारितम्। स्वार्थश्च न कृतः कश्चिल्लुब्धेन फलगृद्धिना॥२५॥",
+      "english": "When your son, O king, grew elated with pride, you did not accept the advice offered to you by your well-wisher. You did not, through covetousness, do what was really for your good.",
+      "bhavadeepa": null,
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "असिनैवैकधारेण स्वबुद्ध्या तु विचेष्टितम्। प्रायशोऽवृत्तसम्पन्नाः सततं पर्युपासिताः॥२६॥",
+      "english": "Your own intelligence, like a sharp sword, has cut you. You only sought the company of wicked men,",
+      "bhavadeepa": null,
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "यस्य दुःशासनो मन्त्री राधेयश्च दुरात्मवान्। शकुनिश्चैव दुष्टात्मा चित्रसेनश्च दुर्मतिः॥२७॥",
+      "english": "Your son had Dusshasana, the wicked son of Radha, the equally wicked Shakuni, Chritrasena and Shalya for his counsellor. Your son made the entire world his enemy.",
+      "bhavadeepa": "अवृत्तेति च्छेदः॥२६॥",
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "शल्यश्च येन वै सर्वं शल्यभूतं कृतं जगत्। कुरुवृद्धस्य भीष्मस्य गान्धार्या विदुरस्य च॥२८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "द्रोणस्य च महाराज कृपस्य च शरद्वतः। कृष्णस्य च महाबाहो नारदस्य च धीमतः। ऋषीणां च तथाऽन्येषां व्यासस्यामिततेजसः॥२९॥",
+      "english": null,
+      "bhavadeepa": "शल्यश्च मन्त्रीति पूर्वेणान्वयः॥२८॥",
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "न कृतं तेन वचनं तव पुत्रेण भारत। न धर्मः सत्कृतः कश्चिन्नित्यं युद्धमभीप्सता॥३०॥",
+      "english": "You son, O Bharata, did not follow the words of Bhishma the reverend chief of the Kurus, of Gandhari and Vidura, of Drona, O king, of Kripa the son of Sharadvat of the mighty-armed Krishna, of the intelligent Narada, of many other Rishis, and of Vyasa himself.",
+      "bhavadeepa": null,
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "अल्पबुद्धिरहङ्कारी नित्यं युद्धमिति ब्रुवन्। क्रूरो दुर्मर्षणो नित्यमसन्तुष्टश्च वीर्यवान्॥३१॥",
+      "english": "Though powerful your son was of little intelligence, proud, always anxious to fight, wicked, ungovernable, and discontented.",
+      "bhavadeepa": null,
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "श्रुतवानसि मेधावी सत्यवांश्चैव नित्यदा। न मुह्यन्तीदृशाः सन्तो बुद्धिमन्तो भवादृशाः॥३२॥",
+      "english": "You are learned, intelligent, and always truthful. Righteous and intelligent persons like yourself, are never stupefied by grief.",
+      "bhavadeepa": "ब्रुवन् दुर्योधन आसीदिति शेषः॥३१॥",
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "न धर्मः सत्कृतः कश्चित्तव पुत्रेण मारिष। क्षपिताः क्षत्रियाः सर्वे शत्रूणां वर्धितं यशः॥३३॥",
+      "english": "For this the Kshatriya order has been exterminated, because they did not care for virtue, and always talked of battle, and the fame of your foes enhanced.",
+      "bhavadeepa": null,
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "मध्यस्थो हि त्वमप्यासीर्न क्षमं किञ्चिदुक्तवान्। दुर्धरेण त्वया भारस्तुलया न समं धृतः॥३४॥",
+      "english": "You had occupied the position of an umpire, but you did not utter a word of wholesome advice. Unfitted as you were for the work, you did not hold the scales evenly.",
+      "bhavadeepa": null,
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "आदावेव मनुष्येण वर्तितव्यं यथाक्रमम्। यथा नातीतमर्थं वै पश्चात्तापेन युज्यते॥३५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "पुत्रगृद्ध्या त्वया राजन्प्रियं तस्य चिकीर्षितम्। पश्चात्तापमिमं प्राप्तो न त्वं शोचितुमर्हसि॥३६॥",
+      "english": "Out of affection for your son, O king, you did what was agreeable to Duryodhana. You are obliged to repent for that now. You should not, however, grieve.",
+      "bhavadeepa": null,
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "मधु यः केवलं दृष्ट्वा प्रपातं नानुपश्यति। स भ्रष्टो मधुलोभेन शोचत्येव यथा भवान्॥३७॥",
+      "english": "The man who always looks at the honey without seeing the fall, meets with destruction through his covetousness for honey. Such a man is obliged to repent like yourself.",
+      "bhavadeepa": null,
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "अर्थान्न शोचन्प्राप्नोति न शोचन्विन्दते फलम्। न शोचञ्श्रियमाप्नोति न शोचन्विन्दते परम्॥३८॥",
+      "english": "The man who indulges in grief never acquires wealth. By grieving one loses the fruits he seeks for. Grief again stands in the way of the acquisition of objects dear to us. The man who grieves loses even his salvation.",
+      "bhavadeepa": "प्रपातं पर्वताग्राद् भ्रंशम्॥३७॥",
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "स्वयमुत्पादयित्वाऽग्निं वस्त्रेण परिवेष्टयन्। दह्यमानो मनस्तापं भजते न स पण्डितः॥३९॥",
+      "english": "The man who keeps a burning coal within the folds of his cloth and is burnt by the fire thereof is surely called a fool if he grieves for his injuries.",
+      "bhavadeepa": "परं मोक्षम्॥३८॥",
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "त्वयैव ससुतेनायं वाक्यवायुसमीरितः। लोभाज्येन च संसिक्तो ज्वलितः पार्थपावकः॥४०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "तस्मिन्समिद्धे पतिताः शलभा इव ते सुताः। तान्वै शराग्निनिर्दग्धान्न त्वं शोचितुमर्हसि॥४१॥",
+      "english": "Yours fell into that burning fire like insects. You should not, however, grieve for them now that they have all been burnt in the fire of the enemy's arrows.",
+      "bhavadeepa": null,
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "यच्चाश्रुपातकलिलं वदनं वहसे नृप। अशास्त्रदृष्टमेतद्धि न प्रशंसन्ति पण्डिताः॥४२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "विस्फुलिङ्गा इव ह्येतान्दहन्ति किल मानवान्। जहीहि मन्युं बुद्ध्या वै धारयात्मानमात्मना॥४३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "वैशम्पायन उवाच।एवमाश्वासितस्तेन सञ्जयेन महात्मना। विदुरो भूय एवाह बुद्धिपूर्वं परन्तप॥४४॥",
+      "english": "Thus was the king consoled by the great Sanjaya. Vidura then, O scorcher of foes, once again addressed the king, showing great intelligence.\"",
+      "bhavadeepa": "दहंति शोका इत्यर्थात्। मन्युं दैन्यं ‘मन्युर्दैन्ये क्रतौ क्रुधि’ इत्यमरः। आत्मानं चित्तम्। आत्मना धैर्येण धारय प्राणान्मात्या क्षीरित्यर्थः॥४३॥",
+      "chapter": 1,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "प्रथमोऽध्यायः"
+    }
+  ]
+}

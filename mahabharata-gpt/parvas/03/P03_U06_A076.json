@@ -1,0 +1,547 @@
+{
+  "adhyaya_id": "P03_U06_A076",
+  "book": 3,
+  "parva_name": "वनपर्व",
+  "upaparva_name": "नलोपाख्यानपर्व",
+  "adhyaya_name": "षट्सप्ततितमोऽध्यायः",
+  "chapter": 76,
+  "verse_count": 53,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "बृहदश्व उवाच। सर्वं विकारं दृष्ट्वा तु पुण्यश्लोकस्य धीमतः। आगत्य केशिनी सर्वं दमयन्त्यै न्यवेदयत्॥१॥",
+      "english": "Brihadashva said: Having learnt all about the mental agony of that righteous and wise one, Keshini came back and spoke everything to Damayanti.",
+      "bhavadeepa": "संपतन्तीम् आयान्तीं दोषतः कामदोषेण ॥२८॥",
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "दमयन्ती ततो भूयः प्रेषयामास केशिनीम्। मातुः सकाशं दुःखार्ता नलदर्शनकाङ्क्षया॥२॥",
+      "english": "Thereupon Damayanti sent again Keshini to her mother; as she, sorely aggrieved, was most desirous to see Nala.",
+      "bhavadeepa": "सर्वमिति ॥१॥",
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "परीक्षितो मे बहुशो बाहुको नलशङ्कया। रूपे मे संशयस्त्वेकः स्वयमिच्छामि वेदितुम्॥३॥",
+      "english": "Damayanti said: “Suspecting Bahuka to be Nala, I have examined him several times; but I have some doubt about his appearance, which I like to know myself.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "स वा प्रवेश्यतां मातर्मां वानुज्ञातुमर्हसि। विदितं वाऽथवा ज्ञातं पितुर्मे संविधीयताम्॥४॥",
+      "english": "O mother, with or without the knowledge of my father, make this arrangement for me; either allow him to enter my mansion or give me permission to go to him.”",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "एवमुक्ता तु वैदर्भ्या सा देवी भीममब्रवीत्। दुहितुस्तमभिप्रायमन्वजानात्स पार्थिवः॥५॥",
+      "english": "Thus spoken by Vaidharbhi, that lady told king Bhima the intention of his daughter, which the king learned.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "सा वै पित्राभ्यनुज्ञाता मात्रा च भरतर्षभ। नलं प्रवेशयामास यत्र तस्याः प्रतिश्रयः॥६॥",
+      "english": "O foremost of men, Damayanti obtained the permission of both her father and mother; and thus she caused Nala to enter her own apartments. Unexpectedly beholding Damayanti, prince Nala became oppressed with grief and calamity; as also she was overwhelmed with tears.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः",
+      "combined_translation": "6-7"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "तां स्म दृष्ट्वैव सहसा दमयन्तीं नलो नृपः। आविष्टः शोकदुःखाभ्यां बभूवाश्रुपरिप्लुतः॥७॥",
+      "english": null,
+      "bhavadeepa": "प्रतिक्षयः गृहम् ॥६॥",
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः",
+      "english_ref": 6,
+      "combined_translation": "6-7"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "तं तु दृष्ट्वा तथायुक्तं दमयन्ती नलं तदा। तीव्रशोकसमाविष्टा बभूव वरवर्णिनी॥८॥",
+      "english": "Then that excellent of women, Damayanti, beholding Nala is that plight, was greatly afflicted with sorrow.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "ततः काषायवसना जटिला मलपङ्किनी। दमयन्ती महाराज बाहुकं वाक्यमब्रवीत्॥९॥",
+      "english": "Thereupon, O great king, Damayanti, who was dressed in a red garment, wearing matted hairs and tainted with clay and dust, spoke these words do Bahuka:",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "पूर्वं दृष्टस्त्वया कश्चिद्धर्मज्ञो नाम बाहुक। सुप्तामुत्सृज्य विपिने गतो यः पुरुषः स्त्रियम्॥१०॥",
+      "english": "\"O Bahuka, did you ever see any men, who, known as virtuous, had gone away leaving his wife asleep in the woods?",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "अनागसं प्रियां भार्यां विजने श्रममोहिताम्। अपहाय तु को गच्छेत्पुण्यश्लोकमृते नलम्॥११॥",
+      "english": "Who excepts that righteous Nala, could go away, abandoning his beloved hand unoffending wife in the woods, when she was overtaken by fatigue?",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "किमु तस्य मया बाल्यादपराद्धं महीपतेः। यो मामुत्सृज्य विपिने गतवान्निद्रयार्दिताम्॥१२॥",
+      "english": "What offence did I give to that ruler of the earth since my youth, for which he had gone away forsaking me in the woods; while I was overpowered by sleep?",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "साक्षाद्देवानपाहाय वृतो यः स पुरा मया। अनुव्रतां  साभिकामां पुत्रिणीं त्यक्तवान्कथम्॥१३॥",
+      "english": "Formerly I had selected him as my lord, rejecting the very celestials. Therefore how it was that he should abandon his wife, who am ever devoted and dear to him as also the mother of his children?",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "अग्नौ पाणिं गृहीत्वा तु देवानामग्रतस्तथा। भविष्यामीति सत्यं तु प्रतिश्रुत्य क्व तद्गतम्॥१४॥",
+      "english": "He had taken my hand; and, before the fire and in the presence of all the gods, he had pledged that he would truly be mine. But where now was that pledge gone?\"",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "दमयन्त्या ब्रुवन्त्यास्तु सर्वमेतदरिन्दम। शोकजं वारि नेत्राभ्यामसुखं प्रास्रवद्बहु॥१५॥",
+      "english": "O chastiser of foes, while Damayanti was speaking all these, tears of sorrow flowed copiously from her eyes.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "अतीव कृष्णसाराभ्यां रक्तान्ताभ्यां जलं तु तत्। परिस्रवन्नलो दृष्ट्वा शोकार्तामिदमब्रवीत्॥१६॥",
+      "english": "When Nala saw her thus oppressed with sorrow, he also shed tears from his eyes, which were black like those of the gazelle, with red extremities; and addressed her, saying:",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "मम राज्यं प्रनष्टं यन्नाहं तत्कृतवान्स्वयम्। कलिना तत्कृतं भीरु यच्च त्वामहमत्यजम्॥१७॥",
+      "english": "\"O timid one, the loss of my kingdom was not wrought by me. It was done by Kali, on whose account I had abandoned you in the woods.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "यत्त्वया धर्मकृच्छ्रे तु शापेनाभिहतः पुरा। वनस्थया दुःखितया शोचन्त्या मां दिवानिशम्॥१८॥",
+      "english": "O best of virtuous ladies, long ago you cursed Kali, while you were living in the forest, greatly afflicted with sorrow and burning in grief for me day and night. Since then Kali, burning with that curse, was living in my body. As a matter of fact, Kali, burning with your curse, was always dwelling within me, as fire dwells within fire.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः",
+      "combined_translation": "18-19"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "स मच्छरीरे त्वच्छापाद्दह्यमानोऽवसत्कलिः। त्वच्छापदग्धः सततं सोऽग्नावग्निरिवाहितः॥१९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः",
+      "english_ref": 18,
+      "combined_translation": "18-19"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "मम च व्यवसायेन तपसा चैव निर्जितः। दुःखस्यान्तेन चानेन भवितव्यं हि नौ शुभे॥२०॥",
+      "english": "Now he had been vanquished by my observances and devotion. Therefore, auspicious one, there will be an end of our sorrows.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "विमुच्य मां गतः पापस्ततोऽहमिह चागतः। त्वदर्थं विपुलश्रोणि न हि मेऽन्यत्प्रयोजनम्॥२१॥",
+      "english": "O you of round hips, leaving me, the wretched one had gone away. It is for this that I could come here. Indeed, in my coming here I have no other object than to get you back.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "कथं नु नारी भर्तारमनुरक्तमनुव्रतम्। उत्सृज्य वरयेदन्यं यथा त्वं भीरु कर्हिचित्॥२२॥",
+      "english": "O timid one, is it possible that a lady, forsaking her dear and devoted lord, will ever select a second husband like yourself?",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "दूताश्चरन्ति पृथिवीं कृत्स्नां नृपतिशासनात्। भैमी किल स्म भर्तारं द्वितीयं वरयिष्यति॥२३॥",
+      "english": "At the command of the monarch, the messengers are roving all over the world, proclaiming that the daughter of king Bhima would surely choose a second husband.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "स्वैरवृत्ता यथाकाममनुरूपमिवात्मनः। श्रुत्वैव चैवं त्वरितो भाङ्गासुरिरुपस्थितः॥२४॥",
+      "english": "And like an unchaste woman, she would choose one, worthy of her, whomever she likes. Hearing this, the royal son of Vangasura had arrived here with all speed.\"",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "दमयन्ती तु तच्छ्रुत्वा नलस्य परिदेवितम्। प्राञ्जलिर्वेपमाना च भीता वचनमब्रवीत्॥२५॥",
+      "english": "Hearing these weeping of Nala, Damayanti became greatly terrified; and she, trembling with fear and with folded hands, spoke these words.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "दमयन्त्युवाच। न मामर्हसि कल्याण दोषेण परिशङ्कितुम्। मया हि देवानुत्सृज्य वृतस्त्वं निषधाधिप॥२६॥",
+      "english": "Damayanti said : O ruler of the Nishadhas, O blessed one, it behoves you not to suspect any fault in me; for I have selected you as my husband, discarding all the celestials.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "तवाभिगमनार्थं तु सर्वतो ब्राह्मणा गताः। वाक्यानि मम गाथाभिर्गायमाना दिशो दश॥२७॥",
+      "english": "With a view to bring you here, the Brahmanas had gone away in all directions, (to the ten points of the horizon) singing my words, composed in ballads.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "ततस्त्वां ब्राह्मणो विद्वान्पर्णादो नाम पार्थिव। अभ्यगच्छत्कोसलायामृतुपर्णनिवेशने॥२८॥",
+      "english": "At length, a learned Brahmana, known by the name of Parnada, found you out, O monarch, in the palace of Rituparna in the kingdom of Koshala.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "तेन वाक्ये कृते सम्यक्प्रतिवाक्ये तथाहृते। उपायोऽयं मया दृष्टो नैषधानयने तव॥२९॥",
+      "english": "It was after hearing his words and your proper answer thereto, that I devised this project in order to receive the king of the Nishadhas back.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "त्वामृते नहि लोकेऽन्य एकाह्ना पृथिवीपते। समर्थो योजनशतं गन्तुमश्वैर्नराधिप॥३०॥",
+      "english": "O ruler of the earth, O'foremost of the kings, there is none else in this world, who is able to journey, with the help of steeds, a hundred yojanas in a single day.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "स्पृशेयं तेन सत्येन पादावेतौ महीपते। यथा नासत्कृतं किञ्चिन्मनसाऽपि चराम्यहम्॥३१॥",
+      "english": "O lord of the earth, touching these your feet, I can truly swear that even in thought I have not committed any sort of crime.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "अयं चरति लोकेऽस्मिन्भूतसाक्षी सदागतिः। एष मे मुञ्चतु प्राणान्यदि पापं चराम्यहम्॥३२॥",
+      "english": "Let the all-seeing air, that always moves about the whole world, take away my life, if I have committed any sin.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "यथा चरति तिग्मांशुः परितो भुवनं सदा। स मुञ्चतु मम प्राणान्यदि पापं चराम्यहम्॥३३॥",
+      "english": "Let the sun of bright rays, that always travels over the sky, take away, my life, if I have committed any sin.",
+      "bhavadeepa": "सदागतिः वायुः ॥३२॥",
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "चन्द्रमाः सर्वभूतानामन्तश्चरति साक्षिवत्। स मुञ्चतु मम प्राणान्यदि पापं चराम्यहम्॥३४॥",
+      "english": "Let the moon, that lives in the heart of all creatures as a witness, take away my life, if I have committed any sin.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "एते देवास्त्रयः कृत्स्नं त्रैलोक्यं धारयन्ति वै। विब्रुवन्तु यथा सत्यमेतद्देवास्त्यजन्तु माम्॥३५॥",
+      "english": "Let the three gods, that preside over the whole of the three worlds, relate the whole history truly; or let them abandon me today.",
+      "bhavadeepa": "चन्द्रमाः चित्ताभिमानिनी देवता ॥३४॥",
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "एवमुक्तस्तथा वायुरन्तरिक्षादभाषत। नैषा कृतवती पापं नल सत्यं ब्रवीमि ते॥३६॥",
+      "english": "Brihadashva said : Thus spoken the wind-god addressed from above, saying, “O Nala, I tell you the truth that she had not committed any sin.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "राजञ्च्छीलनिधिः स्फीतो दमयन्त्या सुरक्षितः। साक्षिणो रक्षिणश्चास्या वयं त्रीन्परिवत्सरान्॥३७॥",
+      "english": "O monarch, protected by Damayanti, the honour of your family, even as the wealth, has much increased. We bear testimony to this, as we have been her protectors for the last three years.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "उपायो विहितश्चायं त्वदर्थमतुलोऽनया। न ह्येकाह्ना शतं गन्ता त्वामृतेऽन्यः पुमानिह॥३८॥",
+      "english": "This unrivalled project was planned by her for your sake: for, except you, there is no other person in this world who can clear in a single day an hundred yojanas.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "उपपन्ना त्वया भैमी त्वं च भैम्या महीपते। नात्र शङ्का त्वया कार्या सङ्गच्छ सह भार्यया॥३९॥",
+      "english": "O ruler of the earth, the daughter of king Bhima has been obtained by you; as also you have been obtained by Bhaimi. You should hold no doubt about her conduct. Be you united with your consort.\"",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "तथा ब्रुवति वायौ तु पुष्पवृष्टिः पपात ह। देवदुन्दुभयो नेदुर्ववौ च पवनः शिवः॥४०॥",
+      "english": "While the wind-god was thus speaking, there was a downfall of floral showers; as also the divine kettle-drum played and auspicious breezes began to blow.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "तदद्भुतमयं दृष्ट्वा नलो राजाथ भारत। दमयन्त्यां विशङ्कां तामुपाकर्षदरिन्दमः॥४१॥",
+      "english": "O son of the Bharata race, seeing this greatest wonder, king Nala, the chastiser of foes, threw away all doubts regarding the character of Damayanti.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "ततस्तद्वस्त्रमजरं प्रावृणोद्वसुधाधिपः। संस्मृत्य नागराजं तं ततो लेभे स्वकं वपुः॥४२॥",
+      "english": "Thereupon the ruler of the earth put on a fresh garment; and, then remembering that king of serpents, assumed his original form.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "स्वरूपिणं तु भर्तारं दृष्ट्वा भीमसुता तदा। प्राक्रोशदुच्चैरालिङ्ग्य पुण्यश्लोकमनिन्दिता॥४३॥",
+      "english": "Beholding her husband in his original form, the faultless daughter of king Bhima embraced the righteous one and wept bitterly.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "भैमीमपि नलो राजा भ्राजमानो यथा पुरा। सस्वजे स्वसुतौ चापि यथावत्प्रत्यनन्दत॥४४॥",
+      "english": "King Nala, again, embraced the daughter of Bhima, who was attached to him as before; as well as he embraced his two children; and thus felt great satisfaction.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "ततः स्वोरसि विन्यस्य वक्त्रं तस्य शुभानना। परीता तेन दुःखेन निशश्वासायतेक्षणा॥४५॥",
+      "english": "Thereupon the lady, of beautiful face and of large eyes, hiding her face in his bosom, became overwhelmed with grief and began to sigh heavily.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "तथैव मलदिग्धाङ्गीं परिष्वज्य शुचिस्मिताम्। सुचिरं पुरुषव्याघ्रस्तस्थौ शोकपरिप्लुतः॥४६॥",
+      "english": "That foremost of men, overwhelmed as he was with grief, stood in silence for some time, while embracing that lady of blameless smiles, who herself was covered with dust.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "ततः सर्वं यथावृत्तं दमयन्त्या नलस्य च। भीमायाकथयत्प्रीत्या वैदर्भ्या जननी नृप॥४७॥",
+      "english": "O monarch, thereupon the mother of Vaidharbhi, with a glad heart, informed king Bhima all that had passed between Nala and Damayanti.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "ततोऽब्रवीन्महाराजः कृतशौचमहं नलम्। दमयन्त्या सहोपेतं कल्ये द्रष्टा सुखोषितम्॥४८॥",
+      "english": "The great king said in reply: “Tomorrow I shall see Nala with Damayanti by his side, after he shall have sanctified himself (by bath and prayers). Let him dwell in peace this day.\"",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "ततस्तौ सहितौ रात्रिं कथयन्तौ पुरातनम्। वने विचरितं सर्वमूषतुर्मुदितौ नृप॥४९॥",
+      "english": "O king, thercupon the happy pair passed the night at ease, relating to each other the past events of their wanderings in the forest.",
+      "bhavadeepa": "कल्ये प्रभाते ॥४८॥",
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "गृहे भीमस्य नृपतेः परस्परसुखैषिणौ। वसेतां हृष्टसङ्कल्पौ वैदर्भी च नलश्च ह॥५०॥",
+      "english": "Both the princess of Vidharbha and Nala began to dwell most happily in the palace of king Bhima, desirous to make each other happy.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "स चतुर्थे ततो वर्षे सङ्गम्य सह भार्यया। सर्वकामैः सुसिद्धार्थो लब्धवान्परमां मुदम्॥५१॥",
+      "english": "Then in the fourth year, (after his exile) king Nala, regained his wife and had all his desires satisfied; and thus once more he enjoyed the highest pleasure.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "दमयन्त्यपि भर्तारमासाद्याप्यायिता भृशम्। अर्धसञ्जातसस्येव तोयं प्राप्य वसन्धरा॥५२॥",
+      "english": "Damayanti on the other hand, exceedingly satisfied to recover her husband, was even as the fields of half-born seedlings are highly benefited to receive a shower.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "सैवं समेत्य व्यपनीय तन्द्रां शान्तज्वरा हर्षविवृद्धसत्त्वा। रराज भैमी समवाप्तकामाशीतांशुना रात्रिरिवोदितेन॥५३॥",
+      "english": "When the daughter of the king and thus egained her husband, all her weariness had disappeared, as well as all her anxieties. She herself became elated with joy and blazed forth in her native beauty like the night, that is favoured by the uninterrupted rising of the moon.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    }
+  ]
+}

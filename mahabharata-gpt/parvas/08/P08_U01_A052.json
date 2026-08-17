@@ -1,0 +1,451 @@
+{
+  "adhyaya_id": "P08_U01_A052",
+  "book": 8,
+  "parva_name": "कर्णपर्व",
+  "upaparva_name": "कर्णपर्व",
+  "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः",
+  "chapter": 52,
+  "verse_count": 42,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "सञ्जय उवाच।\n              क्षत्रियास्ते महाराज परस्परवधैषिणः । अन्योन्यं समरे जघ्नुः कृतवैराः परस्परम् ॥१॥",
+      "english": "Sanjaya said Desirous of slaying one another and cherishing hatred, the Kshatriyas, O monarch, killed one another in battle.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "रथौघाश्च हयौघाश्च नरौघाश्च समन्ततः । गजौघाश्च महाराज संसक्ताश्च परस्परम् ॥२॥",
+      "english": "Cars, horses, men and elephants, O monarch, in large numbers, encountered one another on all sides.",
+      "bhavadeepa": "क्षत्रिया इति ॥१॥",
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "गदानां परिघाणां च कणपानां च क्षिप्यताम् । प्रासानां भिन्दिपालानां भुशुण्डीनां च सर्वशः ॥३॥",
+      "english": "We saw the falling maces, Parighas, Kunapas, lances, and rockets discharged at one another in that terrible encounter. Dreadful showers of arrows shot through like locusts.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः",
+      "combined_translation": "3-4"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "संपातं चानुपश्याम संग्रामे भृशदारुणे । शलभा इव संपेतुः शरवृष्ट्यः समंततः ॥४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः",
+      "english_ref": 3,
+      "combined_translation": "3-4"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "नागान्नागाः समासाद्य व्यधमन्त परस्परम् । हया हयांश्च समरे रथिनो रथिनस्तथा ॥५॥",
+      "english": "Elephants struck elephants, horses routed horses and the car-warriors fought with carwarriors. There fought foot-soldiers with footsoldiers and the infantry with the cars and elephants and horsemen and elephants with the three other kinds of forces. They began to crush, O inonarch and grind one another. arrows",
+      "bhavadeepa": "वृष्ट्यः वृष्टयः ॥४॥",
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः",
+      "combined_translation": "5-7"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "पत्तयः पत्तिसंघांश्च हयसंघांश्च पत्तयः । पत्तयो रथमातङ्गान् रथा हस्त्यश्वमेव च ॥६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः",
+      "english_ref": 5,
+      "combined_translation": "5-7"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "नागाश्च समरे त्र्यङ्गं ममृदुः शीघ्रगा नृप । वध्यतां तत्र शूराणां क्रोशतां च परस्परम् ॥७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः",
+      "english_ref": 5,
+      "combined_translation": "5-7"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "घोरमायोधनं जज्ञे पशूनां वैशसं यथा । रुधिरेण समास्तीर्णा भाति भारत मेदिनी ॥८॥",
+      "english": "On account of those combatants striking one another and shouting at the top of their voices, the battle-field became awful, resembling the slaughter ground of creatures.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "शक्रगोपगणाकीर्णा प्रावृषीव यथा धरा । यथा वा वाससी शुक्ले महारञ्जनरञ्जिते ॥९॥",
+      "english": "Covered with blood, the earth looked like a vast plain in the season of rains covered with red cochineal.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "बिभृयाद्युवती श्यामा तद्वदासीद्वसुन्धरा । मांसशोणितचित्रेव शातकुम्भमयीव च ॥१०॥",
+      "english": "The earth assumed, as it were, the form of youthful maiden of great beauty clad in white robes dyed with deep red. Variegated with flesh and blood the earth appeared as if decked with gold.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "भिन्नानां चोत्तमाङ्गानां बाहूनां चोरुभिः सह । कुण्डलानां प्रवृद्धानां भूषणानां च भारत ॥११॥",
+      "english": "Large numbers of beads, cut-off from trunks and arms and thighs and ear-rings and other ornaments stripped off the bodies of the warriors, collars, cuirasses, bodies of brave bowmen, coats of mail and banners, lay scattered on the earth.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः",
+      "combined_translation": "11-12"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "निष्काणामथ शूराणां शरीराणां च धन्विनाम् । चर्मणां सपताकानां सङ्घास्तत्रापतन्भुवि ॥१२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः",
+      "english_ref": 11,
+      "combined_translation": "11-12"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "गजा गजान्समासाद्य विषाणैरार्दयन्नृप । विषाणाभिहतास्तत्र भ्राजन्ते द्विरदास्तथा ॥१३॥",
+      "english": "O king, the elephants approaching other elephants tore one another with their tusks. Stuck with the tusks of assailing elephants they looked beautiful.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "रुधिरेणावसिक्ताङ्गा गैरिकप्रस्रवा इव । यथा भ्राजन्ति स्यन्दन्तः पर्वता धातुमंडिताः ॥१४॥",
+      "english": "Bathed in blood those huge creatures looked resplendent like moving hills covered with metals and streams of liquid chalk.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "तोमरान् सादिभिर्मुक्तान्प्रतीपानास्थितान् बहून् । हस्तैर्विचेरुस्ते नागा बभञ्जुश्चापरे तथा ॥१५॥",
+      "english": "Many of them seized the lances hurled by horsemen whilst others broke and twisted them.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "नाराचैश्छिन्नवर्माणो भ्राजन्ति स्म गजोत्तमाः । हिमागमे यथा राजन् व्यभ्रा इव महीधराः ॥१६॥",
+      "english": "Many huge elephants, with their armours cut-off with arrows, looked like mountains divested of clouds at the approach of the winter.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "शरैः कनकपुङ्खैश्च चित्रा रेजुर्गजोत्तमाः । उल्काभिः संप्रदीप्ताग्राः पर्वता इव भारत ॥१७॥",
+      "english": "Many leading elephants, struck with goldwinged arrows, looked beautiful, like mountains whose summits are lighted with torches.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "केचिदभ्याहता नागैर्नागा नगनिभोपमाः । विनेशुः समरे तस्मिन्पक्षवन्त इवाद्रयः ॥१८॥",
+      "english": "Struck by their antagonists some of those creatures, huge as hills, fell down in battle like winged mountains.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "अपरे प्राद्रवन्नागाः शल्यार्ता व्रणपीडिताः । प्रतिमानैश्च कुंभैश्च पेतुरुर्व्यां महाहवे ॥१९॥",
+      "english": "Others, afflicted with arrows and much pained by the wound, fell down on the earth in that dreadful encounter with their frontal globes or the parts between their tusks.",
+      "bhavadeepa": "नगनिभोपमाः नगेषु नितरां भान्ति ते नगनिभाः पर्वतोत्तमास्ते उपमा येषामित्यर्थः ॥१८॥",
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "विनेदुः सिंहवच्चान्ये नदन्तो भैरवान्रवान् । बभ्रमुर्बहवो राजंश्चक्रुशुश्चापरे गजाः ॥२०॥",
+      "english": "Others roared like lions. And many emitting terrible sounds ran hither and thither and many, O king, uttered cries of pain.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "हयाश्च निहता बाणैर्हेमभाण्डविभूषिताः । निषेदुश्चैव मम्लुश्च बभ्रमुश्च दिशो दश ॥२१॥",
+      "english": "Horses, adorned with golden trappings, kills by arrows, fell down or became weak or ran in all directions.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "अपरे कृष्यमाणाश्च विचेष्टन्तो महीतले। भावान्बहुविधांश्चक्रुस्ताडिताः शरतोमरैः ॥२२॥",
+      "english": "Others, wounded with arrows or dragged, fell down on the earth making diverse kinds of motion in agony.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "नरास्तु निहता भूमौ कूजन्तस्तत्र मारिष । दृष्ट्वा च बान्धवानन्ये पितॄनन्ये पितामहान् ॥२३॥",
+      "english": "Men also slain fell down on the earth uttering many cries. Many beholding their relatives, fathers, grand-fathers, while others, seeing their retreating enemies called one another by their own and their family names.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः",
+      "combined_translation": "23-24"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "धावमानान्परांश्चान्ये दृष्ट्वाऽन्ये तत्र भारत । गोत्रनामानि ख्यातानि शशंसुरितरेतरम् ॥२४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः",
+      "english_ref": 23,
+      "combined_translation": "23-24"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "तेषां छिन्ना महाराज भुजाः कनकभूषणाः । उद्वेष्टन्ते विचेष्टन्ते पतन्ते चोत्पतन्ति च ॥२५॥",
+      "english": "Cut-off by enemies, the arms of many warriors adorned with golden ornaments fell down on the earth and writhed in agony.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "निपतन्ति तथैवान्ये स्फुरन्ति च सहस्रशः । वेगांश्चान्ये रणे चक्रुः पञ्चास्या इव पन्नगाः ॥२६॥",
+      "english": "Thousands of such arms fell down on the earth and sprang up and many seemed to dart forward like five-headed snakes.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "ते भुजा भोगिभोगाभाश्चन्दनाक्ता विशांपते । लोहितार्द्रा भृशं रेजुस्तपनीयध्वजा इव ॥२७॥",
+      "english": "O king, those arms, resembling the bodies of serpents, pasted with gold and besmeared with blood, appeared like little mountains.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "वर्तमाने तथा घोरे संकुले सर्वतोदिशम् । अविज्ञाताः स्म युध्यन्ते विनिघ्नन्तः परस्परम् ॥२८॥",
+      "english": "When such a dreadful battle raged on all sides, people not know themselves killed one another.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "भौमेन रजसाकीर्णे शस्त्रसंपातसंकुले । नैव स्वे न परे राजन् व्यज्ञायन्त तमोवृताः ॥२९॥",
+      "english": "When everything was covered with dust raised by the weapons, they, O king, could not recognise who were their own and who were their enemies.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "तथा तदभवद्युद्धं घोररूपं भयानकम् । लोहितोदा महानद्यः प्रसस्रुस्तत्र चासकृत् ॥३०॥",
+      "english": "Then there took place a dreadful encounter and there flew a river of blood striking terror unto all.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "शीर्षपाषाणसंछन्नाः केशशैवलशाद्वलाः । अस्थिमीनसमाकीर्णा धनुःशरगदोडुपाः ॥३१॥",
+      "english": "It was filled with heads forming the rocks. The hairs of the warriors formed the floating weeds and mosses. Bones formed the fishes; and bows, arrows and maces formed the rafts by which to cross them.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "मांसशोणितपंकिन्यो घोररूपाः सुदारुणाः । नदीः प्रवर्तयामासुः शोणितौघविवर्धिनीः ॥३२॥",
+      "english": "Flesh and blood formed their mire. Thus dreadful and terrible rivers, with currents swelled by blood, were formed there.",
+      "bhavadeepa": "धनुःशरगदा एव भास्वरत्वादुडुवन्नक्षत्रसदृशीः पान्तीत्युडुपाः धनुरादिवदुडुपाः शोभा यासां ता इति वा । ‘उडुपस्तु प्लवे चन्द्रे प्रतापे स्वेदतेजसोः । शोभायां च’ इति विश्वः ॥३१॥",
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "भीरुवित्रासकारिण्यः शूराणां हर्षवर्धनाः । ता नद्यो घोररूपास्तु नयन्त्यो यमसादनम् ॥३३॥",
+      "english": "They struck terror unto the timid and increased the joy of the brave. Those awful rivers led to the abode of Yama.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "अवगाढान्मज्जयन्त्यः क्षत्रस्याजनयन् भयम् । क्रव्यादानां नरव्याघ्र नर्दतां तत्र तत्र ह ॥३४॥",
+      "english": "And many plunged into those rivers striking terror unto the Kshatriyas and dies. O best of men, on account of many carnivorous animals emitting yells on all sides the battle-field became terrible, like the territory of the Regent of the Dead.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "घोरमायोधनं जज्ञे प्रेतराजपुरोपमम् । उत्थितान्यगणेयानि कबन्धानि समंततः ॥३५॥",
+      "english": "And innumerable, headless trunks rose on all sides. And many terrible creatures eating flesh and drinking blood and fat began to dance around.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः",
+      "combined_translation": "35-36"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "नृत्यन्ति वै भूतगणाः सुतृप्ता मांसशोणितैः । पीत्वा च शोणितं तत्र वसां पीत्वा च भारत ॥३६॥",
+      "english": null,
+      "bhavadeepa": "अगणेयानि गणयितुमशक्यानि ॥३५॥",
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः",
+      "english_ref": 35,
+      "combined_translation": "35-36"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "मेदोमज्जावसामत्तास्तृप्ता मांसस्य चैव ह । धावमानाः स्म दृश्यन्ते काकगृध्रबकास्तथा ॥३७॥",
+      "english": "And gratified with fat, marrow and flesh crows, vultures and cranes were seen to move about in delight.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "शूरास्तु समरे राजन् भयं त्यक्त्वा सुदुस्त्यजम् । योधव्रतसमाख्याताश्चक्रुः कर्माण्यभीतवत् ॥३८॥",
+      "english": "The heroes, however, O king, shaking off fear and observing the warrior's warrior's vow, fearlessly did their duty.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "शरशक्तिसमाकीर्णे क्रव्यादगणसंकुले । व्यचरन्त रणे शूराः ख्यापयन्तः स्वपौरुषम् ॥३९॥",
+      "english": "On that field where innumerable arrows and darts passed through the air and where various carnivorous animals in large number and the brave warriors armed moved about displaying their powers.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "अन्योन्यं श्रावयन्ति स्म नामगोत्राणि भारत । पितृनामानि च रणे गोत्रनामानि वा विभो ॥४०॥",
+      "english": "They called out one another by their own and family names. And many taking the names of their fathers and families began to assail one another with darts, lances and battle axes.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः",
+      "combined_translation": "40-41"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "श्रावयाणाश्च बहवस्तत्र योधा विशांपते । अन्योन्यमवमृद्नन्तः शक्ति-तोमर-पट्टिशैः ॥४१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः",
+      "english_ref": 40,
+      "combined_translation": "40-41"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "वर्तमाने तथा युद्धे घोररूपे सुदारुणे । व्यषीदत्कौरवी सेना भिन्ना नौरिव सागरे ॥४२॥",
+      "english": "In that-onset the Kuru army became divested of its strength and unable to stand any longer like a ship foundered on the bosom of the ocean.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    }
+  ]
+}

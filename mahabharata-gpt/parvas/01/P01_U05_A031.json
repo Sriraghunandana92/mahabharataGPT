@@ -1,0 +1,365 @@
+{
+  "adhyaya_id": "P01_U05_A031",
+  "book": 1,
+  "parva_name": "आदिपर्व",
+  "upaparva_name": "आस्तिकपर्व",
+  "adhyaya_name": "एकत्रिंशोऽध्यायः",
+  "chapter": 31,
+  "verse_count": 35,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "शौनक उवाच।\n              कोऽपराधो महेन्द्रस्य कः प्रमादश्च सूतज। तपसा वालखिल्यानां संभूतो गरुडः कथम्॥१॥",
+      "english": "Shaunaka said: O son of Suta, what was the fault of Indra and what was his carelessness? How was Garuda born owing to the penances of the Valakhilyas?",
+      "bhavadeepa": "विगलितमिव अकस्मादागतमिव ॥५२॥",
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "कश्यपस्य द्विजातेश्च कथं वै पक्षिराट् सुतः। अधृष्यः सर्वभूतानामवध्यश्चाभवत्कथम्॥२॥",
+      "english": "Why had Kashyapa, a Brahmana, the king of the birds for his son? Why was he invincible of all creatures and indestructible of all?",
+      "bhavadeepa": "एकत्रिंशः अध्यायः कोऽपराध इति॥१॥",
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "कथं च कामचारी स कामवीर्यश्च खेचरः। एतदिच्छाम्यहं श्रोतुं पुराणे यदि पठ्यते॥३॥",
+      "english": "Why was that bird capable of going every where and mastering any misuse of strength at will? I am willing to hear all this, if they are narrated in the Puranas.",
+      "bhavadeepa": null,
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "सौतिरुवाच।\n              विषयोऽयं पुराणस्य यन्मां त्वं परिपृच्छसि। शृणु मे वदतः सर्वमेतत्संक्षेपतों द्विज॥४॥",
+      "english": "Sauti said: What you ask me is narrated in the Puranas. O Brahmana, listen to them. I shall briefly narrated them all.",
+      "bhavadeepa": null,
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "यजतः पुत्रकामस्य कश्यपस्य प्रजापतेः। साहाय्यमृषयो देवा गन्धर्वाश्च ददुः किल॥५॥",
+      "english": "When Prajapati Kashyapa from the desire of begetting offspring was engaged in a sacrifice, the Rishis, the Devas and the Gandharvas all gave him help.",
+      "bhavadeepa": null,
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "तत्रेध्मानयने शक्रो नियुक्तः कश्यपेन ह। मुनयो वालखिल्याश्च ये चान्ये देवतागणाः॥६॥",
+      "english": "Indra with Valakhilya Rishis and other celestial were appointed by Kashyapa to bring fuel for the sacrifice.",
+      "bhavadeepa": "यजतः यजमानस्य। वर्तमानसामीप्ये वर्तमानवन्निर्देशः। यियक्षमाणस्येत्यर्थः॥५॥",
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "शक्रस्तु वीर्यसदृशमिध्यभारं गिरिप्रभम्। समुद्यम्यानयामास नातिकृच्छ्रादिव प्रभुः॥७॥",
+      "english": "And Lord Indra, taking up according to his great strength a weight which was mountainlike, brought it without any fatigue.",
+      "bhavadeepa": "इध्मानि अग्निसमिन्धनार्थाः समिधः॥६॥",
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "अथापश्यदृषीन्ह्रस्वानङ्गुष्ठोदरवर्ष्मणः। पलाशवर्तिकामेकां वहतः संहतान्पथि॥८॥",
+      "english": "He saw on the way some Rishis, as small in size as the thumb, carrying together one single stalk of Palasa leaf.",
+      "bhavadeepa": null,
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "प्रलीनान्स्वेष्विवाङ्गेषु निराहारांस्तपोधनान्। क्लिश्यमानान्मन्दबलान्गोष्पदे संप्लुतोदके॥९॥",
+      "english": "They were exceedingly lean for want of food and they were much distressed when they fell into an indentation in the road caused by the hoop of a cow.",
+      "bhavadeepa": "अङ्गुष्ठोदरप्रमाणं  वर्ष्म शरीरं येषां तान्। वर्तिकां दीर्घयष्टिम्। संहतान् एकीभूतान्॥८॥",
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "तान्सर्वान्विस्मयाविष्टो वीर्योन्मत्तः पुरन्दरः। अपहास्याभ्यगाच्छीव्रं लम्बयित्वाऽवमन्य च॥१०॥",
+      "english": "Purandara (Indra), madly proud of his strength, saw them with surprise and laughing at them in derision, passed them, crossing over their heads and thus grossly insulting them.",
+      "bhavadeepa": "स्वेष्वङ्गेषु प्रलीनानिवातिकृशानित्यर्थः । क्लिश्यमानानिति । गोष्पदमात्रेऽपि जले मज्जनेनेत्यर्थ॥९॥",
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "तेऽथ रोषसमाविष्टाः सुभृशं जातमन्यवः। आरेभिरे महत्कर्म यदा शक्रभयंकरम्॥११॥",
+      "english": "On this the Rishis became exceedingly angry and were filled with sorrow. They began a great act which was a terror to Indra.",
+      "bhavadeepa": null,
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "जुहुवुस्ते सुतपसो विधिवज्जातवेदसम्। मन्त्रैरुच्चावचैर्विप्रा येन कामेन तच्छृणु॥१२॥",
+      "english": "Hear, Sir, desiring what these excellent Rishi's poured ghee in the sacrificial fire loudly reciting Mantras, saying,",
+      "bhavadeepa": "जातमन्यवो दीनाः । ‘मन्युदैन्ये क्रतौ क्रुधि’ इति कोशः  ॥११॥",
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "कामवीर्यः कामगमो देवराजभयप्रदः। इन्द्रोऽन्यः सर्वदेवानां भवेदिति यतव्रताः॥१३॥",
+      "english": "“There will be another Indra of all the celestials, capable of going everywhere at will mustering any measure of strength at will and imparting fear to the present Indra.",
+      "bhavadeepa": null,
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "इन्द्राच्छतगुणः शौर्ये वीर्ये चैव मनोजवः। तपसो नः फलेनाद्य दारुणः संभवित्विति॥१४॥",
+      "english": "By the fruit of our penances, let there be born a hero, who is hundred times stronger and valorous than Indra, fleet as the mind and frightful to present Indra.\"",
+      "bhavadeepa": "यावदिच्छितं वीर्ये गतिश्च यस्येति कामवीर्यः कामगमश्च  ॥१३॥",
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "तद्बुद्ध्वा भृशसंतप्तो देवराजः शतक्रतुः। जगाम शरणं तत्र कश्यपं संशितव्रतम्॥१५॥",
+      "english": "The Lord of the celestials Shatakratu, becoming very much alarmed, went to ask the protection of the great ascetic, the selfcontrolled Rishi Kashyapa.",
+      "bhavadeepa": "दारुणः इन्द्रं प्रत्येव ॥१४॥",
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "तच्छ्रुत्वा देवराजस्य कश्यपोऽथ प्रजापतिः। वालखिल्यानुपागम्य कर्मसिद्धिमपृच्छत॥१६॥",
+      "english": "Prajapati Kashyapa, having heard every thing from Indra, went to the Valakhilyas and asked whether their act had been successful.",
+      "bhavadeepa": null,
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "एवमस्त्विति तं चापि प्रत्यूचुः सत्यवादिनः। तान्कश्यप उवाचेदं सान्त्वपूर्वं प्रजापतिः॥१७॥",
+      "english": "Thus addressed, those truthful Rishis said, “Yes, it is done.” Then Prajapati Kashyapa pacified them and said,",
+      "bhavadeepa": "कर्मसिद्धिमपृच्छत । सिद्धं वः कर्मेत्यपृच्छदित्यर्थः॥१६॥",
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः",
+      "combined_translation": "17-37"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "अयमिन्द्रस्त्रिभुवने नियोगाद्ब्रह्मणः कृतः। इन्द्रार्थे च भवन्तोऽपि यत्नवन्तस्तपोधनाः॥१८॥",
+      "english": "“The present Indra has been appointed the lord of the three worlds by Brahma. O Rishis you are also trying to create another Indra.",
+      "bhavadeepa": "एवमस्तु सिद्धमस्तु॥१७॥",
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "न मिथ्या ब्रह्मणो वाक्यं कर्तुमर्हथ सत्तमाः। भवतां हि न मिथ्याऽयं संकल्पो वै चिकीर्षितः॥१९॥",
+      "english": "O excellent men, you should not make the words of Brahma untrue and I too do not wish to make your desire futile.",
+      "bhavadeepa": null,
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "भवत्वेष पतत्त्रीणामिन्द्रोऽतिबलसत्त्ववान्। प्रसादः क्रियतामस्य देवराजस्य याचतः॥२०॥",
+      "english": "Let there be an Indra of the winged creatures, endued with great strength. Be gracious to Indra who is suppliant to you.\"",
+      "bhavadeepa": null,
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "एवमुक्ताः कश्यपेन वालखिल्यास्तपोधनाः। प्रत्यूचुरभिसंपूज्य मुनिश्रेष्ठं प्रजापतिम्॥२१॥",
+      "english": "Having been thus addressed by Kashyapa, the Valakhilya Rishis saluted the great Prajapati and spoke thus,",
+      "bhavadeepa": "पतत्रीणां पक्षिणाम् पतेरत्रिन् इत्यौणादिकत्रिन्प्रत्ययांतोऽयं ’विविष्किरपतत्रय’ इत्यमरः॥२०॥",
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "वालखिल्या ऊचुः।\n              इन्द्रार्थोऽयं समारम्भः सर्वेषां नः प्रजापते। अपत्यार्थं समारम्भो भवतश्चायमीप्सितः॥२२॥",
+      "english": "The Valakhilyas said : O Prajapati, our this action (penance) is for creating an Indra. It is also meant for a son being born to you.",
+      "bhavadeepa": null,
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "तदिदं सफलं कर्म त्वयैव प्रतिगृह्यताम्। तथा चैवं विधत्स्वात्र यथा श्रेयोऽनुपश्यसि॥२३॥",
+      "english": "Let this successful act be accepted by you; and in this matter, do whatsoever you think good and proper.",
+      "bhavadeepa": null,
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "सौतिरुवाच।\n              एतस्मिन्नेव काले तु देवी दाक्षायणी शुभा। विनता नाम कल्याणी पुत्रकामा यशस्विनी॥२४॥",
+      "english": "Sauti said: At this time, the good and illustrious daughter of Daksha, named Vinata, being desirous of having an offspring an having purified herself by bathing after her season of impurity, came to her husband and Kashyapa spoke to her thus.",
+      "bhavadeepa": null,
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः",
+      "combined_translation": "24-25"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "तपस्तप्त्वा व्रतपरा स्नाता पुंसवने शुचिः। उपचक्राम भर्तारं तामुवाचाथ कश्यपः॥२५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः",
+      "english_ref": 24,
+      "combined_translation": "24-25"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "आरम्भः सफलो देवि भविता यस्त्वयेप्सितः। जनयिष्यसि पुत्रौ द्वौ वीरौ त्रिभुवनेश्वरौ॥२६॥",
+      "english": "“O Lady, the sacrifice, commenced by me, has borne fruit. What you have desired to get, you will get. Two heroic sons will be born in you who will be the lords of the three worlds.",
+      "bhavadeepa": "पुंसवने ऋतुकाले  ॥२५॥",
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "तपसा वालखिल्यानां मम संकल्पजौ तथा। भविष्यतो महाभागौ पुत्रौ त्रैलोक्यपूजितौ॥२७॥",
+      "english": "Owing to the penances of the Valakhilyas and by virtue of the desire with which I had began my sacrifice, those sons will be of exceeding good fortune and they will be worshipped by the three worlds.",
+      "bhavadeepa": null,
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "उवाच चैनां भगवान्कश्यपः पुनरेव ह। धार्यतामप्रमादेन गर्भोऽयं सुमहोदयः॥२८॥",
+      "english": "The illustrious Kashyapa again spoke to her, \"Carefully bear these auspicious seeds.",
+      "bhavadeepa": null,
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "एतौ सर्वपतत्रीणामिन्द्रत्वं कारयिष्यतः। लोकसंभावितो वीरौ कामरूपौ विहङ्गमौ॥२९॥",
+      "english": "These two will be the lords of all the winged creatures. They will be birds, capable of assuming any form at will and they will be great heroes, respected by all the worlds.\"",
+      "bhavadeepa": null,
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "शतक्रतुमथोवाच प्रीयमाणः प्रजापतिः। त्वत्सहायौ महावीर्यौ भ्रातरौ ते भविष्यतः॥३०॥",
+      "english": "The Prajapati then addressed Indra thus, \"You will have two brothers of great power and strength, who will be your helps.",
+      "bhavadeepa": "कारयिष्यत इति स्वार्थे णिच् । रामो राज्यमचीकरदितिवत्  ॥२९॥",
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "नैताभ्यां भविता दोषः सकाशात्ते पुरंदर। व्येतु ते शक्रसंतापस्त्वमेवेन्द्रो भविष्यसि॥३१॥",
+      "english": "O Purandara, by them will no injury be done to you. Let your sorrow cease. O Indra, you will remain as the only one Indra in the world.",
+      "bhavadeepa": null,
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "न चाप्येवं त्वया भूयः क्षेप्तव्या ब्रह्मवादिनः। न चावमान्या दर्पात्ते वाग्वज्रा भृशकोपनाः॥३२॥",
+      "english": "But let not the utterers of Brahma, Brahmanas be ever slighted by you. Let not those, whose words are like the thunderbolt, be again insulted by you.\"",
+      "bhavadeepa": null,
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "एवमुक्तो जगामेन्द्रो निर्विशङ्कस्त्रिविष्टपम्। विनता चापि सिद्धार्था बभूव मुदिता तथा॥३३॥",
+      "english": "Having been thus addressed Indra, his fear being dispelled, went to heaven; and Vinata was much pleased, because her desire was accomplished.",
+      "bhavadeepa": "दर्पात्ते त्वया  ॥३२॥",
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "जनयामास पुत्रौ द्वावरुणं गरुडं तथा। विकलाङ्गोऽरुणस्तत्र भास्करस्य पुरस्सरः॥३४॥",
+      "english": "She gave birth to two sons, Aruna and Garuda and the undeveloped-bodied Aruna became the fore-runner (charioteer) of the sun.",
+      "bhavadeepa": null,
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "पतत्त्रीणां च गरुडमिन्द्रत्वेनाभ्यषिञ्चत। तस्यैतत्कर्म सुमहच्छ्रूयतां भृगुनन्दन॥३५॥",
+      "english": "Garuda became the king of the birds. O descendent of Bhrigu, listen to his great deeds.",
+      "bhavadeepa": null,
+      "chapter": 31,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "एकत्रिंशोऽध्यायः"
+    }
+  ]
+}

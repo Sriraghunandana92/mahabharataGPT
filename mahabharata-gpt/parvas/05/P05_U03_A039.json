@@ -1,0 +1,886 @@
+{
+  "adhyaya_id": "P05_U03_A039",
+  "book": 5,
+  "parva_name": "उद्योगपर्व",
+  "upaparva_name": "प्रजागरपर्व",
+  "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः",
+  "chapter": 39,
+  "verse_count": 86,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "धृतराष्ट्र उवाच।\n              अनीश्वरोऽयं पुरुषो भवाभवे सूत्रप्रोता दारुमयीव योषा। धात्रा तु दिष्टस्य वशे कृतोऽयं तस्माद्वद त्वं श्रवणे धृतोऽहम् ॥१॥",
+      "english": "Dhritarashtra said Man is not the creator of his happiness or misery like a wooden doll moved by a thrcad. He has been made subject to the Fates by Providence. Therefore speak on; I am patiently hearing you.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "विदुर उवाच।\n              अप्राप्तकालं वचनं बृहस्पतिरपि ब्रुवन्। लभते बुद्ध्यवज्ञानमवमानं च भारत॥२॥",
+      "english": "Vidura said Even Brihaspati by speaking when suitable time has not come gets a charge of ignorance and insult, O Bharata.",
+      "bhavadeepa": "अनीश्वरोऽयमिति । भवाभवे ऐश्वर्यानैश्वर्ये दिष्टस्य दैवस्य । वदैव न तु मां दूषयेति भावः । धृतः धृतिमान् ॥१॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "प्रियो भवति दानेन प्रियवादेन चापरः। मन्त्रमूलबलेनान्यो यः प्रियः प्रिय एव सः॥३॥",
+      "english": "By gift (a man) becomes agreeable; another by sweet speech; a third by the strength of incantations and drugs; but he that is (naturally) agreeable is (always) agreeable.",
+      "bhavadeepa": "बुद्ध्यवज्ञानमवज्ञातबुद्धित्वम् ॥२॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "द्वेष्यो न साधुर्भवति न मेधावी न पण्डितः। प्रिये शुभानि कार्याणि द्वेष्ये पापानि चैव ह॥४॥",
+      "english": "He that is despised is not honest, nor intelligent, nor wise (to the man who despises him). To him that is beloved are attributed all good acts and to him that is despised all bad ones.",
+      "bhavadeepa": "मन्त्रबलेन मूलबलेन च प्रियकृत् प्रियो भवति स च दानाद्यभावे पुनरप्रियो भवति । अहं तु न तथाऽतस्त्वया प्राप्तकाले मदुक्तेऽनादरो न कर्तव्य इति भावः ॥३॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "उक्तं मया जातमात्रेऽपि राजन् दुर्योधनं त्यज पुत्रं त्वमेकम्। तस्य त्यागात् पुत्रशतस्य वृद्धिरस्यात्यागात् पुत्रशतस्य नाशः॥५॥",
+      "english": "I told you, as soon as he was born. O king, abandon this one son, Duryodhana. By his abandonment (you will see) the proper development of your hundred sons; and by not abandoning him, there will be the destruction of your hundred sons.",
+      "bhavadeepa": "द्वेष्ये इति।  यो यस्य द्वेष्यस्तस्मिन् तद्दृष्टथा साधुत्वादिकं सदपि नास्ति प्रिये त्वसदपि तद्दृष्ट्यांऽस्तीति भावः ॥४॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "न वृद्धिर्बहु मन्तव्या या वृद्धिः क्षयमावहेत्। क्षयोऽपि बहु मन्तव्यो यः क्षयो वृद्धिमावहेत् ॥६॥",
+      "english": "That gain should not be highly thought of, which brings on a little loss; and that loss should be considered a great one, which brings on a little gain.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "न स क्षयो महाराज यः क्षयो वृद्धिमावहेत्। क्षयः स त्विह मन्तव्यो यं लब्ध्वा बहु नाशयेत्॥७॥",
+      "english": "That, O great king, is not loss which brings on gain; but that should be regarded as loss which being gained causes much loss.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "समृद्धा गुणतः केचिद्भवन्ति धनतोऽपरे। धनवृद्धान् गुणैर्हीनान् धृतराष्ट्र विवर्जय ॥८॥",
+      "english": "Some become eminent thought their good qualities; others through their wealth. Avoid, O Dhritarashtra, those who are superior in wealth, but devoid of good qualities.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "धृतराष्ट्र उवाच।\n              सर्वं त्वमायतीयुक्तं भाषसे प्राज्ञसंमतम्। न चोत्सहे सुतं त्यक्तुं यतो धर्मस्ततो जयः॥९॥",
+      "english": "Dhritarashtra said All that you say is agreed on by the wise and is calculated to do good to me; but I cannot abandon my son. Victory comes where there is righteousness.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "विदुर उवाच।\n              अतीव गुणसम्पन्नो न जातुः विनयान्वितः। सुसूक्ष्ममपि भूतानामुपमर्दमुपेक्षते ॥१०॥",
+      "english": "Vidura said He that is exceedingly good and is endued with humility does not neglect even the slightest suffering of any creature (without an attempt at alleviating them).",
+      "bhavadeepa": "आयतीयुक्तम् उदर्के हितम् ॥९॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "परापवादनिरताः परदुःखोदयेषु च। परस्परविरोधे च यतन्ते सततोत्थिताः॥११॥",
+      "english": "Those that are ever engaged in speaking ill of others ever engage themselves in quarrels which give pain to others with great care.",
+      "bhavadeepa": "पुत्रं त्यक्तुमशक्तेन दुष्टाः शकुन्यादयो वा त्याज्या इत्याशयेनाह - अतीवेति । कुलविनाशो नोपेक्षणीय इति भावः ॥१०॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "सदोषं दर्शनं येषां संवासे सुमहद्भयम्। अर्थादाने महान् दोषः प्रदाने च महद्भयम् ॥१२॥",
+      "english": "Those whose very sight is vicious and association with whom is attended with great fear-there is great harm in giving them wealth and also there is great fear in accepting wealth from them.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "ये वै भेदनशीलास्तु सकामा निस्त्रपाः शठाः। ये पापा इति विख्याताः संवासे परिगर्हिताः॥१३॥",
+      "english": "Those whose habit is to cause disagreements, those who covetous, shameless and vicious are well known as unrighteous. The association with them should be avoided.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "युक्ताश्चान्यैर्महादोषैर्ये नरास्तान् विवर्जयेत्। निवर्तमाने सौहार्दे प्रीतिर्नीचे प्रणश्यति॥१४॥",
+      "english": "Those men who are endued with similar other great vices should be avoided. In the absence of (the cause of) friendship, the good feeling towards the low is destroyed.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "या चैव फलनिर्वृतिः सौहृदे चैव यत्सुखम्। यतते चापवादाय यत्नमारभते क्षये॥१५॥",
+      "english": "As also the results of connection and the happiness derived from it. They (the lowminded) then try to speak ill (of their late friend) and injure him. are",
+      "bhavadeepa": "सौहार्दे मैत्रीहेतौ निवर्तमाने सति प्रीतिः फलनिर्वृत्तिः सुखं च प्रणश्यति स नीचोऽपवादाय यतते क्षये च यत्नमारभते शान्तिं च न गच्छतीति द्वयोः संबन्धः ॥१४॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "अल्पेऽप्यपकृते मोहान्न शान्तिमधिगच्छति। तादृशैः सङ्गतं नीचैर्नृशंसैरकृतात्मभिः॥१६॥",
+      "english": "Even when slightly injured, they out of the want of self-control get no peace of mind. Companionship of one's self with such lowminded and heartless individuals should not be effected.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "निशाम्य निपुणं बुद्ध्या विद्वान् दूराद्विवर्जयेत्। यो ज्ञातिमनुगृह्णाति दरिद्रं दीनमातुरम्॥१७॥",
+      "english": "A wise man examining carefully by his intelligence avoids from a distance (such persons). He who assists the poor and helpless cousins obtains an increase of children and animals and unending prosperity. Cousins should be assisted by those who desire their own happiness.",
+      "bhavadeepa": "सङ्गतं संबन्धम् ॥१६॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः",
+      "combined_translation": "17-18"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "स पुत्रपशुभिर्वृद्धिं श्रेयश्चानन्त्यमश्नुते। ज्ञातयो वर्धनीयास्तैर्य इच्छन्त्यात्मनः शुभम् ॥१८॥",
+      "english": null,
+      "bhavadeepa": "निशम्य विचार्य ॥१७॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः",
+      "english_ref": 17,
+      "combined_translation": "17-18"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "कुलवृद्धिं च राजेन्द्र तस्मात् साधु समाचर। श्रेयसा योक्ष्यते राजन् कुर्वाणो ज्ञातिसत्क्रियाम् ॥१९॥",
+      "english": "Therefore do you that, О chief among kings, which will effect an increase of your family; by doing good to your relatives, O monarch, you will meet with prosperity.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "विगुणा ह्यपि संरक्ष्या ज्ञातयो भरतर्षभ। किं पुनर्गुणवन्तस्ते त्वत्प्रसादाभिकाङ्क्षिणः॥२०॥",
+      "english": "Cousins, though devoid of good qualities, should be protected, O foremost of the Bharata race. Should they not be protected, who are endued with good qualities and desirous of your favours?",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "प्रसादं कुरु वीराणां पाण्डवानां विशाम्पते। दीयतां ग्रामकाः केचित्तेषां वृत्त्यर्थमीश्वर ॥२१॥",
+      "english": "Do you favour the heroic Pandavas, O Lord the universe. Give them some few villages for their living, O Lord.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "एवं लोके यशः प्राप्तं भविष्यति नराधिप। वृद्धेन हि त्वया कार्यं पुत्राणां तात शासनम्॥२२॥",
+      "english": "By doing this, you will obtain fame in this world, O ruler of men. O sire, your sons should be controlled by you who are old.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "मया चापि हितं वाच्यं विद्धि मां त्वद्धितैषिणम्। ज्ञातिभिर्विग्रहस्तात न कर्तव्यः शुभार्थिना। सुखानि सह भोज्यानि ज्ञातिभिर्भरतर्षभ॥२३॥",
+      "english": "What I speak is your good; know me to be your well-wisher; a man who desires happiness should not quarrel with the cousins. Happiness should be injured along with one's cousins, O best of the Bharata race.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "संभोजनं संकथनं संप्रीतिश्च परस्परम्। ज्ञातिभिः सह कार्याणि न विरोधः कदाचन॥२४॥",
+      "english": "To eat together, to talk together and to love one another-these are what should be done among cousins and quarrels never.",
+      "bhavadeepa": "शुभार्थिना ऐश्वर्यलिप्सुना ॥२३॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "ज्ञातयस्तारयन्तीह ज्ञातयो मज्जयन्ति च। सुवृत्तास्तारयन्तीह दुर्वृत्ता मज्जयन्ति च॥२५॥",
+      "english": "In this world cousins come to the rescue and cousin sink (cousins); those who lead virtuous lives are rescued and those that lead vicious lives sink.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "सुवृत्तो भव राजेन्द्र पाण्डवान् प्रति मानद। अधर्षणीयः शत्रूणां तैर्वृतस्त्वं भविष्यसि॥२६॥",
+      "english": "O chief among kings, you act like one leading virtuous life, towards the Pandavas. O you giver of honours, surrounded by them you will be unconquerable by your enemies.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "श्रीमन्तं ज्ञातिमासाद्य यो ज्ञातिरवसीदति। दिग्धहस्तं मृग इव स एनस्तस्य विन्दति ॥२७॥",
+      "english": "If having come face to face with a cousin who is prosperous, one shrinks like a deer in the presence of a man armed with arrows; then cousin gets transferred on his own shoulders the sins of his less prosperous cousin.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "पश्चादपि नरश्रेष्ठ तव तापो भविष्यति। तान् वा हतान् सुतान् वाऽपि श्रुत्वा तदनुचिन्तय ॥२८॥",
+      "english": "Afterwards, O chief among men, you will have repentance at hearing of the death of the Pandavas or of your sons. Think of this.",
+      "bhavadeepa": "दिग्धहस्तं विषाक्तबाणहस्तम्। स श्रीमान् एनस्तस्य ज्ञातेरवसादजं पापं विन्दति । मृगवधजं पापं व्याध इवेत्यर्थः ॥२७॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "येन खट्वां समारूढः परितप्येत कर्मणा। आदावेव न तत् कुर्यादध्रुवे जीविते सति ॥२९॥",
+      "english": "That act which is sure to be repented for when a man enters the Vale of Death should never be done from the very beginning in this life.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "न कश्चिन्नापनयते पुमानन्यत्र भार्गवात्। शेषसंप्रतिपत्तिस्तु बुद्धिमत्स्वेव तिष्ठति॥३०॥",
+      "english": "It is not true that any other man except Bhargava has done a sinful act but a conception of the probable effects of an action is present in the mind of every intelligent person.",
+      "bhavadeepa": "खट्वां समारूढश्चिन्तागारं प्रविष्टः लोके आगन्तुं लज्जमान इत्यर्थः ॥२९॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "दुर्योधनेन यद्येतत् पापं तेषु पुरा कृतम्। त्वया तत्कुलवृद्धेन प्रत्यानेयं नरेश्वर ॥३१॥",
+      "english": "If this wrong has been done towards them by Duryodhana in the first instance, it is your duty, being the foremost of his race, to undo it.",
+      "bhavadeepa": "न कश्चिदिति । भार्गवात् शुक्रादन्यत्र नीतिशास्त्रकर्तारं शुक्रं विहाय अन्यः कश्चिदपि न अपनयते इति न अपि तु सर्वोऽप्यपनयते अनीतिं करोति । अतः यत् अतीतं तत् अतीतमेव शेषस्य तत्कालोचितस्य अर्थस्य प्रतिपत्तिः विचारः कर्तव्यः इत्यर्थः ॥३०॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "तांस्त्वं पदे प्रतिष्ठाप्य लोके विगतकल्मषः। भविष्यसि नरश्रेष्ठ पूजनीयो मनीषिणाम् ॥३२॥",
+      "english": "You having reinstated them in their position, will be freed from all your sins in this world and, O chief among men, you will be worshipped by all intelligent men.",
+      "bhavadeepa": "तदेवाह - दुर्योधनेनेति । प्रत्यानेयं प्रतिकर्तव्यम् ॥३१॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "सुव्याहृतानि धीराणां फलतः परिचिन्त्य यः। अध्यवस्यति कार्येषु चिरं यशसि तिष्ठति ॥३३॥",
+      "english": "He, who engages in acts after thinking of their effects as prophesied by wise men for the good of mankind, ever remains famous.",
+      "bhavadeepa": "प्रतीकारमेवाह - तानिति । प्रतिष्ठाप्य राज्यांशदानेन स्थिरीकृत्य ॥३२॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "असम्यगुपयुक्तं हि ज्ञानं सुकुशलैरपि। उपलभ्यं चाविदितं विदितं चाननुष्ठितम्॥३४॥",
+      "english": "The lessons taught even by skillful men is not perfect; for the moral sought to be conveyed by them is not understood and if understood, is not carried into practice.",
+      "bhavadeepa": "धीराणामुपदेष्टॄणां सुव्याहृतानि वचनानि । अध्यवस्यति निश्चयं करोति । उत्तमफलं कर्मारभत इत्यर्थः ॥३३॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "पापोदयफलं विद्वान् यो नारभति वर्धते ॥३५॥",
+      "english": "That wise man, who dose not do acts which result in sin, grows (in prosperity); but the man of slow intelligence who continues in his sinful course commenced before,",
+      "bhavadeepa": "सुकुशलैरप्युपयुक्तमुपदिष्टं तत् ज्ञानमसम्यगेव यतः उपलभ्यं ज्ञेयं तेन अविदितं न ज्ञातं विदितं ज्ञातं वा  तत् नानुष्ठितं मदुक्तं त्वयि निष्फलमेवेति भावः ॥३४॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः",
+      "combined_translation": "35-37"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "यस्तु पूर्वकृतं पापमविमृश्यानुवर्तते॥३६॥",
+      "english": null,
+      "bhavadeepa": "यस्य श्येनादेः फलं ब्रह्मवधादि पापोदयं पापहेतुः । तत्फलं फलहेतभूतं कर्म यो नारभते स वर्धते ॥३५॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "अगाधपङ्के दुर्मेधा विषमे विनिपात्यते। मन्त्रभेदस्य षट् प्राज्ञो द्वाराणीमानि लक्षयेत्॥३७॥",
+      "english": null,
+      "bhavadeepa": "अविमृश्य अविचार्य पापमेवानुवर्तते सततं करोति ॥३६॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः",
+      "english_ref": 35,
+      "combined_translation": "35-37"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "अर्थसन्ततिकामश्च रक्षेदेतानि नित्यशः। मदं स्वप्नमविज्ञानमाकारं चात्मसंभवम्॥३८॥",
+      "english": "Falls into a deep mire which he cannot cross. A wise man should have an eye on the following six means of secrets being divulged.",
+      "bhavadeepa": "पङ्के नरके ॥३७॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "दुष्टामात्येषु विश्रंभं दूताच्चाकुशलादपि। द्वाराण्येतानि यो ज्ञात्वा संवृणोति सदा नृप॥३९॥",
+      "english": "He who desires wealth and children should ever keep himself away from these-vanity, dream, knowledge that spies have been set on, one's demeanor which depends on his thoughts, excessive trust on wicked ministers and incompetent ambassadors. He who being fully aware of these six door ( through which secrets ooze out). O king, keeps them always closed and engages in the attainment of the three kinds of objects (virtue, worldly good and desire), triumph over his enemies. Without a knowledge of the holy books and without proper reverence to old people.",
+      "bhavadeepa": "अर्थसन्ततिः अर्थानामविच्छेदेन वृद्धिः तत्कामः । मदं सुरापानजं चित्तवैक्लव्यम् । स्वप्नं निद्राम् । अविज्ञानं परकीयगुप्तचारादेरज्ञानम् । आत्मसम्भवमाकारं नेत्रवक्तृविकारादिकम् । तावतैव परदूता मन्त्रमुन्नयन्ति ॥३८॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः",
+      "combined_translation": "39-41"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "त्रिवर्गाचरणे युक्तः स शत्रूनधितिष्ठति। न वै श्रुतमविज्ञाय वृद्धाननुपसेव्य वा॥४०॥",
+      "english": null,
+      "bhavadeepa": "मन्त्रभेदस्य द्वाराणि संवृणोति पिदधाति ॥३९॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः",
+      "english_ref": 39,
+      "combined_translation": "39-41"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "धर्मार्थौ वेदितुं शक्यौ बृहस्पतिसमैरपि। नष्टं समुद्रे पतितं नष्टं वाक्यमशृण्वति॥४१॥",
+      "english": null,
+      "bhavadeepa": "श्रुतं शास्त्रम् ॥४०॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः",
+      "english_ref": 39,
+      "combined_translation": "39-41"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "अनात्मनि श्रुतं नष्टं नष्टं हुतमनग्निकम्। मत्या परीक्ष्य मेधावी बुद्ध्या सम्पाद्य चासकृत्॥४२॥",
+      "english": "Virtue and profit cannot be known even by one equal (intelligent) to Brihaspati; A thing is lost when it falls into the ocean. So an advice is lost when it is not listened.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "श्रुत्वा दृष्ट्वाऽथ विज्ञाय प्राज्ञैर्मैत्रीं समाचरेत्। अकीर्तिं विनयो हन्ति हन्त्यनर्थं पराक्रमः॥४३॥",
+      "english": "The holy books are lost on those who have no souls of their own (have no control over them); and an offering of clarified butter is lost when poured on what is not fire (i.e. when the fire has been extinguished and ashes only remain). Having examined by his intelligence and searched by his understanding.",
+      "bhavadeepa": "मत्या मननेन युक्तिभिरनुचिन्तनेन । जात्येतिपाठे कुलीनत्वेन । बुद्ध्या स्वानुभवेन सम्पाद्य कार्ययोग्यतां निश्चित्य ॥४२॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "हन्ति नित्यं क्षमा क्रोधमाचारो हन्त्यलक्षणम्। परिच्छदेन क्षेत्रेण वेश्मना परिचर्यया॥४४॥",
+      "english": "And having heard the opinions of other men seen and known the life of the men, a wise man forms friendship with wise men. Humility removes bad repute and prowess puts an end to adversity.",
+      "bhavadeepa": "श्रुत्वा परतः दृष्ट्वा स्वयमाकृत्या ज्ञात्वा विज्ञाय पुनः पुनर्विशेषेण ज्ञात्वा प्राज्ञताम् ॥४३॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "परीक्षेत कुलं राजन् भोजनाच्छादनेन च। उपस्थितस्य कामस्य प्रतिवादो न विद्यते॥४५॥",
+      "english": "Forgiveness ever destroys anger; good behaviour neutralises the effects of evil omens in the appearance of a man. By means of one's dress, sphere of action, house, behaviour,",
+      "bhavadeepa": "परिच्छदः भोग्यवस्तुसामग्री क्षेत्रेण जन्मस्थानेन कुग्रामवासिषु प्रायेण विवेकाभावात् परिचर्यया आचारेण ॥४४॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "अपि निर्मुक्तदेहस्य कामरक्तस्य किं पुनः। प्राज्ञोपसेविनं वैद्यं धार्मिकं प्रियदर्शनम् ॥४६॥",
+      "english": "Should a man's lineage be jaded about, O king and also by his food and dress. There is no struggling with a desire when it come on.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "मित्रवन्तं सुवाक्यं च सुहृदं परिपालयेत्। दुष्कुलीनः कुलीनो वा मर्यादां यो न लङ्घयेत्॥४७॥",
+      "english": "Even in men who have attained salvation not to speak of those who are slaves to their desires. One who worships the wise is learned, virtuous and of a mild look.",
+      "bhavadeepa": "वैद्यं विद्यावन्तम् ॥४६॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "धर्मापेक्षी मृदुर्ह्रीमान् स कुलीनशताद्वरः। ययोश्चित्तेन वा चित्तं निभृतं निभृतेन वा॥४८॥",
+      "english": "And has friends, is one, who of agreeable speech, has good heart, should me protected. He, who whether comes of a high or a low family, dose not transgress the houour due to others.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "समेति प्रज्ञया प्रज्ञा तयोर्मैत्री न जीर्यति। दुर्बुद्धिमत्कृतप्रज्ञं छन्नं कूपं तृणैरिव॥४९॥",
+      "english": "Who leans to virtue, who is graced with humility, who has a sense of modesty, is better than a hundred men coming of high families. When the heart of one agrees with that of another, then the secret pursuits of the former are the same as those of the latter.",
+      "bhavadeepa": "चित्तं ज्ञानमात्रं निभृतं गूढाचारप्रवृत्तं मन्त्रयन्त्रादि प्रज्ञा विशेषतोर्थोन्नयनक्षमता ॥४८॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "विवर्जयीत मेधावी तस्मिन् मौत्री प्रणश्यति। अवलिप्तेषु मूर्खेषु रौद्रसाहसिकेषु च॥५०॥",
+      "english": "And the learning of the former is the same as that of the latter, the friendship between the two person never wears out. One who has a wicked soul, one whose understanding has not been cultivated.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "तथैवापेतधर्मेषु न मैत्रीमाचरेद्बुधः। कृतज्ञं धार्मिकं सत्यमक्षुद्रं दृढभक्तिकम् ॥५१॥",
+      "english": "Should be shunned by an intelligent man like a well covered over with grass growing over it; friendship with them does not last. With those that are proud, ignorant, fierce and rash.",
+      "bhavadeepa": "रौद्राः कोपनाः साहसिकाः अविमृश्यकारिणस्तेषु ॥५०॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "जितेन्द्रियं स्थितं स्थित्यां मित्रमत्यागि चेष्यते। इन्द्रियाणामनुत्सर्गो मृत्युनाऽपि विशिष्यते॥५२॥",
+      "english": "Wise men should never contract friendship, nor with them who have fallen from the path of virtue. The man who is grateful, virtuous, the reverse of mean, has firm devotion.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "अत्यर्थं पुनरुत्सर्गः सादयेद्दैवतानपि। मार्दवं सर्वभूतानामनसूया क्षमा धृतिः॥५३॥",
+      "english": "And has his senses under control and attaches himself to what ought to be attached to should be desired for a friend. The renouncement of the objects of the senses is worse than death difficult of practices.",
+      "bhavadeepa": "इन्द्रियाणामुत्सर्गो विषयेषु प्रवृत्तिः । अनुत्सर्गो विषयेभ्यो निवृत्तिः । सा मृत्युतुल्या दुरनुष्ठेयेत्यर्थः॥५२॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "आयुष्याणि बुधाः प्राहुर्मित्राणां चाविमानना। अपनीतं सुनीतेन योऽर्थं प्रत्यानिनीषते ॥५४॥",
+      "english": "On the other hand, leaving them to be too much exercised would ruin the gods even; humility, kindness to all creatures, forgiveness and patience.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 55,
+      "sanskrit": "मतिमास्थाय सुदृढां तदकापुरुषव्रतम्। आयत्यां प्रतिकारज्ञस्तदात्वे दृढनिश्चयः ॥५५॥",
+      "english": "Conduce to life, the wise men have said; as also a constant respect for friends. He who desires again to accomplish, by virtuous means, an object that has once been frustrated,",
+      "bhavadeepa": "आयुष्याणि आयुःकराणि अपनीतमन्यायेन नाशितम् ॥५४॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 56,
+      "sanskrit": "अतीते कार्यशेषज्ञो नरोऽर्थैर्न प्रहीयते। कर्मणा मनसा वाचा यदभीक्ष्णं निषेवते ॥५६॥",
+      "english": "And is in his right senses, the determination of that man is firm. The man who knows what remedy ought to be applied in future, who has a firm determination on present matters.",
+      "bhavadeepa": "आयत्यामागामिनि काले दुःखस्य प्रतीकारज्ञः । तदात्वे वर्तमाने दृढनिश्चयः । भोगं विना प्राप्तस्य दुःखस्य नाशो नास्तीति ज्ञात्वा तत्संबन्धेऽपि नोत्तपति ॥५५॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 57,
+      "sanskrit": "तदेवापहरत्येनं तस्मा कल्याणमाचरेत्। मङ्गलालम्भनं योगः श्रुतमुत्थानमार्जवम्॥५७॥",
+      "english": "And who knows (in beginning) how acts done in the past would end accomplishes all his objects. That which a man follows in deed, thought or speech.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 58,
+      "sanskrit": "भूतिमेतानि कुर्वन्ति सतां चाभीक्ष्णदर्शनम्। अनिर्वेदः श्रियो मूलं लाभस्य च शुभस्य च॥५८॥",
+      "english": "Draws him away to itself; therefore a virtuous policy should be followed. Efforts for the attainment of one's holy objects, knowledge of the holy books, simplemindedness.",
+      "bhavadeepa": "मङ्गलानां दधिदूर्वागवादीनामालम्भनं स्पर्शः योगः सहायसम्पत् उत्थानमुद्यमः ॥५७॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 59,
+      "sanskrit": "महान् भवत्यनिर्विण्णः सुखं चानन्त्यमश्नुते। नातः श्रीमत्तरं किंचिदन्यत् पथ्यतमं मतम्॥५९॥",
+      "english": "These bring on prosperity; so do constant meetings with the good. Perseverance is the root the of prosperity and of gain and of happiness.",
+      "bhavadeepa": "अनिर्वेदः उद्योगात् अनुपरमः ॥५८॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 60,
+      "sanskrit": "प्रभविष्णोर्यथा तात क्षमा सर्वत्र सर्वदा। क्षमेदशक्तः सर्वस्य शक्तिमान् धर्मकारणात्। अर्थानर्थौ समौ यस्य तस्य नित्यं क्षमा हिता॥६०॥",
+      "english": "Than for really strong man to exercise forgiveness at all times and at all places. The weak should forgive every body and the strong should forgive for the sake of virtue. He to whom the attainment and the non-attainment of an object is the same is ever forgiving.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 61,
+      "sanskrit": "यत् सुखं सेवमानोऽपि धर्मार्थाभ्यां न हीयते। कामं तदुपसेवेत न मूढव्रतमाचरेत् ॥६१॥",
+      "english": "That happiness which when pursued dose not injure the virtue or the worldly profit of a man should be enjoyed one so may desire but he should not act like a fool (by giving himself up entirely to enjoyment).",
+      "bhavadeepa": "तस्य मध्यमस्य यो न शक्तः नाप्यशक्तस्तस्येत्यर्थः। सर्वेषां क्षमा श्रेयस्करीत्यर्थः ॥६०॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 62,
+      "sanskrit": "दुःखार्तेषु प्रमत्तेषु नास्तिकेष्वलसेषु च। न श्रीर्वसत्यदान्तेषु ये चोत्साहविवर्जिताः॥६२॥",
+      "english": "In those that are overpowered by grief, in those that are too much attached to anything, in those that deny the existence of God and in those that are lazy, prosperity dose not reside, nor in those who have no control over their souls and who are devoid of all enthusiasm.",
+      "bhavadeepa": "मूढवव्रतमाहारादौ अतिनिर्बन्धम् ॥६१॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 63,
+      "sanskrit": "आर्जवेन नरं युक्तमार्जवात् सव्यपत्रपम्। अशक्तं मन्यमानास्तु धर्षयन्ति कुबुद्धयः ॥६३॥",
+      "english": "Persons of bad intelligence oppress people endued with humility and modesty by reason of that humility, thinking them to be weak.",
+      "bhavadeepa": "अदान्तेषु लिप्साहीनेषु ॥६२॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 64,
+      "sanskrit": "अत्यार्यमतिदातारमतिशूरमतिव्रतम्। प्रज्ञाभिमानिनं चैव श्रीर्भयान्नोपसर्पति ॥६४॥",
+      "english": "To those who are honest in the extreme, who give away in large measures, who are too heroic, who are of too firm determination and who are vain of their wisdom, prosperity never comes out of fear.",
+      "bhavadeepa": "सव्यपत्रपं सलज्जम् ॥६३॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 65,
+      "sanskrit": "न चातिगुणवत्स्वेषा नात्यन्तं निर्गुणेषु च। नैषा गुणान् कामयते नैर्गुण्यान्नानुरज्यते॥६५॥",
+      "english": "Nor (dose prosperity reside) in persons endued with every virtue nor in those having none; she (prosperity) dose not desire a strong combination of good qualities. Prosperity resides in some one (without any fixed rule) like a mad cow.",
+      "bhavadeepa": "अत्यार्यमत्यन्तमकुटिलम् ॥६४॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 66,
+      "sanskrit": "उन्मत्ता गौरिवान्धा श्रीः क्वचिदेवावतिष्ठते। अग्निहोत्रफला वेदाः शीलवृत्तफलं श्रुतम्॥६६॥",
+      "english": "The result of (the study of) the Vedas is the performance of the Home; the result of a knowledge of the holy books is good manners and good conduct. The fruits of a woman are the pleasures of co-habitation and offspring; and the consequences of wealth are the pleasure of gift and enjoyment.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 67,
+      "sanskrit": "रतिपुत्रफला नारी दत्तभुक्तफलं धनम्। अधर्मोपार्जितैरर्थैर्यः करोत्यौर्ध्वदेहिकम्॥६७॥",
+      "english": "He who performs ceremonies for his good in the other world with wealth got by foul means. Dose not get the usual fruits of such ceremonies after death owing to the foul means by which the wealth was got.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः",
+      "combined_translation": "67-68"
+    },
+    {
+      "verse": 68,
+      "sanskrit": "न स तस्य फलं प्रेत्य भुङ्क्तेऽर्थस्य दुरागमात्। कान्तारे वनदुर्गेषु कृच्छ्रास्वापत्सु संभ्रमे॥६८॥",
+      "english": null,
+      "bhavadeepa": "और्ध्वदेहिकं परलोकसाधनं यज्ञदानादि ॥६७॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः",
+      "english_ref": 67,
+      "combined_translation": "67-68"
+    },
+    {
+      "verse": 69,
+      "sanskrit": "उद्यतेषु च शस्त्रेषु नास्ति सत्त्ववतां भयम्। उत्थानं संयमो दाक्ष्यमप्रमादो धृतिः स्मृतिः॥६९॥",
+      "english": "In deserts, foresees, in difficulties and calamities or when weapons are raised (by others to strike him) he who has a strong mind has no fear.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 70,
+      "sanskrit": "समीक्ष्य च समारम्भो विद्धि मूलं भवस्य तु। तपोबलं तापसानां ब्रह्म ब्रह्मविदां बलम् ॥७०॥",
+      "english": "Energy, self-control, skillfulness steadiness, patience and the act of beginning a thing after mature thought, know these to be the roots of prosperity.",
+      "bhavadeepa": "संयम इन्द्रियाणां निग्रहः ॥६९॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 71,
+      "sanskrit": "हिंसा बलमसाधूनां क्षमा गुणवतां बलम्। अष्टौ तान्यव्रतघ्नानि आपो मूलं फलं पयः॥७१॥",
+      "english": "Malice is the strength of the unrighteous; the penal code is the strength of the kings; ministration to the sick is the strength of women; and forgiveness is the strength of the virtuous.",
+      "bhavadeepa": "भवस्य ऐश्वर्यस्य ॥७०॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः",
+      "combined_translation": "71-75"
+    },
+    {
+      "verse": 72,
+      "sanskrit": "हविर्ब्राह्मणकाम्या च गुरोर्वचनमौषधम्। न तत्परस्य सन्दध्यात् प्रतिकूलं यदात्मनः॥७२॥",
+      "english": "These eight do not lead to the nonobservance of a vow-water, roots, fruits, milk, clarified butter, acts done at the desire of a Brahmana or the commands of an elder and medicine.",
+      "bhavadeepa": "ब्राह्मणकाम्या ब्राह्मणस्य इच्छा तदाज्ञयेत्यर्थः ॥७१॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 73,
+      "sanskrit": "सङ्ग्रहेणैव धर्मः स्यात् कामादन्यः प्रवर्तते। अक्रोधेन जयेत्क्रोधमसाधुं साधुना जयेत्॥७३॥",
+      "english": "That should not be done to others which is against the interest of one's self. This is virtue, put tersely; there are other sorts of virtue, but it is not compulsory that they (the better) should be acted up to.",
+      "bhavadeepa": "सन्दद्ध्यात् कुर्यात् ॥७२॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 74,
+      "sanskrit": "जयेत् कदर्यं दानेन जयेत् सत्येन चानृतम्। स्त्रीधूर्तकेऽलसे भीरौ चण्डे पुरुषमानिनि॥७४॥",
+      "english": "Anger should be subjugated by the reverse of anger; and virtuous man should be subjugated by virtue, by gifts should a miser be subjugated, by truth one addicted to untruth should be won.",
+      "bhavadeepa": "अन्योऽधर्मः कामात् इच्छया साधुना कर्मणा ॥७३॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 75,
+      "sanskrit": "चौरे कृतघ्ने विश्वासो न कार्यो न च नास्तिके। अभिवादनशीलस्य नित्यं वृद्धोपसेविनः ॥७५॥",
+      "english": "A woman, a cunning and deceitful person, one that is lazy, one that is fierce, one that is wrathful, one that is vain of his own power, a thief, one that is ungrateful should never be trusted; nor should atheist.",
+      "bhavadeepa": "स्त्रीधूर्तके स्त्रियां धूर्ते चेत्येकवद्भावः॥७४॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 76,
+      "sanskrit": "चत्वारि संप्रवर्धन्ते कीर्तिरापुर्यशो बलम्। अतिक्लेशेन येऽर्थाः स्युर्धर्मस्यातिक्रमेण वा॥७६॥",
+      "english": "He who has the habit of doing due honours to his elders and who always attends to the wishes of old persons, gets an increase of these four, viz., good name, life, fame and strength.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 77,
+      "sanskrit": "अरेर्वा प्रणिपातेन मा स्म तेषु मनः कृथाः। अविद्यः पुरुषः शोच्यः शोच्यं मैथुनमप्रजम्॥७७॥",
+      "english": "The prosperity which can be attained by excessive toil or by the non-observance of the principles of honesty, or by blowing to an enemy, do not set your heart on these.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 78,
+      "sanskrit": "निराहाराः प्रजाः शोच्याः शोच्यं राष्ट्रमराजकम्। अध्वा जरा देहवतां पर्वतानां जलं जरा॥७८॥",
+      "english": "One who is ignorant ought to be pitied; and intercourse that does not produce offspring ought to be pitied. The subjects of a king who go without food are to be pitied; and anarchy in a kingdom ought to be regretted.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 79,
+      "sanskrit": "असंभोगो जरा स्त्रीणां वाक्शल्यं मनसो जरा। अनाम्नायमला वेदा ब्राह्मणस्याव्रतं मलम्॥७९॥",
+      "english": "The roads are the sources of pain and weakness to those beings who have bodies; and water is the source of pain and weakness to the mountains, non-enjoyment is the source of pain to women; and harshness in speech is the source of pain to the mind.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 80,
+      "sanskrit": "मलं पृथिव्या बाह्लीकाः पुरुषस्यानृतं मलम्। कौतूहलमला साध्वी विप्रवासमलाः स्त्रियः॥८०॥",
+      "english": "Not taking the name even, is the worst thing for the Vedas; not observing religious observances, the worst act of the Brahmanas; the Balhika's (a race of people, morally dead) are the worst inhabitants of the globe. Falsehood is the worst thing in a man. Curiosity is the worst thing in a chaste woman; and exile from home is the worst thing for all women.",
+      "bhavadeepa": "वाक्शल्यं दुर्वचनमनाम्नायः अनभ्यास एव मलं येषाम् ॥७९॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 81,
+      "sanskrit": "सुवर्णस्य मलं रूप्यं रूप्यस्यापि मलं त्रपु। ज्ञेयं त्रपुमलं सीमं सीसस्यापि मलं मलम् ॥८१॥",
+      "english": "The worst part of gold is silver; tin is the worst part of silver; lead should be known as the worst part of tin; and dust is the worst part of lead.",
+      "bhavadeepa": "वाह्लिकाः 'पञ्चानां सिन्धुषष्ठानां नदीनां यत्र सङ्गमः। बाह्लिका नाम ते देशाः ॥८०॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 82,
+      "sanskrit": "न स्वप्नेन जयेन्निद्रां न कामेन जयेत्स्त्रियः। नेन्धनेन जयेदग्निं न पानेन सुरां जयेत् ॥८२॥",
+      "english": "The inclination to sleep cannot be got over by lying down; women cannot be won by desire; fire cannot be won by wood and excess drinking cannot be conquered by drinking.",
+      "bhavadeepa": "विप्रवासः प्रवासः ॥८१॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 83,
+      "sanskrit": "यस्य दानजितं मित्रं शत्रवो युधि निर्जिताः। अन्नपानजिता दाराः सफलं तस्य जीवितम् ॥८३॥",
+      "english": "He, whose friends have been won by gifts, whose enemies vanquished in battle, whose wife won over by food and drink, has his life crowned with success.",
+      "bhavadeepa": "स्वप्नेन शयनेन ॥८२॥",
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 84,
+      "sanskrit": "सहस्रिणोऽपि जीवन्ति जीवन्ति शतिनस्तथा। धृतराष्ट्र विमुञ्चेच्छां न कथञ्चिन्न जीव्यते ॥८४॥",
+      "english": "Life is real to those who have thousands (of anything or everything); life is also real to those (in a small measure) who have hundreds. 0 Dhritarashtra, renounce this (excessive) desire; there is none who cannot live by some means or other.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 85,
+      "sanskrit": "यत्पृथिव्यां व्रीहियवं हिरण्यं पशवः स्त्रियः। नालमेकस्य तत्सर्वमिति पश्यन्न मुह्यति॥८५॥",
+      "english": "All the grains, gold, animals and women that are in this world are not sufficient even for one man. Seeing all this a wise man does not grieve (for possession of everything).",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 86,
+      "sanskrit": "राजन्  भूयो ब्रवीमि त्वां पुत्रेषु सममाचर। समता यदि ते राजन् स्वेषु पाण्डुसुतेषु वा॥८६॥",
+      "english": "O king, again do I ask you to behave equally well with all your sons; let there be equality between your own sons and the sons of Pandu.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "प्रजागरपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    }
+  ]
+}

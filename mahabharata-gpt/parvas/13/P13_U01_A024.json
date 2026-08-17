@@ -1,0 +1,131 @@
+{
+  "adhyaya_id": "P13_U01_A024",
+  "book": 13,
+  "parva_name": "अनुशासनपर्व",
+  "upaparva_name": "दानधर्मपर्व",
+  "adhyaya_name": "चतुर्विंशोऽध्यायः",
+  "chapter": 24,
+  "verse_count": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "युधिष्ठिर उवाच। इदं मे तत्त्वतो राजन् वक्तुमर्हसि भारत । अहिंसयित्वाऽपि कथं ब्रह्महत्या विधीयते ॥१॥",
+      "english": "Yudhishthira said O descendant of Bharata's race, you should answer this question of mine truly and in detail. What are those circumstances under which a person may become guilty of Brahmanicide without actually killing a Brahmana.",
+      "bhavadeepa": null,
+      "chapter": 24,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुर्विंशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "भीष्म उवाच। व्यासमामन्त्र्य राजेन्द्र पुरा यत्पृष्टवानहम् । तत्तेऽहं संप्रवक्ष्यामि तदिहैकमनाः शृणु ॥२॥",
+      "english": "Bhishma said Formerly, O king, I had one day requested Vyasa to explain to me this very subject. I shall now describe to you what Vyasa told me on that occasion. Do you listen to it with rapt attention.",
+      "bhavadeepa": null,
+      "chapter": 24,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुर्विंशोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "चतुर्थस्त्वं वसिष्ठस्य तत्त्वमाख्याहि मे मुने । अहिंसयित्वा केनेह ब्रह्महत्या विधीयते ॥३॥",
+      "english": "Going to Vyasa, I addressed him saying You, O great ascetic, are the fourth in descent from Vaishishtha! Do you explain to me this. What are those circumstances under which one becomes guilty of Brahmanicide without actually killing a Brahmana?",
+      "bhavadeepa": null,
+      "chapter": 24,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुर्विंशोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "इति पृष्टो मया राजन् पराशरशरीरजः । अब्रवीन्निपुणो धर्मे निःसंशयमनुत्तमम् ॥४॥",
+      "english": "Thus addressed by me, the own begotten son of Parashara, o king an adept in the science of morality gave me the following answer at once excellent and fraught with certainly.",
+      "bhavadeepa": null,
+      "chapter": 24,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुर्विंशोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "ब्राह्मणं स्वयमाहूय भिक्षार्थे कृशवृत्तिनम् । ब्रूयान्नास्तीति यः पश्चात्तं विद्याद्ब्रह्मघातिनम् ॥५॥",
+      "english": "You should know that man as guilty of Brahmanicide who having of his own accord invited a Brahmana of pious conduct to his house for giving him alms then refuses too give anything on the pretence of there being nothing in the house.",
+      "bhavadeepa": null,
+      "chapter": 24,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुर्विंशोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "मध्यस्थस्येह विप्रस्य योऽनूचानस्य भारत । वृत्तिं हरति दुर्बुद्धिस्तं विद्याद्ब्रह्मघातिनम् ॥६॥",
+      "english": "You should, O Bharata, know that man as guilty of Brahmanicide who destroys the means of living of a Brahmana well-read in the Vedas, and all their branches and who is shorn of attachments to worldly creatures and goods.",
+      "bhavadeepa": null,
+      "chapter": 24,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुर्विंशोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "गोकुलस्य तृषार्तस्य जलार्थे वसुधाधिप । उत्पादयति यो विघ्नं तं विद्याद्ब्रह्मघातिनम् ॥७॥",
+      "english": "You should o king, know that man to be guilty of Brahmanicide who puts impediments in the way of thirsty kine while engaged in satisfying that thirst.",
+      "bhavadeepa": null,
+      "chapter": 24,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुर्विंशोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "यः प्रवृत्तां श्रुतिं सम्यक् शास्त्रं वा मुनिभिः कृतं । दूषयत्यनभिज्ञाय तं विद्याद्ब्रह्मघातिनम् ॥८॥",
+      "english": "You should take that man as guilty of Brahmanicide who, without studying them, finds fault with the Shrutis that have come down: from preceptor to pupil for ages and ages together, or with those scriptures that have been composed by the Rishis.",
+      "bhavadeepa": null,
+      "chapter": 24,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुर्विंशोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "आत्मजां रूपसंपन्नां महतीं सदृशे वरे । न प्रयच्छति यः कन्यां तं विद्याद्ब्रह्मघातिनम् ॥९॥",
+      "english": "You should know that man as guilty of Brahmanicide who does not confer upon a suitable bridegroom his daughter endued with beauty and other excellent qualities.",
+      "bhavadeepa": null,
+      "chapter": 24,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुर्विंशोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "अधर्मनिरतो मूढो मिथ्या यो वै द्विजातिषु । दद्यान्मर्मातिगं शोकं तं विद्याद्ब्रह्मघातिनम् ॥१०॥",
+      "english": "You should know that foolish and sinful wightought to be guilty of Brahmanicide who pains the Brahmanas to the very core of their hearts.",
+      "bhavadeepa": null,
+      "chapter": 24,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुर्विंशोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "चक्षुषा विप्रहीणस्य पंगुलस्य जडस्य वा । हरेत यो वै सर्वस्वं तं विद्याद्ब्रह्मघातिनम् ॥११॥",
+      "english": "You should know that man to be guilty of Brahmanicide who robs the blind, the lame, and idiots.",
+      "bhavadeepa": null,
+      "chapter": 24,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुर्विंशोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "आश्रमे वा वने वाऽपि ग्रामे वा यदि वा पुरे । अग्निं समुत्सृजेन्मोहात्तं विद्याद्ब्रह्मघातिनम् ॥१२॥",
+      "english": "You should know that man to be guilty of Brahmanicide who sets fire to the hermitage of ascetics or to forests or to a village or a town.",
+      "bhavadeepa": null,
+      "chapter": 24,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुर्विंशोऽध्यायः"
+    }
+  ]
+}

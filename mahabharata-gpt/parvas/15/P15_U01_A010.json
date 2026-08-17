@@ -1,0 +1,557 @@
+{
+  "adhyaya_id": "P15_U01_A010",
+  "book": 15,
+  "parva_name": "आश्रमवासिकपर्व",
+  "upaparva_name": "आश्रमवासपर्व - १",
+  "adhyaya_name": "दशमोऽध्यायः",
+  "chapter": 10,
+  "verse_count": 53,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वैशम्पायन उवाच।\n              एवमुक्तास्तु ते तेन पौरजानपदा जनाः। वृद्धेन राज्ञा कौरव्य नष्टसंज्ञा इवाभवन्॥१॥",
+      "english": "Thus addressed, O you of Kuru's race, by the old king, the citizens and the inhabitants of the provinces stood sometime like men shorn of consciousness.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "तूष्णीम्भूतांस्ततस्तांस्तु बाष्पकण्ठान्महीपतिः। धृतराष्ट्रो महीपालः पुनरेवाभ्यभाषत॥२॥",
+      "english": "King Dhritarashtra, finding thein silent, with their throats choked by grief, once more addressed them, saying, 'You best of men, old as I am, and sonless and through cheerlessness of heart, bewailing along with this my wedded wife, I have obtained the permission, in the matter of my retirement into the forest, of my sire, the Island-born Krishna himself, as also of king Yudhishthira, who knows every duty, you righteous dwellers of this kingdom.",
+      "bhavadeepa": "एवमिति॥१॥",
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः",
+      "combined_translation": "2-4"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "वृद्धं च हतपुत्रं च धर्मपत्न्या सहानया। विलपन्तं बहुविधं कृपणं चैव सत्तमाः॥३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "पित्रा स्वयमनुज्ञातं कृष्णद्वैपायनेन वै। वनवासाय धर्मज्ञा धर्मज्ञेन नृपेण ह॥४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः",
+      "english_ref": 2,
+      "combined_translation": "2-4"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "सोऽहं पुनः पुनश्चैव शिरसावनतोऽनघाः। गान्धार्या सहितं तन्मां समनुज्ञातुमर्हथ॥५॥",
+      "english": "You sinless ones, I with Gandhari, repeatedly solicit you with bent heads, You should all grant us permission.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "वैशम्पायन उवाच।\n              तच्छ्रुत्वा कुरुराजस्य वाक्यानि करुणानि ते। रुरुदुः सर्वशो राजन्समेताः कुरुजाङ्गलाः॥६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "उत्तरीयैः करैश्चापि सञ्च्छाद्य वदनानि ते। रुरुदुः शोकसन्तप्ता मुहूर्तं पितृमातृवत्॥७॥",
+      "english": "Covering their faces with their hands and upper garments, all those men, burning with grief, wept for a while as father sand mothers would weep.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "हृदयैः शून्यभूतैस्ते धृतराष्ट्रप्रवासजम्। दुःखं सन्धारयन्तो हि नष्टसंज्ञा इवाभवन्॥८॥",
+      "english": "Bearing in their hearts, from which every other thoughts had been removed, the sorrow born of Dhritarashtra's desire to leave the world, they looked like men shorn of consciousness.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "ते विनीय तमायासं धृतराष्ट्रवियोगजम्। शनैः शनैस्तदान्योन्यमब्रुवन्सम्मतान्युत॥९॥",
+      "english": "Checking that agitation of heart due to the announcement of Dhritarashtra's desire of going to the forest, they gradually were able to address one another, expressing their wishes.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "ततः सन्धाय ते सर्वे वाक्यान्यथ समासतः। एकस्मिन्ब्राह्मणे राजन्निवेश्योचुर्नराधिपम्॥१०॥",
+      "english": "Setting their words briefly, O king, they charged a certain Brahmana therewith and thus replied to the old king.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "ततः स्वाचरणो विप्रः सम्मतोऽर्थविशारदः। साम्बाख्यो बह्वृचो राजन्वक्तुं समुपचक्रमे॥११॥",
+      "english": "That learned Brahinana, of good conduct, chosen by unanimous consent, conversant with all subjects, master of all the Rics, and named Samba, tried to speak.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "अनुमान्य महाराजं तत्सदः सम्प्रसाद्य च। विप्रः प्रगल्भो मेधावी स राजानमुवाच ह॥१२॥",
+      "english": "Taking the permission of the whole assembly and with its full approbation, that learned Brahmana of great intelligence, conscious of his own powers, said these words to the king.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "राजन्वाक्यं जनस्यास्य मयि सर्वं समर्पितम्। वक्ष्यामि तदहं वीर तज्जुषस्व नराधिप॥१३॥",
+      "english": "O monarch, the answer of this assembly has been committed to my care. I shall speak it out, O hero! Do you receive it, O king.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "यथा वदसि राजेन्द्र सर्वमेतत्तथा विभो। नात्र मिथ्या वचः किञ्चित्सुहृत्त्वं नः परस्परम्॥१४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "न जात्वस्य च वंशस्य राज्ञां कश्चित्कदाचन। राजाऽऽसीद्यः प्रजापालः प्रजानामप्रियोऽभवत्॥१५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "पितृवद्भ्रातृवच्चैव भवन्तः पालयन्ति नः। न च दुर्योधनः किञ्चिदयुक्तं कृतवान्नृपः॥१६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "यथा ब्रवीति धर्मात्मा मुनिः सत्यवतीसुतः। तथा कुरु महाराज स हि नः परमो गुरुः॥१७॥",
+      "english": "Do that, O king, which that righteoussouled ascetic, the son of Satyavati, has said. He is, indeed out foremost of instructors.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "त्यक्ता वयं तु भवता दुःखशोकपरायणाः। भविष्यामश्चिरं राजन् भवद्गुणशतैर्युताः॥१८॥",
+      "english": "Left by you, O king, we shall have to pass our days in grief and sorrow, remembering hundreds of virtues possessed by you.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "यथा शान्तनुना गुप्ता राज्ञा चित्राङ्गदेन च। भीष्मवीर्योपगूढेन पित्रा तव च पार्थिव॥१९॥",
+      "english": "We were well-protected and ruled by king Duryodhana even as we had been ruled by king Shantanu, or by Chitrangada, or by your father, O monarch, who was protected by the prowess of Bhishma, or by Pandu, that ruler of Earth, who was overlooked by you in all is deeds.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः",
+      "combined_translation": "19-20"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "भवदुद्वीक्षणाच्चैव पाण्डुना पृथिवीक्षिता। तथा दुर्योधनेनापि राज्ञा सुपरिपालताः॥२०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः",
+      "english_ref": 19,
+      "combined_translation": "19-20"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "न स्वल्पमपि पुत्रस्ते व्यलीकं कृतवान्नृप। पितरीव सुविश्वस्तास्तस्मिन्नपि नराधिपे॥२१॥",
+      "english": "Your son, O monarch, never did us the slightest wrong. We lived, depending on that king as trustfully as on our own father.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "वयमास्म यथा सम्यक् भवतो विदितं तथा। तथा वर्षसहस्राणि कुन्तीपुत्रेण धीमता॥२२॥",
+      "english": "It is known to you how we lived (under that ruler). Similarly we have enjoyed great happiness, O king, for thousands of years, under the rule of Kunti's son of great intelligence and wisdom.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "पाल्यमाना धृतिमता सुखं विन्दामहे नृप। राजर्षीणां पुराणानां भवतां पुण्यकर्मणाम्॥२३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः",
+      "english_ref": 5,
+      "combined_translation": "5-23"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "कुरुसंवरणादीनां भरतस्य च धीमतः। वृत्तं समनुयात्येष धर्मात्मा भूरिदक्षिणः॥२४॥",
+      "english": "This righteous-souled king who celebrates sacrifices with profuse gifts, follows the conduct of the royal sages of old, belonging to our race, of meritorious decds, having Kuru and Samavara and other sand the highly intelligent Bharata among them.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "नात्र वाच्यं महाराज सुसूक्ष्ममपि विद्यते। उषिताः स्म सुखं नित्यं भवता परिपालिताः॥२५॥",
+      "english": "There is nothing, O monarch, that is even slightly censurable in the matter of this Yudhishthishta's rule. Protected and ruled by you, we have all lived in great happiness.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "सुसूक्ष्मं च व्यलीकं ते सपुत्रस्य न विद्यते। यत्तु ज्ञातिविमर्देऽस्मिन्नात्थ दुर्योधनं प्रति॥२६॥",
+      "english": "The slightest omission cannot be laid at your doors and yours sons. Regarding what you have said about Duryodhana in the matter of this destruction of kinsmen, I beg you, O delighter of the Kurus, (to listen to me).",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "भवन्तमनुनेष्यामि तत्रापि कुरुनन्दन।\n              ब्राह्मण उवाच।\n              न तद्दुर्योधनकृतं न च तद्भवता कृतम्॥२७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "न कर्णसौबलाभ्यां च कुरवो यत् क्षयं गताः। दैवं तत्तु विजानीमो यन्न शक्यं प्रवाधितुम्॥२८॥",
+      "english": "The carnage that has overtaken the Kurus was not caused by Duryodhana. It was not brought about by you. Nor was it brought about by Karna and Subala's son.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "दैवं पुरुषकारेण न शक्यमपि बाधितुम्। अक्षौहिण्यो महाराज दशाष्टौ च समागताः॥२९॥",
+      "english": "We know that it was encompassed about by Destiny, and that it was incapable of being counteracted. Destiny is not capable of being resisied by human exertion.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "अष्टादशाहेन हताः कुरुभिर्योधपुङ्गवैः। भीष्मद्रोणकृपाद्यैश्च कर्णेन च महात्मना॥३०॥",
+      "english": "Eighteen Akshauhinis of soldiers, O monarch, were collected. In eighteen days that army was destroyed by the foremost of Kuru warriors, viz., Bhishma and Drona and others, and the great Karna, and the heroic Yuyudhana and Dhritadyumna, and by the four sons of Pandu, that is, Bhima and Arjuna and the twins. This destruction, O kiing, could not happen without the influence of Destiny.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः",
+      "combined_translation": "30-32"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "युयुधानेन वीरेण धृष्टद्युम्नेन चैव ह। चतुर्भिः पाण्डुपुत्रैश्च भीमार्जुनयमैस्तथा॥३१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः",
+      "english_ref": 30,
+      "combined_translation": "30-32"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "न च क्षयोऽयं नृपते ऋते दैवबलादभूत्। अवश्यमेव सङ्ग्रामे क्षत्रियेण विशेषतः॥३२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः",
+      "english_ref": 30,
+      "combined_translation": "30-32"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "कर्तव्यं निधनं काले मर्तव्यं क्षत्रबन्धुना। तैरियं पुरुषव्याघ्रैर्विद्या बाहुबलान्वितैः॥३३॥",
+      "english": "Forsooth, by Kshatriyas in particular, should enemies be killed and death encountered in battle. By those foremost of men, gifted with science and might of arms, the Earth has been exterminaled with her horses and cars and elephants.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः",
+      "combined_translation": "33-34"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "पृथिवी निहता सर्वा सहया सरथद्विपा। न स राज्ञां वधे सूनुः कारणं ते महात्मनाम्॥३४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः",
+      "english_ref": 33,
+      "combined_translation": "33-34"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "न भवान्न च ते भृत्या न कर्णो न स सौबलः। यद्विशस्ताः कुरुश्रेष्ठ राजानश्च सहस्रशः॥३५॥",
+      "english": "Your son was not the cause of that destruction of great kings. You were not the cause, nor your servants, nor Karna, nor Subala's son.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "सर्वं दैवकृतं विद्धि कोऽत्र किं वक्तुमर्हति। गुरुर्मतो भवानस्य कृत्स्नस्य जगतः प्रभुः॥३६॥",
+      "english": "The destruction of those for-most ones of Kuru's race and of kings by thousands know, was engendered by Destiny. Who can say anything else in this.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "धर्मात्मानमतस्तुभ्यमनुजानीमहे सुतम्। लभतां वीरलोकं स ससहायो नराधिपः॥३७॥",
+      "english": "You are regarded as the preceptor and the master of the whole world. We, therefore, in you presence, absolve your righteous-souled son.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "द्विजाग्र्यैः समनुज्ञातस्त्रिदिवे मोदतां सुखम्। प्राप्स्यते च भवान्पुण्यं धर्मे च परमां स्थितिम्॥३८॥",
+      "english": "Let that king, with all his associates, obtain the regions reserved for herocs Permitted by foremost of Brahmanas, let him sport blissfully in the celestial region.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "वेदधर्मं च कृत्स्नेन सम्यक् त्वं भव सुव्रतः। दृष्टिप्रदानमपि ते पाण्डवान्प्रति नो वृथा॥३९॥",
+      "english": "You, also shall attain to great merit, and unswerving steadiness in virtue. O you of excellent vows, follow fully the duties laid down in the Vedas.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "समर्थास्त्रिदिवस्यापि पालने किं पुनः क्षितेः। अनुवर्त्स्यन्ति वा धीमन्समेषु विषमेषु च॥४०॥",
+      "english": "It is not necessary for either you or ourselves to look after the Pandavas. They are capable of ruling the very Heavens, what need then be said of the Earth?",
+      "bhavadeepa": "दृष्टिप्रदानमपि अस्मदवेक्षार्थं पाण्डवेष्वस्माकं समर्पणम्॥३९॥",
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "प्रजाः कुरुकुलश्रेष्ठ पाण्डवान् शीलभूषणान्। ब्रह्मदेयाग्रहारांश्च पारिबर्हांश्च पार्थिवः॥४१॥",
+      "english": "O you of great intelligence, in weal as in woe, the subjects of this kingdom, O foremost one of Kuru's race, will obey the Pandavas who have conduct for their ornament.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "पूर्वराजाभिपन्नांश्च पालयत्येव पाण्डवः। दीर्घदर्शी मृदुर्दान्तः सदा वैश्रवणो यथा॥४२॥",
+      "english": "The son of Pandu makes those valuable gifts which are always to be made to foremost of twice-born persons in sacrifices and in obscquial rites, after the manner of all the great kings of yore.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "अक्षुद्रसचिवश्चायं कुन्तीपुत्रो महामनाः। अथ मित्रे दयावांश्च शुचिश्च भरतर्षभः॥४३॥",
+      "english": "The great son of Kunti is mild, and selfcontrolled, and is always disposed to spend as if he were a second Vaishravana. He has great ministers who attend on him.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "ऋजु पश्यति मेधावी पुत्रवत्पालितः सदा। विप्रियं च जनस्यास्य संसर्गाद्धर्मजस्य वै॥४४॥",
+      "english": "He is compassionate to even his enemies. Indeed, that foremnost one of Bharata's race is of pure conduct. Gifted with great intelligence, he is perfectly straightforward in his dealings and rules and protects us like a father his children.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "न करिष्यन्ति राजर्षे तथा भीमार्जुनादयः। मन्दा मृदुषु कौरव्य तीक्ष्णेष्वाशीविषोपमाः॥४५॥",
+      "english": "From association with him who is the son of Dharma, O royal sage, Bhima and Arjuna and others will never wrong us in the least.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "वीर्यवन्तो महात्मानः पौराणां च हिते रताः। न कुन्ती न च पाञ्चाली न चोलूपी न सात्वती॥४६॥",
+      "english": "They are mild, O you of Kuru's race, to them that are inild, and fierce like snakes of dreadful poison to them who are fierce. Endured with great energy, those high-souled ones are always devoted to the well-being of the people.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "अस्मिन् जने करिष्यन्ति प्रतिकूलानि कर्हिचित्। भवत्कृतमिमं स्नेहं युधिष्ठिरविवर्धितम्॥४७॥",
+      "english": "Neither Kunti, nor your (daughter-in-law) Panchali, nor Ulupi, nor the princess of the Satvata race, will do the least wrong to these people.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "न पृष्ठतः करिष्यन्ति पौरा जानपदा जनाः। अधर्मिष्ठानपि सतः कुन्तीपुत्रा महारथाः॥४८॥",
+      "english": "The affection which you have shown towards us and which in Yudhishthira is seen to exist in a still larger measurc, is incapable of being forgotten by the people of the city and the provinces.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "मानवान्पालयिष्यन्ति भूत्वा धर्मपरायणाः। स राजन्मानसं दुःखमपनीय युधिष्ठिरात्॥४९॥",
+      "english": "Those powerful car-warriors, viz., the sons of Kunti, themselves devoted to the duties of virtue, will protect and cherish the people even if these happen to be unrighteous.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "कुरु कार्याणि धर्म्याणि नमस्ते पुरुषर्षभ।\n              वैशम्पायन उवाच।\n              तस्य तद्वचनं धर्म्यमनुमान्य गुणोत्तरम्॥५०॥",
+      "english": "Do you, therefore, O king, reinoving all anxiety of heat on account of Yudhishthira, set yourself to the accomplishment of all meritorious deeds, O foremost of men.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "साधु साध्विति सर्वः स जनः प्रतिगृहीतवान्। धृतराष्ट्रश्च तद्वाक्यमभिपूज्य पुनः पुनः॥५१॥",
+      "english": "Hearing these words, fraught with virtue and merit, of that Brahmana and approving of them every person in that assembly said, 'Excellent, Excellent' and accepted them as his own.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "विसर्जयामास तदा प्रकृतीस्तु शनैः शनैः। स तैः सम्पूजितो राजा शिवेनावेक्षितस्तथा॥५२॥",
+      "english": "Dhritarashtra, also, repeatedly speaking highly of those words, slowly dismissed that assembly of his subjects.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "प्राञ्जलिः पूजयामास तं जनं भरतर्षभ। ततो विवेश भवनं गान्धार्या सहितो निजम्। व्युष्टायां चैव शर्वर्यां यच्चकार निबोध तत्॥५३॥",
+      "english": "He, then, entered his own palace with Gandhari, Listen now to what he did after that night had passed away.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "दशमोऽध्यायः"
+    }
+  ]
+}

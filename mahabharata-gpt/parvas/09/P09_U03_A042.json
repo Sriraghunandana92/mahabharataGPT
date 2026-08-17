@@ -1,0 +1,438 @@
+{
+  "adhyaya_id": "P09_U03_A042",
+  "book": 9,
+  "parva_name": "शल्यपर्व",
+  "upaparva_name": "गदायुद्धपर्व",
+  "adhyaya_name": "द्विचत्वारिंशोऽध्यायः",
+  "chapter": 42,
+  "verse_count": 41,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "जनमेजय उवाच।\n              वसिष्ठस्यापवाहोऽसौ भीमवेगः कथं नु सः। किमर्थं च सरिच्छ्रेष्ठा तमृषिं प्रत्यवाहयत्॥१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "कथमस्याभवद्वैरं कारणं किं च तत्प्रभो। शंस पृष्टो महाप्राज्ञ न हि तृप्यामि कथ्यति॥२॥",
+      "english": null,
+      "bhavadeepa": "वसिष्ठस्येति। अपोह्यते तीरे प्रास्यतेऽनेनेत्यापवाहस्तीर्थविशेषः॥१॥",
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "वैशम्पायन उवाच।\n              विश्वामित्रस्य विप्रर्षेर्वसिष्ठस्य च भारत। भृशं वैरमभूद्राजंस्तपः स्पर्धाकृतं महत्॥३॥",
+      "english": "Vaishampayana said A great enemity arose between Vishvamitra and Vashishtha, O Bharata, on account of their rivalry regarding ascetic penances.",
+      "bhavadeepa": "कथ्यति त्वयि कथयति सति॥२॥",
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "आश्रमो वै वसिष्ठस्य स्थाणुतीर्थेऽभवन्महान्। पूर्वतः पार्श्वतश्चासीद्विश्वामित्रस्य धीमतः॥४॥",
+      "english": "The hermitage of Vashishtha was in the tirtha called Sthanu on the eastern bank of the Sarasvati. On the opposite bank was the hermitage of the intelligent Vishvamitra.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "यत्र स्थाणुर्महाराज तप्तवान् परमं तपः। तत्रास्य कर्म तद्घोरं प्रवदन्ति मनीषिणः॥५॥",
+      "english": "There, in that tirtha, O king, Mahadeva had practised the hardest penances. Sages still speak of those penances.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "यत्रेष्ट्वा भगवान् स्थाणुः पूजयित्वा सरस्वतीम्। स्थापयामास तत्तीर्थं स्थाणुतीर्थमिति प्रभो॥६॥",
+      "english": "Having performed a sacrifice there and adored the river Sarasvati, Sthanu established that tirtha there. Therefore it is known by the name Sthanu-tirtha, O lord.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "तत्र तीर्थे सुराः स्कन्दमभ्यषिञ्चन्नराधिप। सैनापत्येन महता सुरारिविनिबर्हणम्॥७॥",
+      "english": "In that tirtha, the celestials had, formerly, ) king, appointed Skanda, that destroyer of the enemies of the celestials, as the generalissimo of their army.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "तस्मिन्सारस्वते तीर्थे विश्वामित्रो महामुनिः। वसिष्ठं चालयामास तपसोगेण तच्छृणु॥८॥",
+      "english": "The great Rishi Vishvamitra, by the help of his austere penances, brought Vashishtha, to that tirtha of the Sarasvati, listen to that account.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "विश्वामित्रवसिष्ठौ तावहन्यहनि भारत। स्पर्धां तपःकृतां तीव्रां चक्रतुस्तौ तपोधनौ॥९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "तत्राप्याधिकसन्तापो विश्वामित्रो महामुनिः। दृष्ट्वा तेजो वसिष्ठस्य चिन्तामभिजगाम ह॥१०॥",
+      "english": "Being jealous of the power of Vashishtha, the great Muni Vishvamitra began to think seriously.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "तस्य बुद्धिरियं ह्यासीद्धर्मनित्यस्य भारत। इयं सरस्वती तूर्णं मत्समीपं तपोधनम्॥११॥",
+      "english": "Thought devoted to the performance of his duties, O Bharata, he formed the resolution, viz., This Sarasvati shall speedily bring, by force of her current, that foremost of ascetics, viz., Vashishtha, to my presence. After he shall have been brought hither, I shall forsooth kill that greatest of ascetics.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः",
+      "combined_translation": "11-12"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "आनयिष्यति वेगेन वसिष्ठं तपतां वरम्। इहागतं द्विजश्रेष्ठं हनिष्यामि न संशयः॥१२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः",
+      "english_ref": 11,
+      "combined_translation": "11-12"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "एवं निश्चित्य भगवान्विश्वामित्रो महामुनिः। सस्मार सरितां श्रेष्ठां क्रोधसंरक्तलोचनः॥१३॥",
+      "english": "Having formed this resolution, the illustrious and great Rishi Vishvamitra, with eyes red in ire, thought of that foremost of rivers.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "सा ध्याता मुनिना तेन व्याकुलत्वं जगाम ह। जज्ञे चैनं महावीर्यं महाकोपं च भाविनी॥१४॥",
+      "english": "Thus remembered by the ascetic, she became exceedingly agitated. The fair lady, repaired to that energetic and wrathful Rishi.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "तत एनं वेपमानां विवर्णा प्राञ्जलिस्तदा। उपतस्थे मुनिवरं विश्वामित्रं सरस्वती॥१५॥",
+      "english": "Pale and trembling, Sarasvati, with clasped hands, appeared before that best of sages.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "हतवीरा यथा नारी साऽभवद्दुःखिता भृशम्। ब्रूहि किं करवाणीति प्रोवाच मुनिसत्तमम्॥१६॥",
+      "english": "Indeed, the lady was greatly afflicted with sorrow, even like a woman who has lost her powerful husband. And she said to that best of sages-\"Tell me what I can do for you.'",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "तामुवाच मुनिः क्रुद्धो वसिष्ठं शीघ्रमानय। यावदेनं निहन्म्यद्य तच्छ्रुत्वा व्यथिता नदी॥१७॥",
+      "english": "Filled with ire, the ascetic said her-Bring here Vashishtha without delay, so that I my kill him.' Hearing these words, the river became agitated.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "प्राञ्जलिं तु ततः कृत्वा पुण्डरीकनिभेक्षणा। प्राकम्पत भृशं भीता वायुनेवाहता लता॥१८॥",
+      "english": "With clasped hands the lotus-eyed lady began to tremble in fear, like a creeper shaken by the wind.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "तथारूपां तु तां दृष्ट्वा मुनिराह महानदीम्। अविचारं वसिष्ठं त्वमानयस्वान्तिकं मम॥१९॥",
+      "english": "Beholding the great river in that condition, the ascetic said to her-\"Bring Vashishtha before me without any scruple.'",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "सा तस्य वचनं श्रुत्वा ज्ञात्वा पापं चिकीर्पितम्। वसिष्ठस्य प्रभावं च जानन्त्यप्रतिमं भुवि॥२०॥",
+      "english": "Hearing these words of his and knowing the evil he meant and acquainted also with the matchless power of Vashishtha she went to Vashishtha and informed him of what the intelligent Vishvamitra had said to her.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः",
+      "combined_translation": "20-39"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "साऽभिगम्य वसिष्ठं च इदमर्थमचोदयत्। यदुक्ता सरितां श्रेष्ठा विश्वामित्रेण धीमता॥२१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः",
+      "english_ref": 20,
+      "combined_translation": "20-39"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "उभयोः शापयोर्भीता वेपमाना पुनः पुनः। चिन्तयित्वा महाशापमृषिवित्रासिता भृशम्॥२२॥",
+      "english": "Fearing the course of both, she trembled again and again. Indeed, she stood in fear of both.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "तां कृशां च विवर्णां च दृष्ट्वा चिन्तासमन्विताम्। उवाच राजन् धर्मात्मा वसिष्ठो द्विपदां वरः॥२३॥",
+      "english": "Seeing her pale and anxious, the righteous Vashishtha, that foremost of men, O king, said to her.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "वसिष्ठ उवाच।\n              पाह्यात्मानं सरिच्छ्रेष्ठे वह मां शीघ्रगामिनी। विश्वामित्रः शपेद्धि त्वां मा कृथास्त्वं विचारणाम्॥२४॥",
+      "english": "Vashishtha said O foremost of rivers, save yourself, O you of rapid current, bear me away, otherwise Vishvamitra will curse you! Do not feel the least scruple.'",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "तस्य तद्वचनं श्रुत्वा कृपाशीलस्य सा सरित्। चिन्तयामास कौरव्य किं कृत्वा सुकृतं भवेत्॥२५॥",
+      "english": "Hearing these words of that compassionate Rishi, the river began to think, O Kuru-chief, as to what she should do.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "तस्याश्चिन्ता समुत्पन्ना वसिष्ठो मय्यतीव हि। कृतवान् हि दयां नित्यं तस्य कार्यं हितं मया॥२६॥",
+      "english": "The thought Vashishtha shows great mercy for me. It is proper for me that I should serve him.'",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "अथ कूले स्वके राजन् जपन्तमृषिसत्तमम्। जुह्वानं कौशिकं प्रेक्ष्य सरस्वत्यभ्यचिन्तयत्॥२७॥",
+      "english": "Seeing then that best of Rishis, viz., Vashishtha engaged in silent recitation of Mantras on her bank and seeing Kushika's son Vishvamitra also engaged in homa, Sarasvati thought, this is my opportunity.' Then that foremost of rivers, by her current, washed away one of her banks.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः",
+      "combined_translation": "27-28"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "इदमन्तरमित्येवं ततः सा सरितां वरा। कूलापहारमकरोत्स्वेन वेगेन सा सरित्॥२८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः",
+      "english_ref": 27,
+      "combined_translation": "27-28"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "तेन कूलापहारेण मैत्रावरुणिरौह्यत। उह्यमानः स तुष्टाव तदा राजन् सरस्वतीम्॥२९॥",
+      "english": "In washing away that bank, she carried away Vashishtha. While being borne away. ) king, Vashishtha lauded the river saying: \"From Brahma's Manasa-lake you have originated, O Sarasvati! The entire carth is filled with thy pure waters!",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः",
+      "combined_translation": "29-30"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "पितामहस्य सरसः प्रवृत्ताऽसि सरस्वति। व्याप्तं चेदं जगत्सर्वं तवैवाम्भोभिरुत्तमैः॥३०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः",
+      "english_ref": 29,
+      "combined_translation": "29-30"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "त्वमेवाकाशगा देवि मेघेषु सृजसे पयः। सर्वाश्चापस्त्वमेवेति त्वत्तो वयमधीमहि॥३१॥",
+      "english": "Passing through the sky, O Goddess, thou impartest thy waters to the clouds! All the waters are thee! Through thee we exercise our thinking faculties!",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "पुष्टिर्द्युतिस्तथा कीर्तिः सिद्धिबुद्धिरुमा तथा। त्वमेव वाणी स्वाहा त्वं तवायत्तमिदं जगत्॥३२॥",
+      "english": "Thou art Pushti and Dyuti, Kiriti and Siddhi and Uma! Thou art Speech and thou art Svaha! This entire universe depends on thee. Thou dwellest in all creatures, in four forms.\"",
+      "bhavadeepa": "वयं ऋषयः त्वत्तोऽधीमहि वेदान् कदाचिदनावृष्ट्या मृतेषु ऋषिषु सम्प्रदायोच्छेदे सतीति भावः॥३१॥",
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः",
+      "combined_translation": "32-33"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "त्वमेव सर्वभूतेषु वससीह चतुर्विधा। एवं सरस्वती राजन् स्तूयमाना महर्षिणा॥३३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः",
+      "english_ref": 32,
+      "combined_translation": "32-33"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "वेगेनोवाह तं विप्रं विश्वामित्राश्रमं प्रति। न्यवेदयत चाभीक्ष्णं विश्वामित्राय तं मुनिम्॥३४॥",
+      "english": "Thus lauded by that great Rishi, Sarasvati, O king, speedily bore that Brahmana towards the hermitage of Vishvamitra and repeatedly announced to the latter the arrival of the former.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "तमानीतं सरस्वत्या दृष्ट्वा कोपसमन्वितः। अथान्वेषत्प्रहरणं वसिष्ठान्तकरं तदा॥३५॥",
+      "english": "Seeing Vashishtha thus brought before him by Sarasvati, Vishvamitra, worked up with ire, began to look for a weapon where with to kill that Brahmana.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "तं तु क्रुद्धमभिप्रेक्ष्य ब्रह्मवध्याभयान्नदी। अपोवाह वसिष्ठं तु प्राचीं दिशमतन्द्रिता॥३६॥",
+      "english": "Seeing him wrathful, the river, fearing to behold a Brahmana's slaughter, quickly bore Vashishtha away to her eastern bank once more. She thus had obeyed the words of both, although she deceived Vishvamitra by her act.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "उभयोः कुर्वती वाक्यं वञ्चयित्वा च गाधिजम्। ततोऽपवाहितं दृष्ट्वा वसिष्ठमृषिसत्तमम्॥३७॥",
+      "english": "Seeing that best of Rishis, viz., Vashishtha, borne away, the vindictive Vishvamitra becoming enraged addressed Sarasvati, saying",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "अब्रवीद्दुःखसङ्क्रुद्धो विश्वामित्रो ह्यमर्षणः। यस्मान्मां त्वं सरिच्छ्रेष्ठे वञ्चयित्वा पुनर्गता॥३८॥",
+      "english": "Since, O best of rivers, thou hast gone away and deceived me, let thy current be changed into blood liked of Rakshasas!'",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "शोणितं वह कल्याणि रक्षोग्रामणिसम्मतम्। ततः सरस्वती शप्ता विश्वामित्रेण धीमता॥३९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः",
+      "english_ref": 20,
+      "combined_translation": "20-39"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "अवहच्छोणितोन्मिश्रं तोयं संवत्सरं तदा। अथर्षयश्च देवाश्च गन्धर्वाप्सरसस्तदा॥४०॥",
+      "english": "Thus cursed by the intelligent Vishvamitra, Sarasvati flowed for a whole year, bearing blood mixed with water.",
+      "bhavadeepa": "रक्षोग्रामणिसम्मतमित्यत्र ह्रस्वत्वमार्षम्॥३९॥",
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "सरस्वतीं तथा दृष्ट्वा बभूवुर्भृशदुःखिताः। एवं वसिष्ठापवाहो लोके ख्यातो जनाधिप। आगच्छच्च पुनर्मार्गं स्वमेव सरितां वरा॥४१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    }
+  ]
+}

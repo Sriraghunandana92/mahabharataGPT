@@ -1,0 +1,594 @@
+{
+  "adhyaya_id": "P05_U02_A029",
+  "book": 5,
+  "parva_name": "उद्योगपर्व",
+  "upaparva_name": "सञ्जययानपर्व",
+  "adhyaya_name": "एकोनत्रिंशोऽध्यायः",
+  "chapter": 29,
+  "verse_count": 58,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वासुदेव उवाच।\n              अविनाशं सञ्जय पाण्डवानामिच्छाम्यहं भूतिमेषां प्रियं च। तथा राज्ञो धृतराष्ट्रस्य सूत समाशंसे बहुपुत्रस्य वृद्धिम् ॥१॥",
+      "english": "Vasudeva said I desire, O Sanjaya, the continuance of the existence of the sons of Pandu-their prosperity and their good and in the same way, O Suta, do I desire the prosperity of king Dhritarashtra who has many sons.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "कामो हि मे सञ्जय नित्यमेव नान्यद्ब्रूयां तान्प्रति शाम्यतेति। राज्ञश्च हि प्रियमेतच्छृणोमि मन्ये चैतत्पाण्डवानां समक्षम् ॥२॥",
+      "english": "It has ever been my desire, O Sanjaya, to say to them, “Be peaceful” nothing else. I hear that this is also the wish of the king (Dhritarashtra) and I consider this to be equally to the good of the sons of Pandu.",
+      "bhavadeepa": "अविनाशमिति ॥१॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "सुदुष्करस्तत्र शमो हि नूनं प्रदर्शितः सञ्जय पाण्डवेन। यस्मिन् गृद्धो धृतराष्ट्रः सपुत्रः कस्मादेषां कलहो नावमूर्च्छेत् ॥३॥",
+      "english": "Peace, of a rare sort, indeed, has been shown, O Sanjaya, by the son of Pandu, when Dhritarashtra with his sons is avaricious; why should the quarrel between these two parties rise to good proportions.",
+      "bhavadeepa": "शाम्यतेति वचनादन्यत्तान् प्रति न ब्रूयां पाण्डवानां समक्षं राज्ञो युधिष्ठिराच्च एतदेव शृणोमि अहं च एतन्मन्ये मानयामि ॥२॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "न त्वं धर्मं विचरं सञ्जयेह मत्तश्च जानासि युधिष्ठिराच्च। अथो कस्मात् सञ्जय पाण्डवस्य उत्साहिनः पूरयतः स्वकर्म ॥४॥",
+      "english": "or You do know, O Sanjaya, the nature of right wrong better than myself or Yudhishthira; then for what reason, O Sanjaya, do you find fault with the son of Pandu, who is energetic, mindful of his own duties, whose duties towards his relations have been such as have been laid down from the days of yore. Why do you say that their goodness is vanished? With regard to the matter at present under discussion the opinions of the Brahmanas differ.",
+      "bhavadeepa": "तत्र राज्ये निमित्ते गृद्धः लिप्सावान् एवं सति एषां कौरवाणां कस्माद्धेतोः कलहः नावमूर्च्छेत् ॥३॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः",
+      "combined_translation": "4-5"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "यथाख्यातमावमतः कुटुम्बे पुरा कस्मात् साधुविलोपमात्थ। अस्मिन् विधौ वर्तमाने यथावदुच्चावचा मतयो ब्राह्मणानाम् ॥५॥",
+      "english": null,
+      "bhavadeepa": "विचरं विचलितं पूरयतः पालयतः ॥४॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः",
+      "english_ref": 4,
+      "combined_translation": "4-5"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "कर्मणाऽऽहुः सिद्धिमेके परत्र हित्वा कर्म विद्यया सिद्धिमेके। नाभुञ्जानो भक्ष्यभोज्यस्य तृप्येद्विद्वानपीह विहितं ब्राह्मणानाम् ॥६॥",
+      "english": "One school say that it is by work that we obtain salvation and again another school say that it is by putting aside work and through knowledge, that we attain to salvation. It has been so laid down by the superior beings that a man, even knowledge all the properties of good, will not be satisfied without eating.",
+      "bhavadeepa": "यथाख्यातं प्रसिद्धिमनतिक्रम्य आवसतः अधितिष्ठतः साधुविलोपं धर्मलोपं युधिष्ठिरे कस्माद्धेतोः आत्थ उक्तवान् त्वम् । अस्मिन् विधौ शुचिरद्रोही कुटुम्बे शुचौ देशे स्वाध्यायमधीयानो यावदायुष्यं वर्तयेदित्येवंरूपे वर्तमानेऽपि ब्राह्मणानामुच्चावचा मतयो गार्हस्थ्यस्य अपरिग्रहे वा त्यागे वा नैष्ठिकबह्मचर्ये पारिव्राज्ये वा भवन्ति ॥५॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "या वै विद्याः साधयन्तीह कर्म तासां फलं विद्यते नेतरासाम्। तत्रेह वै दृष्टफलं तु कर्म पीत्वोदकं शाम्यति तृष्णयाऽऽर्तः ॥७॥",
+      "english": "That knowledge alone bears fruit, which does work, not others. In this world the result of action admits of ocular proof; one oppressed by thirst is satisfied by drinking water.",
+      "bhavadeepa": "तत्र हेतुमाह- कर्मणेति । सिद्धिं मोक्षमेके । ‘कर्मणैव हि संसिद्धिमास्थिता जनकादयः’ इत्येके आहुः । ‘न कर्मणा न प्रजया धनेन त्यागेनैके अमृतत्वमानशुः’ इत्येके आहुः । यद्यपि एवं कुटुम्बेऽवस्थितिः संन्यासश्च द्वयमपि तुल्यवत् शास्त्रेण विहितं तथाऽपि कृत्स्नभावात्तु गृहिणोपसंहारन्यायेन आश्रमान्तरसाध्यं ज्ञानं गृहस्थेन साधयितुं शक्यं न तु गृहस्थेन साध्यं यज्ञादिकमाश्रमान्तरेऽप्यस्तीति कृत्स्नो धर्मो गार्हस्थ्य एव प्राप्यत इत्याशयेनाह - नाभुञ्जान इति । यतो विद्वानपि अभुञ्जानो न तृप्यति यतश्च ब्राह्मणानां संन्यासिनामपि गृहस्थगृहे विहितं भोजनादिकम् ॥६॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "सोऽयं विधिर्विहितः कर्मणैव संवर्तते सञ्जय तत्र कर्म। तत्र योऽन्यत् कर्मणः साधु मन्येन्मोघं तस्यालपितं दुर्बलस्य ॥८॥",
+      "english": "Therefore it has been ordained by the creator that through work results, O Sanjaya, work. Therefore the opinion that anything other than work is good, is nothing but the uttering of a fool and of a weak man.",
+      "bhavadeepa": "तेन कर्मणामनुकूला या विद्यास्ता एव फलवत्यो न तु तत्प्रतिकूला इत्याह- या इति । तथा हि ‘सर्वाणि ह वा इमानि भूतानि प्राणमेवाभिसंविशन्ति प्राणमभ्युज्जिहते सैषा देवता प्रस्तावमन्वायत्ता’ इति छान्दोग्ये सर्वभूतसंवेशनोद्गमनलिङ्गेन जगत्कारणतया निश्चितस्य प्राणाख्यपरमात्मनो विद्यायाः प्रस्तावकर्मसाधकत्वं दृष्टम् । तासां कर्मसाधकानां विद्यानां फलमस्ति नेतरासां स्वतन्त्राणाम् । अयं भावः- गृहस्थः स्वात्मानमन्यांश्च पित्रादींस्तारयति यतींश्च पुष्णाति यतिस्त्वात्मानमेव तारयति न पित्रादीन् पोषणं च स्वस्यापि न करोति भैक्षोपजीवित्वादतो गार्हस्थ्यमेव श्रेष्ठमिति । किंच्च नैष्क्रर्म्यं दृष्टविरुद्धमपीत्याह- तत्रेति । तत्र कर्मतदभावतारतम्ये विचारणीये कर्म इहैव दृष्टफलम् ॥७॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "कर्मणाऽमी भान्ति देवाः परत्र कर्मणैवेह प्लवते मातरिश्वा। अहोरात्रे विदधत् कर्मणैव अतन्द्रितो नित्यमुदेति सूर्यः ॥९॥",
+      "english": "Elsewhere (i.e. in the other world) the gods are resplendent through work, the wind blows through work. Causing day and night, through work, the sleepless sun rises every day.",
+      "bhavadeepa": "सोऽयं ज्ञानविधिः कर्मणैत्र सह विहितः तत्र च अनुष्ठीयमाने कर्म उद्वर्तते उच्छिद्यते । कर्मसमवेतमेव ज्ञानं सकलकर्मोच्छेदहेतुरित्यर्थः । कर्मणोऽन्यत् संन्यासं मन्येत् मन्यते ॥८॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "मासार्धमासानथ नक्षत्रयोगानतन्द्रितश्चन्द्रमाश्चाभ्युपैति। अतन्द्रितो दहते जातवेदाः समिद्ध्यमानः कर्म कुर्वन् प्रजाभ्यः ॥१०॥",
+      "english": "The sleepless moon, too, goes through half months and months and certain peculiar positions of the moon (through work) burns, doing good to the creatures of the Earth.",
+      "bhavadeepa": "कर्मसमुच्चितं ज्ञानं स्तौति - कर्मणाऽमी भान्तीत्यादिना । ब्रह्मविद्यां ब्रह्मचर्यं क्रियां च निषेवमाणा इत्युपसंहारात् ॥९॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "अतन्द्रिता भारमिमं महान्तं बिभर्ति देवी पृथिवी बलेन। अतन्द्रिताः शीघ्रमपो वहन्ति सन्तर्पयन्त्यः सर्वभूतानि नद्यः ॥११॥",
+      "english": "The goddess Earth, sleepless, carries this great load through her strength and the sleepless rivers carry their waters with speed, satisfying the desire of all beings.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "अतन्द्रितो वर्षति भूरितेजाः सन्नादयन्नन्तरिक्षं दिशश्च। अतन्द्रितो ब्रह्मचर्यं चचार श्रेष्ठत्वमिच्छन् बलभिद्देवतानाम् ॥१२॥",
+      "english": "The sleepless one of mighty strength (Indra) showers rain, resounding every corner and the cardinal points; and desiring kingship among the gods he practised the austerities of a Brahmacharya life, being sleepless.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "हित्वा सुखं मनसश्च प्रियाणि तेन शक्रः कर्मणा श्रैष्ठ्यमाप। सत्यं धर्मं पालयन्नप्रमत्तो दमं तितिक्षां समतां प्रियं च ॥१३॥",
+      "english": "Giving up pleasure and the satisfaction of his desires, the position of a chief was obtained by Shakra by means of work. He strictly observed truth, virtue, self-control, forbearance, impartially and amiability.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "एतानि सर्वाण्युपसेवमानो स देवराज्यं मघवान् प्राप मुख्यम्। बृहस्पतिर्ब्रह्मचर्यं चचार समीहितः संशिमात्मा यथावत् ॥१४॥",
+      "english": "Devoting himself to all these, Indra got the high position of the king of the gods. Brihaspati too practised the austerities of a Brahmacharya life, with his mind shut up everything else and controlling his self as usual.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "हित्वा सुखं प्रतिरुध्येन्द्रियाणि तेन देवानामगमद्गौरवं सः। तथा नक्षत्राणि कर्मणाऽमुत्र भान्ति रुद्रादित्या वसवोऽथापि विश्वे ॥१५॥",
+      "english": "Giving up pleasure and controlling his senses he obtains glory from the gods and similarly like the planets and Rudra and Aditya and the Vasus in the heaven shines resplendent through works.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "यमो राजा वैश्रवणः कुबेरो गन्धर्वयक्षाप्सरसश्च सूत। ब्रह्मविद्यां ब्रह्मचर्यं क्रियां च निषेवमाणा ऋषयोऽमुत्र भान्ति ॥१६॥",
+      "english": "King Yama, the son of Vishravana, Karna, the Gandharvas, the Yakshas and the celestial nymphs, O Suta and the Rishis in the other world shine resplendent practicing the austerities of a Brahmacharya life and seeking the knowledge of self.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "जानन्निमं सर्वलोकस्य धर्मं विप्रेन्द्राणां क्षत्रियाणां विशां च। स कस्मात्त्वं जानतां ज्ञानवान् सन् व्यायच्छसे सञ्जय कौरवार्थे ॥१७॥",
+      "english": "Knowing all these truths regarding this world and knowing the duties of the best among Brahmanas and the Kshatriyas and the Vaishyas, why do you, who are wise, plead on behalf of the sons of Kurus.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "आम्नायेषु नित्यसंयोगमस्य तथाऽश्वमेधे राजसूये च विद्धि। संयुज्यते धनुषा वर्मणा च हस्त्यश्वाद्यै रथशस्त्रैश्च भूयः ॥१८॥",
+      "english": "Yudhishthira is ever attached to the study of the Vedas and know him also to be attached to Ashvamedha and Rajasuya sacrificial ceremonies and again riding on cars and on horses and elephants; he also acts with the bow and weapons and puts on armour.",
+      "bhavadeepa": "व्यायच्छसे निग्रहं करोषि ॥१७॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "ते चेदिमे कौरवाणामुपायमवगच्छेयुरवधेनैव पार्थाः। धर्मत्राणं पुण्यमेषां कृतं स्यादार्ये वृत्ते भीमसेनं निगृह्य ॥१९॥",
+      "english": "If the son of Pritha can see some means, not involving the slaughter of the sons of Kuru, their virtue would be saved and a virtuous deed would be done by them by forcing Bhimasena to adopt a more honorable course of life.",
+      "bhavadeepa": "आम्नायेष्विति । विद्या धर्मः शौर्यं च युधिष्ठिरे पुष्कलमस्तीति नायमन्येन शिक्षणीयो जेतुं वा शक्य इत्यर्थः ॥१८॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "ते चेत्पित्र्ये कर्मणि वर्तमाना आपद्येरन् दिष्टवशेन मृत्युम्। यथाशक्त्या पूरयन्तः स्वकर्म तदप्येषां निधनं स्यात् प्रशस्तम् ॥२०॥",
+      "english": "And if by the ordination of fate they should meet with death, while engaged in the work which their ancestors did, then too doing all that lies in their power towards the fulfillment of their duty their death would be praiseworthy.",
+      "bhavadeepa": "कौरवाणामवधेन उपायं राज्यप्राप्ताविति शेषः । एषामेतैः भीमसेनमार्ये वृत्ते अहिंसायां निगृह्य पुण्यमेव कृतं स्यात् ॥१९॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "उताहो त्वं मन्यसे शाम्यमेव राज्ञां युद्धे वर्तते धर्मतन्त्रम्। अयुद्धे वा वर्तते धर्मतन्त्रं तथैव ते वाचमिमां श्रृणोमि ॥२१॥",
+      "english": "If you approve of peace, I want to hear your answer to this question-Does the duty of kings lie in fighting or does it lie in not fighting.",
+      "bhavadeepa": "पित्र्ये कर्मणि क्षात्रधर्मे युद्धे पूरयन्तः पालयन्तः ॥२०॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "चातुर्वर्ण्यस्य प्रथमं संविभागमवेक्ष्य त्वं सञ्जय स्वं च कर्म। निशम्याथो पाण्डवानां च कर्म प्रशंस वा निन्द वा या मतिस्ते॥२२॥",
+      "english": "Having considered the principle on which the four divisions were originally based and the duties of each, O Sanjaya and having fully ascertained the proposed line of action of the Pandavas, praise or blame it, as you may think fit.",
+      "bhavadeepa": "शाम्यमेव शमः कार्य एवेति मन्यसे तर्हि धर्मतन्त्रं धर्मानुष्ठानं युद्धपक्षेऽस्ति उत अयुद्धपक्षे तयोर्मध्ये यदेव वक्ष्यसि तथैव ते वाचं शृणोमि करिष्यामीत्यर्थः ॥२१॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "अधीयीत ब्राह्मणो वै यजेत दद्यादीयात्तीर्थमुख्यानि चैव। अध्यापयेद्याजयेच्चापि याज्यान् प्रतिग्रहान् वा विहितान् प्रतीच्छेत् ॥२३॥",
+      "english": "A Brahmana should be steady, perform sacrificial ceremonies, give alms and go to the principal places of pilgrimage; he should also teach and officiate as priest in the ceremonies performed by others who need his help and should accept donations from well known persons.",
+      "bhavadeepa": "ननु क्षत्रधर्मलोपेऽपि गोत्रवधो न कर्तब्य इत्याशङ्क्याह- चातुर्वर्ण्यस्येत्यादिना ॥२२॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "तथा राजन्यो रक्षणं वै प्रजानां कृत्वा धर्मेणाप्रमत्तोऽथ दत्त्वा। यज्ञैरिष्ट्वा सर्ववेदानधीत्य दारान् कृत्वा पुण्यकृदावसेद्गृहान् ॥२४॥",
+      "english": "In the same way, having protected his kingdom and his subjects, making donations to persons leading a holy life and performing sacrificial ceremonies and studied all the Vedas and taken a wife (a Kshatriya) should become a house holder continuing to do virtuous deeds.",
+      "bhavadeepa": "प्रतीच्छेत् प्रतिगृह्णीयात् ॥२३॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "स धर्मात्मा धर्ममधीत्य पुण्यं यदृच्छया व्रजति ब्रह्मलोकम्। वैश्योऽधीत्य कृषिगोरक्षपण्यैर्वित्तं चिन्वन् पालयन्नप्रमत्तः ॥२५॥",
+      "english": "The virtuous soul, doing virtuous deeds, roams at his will in the region of Brahma. A Vaishya should study and accumulate wealth by agriculture, keeping cattle and commerce. He should observe these duties intently.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "प्रियं कुर्वन् ब्राह्मणक्षत्रियाणां धर्मशीलः पुण्यकृदावसेद्गृहान्। परिचर्या वन्दनं ब्राह्मणानां नाधीयीत प्रतिषिद्धोऽस्य यज्ञः। नित्योत्थितो भूतयेऽतन्द्रितः स्यादेवं स्मृतः शूद्रधर्मः पुराणः ॥२६॥",
+      "english": "And pleasing the Brahmanas and Kshatriyas, of virtuous habits, he should become a house-holder, doing virtuous deeds. He should serve the Brahmanas and worship them; he should not study; sacrifice is forbidden to him; he should ever be wakeful and sleepless in doing good to beings, such are the duties of a Shudra as laid down in the ancient religious books.",
+      "bhavadeepa": "सः क्षत्रियः अधीत्य प्राप्य यदिच्छया यस्य धर्मस्य इच्छया बलेन ब्रह्मलोकं गच्छति नोचेज्जनकादिवदिहैव कृतकृत्यो भवतीत्यर्थः । भोगमोक्षकरः क्षात्रो धर्मो दुस्त्यज इति भावः ॥२५॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "एतान् राजा पालयन्नप्रमत्तो नियोजयन् सर्ववर्णान् स्वधर्मे। अकामात्मा समवृत्तिः प्रजासु नाधार्मिकाननुरुध्येत कामान् ॥२७॥",
+      "english": "The king, protecting all these intently and employing all these orders in their respective spheres should himself be without any service, impartial to all his subjects and should never give himself to the prompting of his unholy desires.",
+      "bhavadeepa": "नाधीयीत वेदाध्ययनं न कुर्यात् । यज्ञः श्रोतः स्मार्तश्च प्रतिषिद्धः । तस्माच्छूद्रो यज्ञेऽनववलृप्तः इति श्रुतेः ॥२६॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "श्रेयांस्तस्माद्यदि विद्येत कश्चिदभिज्ञातः सर्वधर्मोपपन्नः। स तं द्रष्टुमनुशिष्यन् प्रजानां न चैतद्बुध्येदिति तस्मिन्नसाधुः ॥२८॥",
+      "english": "If there is any body superior to him (the king) and known to be endued with all virtues, he should instruct his subjects to see him. A bad king will not however observe all this.",
+      "bhavadeepa": "एतानिति । यथा सर्वाश्रमपालकत्वाद्‌गृहस्थस्य श्रैष्ठ्यं तथा सर्ववर्णपालकत्वात् धर्मेण राज्यकरणमपि श्रेष्ठतममित्यर्थः ॥२७॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "यदा गृध्येत् परभूतौ नृशंसो विधिप्रकोपाद्बलमाददानः। ततो राज्ञामभवद्युद्धमेतत्तत्र जातं वर्म शस्त्रं धनुश्च॥२९॥",
+      "english": "When he is desirous of obtaining the wealth of others, growing inhuman and gifted with strength and through the wrath of the creator,",
+      "bhavadeepa": "तस्मात् राज्ञः श्रेयान् प्रशस्ततरः अभिज्ञातः ज्ञानतः धर्मतश्च यदि कश्चिदस्ति स तं युधिष्ठिरं प्रजानां कर्मणि षष्ठीप्रजाः द्रष्टुं राज्यं प्राप्तुमित्यर्थः । अनुशिष्यन् अनुशासितुमिच्छन् एतन्मदुक्तं धर्मजातं युधिष्ठिरेऽस्तीति बुध्येत् । न च तस्मिन्नसाधुः युधिष्ठिरेऽसाधुधर्मो न चास्तीत्यपि बुध्येत् । यद्वा एवं सत्यपि तस्मिन्ननुशास्तरि राजा साधुर्न इति न अपि तु साधुरेव । यदि तेन इतोऽधिकं ज्ञायते उच्यते च तर्हि तस्यापि वचनं करिष्यत्येवेत्यर्थः। अनुशिष्यात् प्रजानां न चेद्गृध्येदिति तस्मिन्नसाध्विति पाठे श्रेयांश्चेत् द्रष्टुं धर्मं दर्शयितुमनुशिष्यात् न चेत्प्रजानां प्रजाः राज्यं न गृध्येदिति हेतोस्तस्मिन् युधिष्ठिरे साध्वेव वर्तत इति शेषः ॥२८॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "इन्द्रेणैतद्दस्युवधाय कर्म उत्पादितं वर्म शस्त्रं धनुश्च ॥३०॥",
+      "english": "There comes into being war, for which again was created armour, weapon and bow. For the purpose of slaying robbers were created armour, weapon and bow by Indra.",
+      "bhavadeepa": "धर्मतस्तु नृशंसत्वात् दुर्योधनो धार्मिकेण राज्ञा वध्य एवेति सूचयन्नाह- यदेत्यादिना सार्धेन । परभूतौ परैश्वर्यं नृशंसश्चोरकल्पो राजा विधिप्रकोपात् दैवप्रातिकूल्यात् गृद्ध्येत् ततो हेतोः राज्ञां परस्परं युद्धं समभवत् । अनेन युद्धाख्यस्य कर्मण उत्पत्तिरुक्ता ॥२९॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "तत्र पुण्यं दस्युवधेन लभ्यते सोऽयं दोषः कुरुभिस्तीव्ररूपः। अधर्मज्ञैर्धर्ममबुध्यमानैः प्रादुर्भूतः सञ्जय साधु तन्न ॥३१॥",
+      "english": "In such cases a virtuous deed is done by slaying such a robber and this weakness appears in a large measure in the sons of Kuru. They have been overpowered by a too slight knowledge of virtue and by non-observance of law and religion; O Sanjaya, this is not right.",
+      "bhavadeepa": "कर्म युद्धं तत्रोत्पत्तिशिष्टं गुणत्रयमाह वर्म कवचं शस्त्रं खड्गादि धनुश्चेति । यत् इन्द्रेण दस्युवधायैतत्त्रयमुत्पादितमत एतैरेव धर्मो दम्युं दुर्योधन यदि हन्यात् स एव धर्म इति भावः ॥३०॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "तत्र राजा धृतराष्ट्रः सपुत्रो धर्म्यं हरेत् पाण्डवानामकस्मात्। नावेक्षन्ते राजधर्मं पुराणं तदन्वयाः कुरवः सर्व एव ॥३२॥",
+      "english": "The king Dhritarashtra with his sons all on a sudden robbed the sons of Pandu of their just inheritance and thus has set at naught the duties observed by kings from times immemorial. And all the Kurus follow him.",
+      "bhavadeepa": "दुर्योधने दस्युत्वं निरूपयति - तत्रेत्यादिना । कुरुभिर्निमित्तभूतैरयं दोषो वञ्चनारूपः प्रादुर्भूतः । पारदार्यदोष इव इन्द्रात् ॥३१॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "स्तेनो हरेद्यत्र धनं ह्यदृष्टः प्रसह्य वा यत्र हरेत दृष्टः। उभौ गर्ह्यौ भवतः सञ्जयैतौ किं वै पृथक्त्वं धृतराष्ट्रस्य पुत्रे ॥३३॥",
+      "english": "A thief, when he steals wealth unseen and when he steals it by force, in both these, 0 Sanjaya, he is to blame; what difference (redeeming feature) has the son of Dhritarashtra?",
+      "bhavadeepa": "धर्म्यं धर्मादागतं पित्र्यं राज्यं तदन्वयास्तदनुसारिणः ॥३२॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "सोऽयं लोभान्मन्यते धर्ममेतं यमिच्छति क्रोधवशानुगामी। भागः पुनः पाण्डवानां निविष्टस्तं नः कस्मादाददीरन् परे वै ॥३४॥",
+      "english": "What he is desirous of following through anger is considered as virtuous by him through avarice. Then again the share of the sons of Pandu is fixed, why should that which is ours be taken away by others?",
+      "bhavadeepa": "पृथक्त्वं स्तेनादन्यत्वम् ॥३३॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "अस्मिन् पदे युद्ध्यतां नो वधोऽपि श्लाघ्यः पित्र्यं परराज्याद्विशिष्टम्। एतान् धर्मान् कौरवाणां पुराणानाचक्षीथाः सञ्जय राजमध्ये ॥३५॥",
+      "english": "Under these circumstances, to be killed white fighting would be praise-worthy for us. Ancestral wealth is better than the kingdom of another. Lay these ancient principles before the sons of Kurus amidst the assembled chiefs,",
+      "bhavadeepa": "एतं छलेन राज्यापहारं निविष्टः वनवासादूर्ध्वं राज्यं ग्राह्यमिति कौरवेषु न्यासरूपेण स्थितः तं भागं नः अस्माकं परे कस्मात् आददीरन् गृहीतवन्तः ॥३४॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "एते मदान्मृत्युवशाभिपन्नाः समानीता धार्तराष्ट्रेण मूढाः। इदं पुनः कर्म पापीय एव सभामध्ये पश्य वत्तं कुरूणाम् ॥३६॥",
+      "english": "The chiefs, that is to say, the fools that have been brought together by the sons of Dhritarashtra and are thus very near the kingdom of Death. Then again look at this sinful act, of the Kurus in the council hall.",
+      "bhavadeepa": "पदे पदनीये अवश्यग्राह्ये भागे निमित्ते ॥३५॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "प्रियां भार्यां द्रौपदीं पाण्डवानां यशस्विनीं शीलवृत्तोपपन्नाम्। यदुपैक्षन्त कुरवो भीष्ममुख्याः कामानुगेनोपरुद्धां व्रजन्तीम् ॥३७॥",
+      "english": "The Kurus with Bhishma at their head stood by without interference while the Draupadi, the dearly beloved wife of the son of Pandu, that lady of fame and endued with good behaviour, stood weeping in the clutches of that slave of lust.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "तां चेत्तदा ते सकुमारवृद्धा अवारयिष्यन् कुरवः समेताः। मम प्रियं धृतराष्ट्रोऽकरिष्यत् पुत्राणां च कृतमस्याभविष्यत् ॥३८॥",
+      "english": "If at that time the sons of Kuru, who were assembled there, old and young, had prevented this, Dhritarashtra would have done what would have pleased me and such behaviour would also have been to the benefit of his sons.",
+      "bhavadeepa": "कामानुगेन रजसा उपरुद्धां गृहकर्मतो निरुद्धां पाठान्तरे रजसा उपरुद्धं यथा स्यात्तथा व्रजन्तीम् ॥३७॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "दुःशासनः प्रतिलोम्यान्निनाय सभामध्ये श्वशुराणां च कृष्णाम्। सा तत्र नीता करुणं व्यपेक्ष्य नान्यं क्षत्तुर्नाथमवाप किंचित् ॥३९॥",
+      "english": "Dushasana brought Krishna by force into the council chamber where there were her fathers-in-law at the time. Brought there she expected kind treatment, but she found there no protector save Vidura.",
+      "bhavadeepa": "तं दुःशासनं यद्यवारयिष्यत् तदा मम प्रियम् अकरिष्यत् अस्य पुत्राणां च दुर्योधनादीनां प्रियं कृतमभविष्यत् । दुःशासनस्यानिवारणान्मत्प्रियस्याकरणाच्च तत्पुत्राणां नाशो भविष्यतीति तत्त्वोक्तिः ॥३८॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "कार्पण्यादेव सहितास्तत्र भूपा नाशक्नुवन् प्रतिवक्तुं सभायाम्। एकः क्षत्ता धर्म्यमर्थं ब्रुवाणो धर्मबुद्ध्या प्रत्युवाचाल्पबुद्धिम् ॥४०॥",
+      "english": "The kings, who were assembled there could not say anything against such treatment, in the council hall, through idiocy; and there was only one Kshatriya, who from a sense of righteousness spoke words indicating virtue and calculated to secure the interest of Krishna, to the one of little intelligence. (Duryodhana).",
+      "bhavadeepa": "प्रातिलोम्यात् अक्रमेण श्वशुराणां मध्ये कृष्णां सभां निनायेति संबन्धः । किंचित्करुणं व्यपेक्ष्य दीनं यथा स्यात्तथा किञ्चिदालोच्येत्यर्थः । क्षत्तुरन्यं नाथं रक्षितारं न अवाप ॥३९॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "अबुद्ध्वा त्वं धर्ममेतं सभायामथेच्छसे पाण्डवस्योपदेष्टुम्। कृष्णा त्वेतत् कर्म चकार शुद्धं सुदुष्करं तत्र सभां समेत्य ॥४१॥",
+      "english": "You did not, then in the council hall, speak one word, but now you want to preach sense to the sons of Pandu. Krishna however accomplished something, in that council, which was right and hard to do.",
+      "bhavadeepa": "कार्पण्यात् दैन्यात् ॥४०॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "येन कृच्छ्रात् पाण्डवानुज्जहार तथाऽऽत्मानं नौरिव सागरौघात्। यत्राब्रवीत् सूतपुत्रः सभायां कृष्णां स्थितां श्वशुराणां समीपे ॥४२॥",
+      "english": "By this (i.e., the deed of Krishna) she took the sons of Pandu out of their difficulty and herself out of hers, as a sailor takes (a ship) out of the sea waves. There, in that council hall, where was standing Krishna in the presence of her father-in-law, the son of Karna thus addressed her.",
+      "bhavadeepa": "पाण्डवस्य धर्ममुपदेष्टुमिच्छसे हे सञ्जयेति शेषः ॥४१॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "न ते गतिर्विद्यते याज्ञसेनि प्रपद्य दासी धार्तराष्ट्रस्य वेश्म। पराजितास्ते पतयो न सन्ति पतिं चान्यं भामिनि त्वं वृणीष्व ॥४३॥",
+      "english": "O daughter of Yajnasena, no other course is left open to you; be a slave in the house of son of Dhritarashtra. Your husband vanquished (at a game of dice) no longer are husbands for you and you of a romantic soul, choose some other husbands for yourself.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "यो बीभत्सोर्हृदये प्रोत आसीदस्थि छिन्दन्मर्मघाती सुघोरः। कर्णाच्छरो वाङ्भयस्तिग्मतेजाः प्रतिष्ठितो हृदये फाल्गुनस्य ॥४४॥",
+      "english": "The (speech) frightful and sharp as it was, went deep into the heart cutting the very bones. This arrow, of words, proceeding from Karna, possessed the power of fire and is buried in the heart of the son of Phulguna.",
+      "bhavadeepa": "प्रपद्य गच्छ ॥४३॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "कृष्णाजिनानि परिधित्समानान् दुःशासनः कटुकान्यभ्यभाषत्। एते सर्वे षण्ढतिला विनष्टाः क्षयं गता नरकं दीर्घकालम् ॥४५॥",
+      "english": "Dushasana also spoke these harsh words when they were about to put on garments made of the skin of black deer. \"All these eunuchs vanquished and ruined are going to hell for a long period.\"",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "गान्धारराजः शकुनिर्निकृत्या यदब्रवीत् द्यूतकाले स पार्थम्। पराजितो नन्दनः किं तवास्ति कृष्णया त्वं दीव्य वै याज्ञसेन्या॥४६॥",
+      "english": "The king of Gandhara, Shakuni, aiso thus spoke by way of jest to the son of Pritha (Yudhishthira) at the time of playing at dice-\"Your younger brother being defeated, what else have you but Krishna, the daughter of Yajnasena. Stake her.'",
+      "bhavadeepa": "परिधित्समानान् परिधातुमिच्छतः ॥४५॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "जानासि त्वं सञ्जय सर्वमेतत् द्यूते वाक्यं गर्ह्यमेवं यथोक्तम्। स्वयं त्वहं प्रार्थये तत्र गन्तुं समाधातुं कार्यमेतद्विपन्नम्॥४७॥",
+      "english": "You know, O Sanjaya, all these objectionable words, that were said, at the game of dice. I want to go there myself to settle this.",
+      "bhavadeepa": "नन्दन आनन्दयिता कनिष्ठभ्राता ॥४६॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "अहापयित्वा यदि पाण्डवार्थं शमं कुरूणामपि चेच्छकेयम्। पुण्यं च मे स्याच्चरितं महोदयं मुच्येरंश्च कुरवो मृत्युपाशात् ॥४८॥",
+      "english": "If I can bring about peace without injury to the interests of the sons of Pandu a virtuous act shall have been done by me resulting in great good and at the same time I shall have freed the Kurus from the clutches of death.",
+      "bhavadeepa": "विपन्नं नष्टं समाधातुं समीकर्तुम् ॥४७॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "अपि मे वाचं भाषमाणस्य काव्यां धर्मारामामर्थवतीमहिंस्राम्। अवेक्षेरन् धार्तराष्ट्राः समक्षं मां च प्राप्तं कुरवः पूजयेयुः ॥४९॥",
+      "english": "If the son of Dhritarashtra think well of the wise words spoken by me-words having their source in virtue and words leading to earthly good and words heading to the reverse of malice, for bringing about peace, then the Kurus too will worship and honour me.",
+      "bhavadeepa": "शक्रेयं शक्तश्चेत्स्याम् ॥४८॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "अतोऽन्यथा रथिना फाल्गुनेन भीमेन चैवाहवदंशितेन। परासिक्तान् धार्तराष्ट्रांश्च विद्धि प्रदह्यमानान् कर्मणा स्वेन पापान् ॥५०॥",
+      "english": "If it is otherwise, you may be sure, that the sons of Dhritarashtra who are being consumed by their own vicious deeds, will be rendered devoid of all prosperity by Arjuna in his car and Bhima equipped for fight.",
+      "bhavadeepa": "काव्यां शौक्रीं नीतियुक्तामित्यर्थः ॥४९॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "पराजितान् पाण्डवेयांस्तु वाचो रौद्रा रूक्षा भाषते धार्तराष्ट्रः। गदाहस्तो भीमसेनोऽप्रमत्तो दुर्योधनं स्मारयिता हि काले ॥५१॥",
+      "english": "The son of Dhritarashtra spoke harsh and rude words to the sons of Pandu when they were defeated (at the game of dice). At the proper time Bhima, with the mace in his hand, will remained Duryodhana (of his language).",
+      "bhavadeepa": "परासिक्तान् निर्धूतान् संपदा हीनान् ॥५०॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "सुयोधनो मन्युमयो महाद्रुमः स्कन्धः कर्णः शकुनिस्तस्य शाखा। दुःशासनः पुष्पफले समृद्धे मूलं राजा धृतराष्ट्रोऽमनीषी ॥५२॥",
+      "english": "Suyodhana is a big tree, full of malice Karna the trunk and Shakuni the branch. Dushasana presents its numerous fruits and flowers while the wise king Dhritarashtra is the root.",
+      "bhavadeepa": "रौद्राः मर्मच्छिदः रूक्षाः निःस्नेहाः भाषते द्यूतावसानेऽभाषत ॥५१॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "युधिष्ठिरो धर्ममयो महाद्रुमः स्कन्धोऽर्जुनो भीमसेनोऽस्य शाखा। माद्रीपुत्रौ पुष्पफले समृद्धे मूलं त्वहं ब्रह्म च ब्राह्मणाश्च। वनं राजा धृतराष्ट्रः सपुत्रो व्याघ्रस्ते वै सञ्जय पाण्डुपुत्राः॥५३॥",
+      "english": "Yudhishthira is a big tree full of virtue, Arjuna the trunk and Bhimasena its branch. The two sons of Madri represent the numerous fruits and flowers while myself and the Supreme Being and the Brahmanas ate the roots.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "मा वनं छिन्धि सव्याघ्रं मा व्याघ्राऽनीनशन्वनात् ॥५४॥",
+      "english": "The king Dhritarashtra with his sons in the forest and the sons of Pandu, O Sanjaya, the tigers. The forest with the tigers cannot be cut down ner the tigers in the forest destroyed.",
+      "bhavadeepa": "अहमीश्वरः ब्रह्म वेदः ब्राह्मणाश्च धार्तराष्ट्रोच्छेदे एको धृतराष्ट्र एव शोच्यो भवेत् पाण्डवोच्छेदे तु वयं त्रयोऽपि शोच्या भविष्याम इति श्लोकद्वयस्यार्थः । बहूनामुच्छेदो न भविष्यतीति तात्पर्यम् ॥५३॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 55,
+      "sanskrit": "निर्वनो वध्यते व्याघ्रो निर्व्याघ्रं छिद्यते वनम्। तस्माद्व्याघ्रो वनं रक्षेद्वनं व्याघ्रं च पालयेत् ॥५५॥",
+      "english": "The tiger without the forest (to protect it) is easily killed and so is the forest without tigers in it (to overawe people) easily cut down. The tiger therefore protects the forest and the forest the tiger.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 56,
+      "sanskrit": "लताधर्मा धार्तराष्ट्राः शालाः सञ्जय पाण्डवाः। न लता वर्धते जातु महाद्रुममनाश्रिता ॥५६॥",
+      "english": "The sons of Dhritarashtra are the creepers of virtue, while, O Sanjaya, the sons of Pandu are Sala trees. The creeper cannot grow without the support of a big tree.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 57,
+      "sanskrit": "स्थिताः शुश्रूषितुं पार्थाः स्थिता योद्धुमरिन्दमाः। यत्कृत्यं धृतराष्ट्रस्य तत्करोतु नराधिपः ॥५७॥",
+      "english": "The sons of Pritha are ready to attend on Dhritarashtra; the subduers of foes are ready for fight. Let the king (Yudhishthira) do what Dhritarashtra is going to do.",
+      "bhavadeepa": "लतेति । पाण्डवाश्रयेणैव धार्तराष्ट्राणां जीवनं नान्यथेति भावः ॥५६॥",
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 58,
+      "sanskrit": "स्थिताः शमे महात्मानः पाण्डवा धर्मचारिणः। योधाः समर्थास्तद्विद्वन्नाचक्षीथा यथातथम् ॥५८॥",
+      "english": "The noble-minded and virtuous sons of Pandu, though ready and in a position to fight, are yet in peace. Tell them, O wise one all these things as they are.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    }
+  ]
+}

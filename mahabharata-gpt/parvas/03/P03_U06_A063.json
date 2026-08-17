@@ -1,0 +1,415 @@
+{
+  "adhyaya_id": "P03_U06_A063",
+  "book": 3,
+  "parva_name": "वनपर्व",
+  "upaparva_name": "नलोपाख्यानपर्व",
+  "adhyaya_name": "त्रिषष्टितमोऽध्यायः",
+  "chapter": 63,
+  "verse_count": 39,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "बृहदश्व उवाच। अपक्रान्ते नले राजन्दमयन्ती गतक्लमा। अबुध्यत वरारोहा संत्रस्ता विजने वने॥१॥",
+      "english": "Brihadashva said: O king, after Nala, had gone away, the slender-waisted Damayanti, getting over her fatigue, awoke in terror in that solitary wilderness. Terrified at not finding her husband and oppressed with grief and troubles, she called aloud for Naishadha, saying: O Maharaja.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः",
+      "combined_translation": "1-2"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "अपश्यमाना भर्तारं शोकदुःखसमन्विता। प्राक्रोशदुच्चैः संत्रस्ता महाराजेति नैषधम्॥२॥",
+      "english": null,
+      "bhavadeepa": "अपेति ॥१॥",
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः",
+      "english_ref": 1,
+      "combined_translation": "1-2"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "हा नाथ हा महाराज हा स्वामिन्किं जहासि माम्। हा हतास्मि विनष्टास्मि भीतास्मि विजने वने॥३॥",
+      "english": "O master! O mighty sovereign! O husband! why have you forsaken me? Alas! I am done for, I ain lost, I am (greatly) terrified in this lonely forest.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "ननु नाम महारज धर्मज्ञः सत्यवागसि। कथमुक्त्वा तथा सत्यं सुप्तामुत्सृज्य कानने॥४॥",
+      "english": "O mighty monarch! you are virtuous and truthful. How then, promising not to do so you have forsaken me asleep, in the woods?",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "कथमुत्सृज्य गन्तासि दक्षां भार्यामनुव्रताम्। विशेषतोऽनपकृते परेणापकृते सति॥५॥",
+      "english": "Why have you gone away forsaking your able and devoted, wife, specially when she had done you no harın, but you have been wronged by others?",
+      "bhavadeepa": "तथा सत्यं यत्स्वयंवरे उक्तं त्वां न त्यक्ष्यामीति ॥४॥",
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "शक्यसे ता गिरः सम्यक्कर्तुं मयि नरेश्वर। यास्तेषां लोकपालानां सन्निधौ कथिताः पुरा॥६॥",
+      "english": "O lord of your people! you ought faithfully to fulfill those words of yours in respect of mc, that you had uttered in days gone by, before the guardian deities of the worlds.",
+      "bhavadeepa": "अनपकृते अपकारभावे ॥५॥",
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "नाकाले विहितो मृत्युर्मर्त्यानां पुरुषर्षभ। यत्र कान्ता त्वयोत्सृष्टा मुहूर्तमपि जीवति॥७॥",
+      "english": "O best of men! because mortals are not ordained to die before their appointed time, therefore, it is, that your beloved wife live even a moment after your abandonment of her.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "पर्याप्तः परिहासोयमेतावान्पुरुषर्षभ। भीताहमिति दुर्धर्ष दर्शयात्मानमीश्वर॥८॥",
+      "english": "O foremost of men! enough of this joke, let us have no more of it. O invincible one! I am awfully frightened. O lord! show yourself.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "दृश्यसे दृश्यसे राजन्नेष दृष्टोऽसि नैषध। आवार्य गुल्मैरात्मानं किं मां न प्रतिभाषसे॥९॥",
+      "english": "You are discovered O king! you discovered! O ruler of the Nishadhas I have scen you! concealing yourself behind the corpses, why do you not answer me?",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "नृशंसां बत राजेन्द्र यन्मामेवंगतामिह। विलपन्तीं समागम्य नाश्वासयसि पार्थिव॥१०॥",
+      "english": "Alas, O king of kings! it is very cruel of you. For sceing me in this and so bewailing, you do not, O king, come near to console me.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "न शोचाम्यहमात्मानं न चान्यदपि किंचन। कथं नु भवितास्येक इति त्वां नृप शोचिमि॥११॥",
+      "english": "I lament not for myself, nor for any thing else. But, O king, I only grieve thinking, how you will live alone.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "कथं नु राजंस्तृषितः क्षुधितः श्रमकर्षितः। सायाह्ने वृक्षमूलेषु मामपश्यन्भविष्यसि॥१२॥",
+      "english": "O king! when, in the evening you will sit thirsty, hungry and worn out with toils under the trees, how will you live without seeing ine (by your side)?",
+      "bhavadeepa": "शोचिमि शोचामि ॥११॥",
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "ततः सा तीव्रशोकार्ता प्रदीप्तेव च मन्युना। इतश्चेतश्च रुदती पर्यधावत दुःखिता॥१३॥",
+      "english": "Then oppressed with poignant grief and burning with anger, the miserable Damayanti began to run hither and thither bewailing.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "मुहुरुत्पतते बाला मुहुः पतति विह्वला। मुहुरालीयते भीता मुहुः क्रोशति रोदिति॥१४॥",
+      "english": "At times the youthful princess would stand up suddenly. At other times she would sink down bewildered. Now she would conceal herself alarmed and the next moment, she would cry and wail aloud.",
+      "bhavadeepa": "मन्युना शोकेन ॥१३॥",
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "अतीव शोकसंतप्ता मुहुर्निःश्वस्य विह्वला। उवाच भैमी निःश्वस्य रुदत्यथ पतिव्रता॥१५॥",
+      "english": "Then the chaste daughter of Bhima, bewildered and afflicted with heavy grief and sighing again and again, spoke weeping:",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "यस्याभिशापाद्दुःखार्तो दुःखं विन्दति नैषधः। तस्य भूतस्य नो दुःखाद्दुःखमप्यधिकं भवेत्॥१६॥",
+      "english": "‘May that being suffer grief greater than ours, through whose curse the afflicted king of the Nishadhas bear this woc!'",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "अपापचेतसं पापो य एवं कृतवान्नलम्। तस्माद्दुःखतरं प्राप्य जीवत्वमसुखजीविकाम्॥१७॥",
+      "english": "May that sinful wretch, who has reduced Nala of pious heart into this plight, live a more miserable life than his (Nala's) own, fraught with such greater woes.'",
+      "bhavadeepa": "कलिं शपति यस्येति। अभिशापात् वृथाद्वेषात् नो दुःखात् अस्मत्संबन्धिदुःखात् ॥१६॥",
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "एवं तु विलपन्ती सा राज्ञो भार्या महात्मनः। अन्वेषमाणा भर्तारं वने श्वापदसेविते॥१८॥",
+      "english": "Thus bewailing, the consort of that highsouled monarch began to search her dear lord in that forest, infested with wild beasts. Thus continuously lamenting, the daughter of Bhima ran hither and thither like an insane person, crying aloud, 'alas alas O king.'",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः",
+      "combined_translation": "18-19"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "उन्मत्तवद्भीमसुता विलपन्ती इतस्ततः। हा हा राजन्निति मुहुरितश्चेतश्च धावति॥१९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः",
+      "english_ref": 18,
+      "combined_translation": "18-19"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "तां क्रन्दमानामत्यर्थं कुररीमिव वाशतीम्। करुणं बहु शोचन्तीं विलपन्तीं मुहुर्मुहुः॥२०॥",
+      "english": "As she was crying aloud and bitterly lamenting like a female osprey, grieving profusely in piteous words and bewailing again and again, a huge and hungry serpent suddenly scized the daughter of Bhima, who camc and rolled near it.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "सहसाभ्यागतां भैमीमभ्यासपरिवर्तिनीम्। जग्राहाजगरो ग्राहो महाकायः क्षुधान्वितः॥२१॥",
+      "english": null,
+      "bhavadeepa": "वाशतीं क्रोशन्तीम् ॥२०॥",
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "सा ग्रस्यमाना ग्राहेण शोकेन च परिप्लुता। नात्मानं शोचति तथा यथा शोचति नैषधम्॥२२॥",
+      "english": "Being devoured by the monster and swelling with sorrow, she grieved not so much for herself, as for the king of the Nishadhas.",
+      "bhavadeepa": "ग्राहः सर्पः अजगरः तद्वत्स्थूलः ॥२१॥",
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "हा नाथ मामिह वने ग्रस्यमानामनाथवत्। ग्राहेणानेन विजने किमर्थं नानुधावसि॥२३॥",
+      "english": "'O lord! why do you not run after me, seeing that I am swallowed by this huge serpent like one helpless, in this desolate wilderness?",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "कथं भविष्यसि पुनर्मामनुस्मृत्य नैषध। कथं भवाञ्जगामाद्य मामुत्सृज्य वने प्रभो॥२४॥",
+      "english": "O king of the Nishadhas! how will you live, when you shall remember me (when I am gone)? O master! how have you gone away today forsaking me in the woods?",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "पापान्मुक्तः पुनर्लब्ध्वा बुद्धिं चेतो धनानि च। श्रान्तस्य ते क्षुधार्तस्य परिग्लानस्य नैषध। कः श्रमं राजशार्दूल नाशयिष्यति तेनघ॥२५॥",
+      "english": "How will you live without me, when liberated from your curse, you will regain your mind, senses and wealth? O lord of the Nishadhas! O sinless one! O foremost of kings! who will remove your fatigue when you will be worn out with toil, oppressed with hunger and depressed with grief?'",
+      "bhavadeepa": "बुद्धिलाभादूर्ध्वं मां विना कथं भविष्यसि जीविष्यसि कथम् ॥२४॥",
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "ततः कश्चिन्मृगव्याधो विचरन्गहने वने। आक्रन्दमानां संश्रुत्य जवेनाभिससार ह॥२६॥",
+      "english": "Then a hunter who was roaming in the deep forest, hearing the sound of her loud wailing's speedily came near her.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "तां तु दृष्ट्वा तथा ग्रस्तामुरगेणायतेक्षणाम्। त्वरमाणो मृगव्याधः समभिक्रम्य वेगतः॥२७॥",
+      "english": "The hunter, who live upon the proceeds of hunting, seeing that large-eyed one swallowed up by a serpent, came up with haste and speed and dispatching that inert snake with a sharpedged weapon, tore it open from its mouth. Then O Bharata! the hunter freeing her from the coils of the serpent and washing her with water and consoling her, asked her when she had taken some food.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः",
+      "combined_translation": "27-29"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "मुखतः पाटयामास शस्त्रेण निशितेन च। निर्विचेष्टं भुजङ्गं तं विशस्य मृगजीवनः॥२८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः",
+      "english_ref": 27,
+      "combined_translation": "27-29"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "मोक्षयित्वा स तां व्याधः प्रक्षाल्य सलिलेन ह। समाश्वास्य कृताहारामथ पप्रच्छ भारत॥२९॥",
+      "english": null,
+      "bhavadeepa": "विशस्य विदार्य ॥२८॥",
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः",
+      "english_ref": 27,
+      "combined_translation": "27-29"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "कस्य त्वं मृगशावाक्षि कथं चाभ्यागता वनम्। कथं चेदं महत्कृच्छ्रं प्राप्तवत्यसि भामिनि॥३०॥",
+      "english": "'O you having cyes like those of a young gazelle! whose are you! Why also have you entered into this forest? O handsome one! how have you fallen in this great predicament?'",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "दमयन्ती तथा तेन पृच्छ्यमाना विशांपते। सर्वमेतद्यथावृत्तमाचचक्षेस्य भारत॥३१॥",
+      "english": "O lord of your people! O descendant of Bharata's race! thus questioned by him, Damayanti, related unto him precisely, all that had occurred.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "तामर्धवस्त्रसंवीतां पीनश्रोणिपयोधराम्। सुकुमारानवद्याङ्गीं पूर्णचन्द्रनिभाननाम्॥३२॥",
+      "english": "The huntsman, seeing her, covered with half a piece of a cloth, with heaving breasts and shapely lips, with delicate and faultless limbs, with countenance resembling the full moon, with cyes furnished with graceful eye-lashes and with words very pleasing, was made the slave of the god of love.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः",
+      "combined_translation": "32-33"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "अरालपक्ष्मनयनां तथा मधुरभाषिणीम्। लक्षयित्वा मृगव्याधः कामस्य वशमीयिवान्॥३३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः",
+      "english_ref": 32,
+      "combined_translation": "32-33"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "तामेवं श्लक्ष्णया वाचा लुब्धको मृदुपूर्वया। सान्त्वयामास कामार्तस्तदबुध्यत भाविनी॥३४॥",
+      "english": "Inflamed with lust, the hunter comforted her mildly and in smooth words. But the graceful Damayanti soon saw through his purposes.",
+      "bhavadeepa": "आरालानि कुटिलानि शोभमानानि वा पक्ष्माणि नयनप्रान्तकेशाः ययोस्तादृशे नयने यस्या इति तथा ॥३३॥",
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "दमयन्त्यपि तं दुष्टमुपलभ्य पतिव्रता। तीव्ररोषसमाविष्टा प्रजज्वालेव मन्युना॥३५॥",
+      "english": "The chaste Damayanti then understanding the intentions of this evil-minded one, possessed with fierce rage, seemed to blaze forth in anger.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "स तु पापमतिः क्षुद्रः प्रधर्षयितुमातुरः। दुर्धर्षां तर्कयामास दीप्तामग्निशिखामिव॥३६॥",
+      "english": "That evil minded one, having waxed irascible and fired with desire, endeavoured to insult her (by force) who was unconquerable even as a flame of blazing fire.",
+      "bhavadeepa": "मन्युना क्रोधेन ॥३५॥",
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "दमयन्ती तु दुःखार्ता पतिराज्यविनाकृता। अतीतवाक्पथे काले शशापैनं रुषान्विता॥३७॥",
+      "english": "Then Damayanti afflicted with sorrow and deprived of her husband and kingdom, bursting with rage, cursed the huntsman when he had passed the limit of being checked by words.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "यद्यहं नैषधादन्यं मनसापि न चिन्तये। तथायं पततां क्षुद्रो परासुर्मृगजीवनः॥३८॥",
+      "english": "'If even in my mind I have never thought of any other person than the king of the Nishadhas, then let this puny one living by। hunting, fall down devoid of life.",
+      "bhavadeepa": "पतिराज्यविनाकृता पत्या राज्येन च रहिता अतीतवाक्पथे वाचाप्यनिवार्ये सति काले धूम्रवर्णे व्याधे ॥३७॥",
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "उक्तमात्रे तु वचने तथा स मृगजीवनः। व्यसुः पपात मेदिन्यामग्निदग्ध इव द्रुमः॥३९॥",
+      "english": "No sooner did she utter these words, than that one subsisting on chase, fell down dead on the ground, even as a tree consumed by fire.",
+      "bhavadeepa": "परासुः गतप्राणः ॥३८॥",
+      "chapter": 63,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    }
+  ]
+}

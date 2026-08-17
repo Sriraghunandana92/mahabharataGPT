@@ -1,0 +1,384 @@
+{
+  "adhyaya_id": "P03_U12_A185",
+  "book": 3,
+  "parva_name": "वनपर्व",
+  "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+  "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः",
+  "chapter": 185,
+  "verse_count": 37,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "मार्कण्डेय उवाच।\n              भूय एव महाभाग्यं ब्राह्मणानां निबोध मे। वैन्यो नामेह राजर्षिरश्वमेधाय दीक्षितः॥१॥",
+      "english": "Markandeya said : Hear from me again of the great glory of the Brahmanas. We have heard that a royal sage Vainya by name was engaged in celebrating the horse-sacrifice and that Atri was prepared to go to him for alms. But at last actuated by religious motives he abandoned his desire for riches.",
+      "bhavadeepa": null,
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः",
+      "combined_translation": "1-2"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "तमत्रिर्गन्तुमारेभे वित्तार्थमिति नः श्रुतम्। भूयोऽर्थं नानुरुध्यत् स धर्मव्यक्तिनिदर्शनात्॥२॥",
+      "english": null,
+      "bhavadeepa": "मृत्युजयहेतुः पूर्वोक्तः सत्यादिर्धर्मो वनस्थानामेव युज्यते न तु गृहस्थानाम् । तेषां दुष्प्रतिग्रहब्रह्मविद्वेषादिना दोषप्रसक्त्या तादृशधर्मसम्भवादित्याशयवानध्यायमारभते भूय इति ॥१॥",
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः",
+      "english_ref": 1,
+      "combined_translation": "1-2"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "स विचिन्त्य महातेजा वनमेवान्वरोचयत्। धर्मपत्नीं समाहूय पुत्रांश्चेदमुवाच ह॥३॥",
+      "english": "After much deliberation (as to what he should do) that highly energetic (sage) became desirous of living in the forests and calling his wedded wife and sons together spoke to them thus",
+      "bhavadeepa": "सोऽत्रिरर्थं भूयो नानुरुध्यत् अत्यन्तमर्थार्थ न बभूव । कुतः धर्मव्यक्तिर्धर्मस्य फलद्वाराऽभिव्यक्तिः । फलव्यक्त्या हि धर्मो नश्यति अतस्तद्रक्षणार्थं नैच्छदित्यर्थः ॥२॥",
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "प्राप्स्यामः फलमत्यन्तं बहुलं निरुपद्रवम्। अरण्यगमनं क्षिप्रं रोचतां वो गुणाधिकम्॥४॥",
+      "english": "May it be your inclination to go to the forests soon; because (by repairing there) we shall attain the highly blissful and tranquil fulfillment (of our desires).",
+      "bhavadeepa": "वनं गन्तुमिति शेषः ॥३॥",
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "तं भार्या प्रत्युवाचाथ धर्ममेवानुतन्वती। वैन्यं गत्वा महात्मानमर्थयस्व धनं बहु॥५॥",
+      "english": "To this his wife, actuated by virtuous motives, also replied “go to the high-souled Vainya and beg of him immense wealth.",
+      "bhavadeepa": "निरुपद्रवमक्षयं मोक्षाख्यम् ॥४॥",
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "स ते दास्यति राजर्षिर्यजमानोऽर्थितो धनम्। तत आदाय विप्रर्षे प्रतिगृह्य धनं बहु॥६॥",
+      "english": "That royal sage engaged in horse sacrifice will give you the wealth begged by you. Then, O Brahmanic sage, having received from him vast wealth,",
+      "bhavadeepa": "धर्मे यज्ञादिकमनुतन्वती विस्तारयन्ती । हेतौ शतृप्रत्ययः । धर्मार्थे धनमेवार्जयस्वेत्युवाचेत्यर्थः ॥५॥",
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "भृत्यान् सुतान् संविभज्य ततो व्रज यथेप्सितम्। एष वै परमो धर्मो धर्मविद्भिरुदाहृतः॥७॥",
+      "english": "And having distributed it among the sons and the attendants, you may go whither you like. This is the highest virtue as instanced by men versed in religion.",
+      "bhavadeepa": null,
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "अत्रिरुवाच।\n              कथितो मे महाभागे गौतमेन महात्मना। वैन्यो धर्मार्थसंयुक्तः सत्यव्रतसमन्वितः॥८॥",
+      "english": "Atri said: O highly fortunate (wife), I have been told by the noble-minded Gautama that Vainya is religious, conversant with (the principles of the science of) profit and devoted to truth.",
+      "bhavadeepa": "भृत्यानित्यतिथिदेवतादीनां सुतानिति भार्यार्दानां चोपलक्षणम् । धर्मविद्भिर्मन्वादिभिः । ‘अनधीत्य द्विजो वेदाननुत्पाद्य सुतानपि । अनिष्ट्वा विधिवद्यज्ञैर्मोक्षमिच्छन् व्रजत्यधः’ इति वदद्भिः॥७॥",
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "किन्त्वस्ति तत्र द्वेष्टारो विवसन्ति हि मे द्विजाः। यथा मे गौतमः प्राह ततो न व्यवसाम्यहम्॥९॥",
+      "english": "But he is surrounded by Brahmanas who are very envious of me. As Gautama has informed me of this I dare not go there.",
+      "bhavadeepa": null,
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "तत्र स्म वाचं कल्याणीं धर्मकामार्थसंहिताम्। मयोक्तामन्यथा ब्रूयुस्ततस्ते वै निरर्थिकाम्॥१०॥",
+      "english": "For even if I speak these (highly) beneficial and religious words calculated to bring about the fulfillment of one's desires they will oppose me with speeches productive of no good.",
+      "bhavadeepa": "व्यवसामि उद्यमं करोमि ॥९॥",
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "गमिष्यामि महाप्राज्ञे रोचते मे वचस्तव। गाश्च मे दास्यते वैन्यः प्रभूतं चार्थसञ्चयम्॥११॥",
+      "english": "But, O highly wise (wife), I relish your proposal and will (therefore) go there. Vainya will bestow on me cows and immense wealth.",
+      "bhavadeepa": "निरर्थिकामपि वाचं वदतां पराजयोऽपि पापावह इति भावः । तथा च स्मृतिः ‘गुरुं त्वंकृत्य हुंकृत्य विप्रं निर्जित्य वादतः । अरण्ये निर्जले देशे भवति ब्रह्मराक्षसः’ इति ॥१०॥",
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "एवमुक्त्वा जगामाशु वैन्ययज्ञं महातपाः। गत्वा च यज्ञायतनमत्रिस्तुष्टाव तं नृपम्॥१२॥",
+      "english": "Markandeya continued Saying this, that sage of great devotion, soon repaired to Vainya's sacrifice. And reaching the sacrificial altar he eulogised the king. With noble speeches and then said these words.",
+      "bhavadeepa": "एवं जानन्नपि स्नेहदोषात्तत् कर्तुं प्रतिजानीते - गमिष्यामीति॥११॥",
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "वाक्यैर्मङ्गलसंयुक्तैः पूजयानोऽब्रवीद्वचः।\n              अत्रिरुवाच।\n              राजन् धन्यस्त्वमीशश्च भुवि त्वं प्रथमो नृपः॥१३॥",
+      "english": "Atri said : O king, you are indeed blessed, you are the lord of all beings and are the greatest sovereign on earth.",
+      "bhavadeepa": null,
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "स्तुवन्ति त्वां मुनिगणास्त्वदन्यो नास्ति धर्मवित्। तमब्रवीदृषिः क्रुद्धो वचनं वै महातपाः॥१४॥",
+      "english": "The sages pay their adorations to you. And there is none conversant with religion besides you.” Thereupon that sage of great austerities (Gautama) said to him in anger.",
+      "bhavadeepa": "पूजयान इति । ‘तङ्’ कर्तृगामित्वात् स्तुतिफलस्य युक्तः । धन्यो धनार्हः। ईश ईशिता नियन्ता प्रथमः हिरण्यगर्भ इव अग्रजो नृपो मनुष्याणां रक्षकः ॥१३॥",
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "गौतम उवाच।\n              मैवमत्रे पुनर्ब्रूया न ते प्रज्ञा समाहिता। अत्र नः प्रथमं स्थाता महेन्द्रो वै प्रजापतिः॥१५॥",
+      "english": "Gautama said: O Atri, do you not repeat such (foolish words) again. Your understanding is not yet matured. In this world, Mahendra, the lord of all creatures, is the greatest monarch.",
+      "bhavadeepa": null,
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "अथात्रिरपि राजेन्द्र गौतमं प्रत्यभाषत। अयमेव विधाता हि यथैवेन्द्रः प्रजापतिः। त्वमेव मुह्यसे मोहान्न प्रज्ञानं तवास्ति ह॥१६॥",
+      "english": "O king of kings, thereupon, Atri replied to Gautama “this king is as much the dispenser of our destiny as Indra, the lord of all creatures. Your intellect is clouded with ignorance and you have no sense at (all).\"",
+      "bhavadeepa": "अत्र परलोकमेव बहु मन्वानो गौतम आह - मैवमिति ॥१५॥",
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "गौतम उवाच।\n              जानामि नाहं मुह्यामि त्वमेवात्र विमुह्यसे। स्तौषि त्वं दर्शनप्रेप्सू राजानं जनसंसदि॥१७॥",
+      "english": "Gautama said: I am sure, it is not I but you who are labouring under a misconception in this matter. Desirous of obtaining his favour you are flattering the king before this assembly of men.",
+      "bhavadeepa": "तत्रेन्द्र इवात्र राजैव महेन्द्र इति वित्तार्थी अत्रिः परपक्षं दूषयति - अथेति ॥१६॥",
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "न वेत्थ परमं धर्मं न चावैषि प्रयोजनम्। बालस्त्वमसि मूढश्च वृद्धः केनापि हेतुना॥१८॥",
+      "english": "You are not conversant with what is the highest duty nor do feel any need for it. You are ignorant as a child; why then have you grown so old in years?",
+      "bhavadeepa": null,
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "विवदन्तौ तथा तौ तु मुनीनां दर्शने स्थितौ। ये तस्य यज्ञे संवृत्तास्तेऽपृच्छन्त कथं त्विमौ॥१९॥",
+      "english": "Markandeya continued When they were thus quarreling before the Munis who were engaged in the sacrifice, the latter enquired \"What is the matter with these two men?",
+      "bhavadeepa": null,
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "प्रवेशः केन दत्तोऽयमुभयोर्वैन्यसंसदि। उच्चैः समभिभाषन्तौ केन कार्येण धिष्ठितौ॥२०॥",
+      "english": "Who did admit them to the court of Vainya? What is it that they are clamouring for?”",
+      "bhavadeepa": "दर्शने दृष्टिपथे ॥१९॥",
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "ततः परमधर्मात्मा काश्यपः सर्वधर्मवित्। विवादिनावनुप्राप्तौ तावुभौ प्रत्यवेदयत्॥२१॥",
+      "english": "Then the highly righteous Kashyapa versed in all duties stepping between the disputants inquired of them the cause of their quarrel.",
+      "bhavadeepa": null,
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "अथाब्रवीत् सदस्यांस्तु गौतमो मुनिसत्तमान्। आवयोर्व्याहृतं प्रश्नं शृणुत द्विजसत्तमाः॥२२॥",
+      "english": "Thereupon, Gautama addressing that assembly of the most exalted sages said. \"O the best of Brahmanas, hear the cause of our dispute.",
+      "bhavadeepa": null,
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "वैन्यं विधातेत्याहात्रिरत्र नौ संशयो महान्। श्रुत्वैव तु महात्मानो मुनयोऽभ्यद्रवन् द्रुतम्॥२३॥",
+      "english": "Atri says that Vainya rules over our destiny. But we entertain a grave doubt on the point. Markandeya said : Hearing this, those high-souled sages soon repaired to",
+      "bhavadeepa": null,
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "सनत्कुमारं धर्मज्ञं संशयच्छेदनाय वै। स च तेषां वचः श्रुत्वा यथातत्त्वं महातपाः। प्रत्युवाचाथ तानेवं धर्मार्थसहितं वचः॥२४॥",
+      "english": "The righteous Sanatkumara in order to solve their doubt. And he (Sanatkumara) of great devotional spirit, hearing their their words, addressed them with these words of true religious import..",
+      "bhavadeepa": "नौ आवयोः ॥२३॥",
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "सनत्कुमार उवाच।\n              ब्रह्म क्षत्रेण सहितं क्षत्रं च ब्रह्मणा सह। संयुक्तौ दहतः शत्रून् वनानीवाग्निमारुतौ॥२५॥",
+      "english": "Sanatkumara said: As (when) fire united with the wind burns down forests, so (when) a Brahmana's energy is united with that of a Kshatriya and vice versa it consumes all enemies.",
+      "bhavadeepa": null,
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "राजा वै प्रथितो धर्मः प्रजानां पतिरेव च। स एव शक्रः शुक्रश्च स धाता च बृहस्पतिः॥२६॥",
+      "english": "The king is noted for establishing religion and he is the protector of his subjects. He is (like) Indra (a protector of all beings) like Shukra (a propounder of morals) like Brihaspati (an adviser) and (therefore) he is (justly) styled the ruler of our destiny.",
+      "bhavadeepa": "ब्राह्मण बलेन राज्ञो बलं न तु स्वकीयमिति समाधानग्रन्थार्थस्तेन गौतमोक्ता निन्दाऽपि व्यर्था । नाप्यत्रिप्रोक्ता स्तुतिरपि निर्मूलेति ज्ञेयम् । यद्यपि लोभमूलकत्वं स्तुतिपक्षे स्पष्टमप्रामाप्यकारणं तथाऽप्यविद्यमानैरपि विशेषणैर्धनार्थिना राजा स्तोतव्य इति सनत्कुमाराशयः ॥२५॥",
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "प्रजापतिर्विराट् सम्राट् क्षत्रियो भूपतिर्नुपः। य एभिः स्तूयते शब्दैः कस्तं नार्चितुमर्हति॥२७॥",
+      "english": "Is there (therefore) anybody who considers himself above worshipping the individual to whom such appellations as 'Prajapati' (the lord of all creatures), 'Virata', 'Emperor', 'Kshatriya' (one who preserves from pain), 'lord of earth,' and 'Monarch', are applied in praise?",
+      "bhavadeepa": "प्रथितः प्रथां गतः । धर्मो धर्मस्थापकः । शक्रो रक्षिता । शुक्रो नीतिवित् । धाता अत एव जनकः । बृहस्पतिः हितोपदेष्टा ॥२६॥",
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "पुरायोनिर्युधाजिच्च अभिया मुदितो भवः। स्वर्णेता सहजिद्बभ्रुरिति राजाऽभिधीयते॥२८॥",
+      "english": "The monarch is further styled 'the prime cause,' (of social order), 'the conqueror of battles,' (and therefore) the preserver of the (peace), 'the watchman', 'the contented', 'the lord', 'guide to heaven,' 'the easily victorious', 'Vishnu like.'",
+      "bhavadeepa": null,
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "सत्ययोनिः पुराविच्च सत्यधर्मप्रवर्तकः। अधर्मादृषयो भीता बलं क्षत्रे समादधन्॥२९॥",
+      "english": "'Of effective wrath,' 'the victorious in wars' and 'the introducer of true religion.' The Rishis afraid of committing sins made over the (temporal) powers to the Kshatriyas.",
+      "bhavadeepa": "पुरायोनिः - धर्मप्रवर्तकत्वेन प्रथमं कारणम् । युधाजित् - सङ्ग्रामे जयकर्तृत्वेनोपद्रवनाशकः । अभियाः - अभितो याति यामिकवद्रक्षणार्थामत्यभियाः। मुदितो भवः - ईश्वरः । स्वर्णेता - स्वर्गं प्रति गमयिता । सहजित् सद्यो जयशीलः। बभ्रुर्विष्णुः। ‘बभ्रुर्ना नकुले विष्णौ विपुले पिङ्गले त्रिषु’ इति बलशर्मा ॥२८॥",
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "आदित्यो दिवि देवेषु तमो नुदति तेजसा। तथैव नृपतिर्भूमावधर्मान्नुदते भृशम्॥३०॥",
+      "english": "Like the sun among the gods in heaven who destroys darkness by his rays the king among men eradicates sin from the earth.",
+      "bhavadeepa": "अधर्मादिति । सर्वं ब्राह्मं बलं क्षत्रेऽस्तीत्यर्थः ॥२९॥",
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "ततो राज्ञः प्रधानत्वं शास्त्रप्रामाण्यदर्शनात्। उत्तरः सिद्ध्यते पक्षो येन राजेति भाषितम्॥३१॥",
+      "english": "Therefore by the authority of the Shastras the greatness of the king is established. And I declare for him who has spoken in favour of the king.",
+      "bhavadeepa": null,
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "मार्कण्डेय उवाच।\n              ततः स राजा संहृष्टः सिद्धे पक्षे महामनाः। तमत्रिमब्रवीत् प्रीतः पूर्वं येनाभिसंस्तुतः॥३२॥",
+      "english": "Markandeya said : Then the high minded king, greatly satisfied with the victorious party who first spoke in high terms of him, gladly addressed him with these words.",
+      "bhavadeepa": null,
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "यस्मात् पूर्वं मनुष्येषु ज्यायांसं मामिहाब्रवीः। सर्वदेवैश्च विप्रर्षे सम्मितं श्रेष्ठमेव च॥३३॥",
+      "english": "'O Brahmanic sage, as you have styled me the greatest and best of men, here and have compared me with the gods,",
+      "bhavadeepa": null,
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "तस्मात्तेऽहं प्रदास्यामि विविधं वसु भूरि च। दासीसहस्रं श्यामानां सुवस्त्राणामलङ्कृतम्॥३४॥",
+      "english": "I will therefore confer on you immense and dressed and well-adorned Shyama maids.",
+      "bhavadeepa": null,
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "दशकोटीर्हिरण्यस्य रुक्मभारांस्तथा दश। एतद्ददामि विप्रर्षे सर्वज्ञस्त्वं मतो हि मे॥३५॥",
+      "english": "I bestow on you one hundred millions of coins and ten Bharas (each bhara is equal to 32 maunds) of gold. According to my belief you are conversant with everything.",
+      "bhavadeepa": null,
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "तदत्रिर्न्यायतः सर्वं प्रतिगृह्याभिसत्कृतः। प्रत्युज्जगाम तेजस्वी गृहानेव महातपाः॥३६॥",
+      "english": "And the energetic Atri, thus honored by the king and having rightfully accepted all the wealth returned home.",
+      "bhavadeepa": null,
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "प्रदाय च धनं प्रीतः पुत्रेभ्यः प्रयतात्मवान्। तपः समभिसन्धाय वनमेवान्वपद्यत॥३७॥",
+      "english": "And having distributed that wealth among his sons, that self-contained sage gladly went to the forests with the view of performing asceticism.",
+      "bhavadeepa": null,
+      "chapter": 185,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "पञ्चाशीत्यधिकशततमोऽध्यायः"
+    }
+  ]
+}

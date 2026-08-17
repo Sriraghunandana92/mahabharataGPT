@@ -1,0 +1,386 @@
+{
+  "adhyaya_id": "P12_U01_A025",
+  "book": 12,
+  "parva_name": "शान्तिपर्व",
+  "upaparva_name": "राजधर्मानुशासनपर्व",
+  "adhyaya_name": "पञ्चविंशतितमोऽध्यायः",
+  "chapter": 25,
+  "verse_count": 36,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वैशम्पायन उवाच।\n              द्वैपायनवचः श्रुत्वा कुपिते च धनञ्जये । व्यासमामंत्र्य कौन्तेयः प्रत्युवाच युधिष्ठिरः ॥१॥",
+      "english": "Yudhishthira said Tell me what sort of hell is obtained by a Reciter? I am curious, O king, to know this. You should describe this subject to me.'",
+      "bhavadeepa": null,
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः",
+      "combined_translation": "1-1"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "युधिष्ठिर उवाच।\n              न पार्थिवमिदं राज्यं न भोगाश्च पृथग्विधाः । प्रीणयन्ति मनो मेऽद्य शोको मां रुन्धयत्ययम् ॥२॥",
+      "english": "Bhishma said “You have originated from a portion of the good of righteousness. You are by nature observant of righteousness. Listen, O sinless one, with undivided attention, to these words having righteousness for their root.",
+      "bhavadeepa": "द्वैपायनेति । कुपिते राज्यकारणात् ॥१॥",
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः",
+      "combined_translation": "2-2"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "श्रुत्वा वीरविहीनानामपुत्राणां च योषिताम् । परिदेवयमानानां शान्तिं नोपलभे मुने ॥३॥",
+      "english": "Those regions that are owned by the great gods, that are of various aspects and colours, of various descriptions and productive of various fruits, and that are of great excellence, those cars again that move at the desire of the riders, those beautiful palaces and hells, those various pleasure-gardens decorated with golden lotuses, those regions that belong to the four Regents and Shukra and Brihaspati and the Maruts and Vishvedevas and Saddhyas and the Ashvins, and the Rudras and the Adityas and the Vasus, and other dwellers of heaven, are, O sire, spoken of as hells, when compared with the region of the Supreme Self.",
+      "bhavadeepa": "रुन्धयति शोकोपहतो गुरूणां बन्धूनां वा वाक्यं न शृणोतीति भावः ॥२॥",
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः",
+      "combined_translation": "3-6"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "इत्युक्तः प्रत्युवाचेदं व्यासो योगविदां वरः । युधिष्ठिरं महाप्राज्ञो धर्मज्ञो वेदपारगः ॥४॥",
+      "english": "The region last spoken of it shorn of fear, increate, without pain of any sort, without any agreeable or disagreeable element, beyond the reach of the three qualities, freed from the eight things (viz., the five primal elements, the senses, the mind, and the intellect), without the three (distinctions between the knower, the known, and act knowing); freed also from the four attributes (seeing, hearing, thinking, and knowing), without the fourfold causes (of knowledge) without joy and delight ard sorrow and disease.",
+      "bhavadeepa": "वीरविहीनानां पतिहीनानाम् ॥३॥",
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः",
+      "combined_translation": "4-8"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "व्यास उवाच । न कर्मणा लभ्यते चेज्यया वा नाप्यस्ति दाता पुरुषस्य कश्चित् । पर्याययोगाद्विहितं विधात्रा कालेन सर्वं लभते मनुष्यः ॥५॥",
+      "english": "Time makes it appearance there for usc. Time is not the ruler there. That supreme region is the ruler of Time as also of Heaven.",
+      "bhavadeepa": null,
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः",
+      "combined_translation": "5-9"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "न बुद्धिशास्त्राध्ययनेन शक्यं प्राप्तुं विशेषं मनुजैरकाले । मूर्खोऽपि चाप्नोति कदाचिदर्थान् कालो हि कार्यं प्रति निर्विशेषः ॥६॥",
+      "english": "That Reciter who becomes identified with his Soul (by withdrawing everything into it) goes there. He has, after this, never to experience any sorrow. This region is called Supreme. The other regions are hell.",
+      "bhavadeepa": "न लभ्यते वीरो इतवीराभिर्वीरपत्नीभिरित्यर्थः । नापि ताभ्यः कश्चित्पतिं दातुं समर्थोऽस्तीत्यर्थः । कालेन लभते न त्वकालेऽतस्तासां पतिलाभकालोऽतीत इति न ताः शोच्याः ॥५॥",
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः",
+      "combined_translation": "6-10"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "नाभूतिकालेषु फलं ददन्ति शिल्पानि मन्त्राश्च तथौषधानि । तान्येव कालेन समाहितानि सिद्ध्यन्ति वर्धन्ति च भूतिकाले ॥७॥",
+      "english": "I have not told you of all those regions that are called hell. Indeed, as compared with that foremost of regions all the others are called hell.'",
+      "bhavadeepa": "विशेषं विगतं शेषम् अस्यास्ति तत् विशेषं पुत्रादिकम् ॥६॥",
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः",
+      "combined_translation": "7-11"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "कालेन शीघ्राः प्रवहन्ति वाताः कालेन वृष्टिर्जलदानुपैति । कालेन पद्मोत्पलवज्जलं च कालेन पुष्यन्ति वनेषु वृक्षाः ॥८॥",
+      "english": "By time the winds blow violently; by Time the clouds become surcharged with rain; by Time tanks become adorned with lotuses of various sorts; by Time trees in the forest are covered with flowers.",
+      "bhavadeepa": "ददन्ति ददते ॥७॥",
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "कालेन कृष्णाश्च सिताश्च रात्र्यः कालेन चन्द्रः परिपूर्णबिम्बः । नाकालतः पुष्पफलं द्रुमाणां नाकालवेगाः सरितो वहन्ति ॥९॥",
+      "english": "By Time nights become dark or lighted. By Time the Moon becomes full. If the proper Time does not come, trees do not bear flowers and fruits. If the proper Time does not come, the currents of rivers do not become powerful.",
+      "bhavadeepa": null,
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "नाकालमत्ताः खगपन्नगाश्च मृगद्विपाः शैलमृगाश्च लोके । नाकालतः स्त्रीषु भवन्ति गर्भा नायान्त्यकाले शिशिरोष्णवर्षाः ॥१०॥",
+      "english": "Birds, snakes, deer, elephants and other animals never become excited when the proper Time does not come. If the proper Time does not come, women do not conceive. It is with Time that winter, summer, and the rainy seasons come.",
+      "bhavadeepa": null,
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "नाकालतो म्रियते जायते वा नाकालतो व्याहरते च बालः । नाकालतो यौवनमभ्युपैति नाकालतो रोहति बीजमुप्तम् ॥११॥",
+      "english": "If the proper Time does not come, no one is born and no one dies. If the Time does not come, the infant does not gain power of speech. If the Time does not come one does not come by youth. It is with Time that the seed sown sprouts up.",
+      "bhavadeepa": null,
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "नाकालतो भानुरुपैति योगं नाकालतोऽस्तङ्गिरिमभ्युपैति । नाकालतो वर्धते हीयते च चन्द्रः समुद्रोऽपि महोर्मिमाली ॥१२॥",
+      "english": "If the Time does not come, the Sun does not appear in the horizon, nor, when the Time for it does not come, does he set. If the Time for it does not come, the Moon does not increase nor wane, nor the ocean with its waves rise and ebb.",
+      "bhavadeepa": null,
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "अत्राप्युदाहरन्तीममितिहासं पुरातनम् । गीतं राज्ञा सेनजिता दुःखार्तेन युधिष्ठिर ॥१३॥",
+      "english": null,
+      "bhavadeepa": "अस्तंगिरिं भानुरभ्युपैति ॥१२॥",
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः",
+      "english_ref": 2,
+      "combined_translation": "2-13"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "सर्वानेवैष पर्यायो मर्त्यान् स्पृशति दुःसहः । कालेन परिपक्वा हि म्रियन्ते सर्वपार्थिवाः ॥१४॥",
+      "english": "The powerful course of Time affects all mortals. All earthly objects, ripened by Time, meet with destruction.",
+      "bhavadeepa": "सेनजिता पुत्रशोककृतदुःखार्तेन ॥१३॥",
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "घ्नन्ति चान्यान्नरान् राजंस्तानप्यन्ये तथा नराः । संज्ञैषा लौकिकी राजन्न हिनस्ति न हन्यते ॥१५॥",
+      "english": "Some, O king, kill some men. The killers, again, are slain by others. This is what the world says. In reality, however, no one kills and no one is killed.",
+      "bhavadeepa": "पर्यायः कालगतिः ॥१४॥",
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "नष्टे धने वा दारे वा पुत्रे पितरि वा मृत । अहो दुःखमिति ध्यायन्दुःखस्यापचितिं चरेत् ॥१७॥",
+      "english": "At the loss of one's riches or the death of one's wife or son or father, one cries out saying-Alas what grief!-and the continued thought of that sorrow always increases it.",
+      "bhavadeepa": "हृदयेन शोकमूलेन ॥२६॥",
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "स किं शोचसि मूढः सन् शोच्यान् किमनुशोचसि । यस्य दुःखेषु दुःखानि भयेषु च भयान्यपि ॥१८॥",
+      "english": "Why do you, like a foolish man, grieve? Why do you grieve for them who are subject to grief? Mark, grief is enhanced by indulgence as fear is by fearing.",
+      "bhavadeepa": "मौढ्यात् ध्यायन्नेवापचितिं प्रतीकारं चरेन्न त्वध्यायन् ॥१७॥",
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "आत्मापि चायं न मम सर्वापि पृथिवी मम । यथा मम तथाऽन्येषामिति पश्यन्न मुह्यति ॥१९॥",
+      "english": "This body even is not mine. Nothing in this Earth is mine. The things of this Earth belong as much to others as to me. Seeing this, the wise do not allow themselves to be beguiled.",
+      "bhavadeepa": "शोच्यान् शोकाक्रान्तान्बालविधवया दुहित्रा तुल्यान् दुःखेषु शोकजेषु मनस्तापेषु दुःखानि शिरस्ताडनादीनि दुःखादेर्द्विगुणीकरणं मूढकार्यमित्यर्थः ॥१८॥",
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "शोकस्थानसहस्राणि हर्षस्थानशतानि च । दिवसे दिवसे मूढमाविशन्ति न पण्डितम् ॥२०॥",
+      "english": "There are thousands of causes for sorrow and hundreds of causes for joy. These affect daily the ignorant only, but not the wise.",
+      "bhavadeepa": "मोहनिवृत्तेरविधिमाह- आत्मेति । अयं व्यावहारिक आत्मा अहंप्रत्ययविषयः सोऽपि मम स्वरूपं न मत्तः पृथग्भूतत्वात् सर्वा पृथिवीति सर्वप्रपञ्चोपलक्षणं सर्वं वा ममैव स्वरूपम् । यथाहं सर्वस्मादन्यः सर्वात्मा च तथाऽन्येऽपीत्याह - यथेति । एवमद्वैतात्मत्तत्त्वं पश्यन्न मुह्यतीत्यर्थः । तथा च श्रुतिः ‘तरति शोकमात्मवित्’ इति ॥१९॥",
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "एवमेतानि कालेन प्रियद्वेष्याणि भागशः। जीवेषु परिवर्तन्ते दुःखानि च सुखानि च ॥२१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः",
+      "english_ref": 5,
+      "combined_translation": "5-21"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "दुःखमेवास्ति न सुखं तस्मात्तदुपलभ्यते । तृष्णार्तिप्रभवं दुःखं दुःखार्तिप्रभवं सुखम् ॥२२॥",
+      "english": "There is only sorrow in this world and not happiness. Therefore sorrow only is felt. Desire begets sorrow and sorrow happiness.",
+      "bhavadeepa": "यानि प्रियाणि तान्येव काले दुःखानि भवन्ति । यानि द्वेष्याणि तान्येव सुखानि तस्माद्वातजडस्य ताडनमिव सर्वदुःखमेव मोहात्सुखवद्विभातीत्यर्थः ॥२१॥",
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "सुखस्यानन्तरं दुःखं दुःखस्यानन्तरं सुखम् । न नित्यं लभते दुःखं न नित्यं लभते सुखम् ॥२३॥",
+      "english": null,
+      "bhavadeepa": "तृष्णाया याऽऽर्तिरनवस्थितचित्तता तज्जं दुःखं दुःखस्यार्तिर्विनाशस्तज्जं सुखम् ॥२२॥",
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः",
+      "english_ref": 20,
+      "combined_translation": "20-23"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "सुखमेव हि दुःखान्तं कदाचिद्दुःखतः सुखम् । तस्मादेतद्द्वयं जह्याद्य इच्छेच्छाश्वतं सुखम् ॥२४॥",
+      "english": "Happiness always ends in sorrow and sometimes originates from sorrow itself. He, therefore, who desires perpetual happiness must give up both.",
+      "bhavadeepa": "सन्ततेयं सुखदुःखधारा इत्यतस्त्याज्यैवेत्याह- सुखस्येत्यादिना ॥२३॥",
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "सुखान्तप्रभवं दुःखं दुःखान्तप्रभवं सुखम् । यन्निमित्तो भवेच्छोकस्तापो वा दुःखमूर्छितः॥२५॥",
+      "english": "When sorrow must arise upon termination of happiness, and happiness upon the termination of sorrow, and should, therefore, shake off, like a (snake-bit) limb, that which begets sorrow or that heart-burning which is reared by sorrow or that which is the root of his anxiety.",
+      "bhavadeepa": null,
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "हन्तीति मन्यते कश्चिन्न हन्तीत्यपि चापरः । स्वभावतस्तु नियतौ भूतानां प्रभवाप्ययौ ॥२६॥",
+      "english": "Some body thinks men kill (their fellow men). Another thinks men do not kill. The truth is that the birth and death of all creatures have been ordained to happen by their very nature.",
+      "bhavadeepa": "दुःखमूर्छितः दुःखेन वर्धितः । एकाङ्गमपि सर्पदष्टाङ्गुष्ठवत् त्यजेत् किमुत बाह्यं राज्यादीति भावः ॥२५॥",
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः",
+      "combined_translation": "26-26"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "आयासो वाऽपि यन्मूलस्तदेकाङ्गमपि त्यजेत् । सुखं वा यदि वा दुःखं प्रियं वा यदि वाऽप्रियम् । प्राप्तं प्राप्तमुपासीत हृदयेनापराजितः ॥२६॥",
+      "english": "Some body thinks men kill (their fellow men). Another thinks men do not kill. The truth is that the birth and death of all creatures have been ordained to happen by their very nature.",
+      "bhavadeepa": "दुःखमूर्छितः दुःखेन वर्धितः । एकाङ्गमपि सर्पदष्टाङ्गुष्ठवत् त्यजेत् किमुत बाह्यं राज्यादीति भावः ॥२५॥",
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः",
+      "combined_translation": "26-26"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "ईषदप्यङ्ग दाराणां पुत्राणामाचरन्प्रियम् । ततो ज्ञास्यसि कः कस्य केन वा कथमेव च ॥२७॥",
+      "english": "O amiable king, if you do not in the least, do what is agreeable to your wives and children, you shall then know who is whose, and why so, and for what.",
+      "bhavadeepa": "हृदयेन शोकमूलेन ॥२६॥",
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "ये च मूढतमा लोके ये च बुद्धेः परं गताः । त एव सुखमेधन्ते मध्यमः क्लिश्यते जनः ॥२८॥",
+      "english": "Only those who stolid fools and those who are masters of their souls enjoy happiness here. They, however, who occupy an intermediate position suffering misery.",
+      "bhavadeepa": "प्रियम् आचरन्कुर्वन्केन हेतुना कथं केन प्रकारेण कस्य सम्बन्धीति ज्ञास्यसि ॥२७॥",
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "इत्यब्रवीन्महाप्राज्ञो युधिष्ठिर स सेनजित् । परावरज्ञो लोकस्य धर्मवित्सुखदुःखवित् ॥२९॥",
+      "english": "This, O Yudhishthira, is what the highly wise the Senajit who was conversant with what is good or bad in this world, with duties, and with happiness and misery said.",
+      "bhavadeepa": "मूढतमाः प्रसुप्तनरवज्जडाः बुद्धेः परं ब्रह्म गताः प्राप्ताः अतस्त्वमधमस्तु न भवसि मध्यमोऽपि मा भूरित्यर्थः ॥२८॥",
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "येन दुःखेन यो दुःखी न स जातु सुखी भवेत् । दुःखानां हि क्षयो नास्ति जायते ह्यपरात्परम् ॥३०॥",
+      "english": "He who is grieved at other people's griefs can never enjoy happiness. There is no end of grief, and grief originates from happiness itself.",
+      "bhavadeepa": null,
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "सुखं च दुःखं च भवाभवौ च लाभालाभौ मरणं जीवितं च । पर्यायतः सर्वमवाप्नुवन्ति तस्माद्धीरो नैव हृष्येन्न शोचेत् ॥३१॥",
+      "english": "Happiness and misery, prosperity and adversity, gain and loss, death and life, in their turn, visit all creatures. There the wise man, endued with equanimity soul would neither be puffed up with joy nor be depressed with sorrow.",
+      "bhavadeepa": "येन तृष्णादिनिमित्तेन ॥३०॥",
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "दीक्षां राज्ञः संयुगे युद्धमाहुर्योगं राज्ये दण्डनीत्यां च सम्यक् । वित्तत्यागो दक्षिणानां च यज्ञे सम्यग्दानं पावनानीति विद्यात् ॥३२॥",
+      "english": "Battle has been described as the Sacrifice for a king; observance of chastisement is his Yoga; and the gift of riches in sacrifices in the form of presents his Renunciation. All these should be regarded as acts which purify him.",
+      "bhavadeepa": "भवाभवौ ऐश्वर्यानैश्वर्ये ॥३१॥",
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "रक्षन् राज्यं बुद्धिपूर्वं नयेन संत्यक्तात्मा यज्ञशीलो महात्मा । सर्वोंल्लोकान् धर्मदृष्ट्या चरंश्चाप्यूर्ध्वं देहान्मोदते देवलोके ॥३३॥",
+      "english": "By governing the kingdom with intelligence and policy, casting off wide, celebrating sacrifices, and looking at everything and all the persons with kindness and impartiality, a great king, after death, sports in the region of the celestials.",
+      "bhavadeepa": "दीक्षामिति । राज्ञो यागयोगसंन्यासस्थानीयाः युद्धं, पालनं, क्रतौ वित्तत्यागश्चेति तान्येवास्य पावनानीत्यर्थः ॥३२॥",
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "जित्वा सङ्ग्रामान्पालयित्वा च राष्ट्रं सोमं पीत्वा वर्धयित्वा प्रजाश्च । युक्त्या दण्डं धारयित्वा प्रजानां युद्धे क्षीणो मोदते देवलोक ॥३४॥",
+      "english": "By gaining battles, protecting his kingdom, drinking the Soma juice, making his subjects prosper, holding judiciously the rod of chastisement, and renouncing his body at last in fight, a king enjoy happiness in heaven.",
+      "bhavadeepa": "संत्यक्तात्मा निरहङ्कारः ॥३३॥",
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "सम्यग्वेदान्प्राप्य शास्त्राण्यधीत्य सम्यग्राज्यं पालयित्वा च राजा । चातुर्वर्ण्यं स्थापयित्वा स्वधर्मे पूतात्मा वै मोदते देवलोके ॥३५॥",
+      "english": "Having studied all the Vedas and the other scriptures duly, having protected the kingdom duly, and having made all the four orders follow their respective duties, a king become purified and finally sports in heaven.",
+      "bhavadeepa": null,
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "यस्य वृत्तं नमस्यन्ति स्वर्गस्थस्यापि मानवाः । पौरजानपदामात्याः स राजा राजसत्तमः ॥३६॥",
+      "english": "He is the best of kings whose conduct, even after his death, is praised by the denizens of the city and the country and by his counsellors and friends.",
+      "bhavadeepa": null,
+      "chapter": 25,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "पञ्चविंशतितमोऽध्यायः"
+    }
+  ]
+}

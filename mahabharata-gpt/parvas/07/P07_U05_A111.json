@@ -1,0 +1,533 @@
+{
+  "adhyaya_id": "P07_U05_A111",
+  "book": 7,
+  "parva_name": "द्रोणपर्व",
+  "upaparva_name": "जयद्रथवधपर्व  - ५",
+  "adhyaya_name": "एकादशाधिकशततमोऽध्यायः",
+  "chapter": 111,
+  "verse_count": 51,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "सञ्जय उवाच।\n              प्रीतियुक्तं च हृद्यं च मधुराक्षरमेव च।  कालयुक्तं च चित्रं च न्याय्यं यच्चापि भाषितुम्॥१॥",
+      "english": "Sanjaya said Then that foremost of the Sinis viz., Satyaki, hearing those words of the very virtuous king Yudhishthira, words that were agreeable, salutary, fraught with sweet sounds, opportune, delightful and equitable, replied, O",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः",
+      "combined_translation": "1-2"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "धर्मराजस्य तद्वाक्यं निशम्य शिनिपुङ्गवः।  सात्यकिर्भरतश्रेष्ठ प्रत्युवाच युधिष्ठिरम्॥२॥",
+      "english": null,
+      "bhavadeepa": "प्रीतियुक्तमिति ॥१॥",
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः",
+      "english_ref": 1,
+      "combined_translation": "1-2"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "श्रुतं ते गदतो वाक्यं सर्वमेतन्मयाऽच्युत।  न्याययुक्तं च चित्रं च फाल्गुनार्थे यशस्करम्॥३॥",
+      "english": "“O you of unfading glory, I have heard all the words you have spoken for Arjuna's sake-words that are delightful, equitable and conducive to fame.",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "एवंविधे तथा काले मादृशं प्रेक्ष्य संमतम्।  वक्तुमर्हसि राजेन्द्र यथा पार्थं तथैव माम्॥४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "न मे धनञ्जयस्यार्थे प्राणा रक्ष्याः कथञ्चन।  त्वत्प्रयुक्तः पुनरहं किं न कुर्यां महाहवे ॥५॥",
+      "english": null,
+      "bhavadeepa": "संमतमनुरक्तम् ॥४॥",
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "लोकत्रये योधयेयं सदेवासुरमानुषम्।  त्वत्प्रयुक्तो नरेन्द्रेह किमुतैतत्सुदुर्बलम् ॥६॥",
+      "english": "O ruler of men, commanded by you, I am ready to fight even with the three worlds with the Gods. Asuras and mortals therein, what to speak of this weak host of the Kuru?",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "सुयोधनबलं त्वद्य योधयिष्ये समन्ततः।  विजेष्ये च रणे राजन् सत्यमेतद्ब्रवीमि ते॥७॥",
+      "english": "I will, this day, fight with the entire army of Suyodhana and vanquish it in battle, Oking. This I tell you for sooth.",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "कुशल्यहं कुशलिनं समासाद्य धनञ्जयम्।  हते जयद्रथे राजन् पुनरेष्यामि तेऽन्तिकम्‌॥८॥",
+      "english": "Safely shall I reach Dhananjaya who is also safe and after the slaughter of Jayadratha, we both shall come back to you, O king.",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "अवश्यं तु मया सर्वं विज्ञाप्यस्त्वं नराधिप।  वासुदेवस्य यद्वाक्यं फाल्गुनस्य च धीमतः ॥९॥",
+      "english": "But, O foremost of men, I think it a duty to remind you of the words which were spoken to me by Vasudeva and the highly intelligent Phalguna.",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "दृढं त्वभिपरीतोऽहमर्जुनेन पुनः पुनः।  मध्ये सर्वस्य सैन्यस्य वासुदेवस्य शृण्वतः ॥१०॥",
+      "english": "I was repeatedly and strongly solicited by Arjuna in the very midst of all our troops and at the hearing of Vasudeva's son, in these words.",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "अद्य माधव राजानमप्रमत्तोऽनुपालय।  आर्यां युद्धे मतिं कृत्वा यावद्धन्मि जयद्रथम्॥११॥",
+      "english": null,
+      "bhavadeepa": "अभिपरीतो यन्त्रितः ॥१०॥",
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "त्वयि चाहं महाबाहो प्रद्युम्ने वा महारथे।  नृपं निक्षिप्य गच्छेयं निरपेक्षो जयद्रथम् ॥१२॥",
+      "english": "O nighty-arined hero, making over the inonarch to you or to the mighty car-warriors Pradyumna only, can I I go to slaughter Jayadratha, with an easy heart.",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "जानीषे हि रणे द्रोणं कुरुषु श्रेष्ठसम्मतम्।  प्रतिज्ञातं हि तेनेदं पश्यमानेन वै प्रभो ॥१३॥",
+      "english": "You know how formidable Drona is in battle, Drona who is regarded as the foremost of the Kuru warriors. You also know the vow he made before the eyes of all, O master.",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "ग्रहणे धर्मराजस्य भारद्वाजोऽपि गृध्यति।  शक्तश्चापि रणे द्रोणो निग्रहीतुं युधिष्ठिरम् ॥१४॥",
+      "english": "The son of Bharadvaja, eagerly longs to capture the very virtuous king Yudhishthira. Drona also is competent enough to afflict Yudhishthira in battle.",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "एवं त्वयि समाधाय धर्मराजं नरोत्तमम्।  अहमद्य गमिष्यामि सैन्धवस्य वधाय हि॥१५॥",
+      "english": "Now, making over the charge of the very virtuous king Yudhishthira, that best of men to you, I am today going to slaughter the ruler of the Sindhus.",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "जयद्रथं च हत्वाऽहं द्रुतमेष्यामि माधव।  धर्मराजं न चेद्द्रोणो निगृह्णीयाद्रणे बलात् ॥१६॥",
+      "english": null,
+      "bhavadeepa": "एवमीदृश्यामपि कार्यगतौ समाधाय निक्षिप्य ॥१५॥",
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "निगृहीते नरश्रेष्ठे भारद्वाजेन माधव। सैन्धवस्य वधो न स्यान्ममाप्रीतिस्तथा भवेत्॥१७॥",
+      "english": "Oscion of Madhu's race, if that foremost of men Yudhishthira be captured by the son of Bharadvaja, I shall not be able to accomplish the slaughter of the king of the Sindhus and my grief will be great.",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "एवंगते नरश्रेष्ठे पाण्डवे सत्यवादिनि।  अस्माकं गमनं व्यक्तं वनं प्रति भवेत् पुनः ॥१८॥",
+      "english": "If the truthful son of Pandu, that foremost of the Pandavas (Yudhishthira) be captured by Drona, it is evident that we shall have to go the forest in exile once more.",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "सोऽयं मम जयो व्यक्तं व्यर्थ एव भविष्यति।  यदि द्रोणो रणे क्रुद्धो निगृह्णीयाद्युधिष्ठिरम् ॥१९॥",
+      "english": "If Dróna inflamed with rage succeeds in capturing Yudhishthira, it is evident my victory over Jayadratha will be productive of no good.",
+      "bhavadeepa": "एवंगते ग्रहणं प्राप्ते ॥१८॥",
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "स त्वमद्य महाबाहो प्रियार्थं मम माधव।  जयार्थं च यशोऽर्थं च रक्ष राजानमाहवे॥२०॥",
+      "english": "Thereupon, O scion of Madhu's race, o mighty-armed one, do you undertake to protect the king in battle, for my sake and for the sake of winning victory and fame.",
+      "bhavadeepa": "व्यक्तं कदाचित् ॥१९॥",
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "स भवान्मयि निक्षेपो निक्षिप्तः सव्यसाचिना।  भारद्वाजाद्भयं नित्यं मन्यमानेन वै प्रभो ॥२१॥",
+      "english": "Thus do you see, O king, that you have been made over to me as sacred trust by Savyasachin, afraid as he ever is of the son of Bharadvaja, on your account.",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "तस्यापि च महाबाहो नित्यं पश्यामि संयुगे।  नान्यं हि प्रतियोद्धारं रौक्मिणेयादृते प्रभो॥२२॥",
+      "english": "I see every day, O mighty-armed one that except Rukmini's son there is no one who can be a match for Drona in battle,Omaster.",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "मां चापि मन्यते युद्धे भारद्वाजस्य धीमतः।  सोऽहं संभावनां चैतामाचार्यवचनं च तत्॥२३॥",
+      "english": "I also am regarded to be a match for the intelligent son of Bharadvaja. So it is evident, I cannot falsify that reputation which I enjoy or disregard the behests of my preceptor Arjuna or leave you, O king, alone. The preceptor Drona, covered with impenetrable armour as he is and endued with great lightness of hands.",
+      "bhavadeepa": "तस्य निक्षेपणस्य फलं साध्यं हि यस्मात् ॥२२॥",
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः",
+      "combined_translation": "23-24"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "पृष्ठतो नोत्सहे कर्तुं त्वां वा त्यक्तुं महीपते।  आचार्यो लघुहस्तत्वादभेद्यकवचावृतः ॥२४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः",
+      "english_ref": 23,
+      "combined_translation": "23-24"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "उपलभ्य रणे क्रीडेद्यथा शकुनिना शिशुः।  यदि कार्ष्णिर्धनुष्पाणिरिह स्यान्मकरध्वजः॥२५॥",
+      "english": "Obtaining you in battle, will sport with you as boy with an innocent bird. If that son of Krishna bearing the Makara as a device on his banner, were here with his bow.",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "तस्मै त्वां विसृजेयं वै स त्वां रक्षेद्यथार्जुनः।  कुरु त्वमात्मनो गुप्तिं कस्ते गोप्ता गते मयि॥२६॥",
+      "english": "I could have made you over to his protection and he could have protected, you like Arjuna himself. You should look after your own protection. Who shall protect you when I am gone?",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "यः प्रतीयाद्रणे द्रोणं यावद्गच्छामि पाण्डवम्।  मा च ते भयमद्यास्तु राजन्नर्जुनसंभवम्॥२७॥",
+      "english": "Who will advance against Drona for protecting you, when I shall proceed towards Arjuna? Let no fear, O king, assail your heart today on Arjuna's account.",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "न स जातु महाबाहुर्भारमुद्यम्य सीदति।  ये च सौवीरका योधास्तथा सैन्धवपौरवाः॥२८॥",
+      "english": "That mighty-armed one will never succumb under the heaviest of burdens. Those warriors that are ranged against him viz., the Souvirakas, the Sindhus, the Pauravas.",
+      "bhavadeepa": "यावद्गच्छामि गमिष्यामि अर्जुनसंभवमर्जुनविषयम् ॥२७॥",
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "उदीच्या दाक्षिणात्याश्च ये चान्येऽपि महारथाः।  ये च कर्णमुखा राजन् रथोदाराः प्रकीर्तिताः ॥२९॥",
+      "english": "The Northerners, the Southerners and all cther mighty car-warriors and O king, they that are headed by Karna and are regarded to be most excellent warriors.",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "एतेऽर्जुनस्य क्रुद्धस्य कलां नार्हन्ति षोडशीम्।  उद्युक्ता पृथिवी सर्वा ससुरासुरमानुषा ॥३०॥",
+      "english": "All these warriors, taken together, cannot equal the sixteenth part of Arjuna, when he becomes angry. The whole earta rising against him, with her gods, Asuras and men.",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "सराक्षसगणा राजन् सकिन्नरमहोरगा।  जंगमाः स्थावराः सर्वे नालं पार्थस्य संयुगे ॥३१॥",
+      "english": "And the Rakshasas, the Kinnaras and the reptiles, O king, in fact, with all the mobile and immobile creatures, cannot withstand Pritha's son Arjuna in battle.",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "एवं ज्ञात्वा महाराज व्येतु ते भीर्धनञ्जये।  यत्र वीरौ महेष्वासौ कृष्णौ सत्यपराक्रमौ॥३२॥",
+      "english": "Knowing this, 0 king, let your apprehension on Dhananjaya's account be discarded, O mighty-monarch. Where the two heroic Krishnas, both fierce bowmen and both of prowess incapable of being baffled are present.",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "न तत्र कर्मणो व्यापत् कथञ्चिदापे विद्यते।  दैवं कृतास्त्रतां योगममर्षमपि चाहवे ॥३३॥",
+      "english": "There cannot happen slightest impediment to their prowess incapable of being the baffled are present. There cannot happen the slightest impediment to their purpose. Think of the celestial prowess, the accomplishment in the use of weapons, the vast resources, the fierceness, the gratefulness and the kingheartedness of your brother in battle. When I shall leave this place for proceeding towards Arjuna.",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः",
+      "combined_translation": "33-34"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "कृतज्ञतां दयां चैव भ्रातुस्त्वमनुचिन्तय।  मयि चाप्यपयाते वै गच्छ मानेऽर्जुनं प्रति ॥३४॥",
+      "english": null,
+      "bhavadeepa": "दैवममानुषतां योगमभिज्ञानम् ॥३३॥",
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः",
+      "english_ref": 33,
+      "combined_translation": "33-34"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "द्रोणे चित्रास्त्रतां संख्ये राजंस्त्वमनुचिन्तय।  आचार्यो हि भृशं राजन्निग्रहे तव गृध्यति ॥३५॥",
+      "english": "Think also of Drona, of the wonderful knowledge of weapons he will display in battle; O king, the preceptor earnestly longs to capture you in battle.",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "प्रतिज्ञामात्मनो रक्षन् सत्यां कर्तुं च भारत।  कुरुष्वाद्यात्मनो गुप्तिं कस्ते गोप्ता गते मयि॥३६॥",
+      "english": "And, O Bharata, he endeavours to keep his vow inviolate and true. Would you be able to protect yourself? Who shall protect you when I am gone?",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "यस्याहं प्रत्ययात् पार्थ गच्छेयं फाल्गुनं प्रति।  न ह्यहं त्वां महाराज अनिक्षिप्य महाहवे ॥३७॥",
+      "english": "Who is he, whom I may entrust with your protection and then go towards Arjuna, O king? O mighty monarch, without making over the charge of protecting you in this battle, to somebody else.",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "कच्चिद्यास्यामि कौरव्य सत्यमेतद्ब्रवीमि ते।  एतद्विचार्थ बहुशो बुद्ध्या बुद्धिमतां वर॥३८॥",
+      "english": "I cannot go away, O you of Kuru's race. This I tell you truly; O foremost of persons gifted with intelligence, considering view with the help of your understanding and ascertaining your highest good, do you command me, O king.",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "दृष्ट्वा श्रेयः परं बुद्ध्या ततो राजन्प्रशाधि माम्॥३९॥",
+      "english": null,
+      "bhavadeepa": "क्वचित् कस्मिंश्चित् अनिक्षिप्येत्यन्वयः ॥३८॥",
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "युधिष्ठिर उवाच।\n              एवमेतन्महाबाहो यथा वदसि माधव।  न तु मे शुद्ध्यते भावः श्वेताश्वं प्रति मारिष॥४०॥",
+      "english": "Yudhishthira said O descendant of Madhu's race O mightyarmed one, it is even so as you say. But inspite",
+      "bhavadeepa": "दृष्ट्वा निश्चित्य ॥३९॥",
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "करिष्ये परमं यत्नमात्मनो रक्षणे ह्यहम्।  गच्छ त्वं समनुज्ञातो यत्र यातो धनञ्जयः॥४१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "आत्मसंरक्षणं संख्थे गमनं चार्जुनं प्रति। विचार्यैतत्स्वयं बुद्ध्या गमनं तत्र रोचय ॥४२॥",
+      "english": "The protection of myself in battle and the necessity of rendering aid to Dhananjaya, weighting these two propositions in the balance of my understanding, I prefer that you should do the latter.",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "स त्वमातिष्ठ यानाय यत्र यातो धनञ्जयः।  ममापि रक्षणं भीमः करिष्यति महाबलः ॥४३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "पार्षतश्च ससोदर्यः पार्थिवाश्च महाबलाः।  द्रौपदेयाश्च मां तात रक्षिष्यन्ति न संशयः॥४४॥",
+      "english": null,
+      "bhavadeepa": "आतिष्ठ प्रक्रमस्व ॥४३॥",
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "केकया भ्रातरः पंच राक्षसश्च घटोत्कचः।  विराटो द्रुपदश्चैव शिखण्डी च महारथः ॥४५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "धृष्ट्रकेतुश्च बलवान् कुन्तिभोजश्च मातुलः।  नकुलः सहदेवश्च पञ्चालाः सृञ्जयास्तथा॥४६॥",
+      "english": "Dhristaketu, the puissant Kuntibhoja and O sire, Nakula, Sahadeva and the Srinjayas.",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "एते समाहितास्तात रक्षिष्यन्ति न संशयः।  न द्रोणः सह सैन्येन कृतवर्मा च संयुगे ॥४७॥",
+      "english": "These warriors all, with great care, will surely exert themselves for protecting me. Neither Drona at the head of his troops, nor Kritavarman.",
+      "bhavadeepa": "मातुलः पुरुजित् ॥४६॥",
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "समासादयितुं शक्तो न च मां धर्षयिष्यति।  धृष्टद्युम्नश्च समरे द्रोणं क्रुद्धं परन्तपः ॥४८॥",
+      "english": "Will be able to defeat or afflict us. Dhrishtadyumna also that scorcher of foes, putting forth all his prowess in battle will hold the enraged Drona in check like the banks resisting the mighty main. In battle, where that slayer of foes viz., the son of Prisata will present him.",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः",
+      "combined_translation": "48-49"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "वारयिष्यति विक्रम्य वेलेव मकरालयम्।  यत्र स्थास्यति संग्रामे पार्वतः परवीरहा ॥४९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः",
+      "english_ref": 48,
+      "combined_translation": "48-49"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "द्रोणो न सैन्यं बलवत्कामेत् तत्र कथञ्चन।  एष द्रोणविनाशाय समुत्पन्नो हुताशनात् ॥५०॥",
+      "english": "There Drona will not be able to pierce with force, our troops. For the destruction of Drona, Dhrishtadyumna has come out of fire.",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "कवची स शरी खड्गी धन्वी च वरभूषणः।  विश्रब्धं गच्छ शैनेय मा कार्षीर्मयि संभ्रमम्।  धृष्टद्युम्नो रणे कुद्धं द्रोणमावारविष्यति ॥५१॥",
+      "english": "Cased in mail, armed with shafts, swords, bow and decked with many ornaments. Therefore, O grandson of Sini, go with an easy heart and entertain no anxiety on my account. Dhrishtadyumna himself will resist the enraged Drona in battle.",
+      "bhavadeepa": null,
+      "chapter": 111,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "एकादशाधिकशततमोऽध्यायः"
+    }
+  ]
+}

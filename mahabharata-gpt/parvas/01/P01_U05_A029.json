@@ -1,0 +1,466 @@
+{
+  "adhyaya_id": "P01_U05_A029",
+  "book": 1,
+  "parva_name": "आदिपर्व",
+  "upaparva_name": "आस्तिकपर्व",
+  "adhyaya_name": "ऊनत्रिंशोऽध्यायः",
+  "chapter": 29,
+  "verse_count": 44,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "सौतिरुवाच।\n              तस्य कण्ठमनुप्राप्तो ब्राह्मणः सह भार्यया। दहन्दीप्त इवाङ्गारस्तमुवाचान्तरिक्षगः॥१॥",
+      "english": "Sauti said : A Brahmana with his wife had entered into his throat and he began to burn the bird's throat like a flaming piece of charcoal. The great bird addressed him thus,",
+      "bhavadeepa": "परिचपलः तेषां ग्रहणाय सर्वतो भ्रमन् ॥२१॥",
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "द्विजोत्तम विनिर्गच्छ तूर्णमास्यादपावृतात्। न हि मे ब्राह्मणो वध्यः पापेष्वपि रतः सदा॥२॥",
+      "english": "\"O best of the twice born! soon come out of my mouth. I open it for you. A Brahmana will never be killed by me, even if he is always engaged in sinful acts.\"",
+      "bhavadeepa": "नवविंशतितमः अध्यायः तस्येति ॥१॥",
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "ब्रुवाणमेवं गरुडं ब्राह्मणः प्रत्यभाषत। निषादी मम भार्येयं निर्गच्छतु मया सह॥३॥",
+      "english": "When Garuda addressed the Brahmana thus, he said, \"Let my wife who is a Nishada come out with me.\"",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "गरुड उवाच।\n              एतामपि निषादीं त्वं परिगृह्याशु निष्पत। तूर्णं संभावयात्मानमजीर्णं मम तेजसा॥४॥",
+      "english": "Garuda said: Take the Nishada woman with you and come out at once. Save yourself without delay for you are not yet digested by the heat of my stomach.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "सौतिरुवाच।\n              ततः स विप्रो निष्क्रान्तो निषादीसहितस्तदा। वर्धयित्वा च गरुडमिष्टं देशं जगाम ह॥५॥",
+      "english": "Sauti said: Thereupon the Brahmana came out with the Nishada woman and eulogising Garuda went to the country where he desired to go.",
+      "bhavadeepa": "संभावय सञ्जीवय ॥४॥",
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "सहभार्ये विनिष्क्रान्ते तस्मिन्विप्रे स पक्षिराट्। वितत्य पक्षावाकाशमुत्पपात मनोजवः॥६॥",
+      "english": "When the Brahmana with his wife came out, the king of the birds, fleet as mind, stretching his wings, rose to the sky.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "ततोऽपश्यत् स पितरं पृष्टश्चाख्यातवान्पितुः। यथान्यायममेयात्मा तं चोवाच महानृषिः॥७॥",
+      "english": "He then saw his father and hailed by him, made him proper answer. And the great Rishi then asked him.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "कश्यप उवाच।\n              कच्चिद्वः कुशलं नित्यं भोजने बहुलं सुत। कच्चिच्च मानुषे लोके तवान्नं विद्यते बहु॥८॥",
+      "english": "Kashyapa said : My son, are you doing well? Do you get sufficient food every day. Is there plenty of food for you in the world of men?",
+      "bhavadeepa": "पृष्ठ आख्यातवांश्च वक्ष्यमाणरीत्या ॥७॥",
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "गरुड उवाच।\n              माता मे कुशला शश्वत्तथा भ्राता तथा ह्यहम्। न हि मे कुशलं तात भोजने बहुले सदा॥९॥",
+      "english": "Garuda said: My mother is well; and so is my brother and so am I. But, father, I do not get sufficient food and therefore my happiness is not complete.",
+      "bhavadeepa": "वः युष्माकं मातृभ्रात्रपेक्षया बहुत्वम् ॥८॥",
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "अहं हि सर्पैः प्रहितः सोममाहर्तुमुत्तमम्। महातुर्दास्यविमोक्षार्थमाहरिष्ये तमद्य वै॥१०॥",
+      "english": "I have been sent by the snakes to get the Ambrosia, which is not easy to get. (However) I shall bring it to-day in order to emancipate my mother from her slavery.",
+      "bhavadeepa": "भोजने बहुले विषये मम कुशलं न हि पूर्णाहारस्याभावात् ॥९॥",
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "मात्रा चात्र समादिष्टो निषादान्भक्षयेति ह। न च मे तृप्तिरभवद्भक्षयित्वा सहस्रशः॥११॥",
+      "english": "My mother commanded me to eat the Nishadas. I have eaten thein by thousands, but my hunger is not appeased.",
+      "bhavadeepa": "सोमम् अमृतम् ॥१०॥",
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "तस्माद्भक्ष्यं त्वमपरं भगवन्प्रदिशस्व मे। यद्भुक्त्वाऽमृतमाहर्तुं समर्थः स्यामहं प्रभो॥१२॥",
+      "english": "O great one, point out to me some other food, by eating which, O Lord, I would become capable to bring the Ambrosia by force. You should point out some food which can appease my hunger and thirst.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः",
+      "combined_translation": "12-13"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "क्षुत्पिपासाविघातार्थं भक्ष्यमाख्यातु मे भवान्।\n              कश्यप उवाच।\n              इदं सरो महापुण्यं देवलोकेऽपि विश्रुतम्॥१३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः",
+      "english_ref": 12,
+      "combined_translation": "12-13"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "यत्र कूर्माग्रजं हस्ती सदा कर्षत्यवाङ्मुखः। तयोर्जन्मान्तरे वैरं संप्रवक्ष्याम्यसोषतः॥१४॥",
+      "english": "Kashyapa said : This lake you see before you is very sacred. It is even known in the celestial regions. There is an elephant with its face downwards continually dragging a tortoise which is his elder brother.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "तन्मे तत्त्वं निबोधस्य यत्प्रमाणौ च तावुभौ। आसीद्विभावसुर्नाम महर्षिः कोपनो भृशम्॥१५॥",
+      "english": "I shall speak to you in detail their hostility in the former life. Hear from me the true story, the proof of which is their presence here.",
+      "bhavadeepa": "कूर्माग्रजं कूर्मभूतं ज्येष्ठभ्रातरम् ॥१४॥",
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "भ्राता तस्यानुजश्चासीत्सुप्रतीको महातपाः। स नेच्छति धनं भ्राता सहैकस्थं महामुनिः॥१६॥",
+      "english": "There was in the olden days a great Rishi, named Vibhavasu, who was of exceedingly angry disposition. He had a younger brother, named Supratika, a great ascetic.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "विभागं कीर्तयत्येव सुप्रतीको हि नित्यशः। अथाब्रवीच्च तं भ्राता सुप्रतीकं विभावसुः॥१७॥",
+      "english": "Some time after Vibhavasu told his brother S ratika, “It is from foolishness, blinded by wealth, that many wish to divide (paternal) wealth.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः",
+      "combined_translation": "17-18"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "विभागं बहवो मोहात्कर्तुमिच्छन्ति नित्यशः। ततो विभक्तास्त्वन्योऽन्यं विक्रुध्यन्तेऽर्थमोहिताः॥१८॥",
+      "english": null,
+      "bhavadeepa": "विभागं करिष्यामीति कीर्तयत्येव न तु कृतवान् ॥१७॥",
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः",
+      "english_ref": 17,
+      "combined_translation": "17-18"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "ततः स्वार्थपरान्मूढान्पृथग्भूतान्स्वकैर्धनैः। विदित्वा भेदयन्त्येतानमित्रामित्ररूपिणः॥१९॥",
+      "english": "But as soon as it is partitioned, they begin to quarrel from the blindness arising from wealth. And enemies in the guise of friends, cause estrangement between ignorant and selfish brothers. They confirm their quarrels by pointing out faults and thus they fall one by one.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः",
+      "combined_translation": "19-20"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "विदित्वा चापरे भिन्नानन्तरेषु पतन्त्यथ। भिन्नानामतुलो नाशः क्षिप्रमेव प्रवर्तते॥२०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः",
+      "english_ref": 19,
+      "combined_translation": "19-20"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "तस्माद्विभागं भ्रातॄणां न प्रशंसन्ति साधवः। गुरुशास्त्रे निबद्धानामन्योऽन्येनाभिशङ्किनाम्॥२१॥",
+      "english": "Absolute ruin very soon overtakes those (brothers) that are separated. Therefore, good men never approve of the partition amongst brothers,",
+      "bhavadeepa": "अन्तरेषु छिद्रेषु पतन्ति अन्योन्यस्य छिद्राणि बहुलीकृत्य नाशहेतुं वैरमुद्दीपयन्तीत्यर्थः ॥२०॥",
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "नियन्तुं न हि शक्यस्त्वं भेदतो धनमिच्छसि। यस्मात्तस्मात्सुप्रतीक हस्तित्वं समवाप्स्यसि॥२२॥",
+      "english": "Who, when divided, do not have any regard for Shastras or Gurus. As you, without regarding my advice, impelled by the desire of separation, wish to partition for wealth,",
+      "bhavadeepa": "‘कनिष्ठान्पुत्रवत्पश्येज्ज्येष्ठो भ्राता पितुः समः’ इति गुरुशास्त्रे अलङ्घनीये शासने अनिबद्धानाम् अतिशङ्किनां मर्यादाभङ्गभयेन ॥२१॥",
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "कश्यप उवाच।\n              शप्तस्त्वेवं सुप्रतीको विभावसुमथाब्रवीत्। त्वमप्यन्तर्जलचरः कच्छपः संभविष्यसि॥२३॥",
+      "english": "For this, O Supratika, you will become an elephant.” Thus being cursed Supratika told Vibhavasu,",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "एवमन्योन्यशापात्तौ सुप्रतीकविभावसू। गजकच्छपतां प्राप्तावर्थार्थं मूढचेतसौ॥२४॥",
+      "english": "“You will become an aquatic tortoise.\" Thus being cursed by each other Supratika and Vibhavasu,",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "रोषदोषानुषङ्गेण तिर्यग्योनिगतावुभौ। परस्परद्वेषरतौ प्रमाणबलदर्पितौ॥२५॥",
+      "english": "Both fools now live as a tortoise and an elephant. Owing to their wrathful nature they have both become inferior animals.",
+      "bhavadeepa": "आख्यानतात्पर्यमाह । एवमिति । लोभात्तामसीं योनिं गच्छन्तीतिभावः ॥२४॥",
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "सरस्यस्मिन्महाकायौ पूर्ववैरानुसारिणौ। तयोरन्यतरः श्रीमान्समुपैति महागजः॥२६॥",
+      "english": "They are both engaged in hostilities with each other. Proud of their great strength and the weight of their body, in this lake, these two huge creatures are now engaged in their old hostilities.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "यस्य बृंहितशब्देन कूर्मोऽप्यन्तर्जलेशयः। उत्थितोऽसौ महाकायः कृत्स्नं विक्षोभयन्सरः॥२७॥",
+      "english": "Look, the handsome elephant is coming to the lake. Hearing his roar the huge tortoise rises up, violently agitating the water of the lake; and seeing him the elephant, coiling his trunk, rushes into the water.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः",
+      "combined_translation": "27-28"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "तं दृष्ट्वा वेष्टितकरः पतत्येष गजो जलम्। दन्तहस्ताग्रलाङ्गूलपादवेगेन वीर्यवान्॥२८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः",
+      "english_ref": 27,
+      "combined_translation": "27-28"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "विक्षोभयंस्ततो नागः सरो बहुरुषाकुलम्। कूर्मोऽप्यभ्युद्यतशिरा युद्धायाभ्येति वीर्यवान्॥२९॥",
+      "english": "The greatly powerful elephant, with the motion of his tusks and fore-part of his trunk and with tail and feet, violently agitates the water of the lakes full of fishes.",
+      "bhavadeepa": "आवेष्टितकरः कुण्डलीकृतशुण्डादण्डः ॥२८॥",
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "षडुच्छ्रितो योजनानि गजस्तद्द्विगुणायतः। कूर्मस्त्रियोजनोत्सेधो दशयोजनमण्डलः॥३०॥",
+      "english": "The greatly powerful tortoise also, with its head up, comes to the fight. The elephant is six Yojanas in height and twice that measure in circumference.",
+      "bhavadeepa": "सोऽलम्बं सः अलम्बं निरालम्बं यथा स्यात्तथा । गगनमार्गेण तीर्थं भक्षणार्थं मेरुशृङ्गं क्षेत्रमासाद्य वृक्षान् आरोढुम् ॥२९॥",
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "तावुभौ युद्धसंमत्तौ परस्परवधैषिणौ। उपयुज्याशु कर्मेदं साधये हितमात्मनः॥३१॥",
+      "english": "The tortoise is also three Yojanas in height and his circumference is ten Yojanas. Eat up both of these animals, madly engaged in battle and bent upon killing each other.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "महाभ्रघनसंकाशं तं भुक्त्वामृतमानय। महागिरिसमप्रख्यं घोररूपं च हस्तिनम्॥३२॥",
+      "english": "(After eating them), accomplish the task you desire to perform. Eating the fearful elephant which looks like a huge mountain and a huge mass of clouds, go and bring the Aimbrosia.",
+      "bhavadeepa": "उपयुज्य भुक्त्वा ईहितम् ईप्सितम् ॥३१॥",
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "सौतिरुवाच।\n              इत्युक्त्वा गरुडं सोऽथ माङ्गल्यमकरोत्तदा। युध्यतः सह देवैस्ते युद्धे भवतु मङ्गलम्॥३३॥",
+      "english": "Sauti said : Having said this to Garuda, he blessed him, saying,",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "पूर्णकुम्भो द्विजा गावो यच्चान्यत्किंचिदुत्तमम्। शुभं स्वस्त्ययनं चापि भविष्यति तवाण्डजा॥३४॥",
+      "english": "“O oviparous one, let good come to you when you engage in battle with the celestials. Let water-pots filled to the brim, let Brahmanas, kine and other auspicious objects bless you. In the battle with the powerful celestials,",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः",
+      "combined_translation": "34-35"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "युध्यमानस्य सङ्ग्रामे देवैः सार्धं महाबल। ऋचो यजूंषि सामानि पवित्राणि हवींषि च॥३५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः",
+      "english_ref": 34,
+      "combined_translation": "34-35"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "रहस्यानि च सर्वाणि सर्वे वेदाश्च ते बलम्। इत्युक्तो गरुडः पित्रा गतस्तं ह्रदमन्तिकात्॥३६॥",
+      "english": "Let Riks, Yajus, Saman, the sacred sacrificial ghee, all the mysteries and all the Vedas become your strength.\"",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "अपश्यन्निर्मलजलं नानापक्षिसमाकुलम्। स तत्स्मृत्वा पितुर्वाक्यं भीमवेगोऽन्तरिक्षगः॥३७॥",
+      "english": "Having been thus addressed by his father, Garuda went to the side of the lake. He saw it full of clear water and full of birds of various kinds flying all around.",
+      "bhavadeepa": "ते तुभ्यं बलं दास्यन्तीतिशेषः ॥३६॥",
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "नखेन गजमेकेन कूर्ममेकेन चाक्षिपत्। सधुत्पपात चाकाशं तत उच्चैर्विहङ्गमः॥३८॥",
+      "english": "Remembering his father's words, the swiftflying great bird seized the elephant and the tortoise, one in each claw.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "सोऽलम्बं तीर्थमासाद्य देववृक्षानुपागमत्। ते भीताः समकम्पन्त तस्य पक्षानिलाहताः॥३९॥",
+      "english": "The great bird then soared high into the sky. Coming to a holy shrine, called Alamba, where there were many celestial trees.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "न नो भञ्ज्यादिति तदा दिव्याः कनकशाखिनः। प्रचलाङ्गान्स तान्दृष्ट्वा मनोरथफलद्रुमान्॥४०॥",
+      "english": "Struck by the wind raised by his wings, the trees began to tremble in fear. Those trees, with golden boughs, feared that they would be broken down.",
+      "bhavadeepa": "सोऽलम्बं सः अलम्बं निरालम्बं यथा स्यात्तथा । गगनमार्गेण तीर्थं भक्षणार्थं मेरुशृङ्गं क्षेत्रमासाद्य वृक्षान् आरोढुम् ॥३९॥",
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "अन्यानतुलरूपाङ्गानुपचक्राम खेचरः। काञ्चनै राजतैश्चैव फलैर्वैदूर्यशाखिनः। सागराम्बुपरिक्षिप्तान्भ्राजमानान्महाद्रुमान्॥४१॥",
+      "english": "And those big trees were adorned with fruits of gold and silver; and with branches of precious gems; and they were washed by the waters of the sea. There was a big banian amongst them.",
+      "bhavadeepa": "कनके कनकाचले स्थिताः शाखिनः कनकशाखिनः ॥४०॥",
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "तमुवाच खगश्रेष्ठं तत्र रौहिणपादपः। अतिप्रवृद्धः सुमहानापतन्तं मनोजवम्॥४२॥",
+      "english": "The great tree spoke to the best of the birds, who was flying away with the speed of the mind, saying,",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "रौहिण उवाच।\n              यैषा मम महाशाखा शतयोजनमायता। एतामास्थाय शाखां त्वं खादेमौ गजकच्छपौ॥४३॥",
+      "english": "“Sit down on this big branch of mine which extends a hundred Yojanas; and eat the elephant and the tortoise.\"",
+      "bhavadeepa": "रोह्येव रौहिणो वटः स्वार्थे तद्धितः । राक्षसवायसादिवत् रोही रोहितकेश्वत्थवटपादपयोः पुमानिति मेदिनी ॥४२॥",
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "ततो द्रुमं पतगसहस्रसेवितं महीधरप्रतिमवपुः प्रकम्पयन्। खगोत्तमो द्रुतमभिपत्य वेगवान् भञ्जतामविरलपत्रसंचयाम्॥४४॥",
+      "english": "When the best of birds, huge as a huge mountain and of great swiftness, alighted on the tree, the abode of thousands of birds, it trembled; and the bough, full of leaves, was broken.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "ऊनत्रिंशोऽध्यायः"
+    }
+  ]
+}

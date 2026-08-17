@@ -1,0 +1,331 @@
+{
+  "adhyaya_id": "P08_U01_A008",
+  "book": 8,
+  "parva_name": "कर्णपर्व",
+  "upaparva_name": "कर्णपर्व",
+  "adhyaya_name": "अष्टमोऽध्यायः",
+  "chapter": 8,
+  "verse_count": 31,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "जनमेजय उवाच।\n              श्रुत्वा कर्णं हतं युद्धे पुत्रांश्चैव निपातितान् । नरेन्द्रः किञ्चिदाश्वस्तो द्विजश्रेष्ठ किमब्रवीत् ॥१॥",
+      "english": "Janamejaya said O foremost of regenerate persons, being consoled a little, what did the lord of kings say, when he heard of the death of Karna, as well as the fall of his sons?",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "प्राप्तवान्परमं दुःखं पुत्रव्यसनजं महत् । तस्मिन् यदुक्तवान् काले तन्ममाचक्ष्व पृच्छतः ॥२॥",
+      "english": "He (the monarch) attained exceedingly great uneasiness in the mind) arising from the fault of his sons. Relate to me, as I ask you, what did he say at that time.",
+      "bhavadeepa": "श्रुत्वेति ॥१॥",
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "वैशम्पायन उवाच।\n              श्रुत्वा कर्णस्य निधनमश्रद्धेयमिवाद्भुतम् । भूतसंमोहनं भीमं मेरोः संसर्पणं यथा ॥३॥",
+      "english": "Vaishampayana said Having heard of the death of Karna, which, being extraordinary, was incredible, which stupefied the senses of all creatures, which was most dreadful and which was like the downfall of the mountain of Meru.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "चित्तमोहमिवायुक्तं भार्गवस्य महामतेः । पराजयमिवेन्द्रस्य द्विषद्भ्यो भीमकर्मणः ॥४॥",
+      "english": "And which (the fall of Karna), was as impossible as the dullness of the intellect of highly energetic Bhargava and which, again, was like the defeat of Indra of formidable deeds at the hands of the enemies.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "दिवः प्रपतनं भानोरुर्व्यामिव महाद्युतेः । संशोषणमिवाचिन्त्यं समुद्रस्याक्षयांभसः ॥५॥",
+      "english": "And which (the fall of Karna), also, was like the falling of the highly blazing Sun upon the earth from the heaven and which was as incomprehensible as the drying up of the ocean, whose waters are never exhausted.",
+      "bhavadeepa": "भार्गवस्य रामस्य शुक्रस्य वा ॥४॥",
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "महीवियद्दिगम्बूनां सर्वनाशमिवाद्भुतम् । कर्मणोरिव वैफल्यमुभयोः पुण्यपापयोः ॥६॥",
+      "english": "And which (the fall of Karna), again, was as extraordinary as the total destruction of the earth, the firmament, the different points of the horizon and the waters and also as the fruitlessness of both virtuous and vicious acts.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "सञ्चिन्त्य निपुणं बुद्ध्या धृतराष्ट्रो जनेश्वरः । नेदमस्तीति सञ्चिन्त्य कर्णस्य समरे वधम् ॥७॥",
+      "english": "And then having meditated most skillfully in the mind upon the slaying of Karna in battle in the similar manner and also having deeply thought upon this viz. that his army was no more.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "प्राणिनामेवमन्येषां स्यादपीति विनाशनम् । शोकाग्निना दह्यमानो धम्यमान इवाशये ॥८॥",
+      "english": "And also having argued that the other creatures would be of the similar fate, Dhritarashtra, the lord of men, was burnt by the fire of grief and looked like a burning serpent.",
+      "bhavadeepa": "कर्णस्य वधं सञ्चिन्त्य मनस्यालोच्य इदं कृत्नं जगत्स्वसैन्यं वा नास्तीति सञ्चिन्त्य निश्चित्य विललापेति तृतीयेन सम्बन्धः ॥७॥",
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "विस्रस्ताङ्गः श्वसन् दीनो हाहेत्युक्त्वा सुदुःखितः । विललाप महाराज धृतराष्ट्रोऽम्बिकासुतः ॥९॥",
+      "english": "With paralysed limbs, sighing long, looking helpless, uttering-woe and alas and highly oppressed with with sorrow, the great king Dhritarashtra, the son of Ambika, became to weep most bitterly.",
+      "bhavadeepa": "प्राणिनामवध्यात्कर्णादन्येषां तृणतुल्यानां मन्दत्वादल्पवीर्यत्वात् इति अनेनैव प्रकारेण विनाशनं स्यादपीति हेतोराशये चेतसि धम्यमान इव विस्रस्ताङ्गः यथा भ्राष्ट्रे धम्यमानः पाषाणादिः शीर्यते तद्वद्विशीर्ण इत्यर्थः ॥८॥",
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "धृतराष्ट्र उवाच।\n              सञ्जयाधिरथिर्वीरः सिंहद्विरद‌विक्रमः । वृषभप्रतिमस्कन्धो वृषभाक्षगतिश्चरन् ॥१०॥",
+      "english": "Dhritarashtra said O Sanjaya, the war-like son of Adhiratha was possessed of the strength of a lion or an elephant; and his neck was like that of a bull; and his eyes, speed and voice were also like those of a bull.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "वृषभो वृषभस्येव यो युद्धे न निवर्तते । शत्रोरपि महेन्द्रस्य वज्रसंहननो युवा ॥११॥",
+      "english": "That young man of limbs as strong as the thunderbolt never desisted from battle even with so great an enemy as Indra himself, even as a bull never desists from battle with another bull.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "यस्य ज्यातलशब्देन शरवृष्टिरवेण च । रथाश्वनरमातङ्गा नावतिष्ठन्ति संयुगे ॥१२॥",
+      "english": "At the sound of whose bowstring and at the roaring of whose arrowy showers, the men and horses (ihe infantry and the cavalry), the cars and elephants could not stand in the field of battle.",
+      "bhavadeepa": "न निवर्तते इति छेदः ॥११॥",
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "यमाश्रित्य महाबाहुं विद्विषां जयकाङ्क्षया । दुर्योधनोऽकराद्वैरं पाण्डुपुत्रैर्महारथैः ॥१३॥",
+      "english": "Having taken refuge under the mighty arms of that imperishable slayer of innumerable foes, Duryodhana made enemies of the sons of Pandu, those great car-warriors.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "स कथं रथिनां श्रेष्ठः कर्णः पार्थेन संयुगे । निहतः पुरुषव्याघ्रः प्रसह्यासह्यविक्रमः ॥१४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः",
+      "english_ref": 8,
+      "combined_translation": "8-14"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "यो नामन्यत वै नित्यमच्युतं च धनञ्जयम् । न वृष्णीन्सहितानन्यान्स्वबाहुबलदर्पितः ॥१५॥",
+      "english": "Placing confidence upon the strength of his own arms, he (Karna) always indeed did care neither for Achyuta, nor for Dhananjaya, nor for the whole of the Vrishni race nor for the other enemies.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "शार्ङ्गगाण्डीवधन्वानौ सहितावपराजितौ । अहं दिव्याद्रथादेकः पातयिष्यामि संयुगे ॥१६॥",
+      "english": "'In the field of battle, alone I shall hurl down at once both the wielder of Gandiva bow, who are unconquerable and are united together, from their celestial cars.'",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "इति यः सततं मन्दमवोचल्लोभमोहितम् । दुर्योधनमवाचीनं राज्यकामुकमातुरम् ॥१७॥",
+      "english": "This (the above saying) he always uttered to Duryodhana, who was bad, darkened by avarice, foolish and desirous of kingdom and also who was highly afflicted.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "योऽजयत्सर्वकाम्बोजानावन्त्यान् केकयैः सह । गान्धारान् मद्र कान्मत्स्यांस्त्रिगर्तांस्तङ्गणाञ्शकान् ॥१८॥",
+      "english": "That hero (Karna) had subdued the unusually powerful and invincible enemies namely the Gandharvas, the Madrakas, the Matsyas, the Trigartas, the Tanganas the Shashas.",
+      "bhavadeepa": "अवाचीनं चिन्तयाऽधोमुखम् ॥१७॥",
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "पञ्चालांश्च विदेहांश्च कुलिन्दान् काशिकोसलान् । सुह्मानङ्गांश्च वङ्गांश्च निषादान् पुण्ड्रचीरकान् ॥१९॥",
+      "english": "And the Panchalas, the Videhas, the Kulindas, the Kashi-Kosalas, the Suhmas, the Angas, the Bangas, the Nishadhas, the Pundras, the Kichakas.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "वत्सान्कलिङ्गांस्तरलानश्मकानृषिकानपि । जित्वैतान्समरे वीरश्चक्रे बलिभृतः पुरा ॥२०॥",
+      "english": "And the Vatsyas, the Kalingas, the Taralas, the Ashmakas and the Rishikas. In the days of yore, he subjugated these (above-mentioned) heroes in battle and made then pay tribute (to us).",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "शरव्रातैः सुनिशितैः सुतीक्ष्णैः कङ्कपत्रिभिः । दुर्योधनस्य वृद्ध्यर्थं राधेयो रथिनां वरः ॥२१॥",
+      "english": "By means of his sharpened and keen arrows, that were adorned with the Kanka feathers for the sake of Duryodhana's aggrandisement. That one (Karna) was still waiting in the field for winning victory (for Duryodhana). How was that protector of armies (on my side), that one well-versed in the use of weapons, viz. Vaikartana Karna was slain in battle by the foes, the heroic sons of Pandu, who were possessed of immense strength?",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः",
+      "combined_translation": "21-23"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "दिव्यास्त्रविन्महातेजाः कर्णो वैकर्तनो वृषः । सेनागोपश्च स कथं शत्रुभिः परमास्त्रवित् ॥२२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः",
+      "english_ref": 21,
+      "combined_translation": "21-23"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "घातितः पाण्डवैः शूरैः समरे वीर्यशालिभिः । वृषो महेन्द्रो देवेषु वृषः कर्णो वरेष्वपि ॥२३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः",
+      "english_ref": 21,
+      "combined_translation": "21-23"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "तृतीयमन्यं लोकेषु वृषं नैवानुशुश्रुम । उच्चैःश्रवा वरोऽश्वानां राज्ञां वैश्रवणो वरः ॥२४॥",
+      "english": "Indra is the foremost of the celestials even as Karna is the best amongst men. In this world we have not heard of a third one, who was the most exalted like them.",
+      "bhavadeepa": "जलवर्षित्वाद्देवेषु महेन्द्रो वृषः । धनवर्षित्वान्मनुष्येषु कर्णो वृषः ॥२३॥",
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "वरो महेन्द्रो देवानां कर्णः प्रहरतां वरः । योजितः पार्थिवैः शूरैः समर्थैर्वीर्यशालिभिः ॥२५॥",
+      "english": "Uchchaishravas is the best of all horses, Vaishravana is the best of the Yakshas; and Indra is the foremost of the celestials; so also Karna is the best of all smiters.",
+      "bhavadeepa": "तृतीयमेवमभितो वृष्टिकर्तारं वृषम् ॥२४॥",
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "दुर्योधनस्य वृद्ध्यर्थं कृत्स्नामुर्वीमथाजयत् । यं लब्ध्वा मागधो राजा सान्त्वमानोऽथ सौहृदैः ॥२६॥",
+      "english": "Having been unsubdued by the heroic and mightest monarchs of immense prowess, he then subjugated the entire earth for the aggrandisement of Duryodhana.",
+      "bhavadeepa": "अजित इति छेदः । योजितो नियोजितो मयेति वा ॥२५॥",
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "अरौत्सीत्पार्थिवं क्षत्रमृते यादवकौरवान् । तं श्रुत्वा निहतं कर्णं द्वैरथे सव्यसाचिना ॥२७॥",
+      "english": "Having heard of the slaughter of that Karna by Savyasachin in a single combat I am plunged deep in the ocean of grief, even as a ship-wrecked one (is plunged) in the vast sea.",
+      "bhavadeepa": "यमिति । मागधोऽप्यस्यैव बलेन बलवानिति भावः॥२६॥",
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः",
+      "combined_translation": "27-28"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "शोकार्णवे निमग्नोऽहं भिन्ना नौरिव सागरे । तं वृषं निहतं श्रुत्वा द्वैरथे रथिनां वरम्॥२८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः",
+      "english_ref": 27,
+      "combined_translation": "27-28"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "शोकार्णवे निमग्नोऽहमप्लवः सागरे यथा । ईदृशैर्यद्यहं दुःखैर्न विनश्यामि सञ्जय ॥२९॥",
+      "english": "Having heard of the fall of that best of men, that foremost of car-warriors, in a single combat, I am lunged in the ocean of grief, even as a person without a boat (is plunged) in the sea.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "वज्राद्दृढतरं मन्ये हृदयं मम दुर्भिदम् । ज्ञातिसम्बन्धिमित्राणामिमं श्रुत्वा पराभवम् ॥३०॥",
+      "english": "O Sanjaya, when having been afflicted with such a grief as this, I do not die, I suppose that my heart is harder than the thunderbolt and most impenetrable.",
+      "bhavadeepa": "अप्लवः नौकाहीनः ॥२९॥",
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "को मदन्यः पुमाँल्लोके न जह्यात्सूत जीवितम् । विषमग्निं प्रपातं च पर्वताग्रादहं वृणे । न हि शक्ष्यामि दुःखानि सोढुं कष्टानि सञ्जय ॥३१॥",
+      "english": "O Suta, having heard of this utter defeat of kinsmen, relatives and friends, what other person in this world except myself would not give up his life?",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    }
+  ]
+}

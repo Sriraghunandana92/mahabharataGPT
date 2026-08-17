@@ -1,0 +1,557 @@
+{
+  "adhyaya_id": "P07_U01_A016",
+  "book": 7,
+  "parva_name": "द्रोणपर्व",
+  "upaparva_name": "द्रोणाभिषेकपर्व - १",
+  "adhyaya_name": "षोडशोऽध्यायः",
+  "chapter": 16,
+  "verse_count": 54,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "सञ्जय उवाच।\n              तद्बलं सुमहद्दीर्णं त्वदीयं प्रेक्ष्य वीर्यवान्। दधारैको रणे राजन् वृषसेनोऽस्त्रमायया॥१॥",
+      "english": "Sanjaya said Seeing that army of yours thoroughly routed in battle, O monarch, Vrishasena endued with prowess, single-handed, began to protect it by means of the illusion of this weapons.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "शरा दश दिशो मुक्ता वृषसेनेन संयुगे। विचेरुस्ते विनिर्भिद्य नरवाजिरथद्विपान्॥२॥",
+      "english": "In that battle numerous shafts discharged by Vrishasena flew in all the ten directions of the compass, piercing men, horses, cars and elephants.",
+      "bhavadeepa": "तदिति । अस्त्रमायया अस्त्रकौशलेन ॥१॥",
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "तस्य दीप्ता महाबाणा विनिश्चेरुः सहस्रशः। भानोरिव महाराज घर्मकाले मरीचयः॥३॥",
+      "english": "Like the rays of the sun, o king, mighty arrows of blazing effulgence shot by him, began to fly (on all sides).",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "तेनार्दिता महाराज रथिनः सादिनस्तथा।  निपेतुरुर्व्यां सहसा वातभग्ना इव द्रुमाः॥४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "हयौघांश्च रथौघांश्च गजौघांश्च महारथः।  अपातयद्रणे राजन् शतशोऽथ सहस्रशः॥५॥",
+      "english": "That mighty car-warrior felled in battle, O monarch, large divisions of steeds, car-warriors and elephants, by hundreds and thousands.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "दृष्ट्वा तमेकं समरे विचरन्तमभीतवत्।  सहिताः सर्वराजानः परिवव्रुः समन्ततः॥६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "नाकुलिस्तु शतानीको वृषसेनं समभ्ययात्।  विव्याध चैनं दशभिर्नाराचैर्मर्मभेदिभिः॥७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "तस्य कर्णात्मजश्चापं छित्त्वा केतुमपातयत्।  तं भ्रातरं परीप्सन्तो द्रौपदेयाः समभ्ययुः॥८॥",
+      "english": "The son of Karna, in return, sundered his bow and cut down his standard. The sons of Draupadi desiring to rescue their brother, rushed towards him.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "कर्णात्मजं शरव्रातैरदृश्यं चक्रुरञ्जसा।  तान्नदन्तोऽभ्यधावन्त द्रोणपुत्रमुखा रथाः॥९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "छादयन्तो महाराज द्रौपदेयान् महारथान्।  शरैर्नानाविधैस्तूर्णं पर्वतान् जलदा इव॥१०॥",
+      "english": "o monarch, these warriors (headed by Drona's son) speedily covered over the mighty car-warriors namely the sons of Draupadi, with arrows of various description like clouds pouring their contents on a mountain.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "तान् पाण्डवाः प्रत्यगृह्णंस्त्वरिताः पुत्रगृद्धिनः।  पञ्चालाः केकया मत्स्याः सृञ्जयाश्चोद्यतायुधाः॥११॥",
+      "english": "Prompted by their affection for their sons, the Pandavas quickly encountered them (assailants), being followed by the Panchalas, Kaikayas, Matsyas and Srinjayas, with their arms uplifted.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "तद्युद्धमभवद्धोरं सुमहल्लोमहर्षणम्।  त्वदीयैः पाण्डुपुत्राणां देवानामिव दानवैः॥१२॥",
+      "english": "Then commenced a fierce and sanguinary and hair-stirring engagement between your army and the army of the sons of Pandu like that between the celestials and the Danavas.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "एवं युयुधिरे वीराः संरब्धाः कुरुपाण्डवाः।  परस्परमुदीक्षन्तः परस्परकृतागसः॥१३॥",
+      "english": "Thus the heroes among the Kuru and the Pandava hosts, wrought up with wrath, fought with one another looking furiously at one another and nourishing (deadly) hatred for one another.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "तेषां ददृशिरे कोपाद्वपूंष्यमिततेजसाम्।  युयुत्सूनामिवाकाशे पतत्त्रिवरभोगिनाम्॥१४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "भीम-कर्ण-कृप-द्रोण-द्रौणि-पार्षत-सात्यकैः।  बभासे स रणोद्देशः कालसूर्य इवोदितः॥१५॥",
+      "english": "The scene of action with Bhima. Karna, Kripa, Drona and Drona's son and Parshata and Satyaki, appeared effulgent like the alldestructive sun that rises (at the time of the universal annihilation).",
+      "bhavadeepa": "पतत्त्रिवरभोगिनामिव पतत्त्रिवरो गरुडः। भोगिनः सर्पाः ॥१४॥",
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "तदासीत् तुमुलं युद्धं निघ्नतामितरेतरम्।  महाबलानां बलिभिर्दानवानां यथा सुरैः॥१६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "ततो युधिष्ठिरानीकमुद्धृतार्णवनिःस्वनम्।  त्वदीयमवधीत् सैन्यं संप्रद्रुतमहारथम्॥१७॥",
+      "english": "Thereafter the host of Yudhishthira, setting up a noise loud as that of the (agitated) ocean, fell to slaughter your host, of which the mighty car-warriors have fled.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "तत् प्रभग्नं वलं दृष्ट्वा शत्रुभिर्भृशमर्दितम्।  अलं द्रुतेन वः शूरा इति द्रोणोऽभ्यभाषत॥१८॥",
+      "english": "Then seeing the (Kaurava) host thoroughly shattered and excessively mutilated by the enemy, Drona exclaimed-'You need not fly, Oheroes.'",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "ततः शोणहयः क्रुद्धश्चतुर्दन्त इव द्विपः।  प्रविश्य पाण्डवानीकं युधिष्ठिरमुपाद्रवत्॥१९॥",
+      "english": "Thereafter that hero owning chest-nut steeds, inflamed with rage, like an elephant bearing four tusks, penetrated into the Pandava ranks and rushed at Yudhishthira.",
+      "bhavadeepa": "द्रुतेन पलायितेन ॥१८॥",
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "तमाविध्यच्छितैर्बाणैः कङ्कपत्रैर्युधिष्ठिरः।  तस्य द्रोणो धनुश्छित्त्वा तं द्रुतं समुपाद्रवत्॥२०॥",
+      "english": "Thereupon Yudhishthira pierced him with shafts, keen-pointed and furnished with feathers of the Kanka bird, Drona also cutting his bow in two charged him with great impctus.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "चक्ररक्षः कुमारस्तु पञ्चालानां यशस्करः।  दधार द्रोणमायान्तं वेलेव सरितां पतिम्॥२१॥",
+      "english": "Thereat the protectors of Yudhishthira's car-wheels namely Kumara, the glory of the Panchala races, resisted the rushing Drona, like the beach opposing the swelling sea.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "द्रोणं निवारितं दृष्ट्वा कुमारेण द्विजर्षभम्।  सिंहनादरवो ह्यासीत् साधु साध्विति भाषितम्॥२२॥",
+      "english": "When Drona the foremost of the regenerated ones was seen to be held in check by Kumara, there were heard sounds of carcries and exclamations of Excellent, excellent etc.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "कुमारस्तु ततो द्रोणं सायकेन महाहवे। विव्याधोरसि संक्रुद्धः सिंहवच्च नदन्मुहुः॥२३॥",
+      "english": "Then in that baitle, fierce Kumara. wrought up with ire, pierced, with a shaft, Drona on the chest; and then repeatedly uttered roars like those of the lion.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "संवार्य चरणे द्रोणं कुमारस्तु महाबलः।  शरैरनेकसाहस्त्रैः कृतहस्तो जितश्रमः॥२४॥",
+      "english": "Then that highly puissant and indefatigable Kumara of great lightness of hands, having held Drona at bay in that battle, pierced him with thousands of shafts.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "तं शूरमार्यव्रतिनं मन्त्रास्त्रेषु कृतश्रमम्।  चक्ररक्षं परामृद्नात् कुमारं द्विजपुङ्गवः॥२५॥",
+      "english": "Thereafter the foremost of the twice-born one (Drona) slew Kumara that protector of Yudhishthira's car-wheels who was brave, of illustrious vows and well-versed in the use of weapons and mantras.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "स मध्यं प्राप्य सैन्यानां सर्वाः प्रविचरन् दिशः।  तव सैन्यस्य गोप्ताऽऽसीद्भारद्वाजो द्विजर्षभः॥२६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "शिखण्डिनं द्वादशभिर्विंशत्या चोत्तमौजसम्।  नकुलं पञ्चभिर्विद्ध्वा सहदेवं च सप्तभिः॥२७॥",
+      "english": "Piercing Sikhandin with twelve arrows, Uttamaujas with twenty, Nakula with five and Sahadeva with seven. Yudhishthira with twelve and the sons of Draupadi each with three, Satyaki with five and the ruler of the Matsyas with ten arrows.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "युधिष्ठिरं द्वादशभिर्द्रौपदेयांस्त्रिभिस्त्रिभिः।  सात्यकिं पञ्चभिर्विद्ध्वा मत्स्यं च दशभिः शरैः॥२८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "व्यक्षोभयद्रणे योधान् यथा मुख्यमभिद्रवन्।  अभ्यवर्तत संप्रेप्सुः कुन्तीपुत्रं युधिष्ठिरम्॥२९॥",
+      "english": "And rushing at the foremost warriors of the Pandavas in due order, he (Drona) agitated the warlike host in that battle. Then desirous of capturing the of Kunti namely Yudhishthira, he (Drona) charged him.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "युगन्धरस्ततो राजन् भारद्वाजं महारथम्।  वारयामास संक्रुद्धं वातोद्धतमिवार्णवम्॥३०॥",
+      "english": "Thereupon, 0 monarch, Yugandhara opposed the mighty car-warrior, the son of Bharadvaja, who was inflamed with rage like the ocean swelling with the tempest.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "युधिष्ठिरं स विद्ध्वा तु शरैः सन्नतपर्वभिः।  युगन्धरं तु भल्लेन रथनीडादपातयत्॥३१॥",
+      "english": "But Drona, having pierced Yudhishthira with close-jointed shafts, overthrew Yugandhara from his niche in the car with a broad-headed arrow.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "ततो विराटद्रुपदौ केकयाः सात्यकिः शिबिः।  याघ्रद‌त्तश्च पाञ्चाल्यः सिंहसेनश्च वीर्यवान्॥३२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "एते चान्ये च बहवः परीप्सन्तो युधिष्ठिरम्।  आवव्रुस्तस्य पन्थानं किरन्तः सायकान् बहून्॥३३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "व्याघ्रदत्तस्तु पाञ्चाल्यो द्रोणं विव्याध मार्गणैः।  पञ्चाशता शितै राजंस्तत उच्चुक्रुशुर्जनाः॥३४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "त्वरितं सिंहसेनस्तु द्रोणं विद्ध्वा महारथम्।  प्राहसत् सहसा हृष्टस्त्रासयन् वै महारथान्॥३५॥",
+      "english": "Sinhasena also having quickly pierced the mighty car-warrior Drona, suddenly, out of delight, broke out into a laugh, inspiring terror into the hearts of the mighty car-warriors.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "ततो विस्फार्य नयने धनुर्ज्यामवमृज्य च।  तलशब्दं महत्कृत्वा द्रोणस्तं समुपाद्रवत्॥३६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "ततस्तु सिंहसेनस्य शिरः कायात् सकुण्डलम्।  व्याघ्रदत्तस्य चाक्रम्य भल्लाभ्यामाहरद्बली॥३७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "तान् प्रमृज्य शरव्रातैः पाण्डवानां महारथान्।  युधिष्ठिररथाभ्याशे तस्थौ मृत्युरिवान्तकः॥३८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "ततोऽभवन्महाशब्दो राजन् यौधिष्ठिरे बले।  हतो राजेति योधानां समीपस्थे यतव्रते॥३९॥",
+      "english": "When Drona of regulated vows reached the vicinity of Yudhishthira, O monarch, loud cries of 'The king is slain' were uttered by the warriors of Yudhishthira's army.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "अब्रुवन् सैनिकास्तत्र दृष्ट्वा द्रोणस्य विक्रमम्।  अद्य राजा धार्तराष्ट्रः कृतार्थो वै भविष्यति॥४०॥",
+      "english": "Then the soldiers, beholding the prowess of Drona said, \"Today the royal son of Dhritarashtra will attain the fruition of his desire.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "अस्मिन् महूर्ते द्रोणस्तु पाण्डवं गृह्य हर्षितः।  आगमिष्यति नो नूनं धार्तराष्ट्रस्य संयुगे॥४१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "एवं सञ्जल्पतां तेषां तावकानां महारथः।  आयाज्जवेन कौन्तेयो रथघोषेण नादयन्॥४२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "शोणितोदां रथावर्तां कृत्वा विशसने नदीम्।  शूरास्थिचयसंकीर्णां प्रेतकूलापहारिणीम्॥४३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "तां शरौघमहाफेनां प्रासमत्स्यसमाकुलाम्।  नदीमुत्तीर्य वेगेन कुरून् विद्राव्य पाण्डवः॥४४॥",
+      "english": "Having crossed that river having the myriad shafts for its forth and abounding in fishes consisting of lances the son of Pandu came there crushing the Kurus with his speed.",
+      "bhavadeepa": "विशसने युद्धे ॥४३॥",
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "ततः किरीटी सहसा द्रोणानीकमुपाद्रवत्।  छादयन्निषुजालेन महता मोहयन्निव॥४५॥",
+      "english": "Thereafter the diadem-decked Arjuna suddenly charged Drona's division, covering it with net-work of mighty arrows and stupefying therewith the warriors that followed Drona. Nobody was able to perceive any interval between the swift placing of the arrows on the bow-string and their discharge by the wellrenowned son of Kunti.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः",
+      "combined_translation": "45-46"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "शीघ्रमभ्यस्यतो बाणान् संदधानस्य चानिशम्।  नान्तरं ददृशे कश्चित् कौन्तेयस्य यशखिनः॥४६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः",
+      "english_ref": 45,
+      "combined_translation": "45-46"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "न दिशो नान्तरिक्षं च न द्योर्नैव च मेदिनी।  अदृश्यन्त महाराज बाणभूता इवाभवन्॥४७॥",
+      "english": "Neither the cardinal quarters, not the welkin, nor the conclave dome, nor the earth, could be seen any longer, O monarch; everything then appeared to be a continuous mass of arrows.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "नादृश्यत तदा राजंस्तत्र किंचन संयुगे।  बाणान्धकारे महति कृते गाण्डीवधन्वना॥४८॥",
+      "english": "Then when the wielder of the Gandiva had caused a 'palpable darkness' in the field of the battle with his shafts, nothing, O monarch, could be distinguished.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "सूर्ये चास्तमनुप्राप्ते तमसा चाभिसंवृते।  नाज्ञायत तदा शत्रुर्न सुहृन्न च कश्चन॥४९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "ततोऽवहारं चक्रुस्ते द्रोणदुर्योधनादयः।  तान् विदित्वा पुनस्त्रस्तानयुद्धमनसः परान्॥५०॥",
+      "english": "Thereupon Drona and Duryodhana and others began to withdraw their forces. Considering his enemies to be inspired with terror and unwilling to carry on the fight.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "स्वान्यनीकानि बीभत्सुः शनकैरवहारयत्।  ततोऽभितुष्टुवुः पार्थं प्रहृष्टाः पाण्डुसृञ्जयाः॥५१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "पञ्चालाश्च मनोज्ञाभिर्वाग्भिः सूर्यभिवर्षयः।  एवं स्वशिबिरं प्रायाज्जित्वा शत्रून् धनञ्जयः॥५२॥",
+      "english": "Vibhatsu also slowly withdrew his own divisions; then the Pandus and the Srinjayas and the Panchalas highly delighted began to praise the son of Pritha (Arjuna), with agreeable words, like the Rishis praising the Sun. Thus having vanquished his foes Dhananjaya, filled with rapture and accompanied by Keshava, retired to his own camp, bringing up the rear of his whole army.",
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः",
+      "combined_translation": "52-53"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "पृष्ठतः सर्वसैन्यानां मुदितो वै स केशवः॥५३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः",
+      "english_ref": 52,
+      "combined_translation": "52-53"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "मसारगल्वर्कसुवर्णरूपैर्वज्रप्रवालस्फटिकैश्च मुख्यैः।  चित्रे रथे पाण्डुसुतो बभासे नक्षत्रचित्रे वियतीव चन्द्रः॥५४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 16,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "षोडशोऽध्यायः"
+    }
+  ]
+}

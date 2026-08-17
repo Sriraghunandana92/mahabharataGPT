@@ -1,0 +1,585 @@
+{
+  "adhyaya_id": "P14_U02_A050",
+  "book": 14,
+  "parva_name": "आश्वमेधिकपर्व",
+  "upaparva_name": "अथानुगीतपर्व - २",
+  "adhyaya_name": "पञ्चाशत्तमोऽध्यायः",
+  "chapter": 50,
+  "verse_count": 56,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "ब्रह्मोवाच।\n              हन्त वः सम्प्रवक्ष्यामि यन्मां पृच्छथ सत्तमाः। गुरुणा शिष्यमासाद्य यदुक्तं तन्निबोधत॥१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "समस्तमिह तच्छ्रुत्वा सम्यगेवावधार्यताम्। अहिंसा सर्वभूतानामेतत्कृत्यतमं मतम्॥२॥",
+      "english": "Hearing it all, do you settle properly (what it should be). Abstention from injuring any creature is considered as the foremost of all duties.",
+      "bhavadeepa": "पृष्टेष्वेतेषु पक्षेषु यद्धेयमुपादेयं च तत्संक्षेपेणाह- हन्त व इति॥१॥",
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "एतत्पदमनुद्विग्नं वरिष्ठं धर्मलक्षणम्। ज्ञानं निःश्रेय इत्याहुर्वृद्धा निश्चितदर्शिनः॥३॥",
+      "english": "That is the highest seat, shorn of anxiety and forming a mark of holiness. The ancients who had seen the certain truth, have said that knowledge is the highest happiness.",
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "तस्माज्ज्ञानेन शुद्धेन मुच्यते सर्वकिल्बिषैः। हिंसापराश्च ये केचिद्ये च नास्तिकवृत्तयः। लोभमोहसमायुक्तास्ते वै निरयगामिनः॥४॥",
+      "english": "Hence, one becomes freed of all sins by pure knowledge. they who are engaged in destruction and harm, they who are infidels in conduct, have to go to Hell on account of their being gifted with cupidity and delusion. Those who, without idleness, perform acts moved thereto by expectation, become repeatedly born in this world and sport in happiness. Those men who, gifted with learning and wisdom, perforın acts with faith, free from expectations, and possessed of concentration of mind, are said to perceive clearly.",
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "आशीर्युक्तानि कर्माणि कुर्वते ये त्वतन्द्रिताः। तेऽस्मिँल्लोके प्रमोदन्ते जायमानाः पुनः पुनः॥५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "कुर्वते ये तु कर्माणि श्रद्दधाना विपश्चितः। अनाशीर्योगसंयुक्तास्ते धीराः साधुदर्शिनः॥६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "अतः परं प्रवक्ष्यामि सत्त्वक्षेत्रज्ञयोर्यथा। संयोगो विप्रयोगश्च तन्निबोधत सत्तमाः॥७॥",
+      "english": "I shall, after this. describe how the association and the disassociation takes place of Soul and Nature. You best of men, listen. The relation here is said to be that betwcen the object and the subject.",
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "विषयो विषयित्वं च सम्बन्धोऽयमिहोच्यते। विषयी पुरुषो नित्यं सत्त्वं च विषयः स्मृतः॥८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "व्याख्यातं पूर्वकल्पेन मशकोदुम्बरं यथा। भुज्यमानं न जानीते नित्यं सत्त्वमचेतनम्। यस्त्वेवं तं विजानीते यो भुङ्क्ते यश्च भुज्यते॥९॥",
+      "english": "Purusha is always the subject; and Nature the object. It has been explained, by what has been said in a previous part of the discourse where it has been pointed out, that they exist after the manner of the gnat and the Udumbara,",
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "नित्यं द्वन्द्वसमायुक्तं सत्त्वमाहुर्मनीषिणः। निर्द्वन्द्वो निष्कलो नित्यः क्षेत्रज्ञो निर्गुणात्मकः॥१०॥",
+      "english": "An object of enjoyment as it is, Nature is unintelligent and knows nothing. He, however, who enjoys it, is said to know it, Soul being enjoyer, Nature is enjoyed.",
+      "bhavadeepa": "विषयविषयिभावो घटचक्षुषोरिव न केवलं प्रकाश्यप्रकाशकमावः अपि तु भोज्यभोक्तृभावोप्यस्तीत्याह- व्याख्यातमिति सार्धेन। उदुम्बरवत्सत्त्वं स्वात्मानं भाोक्तारं च न वोत्ति भोक्ता तु मशकवदुभयं वेत्तीत्यर्थः। यो विजानीते स क्षेत्रज्ञ इत्युत्तरेणान्वयः॥९॥",
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "समं संज्ञानुगश्चैव स सर्वत्र व्यवस्थितः। उपभुङ्क्ते सदा सत्त्वमप: पुष्करपर्णवत्॥११॥",
+      "english": "The wise have said that Nature is always made up of pairs of opposites. Soul is, on the other hand, destitute of pairs of opposites, devoid of parts, eternal, and free, about its essence, from qualities.",
+      "bhavadeepa": "सत्त्वपुरुषयोः सम्बन्धस्याध्यासिकत्वमाह- नित्यमिति। नित्यं सर्वदा सत्त्वं द्वन्द्वैः सुखदुःखादिपरिणामैर्युक्तं गुणात्मकत्वात्सुखदुःखमोहात्मकं संहृतं च तद्विपरीतत्त्वात् निर्द्वद्वः नित्यः निष्कलो निर्गुणश्च पुरुष अतस्तयोर्विषमस्वभावत्वान्न जनुकाष्ठादिवत् सम्बधो युज्यते। यथोक्तं- निःसङ्गस्य ससङ्गेन कूटस्थस्य विकारिणा। आत्मनोऽनात्मना योगो वास्तवो नोपपद्यते॥ इति॥१०॥",
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "सर्वैरपि गुणैर्विद्वान् व्यतिषक्तो न लिप्यते। जलबिन्दुर्यथा लोलः पद्मिनीपत्रसंस्थितः॥१२॥",
+      "english": "He lives in everything alike, and walks with knowledge. He always enjoys Nature as a lotus leaf (enjoys) water.",
+      "bhavadeepa": "कथं तर्हि तयोर्विषयविषयिभावसम्बन्ध उक्त इत्याह- सममिति। यथा सर्वत्र स्वप्नमायेन्द्रजालरज्जूरगादी अध्यस्तम् अधिष्ठानेन समं तुल्यं तदावरकमित्यर्थः। अधिष्ठानं चाध्यस्तसंज्ञानुगतः तत्र स्वकीयसत्ता स्फूर्तिसमर्पकतया तदीयां संज्ञामनुसरत् दृश्यते तथा सत्त्वं पुरुषेण समं सत्त्वसंज्ञानुगतः पुरुष उपभुङ्क्ते तत्र दृष्टान्तः- अप इति। यथा पुष्करपर्ण अद्भिरसंसक्तमपि अपो भुङ्क्ते ताभिस्तस्याप्यायनात्। एवं सत्त्वेनावृतः पुरुषः सत्त्वसमानत्वं गतः सत्त्वधर्मान् आत्मन्यभिमन्वानः सत्वं भुङ्क्ते तथा चैवं कूटस्थविकारिणोरपि पुम्प्रकृत्योराध्यासिकः सम्बन्ध उपपादितो भवति॥११॥",
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "एवमेवाप्यसंयुक्तः पुरुषः स्यान्न संशयः। द्रव्यमात्रमभूत्सत्त्वं पुरुषस्येति निश्चयः॥१३॥",
+      "english": "Endued with knowledge, he is never tainted even if brought into contact with all the qualities.",
+      "bhavadeepa": "प्रकारान्तरेण दृष्टान्तं विवृणोति- सर्वैरिति॥१२॥",
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "यथा द्रव्यं च कर्ता च संयोगोऽप्यनयोस्तथा। यथा प्रदीपमादाय कश्चित्तमसि गच्छति। तथा सत्त्वप्रदीपेन गच्छन्ति परमैषिणः॥१४॥",
+      "english": null,
+      "bhavadeepa": "समत्वमुपपादयति- एवमिति। सर्पेण रज्जुरिव सत्त्वेन असंयुक्तोऽपि पुरुषः स इति निश्चितमेव। तथापि सत्त्वं पुरुषश्च उभयं मिलित्वा द्रव्यमात्रं सत्त्वमात्रमभूत्। यथा रज्जुभुजङ्गौ मिलित्वा भुजङ्गमात्रं भवति तद्वत् इति निश्चयः। इदमेव तत्त्वं कल्पनान्तरं तु भ्रान्तिमात्रमिति भावः॥१३॥",
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "यावद्द्रव्यं गुणस्तावत्प्रदीपः सम्प्रकाशते। क्षीणे द्रव्ये गुणे ज्योतिरन्तर्धानाय गच्छति॥१५॥",
+      "english": null,
+      "bhavadeepa": "इदमेव द्वयोः सत्त्वमात्रत्वमनुसृत्य सत्वमेवात्मेति मन्यमाना बौद्धाः पुरुषमपलपन्ति तत्प्राह- यथेति। सत्त्वं पुरुषश्चेत्युभयं यथा द्रव्यमात्रमभूत्तथा द्रव्यम् इदमर्थं कर्ताहमर्थः तयोः संयोगां दर्शनं चेति कृत्स्ना त्रिपुट्यपि द्रव्यमभूदित्यर्थः। कुतस्तर्हि द्रव्यात्पुरुषस्य पृथक्त्वमत आह- प्रदीपेति। यथा दीपेनैव दीपमन्यं च जानन्ति एवं सत्वस्य परिणामविशेषेण विद्याख्येन सत्त्वं पुरुषं च पृथक् जानीयादित्यर्थः॥१४॥",
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "व्यक्तः सत्त्वगुणस्त्वेवं पुरुषोऽव्यक्त इष्यते। एतद्विप्रा विजानीत हन्त भूयो ब्रवीमि वः॥१६॥",
+      "english": null,
+      "bhavadeepa": "द्रव्यं तैलं गुणो वर्तिः॥१५॥",
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "सहस्रेणापि दुर्मेधा न बुद्धिमधिगच्छति। चतुर्थेनाप्यथांशेन बुद्धिमान् सुखमेधते॥१७॥",
+      "english": "Understand this, you learned Brahmanas! Well, I shall now tell you something more. With even a thousand (explanations), one who has a bad understanding succeeds not in acquiring knowledge.",
+      "bhavadeepa": "दार्ष्टान्तिकमाह- व्यक्त इति। यथा तैलवर्तिभ्यामवष्टब्धो दपि आत्मानं भवनाकाशं च व्याप्नोति तदभावे तु स्वयमेवातर्धीयते न तु भवनाकाश एवं कर्मावष्टब्ध सत्त्वगुणश्चरमवृत्तिरूपोऽभिव्यक्तः सन् स्वं च पुरुषं च पृथगवभासयति कर्मोपरमे तु स्वयमेवान्तर्धीयते पुरुषस्तु अव्यक्तः समाधिसुषुप्तिसुखसाक्षी केवल इष्यते॥१६॥",
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "एवं धर्मस्य विज्ञेयं संसाधनमुपायतः। उपायज्ञो हि मेधावी सुखमत्यन्तमश्नुते॥१८॥",
+      "english": "One, however, who is gifted with intelligence succeeds in acquiring happiness, through only a fourth share (c: explanations). Thus should the accomplishment of duty be understood as dependent on means. For the intelligent man, having knowledge of means, succeeds in acquiring supreme happiness.",
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "यथाध्वानमपाथेयः प्रपन्नो मनुजः क्वचित्। क्लेशेन याति महता विनश्येदन्तरापि च॥१९॥",
+      "english": "As some man travelling along a road without provisions of his journey, proceeds with great uneasiness and may even meet with destruction before he reaches the end of his journey, so should it be known that in deeds there may or may not be fruits.",
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "तथा कर्मसु विज्ञेयं फलं भवति वा न वा। पुरुषस्यात्मनिःश्रेयः शुभाशुभनिदर्शनम्॥२०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "यथा च दीर्घमध्वानं पद्भ्यामेव प्रपद्यते। अदृष्टपूर्वं सहसा तत्त्वदर्शनवर्जितः॥२१॥",
+      "english": "The examination of what is agreeable and what disagrceable is one's own self, yields benefit. The progress in life of a man who is devoid of the perception of truth is like that of a man who rashly journey on a long road unseen before. The progress, however, of those who are gifted with intelligence, is like that of men who journey along the same road, riding on a car to which are yoked (fleet) horses and which moves with swiftness. Having ascended to the top of a mountain, one should not cast his eyes on the surface of the earth.",
+      "bhavadeepa": "कर्मसु ज्ञानसाधनेषु आत्मनि चित्ते श्रेयोविषये शुभाशुभदृष्टान्तः पूर्णे पुण्यपापे यः पूर्णं योगमाप्नोति अल्पपुष्यस्त्वन्तरा म्रियते इति भाव॥२०॥",
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः",
+      "combined_translation": "21-22"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "तमेव च यथाध्वानं रथेनेहाशुगामिना। गच्छत्यश्वप्रयुक्तेन तथा बुद्धिमतां गतिः॥२२॥",
+      "english": null,
+      "bhavadeepa": "यथा चेति। शास्त्ररथेनैव संसाराध्वातिलघनीय इति भावः॥२१॥",
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः",
+      "english_ref": 21,
+      "combined_translation": "21-22"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "ऊर्ध्वं पर्वतमारुह्य नान्ववेक्षेत भूतलम्। रथेन रथिनं पश्य क्लिश्यमानमचेतनम्॥२३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "यावद्रथपथस्तावद्रथेन स तु गच्छति। क्षीणे रथपदे विद्वान् रथमुत्सृज्य गच्छति॥२४॥",
+      "english": "Sceing a man, even though travelling on a car, afflicted and rendered insensible by pain, the inielligent man journeys on a car as long as there is a car-path.",
+      "bhavadeepa": "ऊर्ध्वमिति। परं पदमारुह्य शास्त्रमपि त्याज्यमिति भावः॥२३॥",
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "एवं गच्छति मेधावी तत्त्वयोगविधानवित्। परिज्ञाय गुणज्ञश्च उत्तरादुत्तरोत्तरम्॥२५॥",
+      "english": "The learned man, when he sees the car-path end, abandons his car for going on. Thus does the intelligent man who knows the ordinances about truth and Yoga, proceed. Knowing the qualities, such man, proceeds, comprehending what is next and next.",
+      "bhavadeepa": "यावदिति। चित्तशुद्धिपर्यन्तं विधिशास्त्रकैङ्कर्यं ततस्तु योगतत्त्वं जानन् उत्तरोत्तरं हंसं परमहंसं वाऽऽश्रमं सम्यगवबुध्य गच्छेदित्यर्थः॥२४॥",
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "यथार्णवं महाघोरमप्लवः सम्प्रगाहते। बाहुभ्यामेव सम्मोहाद्वधं वाञ्छत्यसंशयम्॥२६॥",
+      "english": "As one who plunges, without a boat, into the terrible ocean, with only ones two arms, through delusion, undoubtedly wishes for a range. After destruction; while the wise man conversant with distinctions, goes into the water, with a boat having oars, and soon crosses the lake without fatigue, and having crossed it gets to the other shore and leaves off the boat, freed from the thought of mineness.",
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः",
+      "combined_translation": "26-27"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "नावा चापि यथा प्राज्ञो विभागज्ञः स्वरित्रया। अश्रान्तः सलिले गच्छेच्छीघ्रं सन्तरते ह्रदम्॥२७॥",
+      "english": null,
+      "bhavadeepa": "आचार्यरूपा नावंश्रयेदित्याह त्रिभिः- यथेति॥२६॥",
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः",
+      "english_ref": 26,
+      "combined_translation": "26-27"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "तीर्णो गच्छेत्परं पारं नावमुत्सृज्य निर्ममः। व्याख्यातं पूर्वकल्पेन यथा रथपदातिनोः॥२८॥",
+      "english": null,
+      "bhavadeepa": "स्वरित्रया शोभनानि अरित्राणि केनिपातनानि यस्या तया॥२७॥",
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "स्नेहात्सम्मोहमापन्नो नावि दाशो यथा तथा। ममत्वेनाभिभूतः संस्तत्रैव परिवर्तते॥२९॥",
+      "english": null,
+      "bhavadeepa": "तीर्ण इति। समावृतवत् निदिध्यासनार्थी गुरुमपि त्यजेदिति भावः। तावद्गुरुं सेवेत यावद्योगारूढो न भवति रथमिव पर्वतारूढ इति पूर्वदृष्टान्त स्मारयति- व्याख्यातमिति। पदातिदृष्टान्तोऽपि गुर्वभावे मार्गप्राप्तिरेव न भवतीत्यत्र बोध्यः॥२८॥",
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "नावं न शक्यमारुह्य स्थले विपरिवर्तितुम्। तथैव रथमारुह्य नाप्सु चर्या विधीयते॥३०॥",
+      "english": null,
+      "bhavadeepa": "स्नेहादिति। नात्यन्तं गुरावेव स्थेयं सति ध्यानयोग्यत्वे इति भावः॥२९॥",
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "एवं कर्मकृतं चित्रं विषयस्थं पृथक् पृथक्। यथा कर्मकृतं लोके तथैतानुपद्यते॥३१॥",
+      "english": "Likewise, it is not possible in moving abut on water after one has got on a car. There are thus various actions about various objects.",
+      "bhavadeepa": "नावमिति। कर्माधिकारिणा योगो योगाधिकारिणा च कर्म नानुष्ठातुं युक्तम् इति भावः॥३०॥",
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "यनैव गन्धिनो रस्यं न रूपस्पर्शशब्दवत्। मन्यन्ते मुनयो बुद्ध्या तत्प्रधानं प्रचक्षते॥३२॥",
+      "english": "And as action is performed in this world, so does it result to those who perform them. That which is void of smell. void of taste, and void of touch and sound, that which is meditated upon by the sages with the help of their understanding is said to be Pradhana. Now, Pradhana is unmanifest. A development of the uninanife-t is Mahat.",
+      "bhavadeepa": "कर्मकृतं कर्मफलं चित्रं नानाविधं विषयस्थं पृथक् पृथक् एकमेव कर्म गृहस्थस्य श्लाध्यं परिव्राजकस्य पातित्यहेतुः एवं व्यतिरेकोऽपि ज्ञेयः विषयः आश्रमस्तत्स्थम् एतान्कर्तॄन्॥३१॥",
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "तत्र प्रधानमव्यक्तमव्यक्तस्य गुणो महान्। महत्प्रधानभूतस्य गुणोऽहङ्कार एव च॥३३॥",
+      "english": null,
+      "bhavadeepa": "एवं ज्ञानसाधनान्युक्त्वा ज्ञेयमाह- यदिति। गन्धि गन्धवतः रस्यं रसवत्॥३२॥",
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "अहङ्कारात्तु सम्भूतो महाभूतकृतो गुणः। पृथक्त्वेन हि भूतानां विषया वै गुणाः स्मृताः॥३४॥",
+      "english": null,
+      "bhavadeepa": "गुणः कार्यं महद्रूपं यत्प्रधानभूतं प्रधानकार्यं तस्यापि गुणोऽहङ्कारः॥३३॥",
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "बीजधर्मं तथा व्यक्तं प्रसवात्मकमेव च। बीजधर्मो महानात्मा प्रसवश्चेति नः श्रुतम्॥३५॥",
+      "english": "And from the great elements respectively, the objects of sense proceed. The unmanifest is of the nature of seed. It produced its essence.",
+      "bhavadeepa": "महाभूतकृतः वियदादिरूपत्वेन कल्पितः तेषां गुणास्तु विषयाः शब्दादय एव॥३४॥",
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "बीजधर्मस्त्वहङ्कारः प्रसवश्च पुनः पुनः। बीजप्रसवधर्माणि महाभूतानि पञ्च वै॥३६॥",
+      "english": null,
+      "bhavadeepa": "बीजधर्मत्वं कारणत्वं प्रसवात्मकत्वं कार्यरूपत्वं, जीवेति पाठेपि जीवतो धान्यादेरेव धर्मो बीजत्वं न तु भर्जितधान्यादेरिति स एवार्थः। यद्यपि तेषां मते अव्यक्तस्य बीजत्वमेवास्ति न तु कार्यत्वं तथापि अद्वैतश्रुतिविरोधात्तदुपेक्ष्यमिति भावः॥३५॥",
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "बीजधर्मिण इत्याहुः प्रसवं च प्रकुर्वते। विशेषाः पञ्चभूतानां तेषां चित्तं विशेषणम्॥३७॥",
+      "english": "And the five great elements are of the nature of seed and products. The objects of the five great elements are gifted with the nature of seed, and yield products. These have intelligence for their property. Among them, space has one equality; wind is said to have two.",
+      "bhavadeepa": "पुनःपुनरिति दृष्टिसृष्टिरुक्ता॥३६॥",
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः",
+      "combined_translation": "37-38"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "तत्रैकगुणमाकाशं द्विगुणो वायुरुच्यते। त्रिगुणं ज्योतिरित्याहुरामश्चपि चतुर्गुणाः॥३८॥",
+      "english": null,
+      "bhavadeepa": "बीजधर्मिण इति तामेवोपपादयति। विशेषाः शब्दादयः प्रसवं प्रकुर्वते भोगकाले कार्यरूपेण उपस्थिता अपि संस्काररूपेण कालान्तरे भोगं दातुं कारणात्मनावतिष्ठन्ते। अत एते कारणरूपाश्च कार्यं सर्वदा कुर्वन्ति पूर्वेषां मृद्घटन्यायेन कार्यकारणभावः। विशेषाणां तु बीजाङ्कुरन्यायेनेति भेदः। तेषां विशेषाणामपि विशेषणं व्यावर्तकं चित्तमेव। चित्त एव विशेषाः सर्वे सन्ति न बहिरित्यर्थः॥३७॥",
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः",
+      "english_ref": 37,
+      "combined_translation": "37-38"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "पृथ्वी पञ्चगुणा ज्ञेया चरस्थावरसङ्कुला। सर्वभूतकरी देवी शुभाशुभनिदर्शिनी॥३९॥",
+      "english": null,
+      "bhavadeepa": "तत्रैकगुणमित्यादिग्रन्थो व्याख्यातो मोक्षधर्मेषु स्पष्टार्थश्च॥३८॥",
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "शब्दः स्पर्शस्तथा रूपं रसो गन्धश्च पञ्चमः। एते पञ्च गुणा भूमेर्विज्ञेया द्विजसत्तमाः॥४०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः",
+      "english_ref": 6,
+      "combined_translation": "6-40"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "पार्थिवश्च सदा गन्धो गन्धश्च बहुधा स्मृतः। तस्य गन्धस्य वक्ष्यामि विस्तरेण बहून् गुणान्॥४१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "इष्टश्चानिष्टगन्धश्च मधुरोऽम्लः कटुस्तथा। निर्हारी संहतः स्निग्धो रूक्षो विशद एव च॥४२॥",
+      "english": "I shall describe at length the numerous qualities of smell. Smell is agreeable or disagreeable, sweet, sour, pungent, diffusive and compact, oily and dry, and clear. Thus smell, which belongs to the earth, should be known as of ten sorts.",
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "एवं दशविधो ज्ञेयः पार्थिवो गन्ध इत्युत। शब्दः स्पर्शस्तथा रूपं द्रवश्चापां गुणाः स्मृताः॥४३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "रसज्ञानं तु वक्ष्यामि रसस्तु बहुधा स्मृतः। मधुरोऽम्लः कटुस्तिक्तः कषायो लवणस्तथा॥४४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "एवं षड्विधविस्तारो रसो वारिमयः स्मृतः। शब्दः स्पर्शस्तथा रूपं त्रिगुणं ज्योतिरुच्यते॥४५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "ज्योतिषश्च गुणो रूपं रूपं च बहुधा स्मृतम्। शुक्लं कृष्णं तथा रक्तं नीलं पीतारुणं तथा॥४६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "ह्रस्वं दीर्घं कृशं स्थूलं चतुरस्रं तु वृत्तवत्। एवं द्वादशविस्तारं तेजसो रूपमुच्यते॥४७॥",
+      "english": "White, dark, red, blue, yellow, and grey also, and short long, minute, gross, square and circular, of these twelve varieties is colour which appertains to light. These should be understood by Brahmanas venerable for years, knowing duties, and truthful in speech.",
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "विज्ञेयं ब्राह्मणैवृद्धर्धमेज्ञैः सत्यवादिभिः। शब्दस्पर्शौ च विज्ञेयौ द्विगुणो वायुरुच्यते॥४८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "वायोश्चापि गुणः स्पर्शः स्पर्शश्च बहुधा स्मृतः। रूक्षः शीतस्तथैवोष्णः स्निग्धो विशद एव च॥४९॥",
+      "english": "Sound and touch should be known as the two qualities of wind. Touch has been said to be of various sorts.",
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "कठिनश्चिक्कणः श्लक्ष्णः पिच्छिलो दारुणो मृदुः। एवं द्वादशविस्तारो वायव्यो गुण उच्यते॥५०॥",
+      "english": "Rough, cold and hot, tender and clear, hard, oily, smooth, slippery, painful and soft, of twelve kinds is touch, which is the quality of wind, as said by Brahmanas crowned with success, knowing duties, and possessed of a sight of truth.",
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः",
+      "combined_translation": "50-51"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "विधिवद्ब्राह्मणैः सिद्धैर्धर्मस्तित्त्वदर्शिभिः॥५१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः",
+      "english_ref": 50,
+      "combined_translation": "50-51"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "तत्रैकगुणमाकाशं शब्द इत्येव च स्मृतः। तस्य शब्दस्य वक्ष्यामि विस्तरेण बहून् गुणान्॥५२॥",
+      "english": "Now, space has only one quality, and that is said to be sound. I shall speak at length of the numerous qualities of sound.",
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "षड्जर्षभः स गान्धारो मध्यमः पञ्चमस्तथा। अतः परं तु विज्ञेयो निषादो धैवतस्तथा। अष्टश्चानिष्टशब्दश्च संहतः प्रविभागवान्॥५३॥",
+      "english": "Shadaja, Rishabha, together with Gandhara, Madhyama, and likewise Panchama; after this should be known Nishada, and then Daivata, besides these, there are agreeable sounds and disagreeable sounds compact, and of many ingredients.",
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "एवं दशविधो ज्ञेयः शब्द आकाशसम्भवः। आकाशमुत्तमं भूतमहङ्कारस्ततः परः॥५४॥",
+      "english": "Sound which is born of space should thus be known to be of ten sorts. Space is the highest of the (five) elements. Egoism is above it.",
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 55,
+      "sanskrit": "अहङ्कारात्परा बुद्धिर्बुद्धेरात्मा ततः परः। तस्मात्तु परमव्यक्तमव्यक्तात्पुरुषः परः॥५५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 56,
+      "sanskrit": "परापरज्ञो भूतानां विधिज्ञः सर्वकर्मणाम्। सर्वभूतात्मभूतात्मा गच्छत्यात्मानमव्ययम्॥५६॥",
+      "english": "One who knows which is superior and inferior among existent creatures, who is conversant with the ordinances about all deeds. and who forms himself the soul of all creatures, attains to the Unfading Soul.",
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    }
+  ]
+}

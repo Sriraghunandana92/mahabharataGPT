@@ -1,0 +1,332 @@
+{
+  "adhyaya_id": "P19_U02_A103",
+  "book": 19,
+  "parva_name": "हरिवंशः",
+  "upaparva_name": "विष्णुपर्व",
+  "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३",
+  "chapter": 158,
+  "verse_count": 31,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "जनमेजय उवच।\n              बहूनां स्त्रीसहस्राणामष्टौ भार्याः प्रकीर्तिताः। तासामपत्यान्यष्टानां भगवान्प्रब्रवीतु मे॥१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "वैशम्पायन उवाच।\n              अष्टौ महिष्यः पुत्रिण्य इति प्राधान्यतः स्मृताः। सर्वा वीरप्रजाश्चैव तास्वपत्यानि मे शृणु॥२॥",
+      "english": "Oh, king, as to how the sun is dawning and dusking in the sky, so also it is said that these gods too lapse only to reoccur... thus, though their souls are imperishable, their entities will be resurgent era after era..",
+      "bhavadeepa": "बहूनामिति॥१॥",
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३",
+      "combined_translation": "2-55"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "रुक्मिणी सत्यभामा च देवी नाग्नजिती तथा। सुदत्ता च तथा शैब्या लक्ष्मणा चारुहासिनी॥३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३",
+      "combined_translation": "3-3"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "मित्रविन्दा च कालिन्दी जाम्बवत्यथ पौरवी। सुभीमा च तथा माद्री रुक्मिणीतनयाञ्छृणु॥४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३",
+      "combined_translation": "4-4"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "प्रद्युम्नः प्रथमं जज्ञे शम्बरान्तकरः शुभः। द्वितीयश्चारुदेष्णश्च वृष्णिसिंहो महारथः॥५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३",
+      "combined_translation": "5-5"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "चारुभद्रश्चारुगर्भः सुदेष्णो द्रुम एव च। सुषेणश्चारुदेष्णाश्च चारुविन्दश्च वीर्यवान्॥६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३",
+      "combined_translation": "6-6"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "चारुबाहुः कनीयांश्च कन्या चारुमती तथा। जज्ञिरे सत्यभामायां भानुर्भीमरथस्तथा॥७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३",
+      "combined_translation": "7-7"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "रोहितो दीप्तिमांश्चैव ताम्रजाक्षो जलान्तकः। भानुर्भीमलिका चैव ताम्रपर्णी जलन्धमा॥८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३",
+      "combined_translation": "8-8"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "चतस्रो जज्ञिरे तेषां स्वसारो गरुडध्वजात्। जाम्बवत्याः सुतो जज्ञे साम्बः समितिशोभनः॥९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३",
+      "combined_translation": "9-9"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "मित्रवान्मित्रविन्दश्च मित्रवत्यपि चाङ्गना। मित्रबाहुः सुनीथश्च नाग्नजित्याः प्रजाः शृणु॥१०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३",
+      "combined_translation": "10-10"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "भद्रकारो भद्रविन्दः कन्या भद्रवती तथा। सुदत्तायां तु शैष्यायां सङ्ग्रामजिदजायत॥११॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३",
+      "english_ref": 1,
+      "combined_translation": "1-11"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "सत्यजित्सेनजिच्चैव तथा शूरः सपत्नजित्। सुभीमायाः सुतो माद्रद्या वृकाश्वो वृकनिर्वृतिः॥१२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "कुमारो वृकदीप्तिश्च लक्ष्मणायाः प्रजाः शृणु। गात्रवान्गात्रगुप्तश्च गात्रविन्दश्च वीर्यवान्॥१३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "जज्ञिरे गात्रवत्या च भगिन्यानुजया सह। अश्रुतश्च सुतो जज्ञे कालिन्द्याः श्रुतसंमितः॥१४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "अश्रुतं श्रुतसेनायै प्रददौ मधुसूदनः। तं प्रदाय हृषीकेशस्तां भार्यां मुदितोऽब्रवीत्॥१५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "एष वामुभयोरस्तु दायादः शाश्वतीः समाः। बृहत्यां तु गदस्याहुः शैब्यायामङ्गदं सुतम्॥१६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "उत्पन्नं कुमुदं चैव श्वेतं श्वेता तथाङ्गना। अगावहः सुमित्रश्च शुचिश्चित्ररथस्तथा॥१७॥",
+      "english": null,
+      "bhavadeepa": "वाम् आवयोः कृष्णश्रुतसेनयोः॥१६॥",
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "चित्रसेनः सुदेवायाश्चित्रा चित्रवती तथा। वनस्तम्बश्च जज्ञाते सुतः स्तम्बवनश्च ह॥१८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "निवासना वनस्तम्बः कन्या स्तम्बवती तथा। उपसन्नश्च शङ्कुश्च वज्रांशुः क्षिप्र एव च॥१९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "कौशिक्यां श्रुतसोमायां यौधिष्ठिर्यां युधिष्ठिरः। कापाली गरुडश्चैव जज्ञाते चित्रयोधिनौ॥२०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "एवमादीनि पुत्राणां सहस्राणि निबोध मे। दशायुतं समाख्याता वासुदेवस्य ते सुताः॥२१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "अयुतानि तथा चाष्टौ शूरा रणविशारदाः। जनार्दनस्य प्रसवः कीर्तितोऽयं तथा मया॥२२॥",
+      "english": null,
+      "bhavadeepa": "दशायुतं लक्षम्॥२१॥",
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "प्रद्युम्नस्य सुतो जज्ञे वैदर्भ्यां राजसत्तम। अनिरुद्धो रणे रुद्धो जज्ञे स मृगकेतनः॥२३॥",
+      "english": null,
+      "bhavadeepa": "अष्टौ अयुतानीत्यशीतिसहस्रं च पुत्राः॥२२॥",
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "रेवत्यां बलदेवस्य जज्ञाते निशठोल्मुकौ। भ्रातरौ देवसङ्काशावुभौ पुरुषसत्तमौ॥२४॥",
+      "english": null,
+      "bhavadeepa": "अरुद्ध इति च्छेदः॥२३॥",
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "सुतनुश्च सुतारा च शौरेरास्तां परिग्रहः। पौण्ड्रकः कपिलश्चैव वसुदेवस्य तौ सुतौ॥२५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "तारायां कपिलो जज्ञे पौण्ड्रश्च सुतनोः सुतः। तयोर्नृपोऽभवत्पौण्ड्रः कपिलश्च वनं ययौ॥२६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "तुर्यां समभवद्वीरो वसुदेवान्महाबलः। जरा नाम निषादानां प्रभुः सर्वधनुष्मताम्॥२७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "काश्यां सुपार्श्वं तनयं लेभे साम्बात्तरस्विनम्। सानुर्जज्ञेऽनिरुद्धस्य वज्रः सानोरजायत॥२८॥",
+      "english": null,
+      "bhavadeepa": "तुर्यां चतुर्थ्यां शूद्रायामित्यर्थः॥२७॥",
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "वज्राज्जज्ञे प्रतिरथः सुचारुस्तस्य चात्मजः। अनमित्राच्छिनिर्जज्ञे कनिष्ठाद्वृष्णिनन्दनात्॥२९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "शिनेस्तु सत्यवाग्जज्ञे सत्यकश्च महारथः। सत्यकस्यात्मजः शूरो युयुधानस्त्वजायत॥३०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "असङ्गो युयुधानस्य मणिस्तस्याभवत्सुतः। मणेर्युगन्धरः पुत्र इति वंशः समाप्यते॥३१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 158,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वृष्णिवंशवर्णनम्-१०३"
+    }
+  ]
+}

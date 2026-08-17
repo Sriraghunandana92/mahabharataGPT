@@ -1,0 +1,408 @@
+{
+  "adhyaya_id": "P09_U03_A039",
+  "book": 9,
+  "parva_name": "शल्यपर्व",
+  "upaparva_name": "गदायुद्धपर्व",
+  "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः",
+  "chapter": 39,
+  "verse_count": 38,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वैशम्पायन उवाच।\n              उषित्वा तत्र रामस्तु सम्पूज्याश्रमवासिनः। तथा मङ्कणके प्रीतिं शुभां चक्रे हलायुधः॥१॥",
+      "english": "Vaishampayana said Having passed one night there, Rama, having the plough for his weapon, adored the dwellers of that tirtha and showed great respect for Mankanaka.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "दत्त्वा दानं द्विजातिभ्यो रजनीं तामुपोष्य च। पूजितो मुनिसङ्गैश्च प्रातरुत्थाय लाङ्गली॥२॥",
+      "english": null,
+      "bhavadeepa": "उषित्वेति॥१॥",
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "अनुज्ञाप्य मुनीन्सर्वान् स्पृष्ट्वा तोयं च भारत। प्रययौ त्वरितो रामस्तीर्थहेतोर्महावलः॥३॥",
+      "english": "Having distributed wealth amongst the Brahmanas and passed the night there the hero, having the plough for his weapon, was adored by the ascetics. Rising up in the morning, he took leave of all the ascetics and having touched the sacred water, O Bharata, started quickly for other tirthas.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "ततस्त्वौशनसं तीर्थमाजगाम हलायुधः। कपालमोचनं नाम यत्र मुक्तो महामुनिः॥४॥",
+      "english": "Baladeva then went to the tirtha known by the name of Ushanas. It is also called Kapalamochana. Formerly, Rama (the son of Dasharatha) slew a Rakshasa and threw his head to a great distance. That head, O king, fell upon the thigh of a great sage named Mahodara and struck to it. Bathing in this tirtha, the great Rishi was freed from that burthen. The great (Shukra) had practised his ascetic penances there.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः",
+      "combined_translation": "4-5"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "महता शिरसा राजन् ग्रस्तजङ्घो महोदरः। राक्षसस्य महाराज रामक्षिप्तस्य वै पुरा॥५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः",
+      "english_ref": 4,
+      "combined_translation": "4-5"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "तत्र पूर्वं तपस्तप्तं काव्येन सुमहात्मना। यत्रास्य नीतिरखिला प्रादुर्भूता महात्मनः॥६॥",
+      "english": "It was there that the science of politics and morals, .that passes by Shukra's name, was revealed to him. While living there. Shukra meditated upon the war of the Daityas and the Danavas.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः",
+      "combined_translation": "6-7"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "यत्रस्थश्चिन्तयामास दैत्यदानवविग्रहम्। तत्प्राप्य च बलो राजंस्तीर्थप्रवरमुत्तमम्॥७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः",
+      "english_ref": 6,
+      "combined_translation": "6-7"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "विधिवद्वै ददौ वित्तं ब्राह्मणानां महात्मनाम्।\n              जनमेजय उवाच।\n              कपालमोचनं ब्रह्मन्कथं यत्र महामुनिः॥८॥",
+      "english": "Arrived at that foremost of tirthas Baladeva, O king, duly made presents of the great Brahmanas.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "मुक्तः कथं चास्य शिरो लग्नं केन च हेतुना।\n              वैशम्पायन उवाच।\n              पुरा वै दण्डकारण्ये राघवेण महात्मना॥९॥",
+      "english": "Janamejaya said Why is it called Kapalamochana, where the great Muni became freed (from the Rakshasa's head)? Why and how did that head stick to his thigh?\"",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "वसता राजशार्दूल राक्षसान् शमयिष्यता। जनस्थाने शिरश्छिन्नं राक्षसस्य दुरात्मनः॥१०॥",
+      "english": "Vaishampayana said \"Formerly, O foremost of king, the great Rama (the son of Dasharatha) lived for sometime in the forest of Dandaka, for killing the Rakshasas.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "क्षुरेण शितधारेण उत्पपात महावने। महोदरस्य तल्लग्नं जङ्घायां वै यदृच्छया॥११॥",
+      "english": "At Janasthana he sundered the head of a wicked Rakshasa with highly sharp razorheaded arrow. That head dropped in the deep forest.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "वने विचरतो राजन्नस्थि भित्वाऽस्फुरत्तदा। स तेन लग्नेन तदा द्विजातिर्न शशाक ह॥१२॥",
+      "english": "That head, coursing at will through the sky, fell upon the thigh of Mahodara while the latter was walking in the woods. Piercing his thigh, O king, it stuck to it and remained there.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "अभिगन्तुं महाप्राज्ञस्तीर्थान्यायतनानि च। स पूतिना विस्रवता वेदनार्तो महामुनिः॥१३॥",
+      "english": "That head thus sticking to his thigh, the greatly wise Brahmana could not (with ease), proceed to tirthas and other sacred places.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "जगाम सर्वतीर्थानि पृथिव्यां चेति नः श्रुतम्। स गत्वा सरितः सर्वाः समुद्रांश्च महातपाः॥१४॥",
+      "english": "Feeling great pain and with putrid matter flowing from his thigh, he travelled to all the tirthas of the earth, one after another, as heard by us.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "कथयामास तत्सर्वमृषीणां भावितात्मनाम्। आप्लुत्य सर्वतीर्थेषु न च मोक्षमवाप्तवान्॥१५॥",
+      "english": "He went to all the rivers and to the ocean as well. The great ascetic spoke of his pain to many Rishis of pure souls, about his having bathed in all the sacred spots without finding any relief. That best of Brahmanas then heard from those sages, about this foremost of tirthas situate on the Sarasvati, known by the name of Ushanasha, which could cleanse every sin and was an excellent place for acquiring ascetic merits.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः",
+      "combined_translation": "15-17"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "स तु शुश्राव विप्रेन्द्र मुनीनां वचनं महत्। सरस्वत्यास्तीर्थवरं ख्यातमौशनसं तदा॥१६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः",
+      "english_ref": 15,
+      "combined_translation": "15-17"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "सर्वपापप्रशमनं सिद्धिक्षेत्रमनुत्तमम्। स तु गत्वा ततस्तत्र तीर्थमौशनसं द्विजः॥१७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः",
+      "english_ref": 15,
+      "combined_translation": "15-17"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "तत औशनसे तीर्थे तस्योपस्पृशतस्तदा। तच्छिरश्चरणं मुक्त्वा पपातान्तर्जले तदा॥१८॥",
+      "english": "Then repairing to that Ushanasa tirtha, that Brahmana bathed in its waters. Thereat the Rakshasa's head, leaving the thigh, dropped into the water.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "विमुक्तस्तेन शिरसा परं सुखमवाप ह। स चाप्यन्तर्जले मूर्धा जगामादर्शनं विभो॥१९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "ततः स विशिरा राजन्पूतात्मा वीतकल्मषः। आजगामाश्रमं प्रीतः कृतकृत्यो महोदरः॥२०॥",
+      "english": "Then, O king, freed from the Rakshasa's head Mahodara gladly returned, with purified soul and all his sins cleansed, to his hermitage after attaining success.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "सोऽथ गत्वाऽऽश्रमं पुण्यं विप्रमुक्तो महातपाः। कथयामास तत्सर्वमृषीणां भावितात्मनाम्॥२१॥",
+      "english": "Thus freed, after returning to his sacred hermitage the great ascetic, spoke of what had taken place to those Rishis of pure souls.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "ते श्रुत्वा वचनं तस्य ततस्तीर्थस्य मानद। कपालमोचनमिति नाम चक्रुः समागताः॥२२॥",
+      "english": "Having heard his story, those Rishis conferred the name of Kapalamochana on the tirtha.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "स चापि तीर्थप्रवरं पुनर्गत्वा महानृषिः। पीत्वा पयः सुविपुलं सिद्धिमायात्तदा मुनिः॥२३॥",
+      "english": "Repairing once more to that foremost of tirthas, the great Rishi Mahodara, drank its water and acquired great ascetic success.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "तत्र दत्त्वा बहून् दायान्विप्रान् सम्पूज्य माधवः। जगाम वृष्णिप्रवरो रुषङ्गोराश्रमं तदा॥२४॥",
+      "english": "Having distributed much wealth amongst the Brahmanas and worshipped them, Baladeva then went to the hermitage of Rushangu.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "यत्र तप्तं तपो घोरमार्ष्टिषेणेन भारत। ब्राह्मण्यं लब्धवांस्तत्र विश्वामित्रो महामुनिः॥२५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "सर्वकामसमृद्धं च तदाश्रमपदं महत्। मुनिभिर्ब्राह्मणैश्चैव सेवितं सर्वदा विभो॥२६॥",
+      "english": "That great hermitage is capable of fructifying every wish. It always, O lord, the asylum of ascetics and Brahmanas.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "ततो हलधरः श्रीमान् ब्राह्मणैः परिवारितः। जगाम तत्र राजेन्द्र रुषङ्गुस्तनुमत्यजत्॥२७॥",
+      "english": "Surrounded by Brahmanas, then the beautiful Baladeva went to that spot, O king, where Rushangu had, formerly, renounced his body.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "रुषङ्गुर्ब्राह्मणो वृद्धस्तपोनित्यश्च भारत। देहन्यासे कृतमना विचिन्त्य बहुधा तदा॥२८॥",
+      "english": "Rushangu, O Bharata, was an old Brahmana always devoted to penances. Determined to renounce his body, he thought for a long while.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "ततः सर्वानुपादाय तनयान्वै महातपाः। रुषङ्गुरब्रवीत्तत्र नयध्वं मां पृथूदकम्॥२९॥",
+      "english": "A great ascetic as he was, he then summoned all his sons and asked them to take him to a spot where there was profuse water.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "विज्ञायातीतवयसं रुषङ्गुं ते तपोधनाः। तं च तीर्थमुपानिन्युः सरस्वत्यास्तपोधनम्॥३०॥",
+      "english": "Knowing their father had become very old, those ascetics took him to a tirtha on the Sarasvati.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "स तैः पुत्रैस्तदा धीमानानीतो वै सरस्वतीम्। पुण्यां तीर्थशतोपेतां विप्रसङ्घैर्निषेविताम्॥३१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "स तत्र विधिना राजन्नाप्लुत्य सुमहातपाः। ज्ञात्वा तीर्थगुणांश्चैव प्राहेदमृषिसत्तमः॥३२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "सुप्रीतः पुरुषव्याघ्र सर्वान्पुत्रानुपासतः। सरस्वत्युत्तरे तीरे यस्त्यजेदात्मनस्तनुम्॥३३॥",
+      "english": "Brought by his sons to the sacred Sarasvati containing hundreds of tirthas and on whose banks lived Rishis disassociated from the world, that intelligent ascetic, of hard penances, bathed in that tirtha duly and conversant as that best of Rishis was with the virtues of tirthas, then cheerfully said to all his sons who were dutifully waiting upon him these words.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः",
+      "combined_translation": "33-34"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "पृथूदके जप्यपरो नैनं श्वोमरणं तपेत्। तत्राप्लुत्य स धर्मात्मा उपस्पृश्य हलायुधः॥३४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः",
+      "english_ref": 33,
+      "combined_translation": "33-34"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "दत्त्वा चैव बहून्दायान् विप्राणां विप्रवत्सलः। ससर्ज यत्र भगवाँल्लोकाँल्लोकपितामहः॥३५॥",
+      "english": "He, that would renounce his body on the northern bank of the Sarasvati containing profuse water, reciting mentally sacred mantras, would never again he visited by death.'",
+      "bhavadeepa": "श्चोमरणं तपेत् अक्षयं स्वर्गमाप्नोतीत्यर्थः॥३४॥",
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "यत्रार्ष्टिषेणः कौरव्या ब्राह्मण्यं संशितव्रतः। तपसा महता राजन् प्राप्तवानृषिसत्तमः॥३६॥",
+      "english": "Touching the water of that tirtha and bathing in it, the righteous Baladeva distributed wealth amongst the Brahmanas.",
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "सिन्धुद्वीपश्च राजर्षिर्देवापिश्च महातपाः। ब्राह्मण्यं लब्धवान्यत्र विश्वामित्रस्तथा मुनिः॥३७॥",
+      "english": "Possessed of great might and great prowess, Baladeva then proceeded to that tirtha where the worshipful Brahma had created the mountains called Lokaloka and where that best of Rishis, Arshtishena, of rigid vows, had by hard penances acquired the dignity of Brahmana-hood and where the royal saint Sindhudvipa and the great ascetic Devapi and the worshipful and illustrious Vishvamitra of hard penances and fierce energy, had all acquired a similar dignity.",
+      "bhavadeepa": "ब्राह्मणं ब्रह्मसङ्घातो वेदसमूह इति यावत्। ततः स्वार्थे ष्यञ् \"ब्राह्मनं ब्रह्मसङ्घाते\" इति मेदिनी॥३६॥",
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः",
+      "combined_translation": "37-38"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "महातपस्वी भगवानुग्रतेजा महातपाः। तत्राजगाम बलवान् बलभद्रः प्रतापवान्॥३८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 39,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "गदायुद्धपर्व",
+      "adhyaya_name": "एकोनचत्वारिंशोऽध्यायः",
+      "english_ref": 37,
+      "combined_translation": "37-38"
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "adhyaya_id": "P03_U03_A015",
+  "book": 3,
+  "parva_name": "वनपर्व",
+  "upaparva_name": "अर्जुनाभिगमनपर्व",
+  "adhyaya_name": "पञ्चदशोऽध्यायः",
+  "chapter": 15,
+  "verse_count": 23,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "युधिष्ठिर उवाच।\n              वासुदेव महाबाहो विस्तरेण महामते। सौभस्य वधमाचक्ष्व न हि तृप्यामि कथ्यतः॥१॥",
+      "english": "Yudhishthira said : O Vasudeva, O mighty-armed and highminded hero, tell me in detail the account of the death of the king of Saubha I am not as yet fully satisfied.",
+      "bhavadeepa": "द्यूतं श्रुत्वैव हास्तिनपुरम् आगतवान्॥२२॥",
+      "chapter": 15,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "वासुदेव उवाच।\n              हतं श्रुत्वा महाबाहो मया श्रौतश्रवं नृपम्। उपायाद्भरतश्रेष्ठ शाल्वो द्वारवतीं पुरीम्॥२॥",
+      "english": "Krishna said: O mighty-armed king, O best of the Bharata race, having heard that the son of Shrutasrava (Shishupala) was killed, Shalva came to the city of Daravati.",
+      "bhavadeepa": "अर्थाधीनौ धर्मकामौ अर्थस्तु स्वराज्यरक्षापरराज्यावमर्दाभ्यां राज्ञा प्राप्यते इति तावेव शाल्वप्रसङ्गात् सम्यक् श्रोतुकामः पृच्छति वासुदेवेति । कथ्यतः कथयतः कंड्वादियगन्तात् शत्रन्तस्य रूपम् ॥१॥",
+      "chapter": 15,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "अरुन्धत्तां सुदुष्टात्मा सर्वतः पाण्डुनन्दन। शाल्वो वैहायसं चापि तत्पुरं व्यूह्य धिष्ठितः॥३॥",
+      "english": "O son of Pandu, the wicked-minded Shalva, stationing his forces in battle-array, invaded that city all around and from above.",
+      "bhavadeepa": "श्रुतश्रवा शिशुपालमाता तज्जं श्रौतश्रवम् उपायात् उपगतः ॥२॥",
+      "chapter": 15,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "तत्रस्थोऽथ महीपालो योधयामास तां पुरीम्। अभिसारेण सर्वेण तत्र युद्धमवर्तत॥४॥",
+      "english": "Thereupon, that ruler of earth, stationing himself in the sky, began to fight with that city. The battle commenced with a thick shower of weapons form all sides.",
+      "bhavadeepa": "अरुन्धत् सेनया वैहायसं खेचरं व्यूह्य स्वरक्षापरोपमर्दयोग्यरचनाविशेषेण स्थापयित्वा घिष्ठितः सम्यक् स्थितः ॥३॥",
+      "chapter": 15,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "पुरी समन्ताद्विहिता सपताका सतोरणा। सचक्रा सहुडा चैव सयन्त्रखनकास्तथा॥५॥",
+      "english": "The city (was then) well furnished with pennons, arches, soldiers, walls, turrets, engines and miners.",
+      "bhavadeepa": "अभितः परित उपरितश्चायुधानां सरणं निःसाणमभिसारस्तेन सर्वेण अच्छिद्रेण सर्वाभ्यो दिग्भ्यो युगपदविरलायुधसमूहागमेनेत्यर्थः॥४॥",
+      "chapter": 15,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "सोपशल्यप्रतोलीका साट्टाट्टालकगोपुरा। सचक्रग्रहणी चैव सोल्कालातावपोथिका॥६॥",
+      "english": "With streets barricaded with spiked woodworks, with towers and edifices on gateways, with plentiful provisions, with offensive weapons, with engines for hurling burning brands and fires.",
+      "bhavadeepa": "पताका ध्वजांचलः । तोरणानि बहिर्द्वाराणि । चक्राणि योधगणाः हुडास्तदाश्रयस्थानानि भाषायां ‘बुरुज’ संज्ञानि अन्ये तु। विण्मूत्रोत्सर्जनशृङ्गाणि हुडा इत्याहुः उदाहरन्ति च अन्ये कल्प्यन्ते हुडशृङ्गाणि रथस्योपरि सुरिभिः विण्मूत्रस्पर्शशुद्ध्यर्थं करादिस्पर्श उद्यत‘ इति । यन्त्राणि आग्नेयौषधबलेन दृषत्पिण्डोत्क्षेपणानि महान्ति ‘कमान’संज्ञानि क्षुद्राणि सीसगुलिकोत्क्षेपणानि ‘बंदूख’संज्ञानि । खनकाः सुराङ्गद्वारा गुप्तमार्गकर्तारः ॥५॥",
+      "chapter": 15,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "सोष्ट्रिका भरतश्रेष्ठ सभेरीपणवानका। सतोमराङ्कुशा राजन्सशतघ्नीकलाङ्गला॥७॥",
+      "english": "O best of the Bharata race, O king, with deer-skin vessels (for carrying water), with trumpets, taboos and drums, with lances and forks and Sataghnis, with plough-shares. With rockets, stones, battle-axes and other weapons, with shields protected by iron, with engines for hurling balls and bullets and fires.",
+      "bhavadeepa": "उपशल्या लोहमुखाः कीलास्तद्युक्ताः प्रतोल्यो रथ्यामार्गा यस्यां सा। अट्टालकाः उपरिगृहाः । गोपुराणि पुरद्वाराणि साट्टानि अट्टेन अन्नेन सहितानि अट्टालकादीनि यस्यां सा । साट्टेति विशेषणम् उपशल्यस्य ग्रामान्तस्य रथ्यायश्चावृत्त्या संबध्यते। चक्रप्रहणी सैन्यनिग्राहिका ‘मोर्चा’ इति म्लेच्छप्रसिद्धा सोल्कालातावपोथिका सोल्कमलातं ज्वालासहितमुल्मुकं यस्यां सा सोल्कालाता अवबद्धाः पोथिकाः यन्त्रबद्धाः काष्ठपाषाणादयो रिपूणामुपारी पातनाय यस्यामिति प्राञ्चः । उल्केवोल्का प्राणहरत्वाद्यन्त्रोत्क्षिप्तो गोलः। अलातं सकाष्ठदण्डं लोहमयमाग्नेयं प्रहरणं ‘बाण’ इति भाषायां प्रसिद्धं तयोरप्रत्याख्येयगत्योरपि पोथिकाः पातयित्र्यः मन्त्रमय्यः शक्तयः कर्णायेन्द्रदत्तशक्तिसदृशास्तद्युक्ताः सोल्कालातावपोथिकाः ॥६॥",
+      "chapter": 15,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः",
+      "combined_translation": "7-8"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "सभुशुण्ड्यश्मगुडका सायुधा सपरश्वधा। लोहचर्मवती चापि साग्निः सगुडशृङ्गिका॥८॥",
+      "english": null,
+      "bhavadeepa": "उष्ट्रिका मृच्चर्ममयानि भाण्डानि । सर्ष्टिकेति पाठे ऋष्टय आयुधविशेषाः ॥७॥",
+      "chapter": 15,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः",
+      "english_ref": 7,
+      "combined_translation": "7-8"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "शास्त्रदृष्टेन विधिना संयुक्ता भरतर्षभ। रथैरनेकैर्विविधैर्गदसाम्बोद्धवादिभिः॥९॥",
+      "english": "O best of the Bharata race, all this was keptaccording to the Shastras.It was also wellprotected by numerous cars and also by Gada, Samba, Udhava and others. O best of the Kurus and also by warriors of prowess, all well-tried in battle, all well-born and all capable of encountering any foe. All these warriors, placing themselves in commanding positions and being aided by cavalry and standard bearers, began to protect the city. To prevent carelessness and to avoid danger Ugrasena, Udhava and others, proclaimed throughout the city that none should drink liquor.",
+      "bhavadeepa": "अश्मगुडकाः वर्तुलीकृताः पाषाणाः लोहमयानि चर्माणि कमठपृष्ठाकाराणि । प्रहारवारकाणि । साग्निः आग्नेयौषधसहिता गुडा गोलकाः शृङ्गिकास्तदुत्क्षेपकयन्त्राणिः शत्रूणामुपरि पातनाय तप्तो गुडो द्रवीभूतो यत्र शिखरे स्थाप्यते तत्सहितेत्यन्ये ॥८॥",
+      "chapter": 15,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः",
+      "combined_translation": "9-12"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "पुरुषैः कुरुशार्दूल समर्थैः प्रतिवारणे। अतिख्यातकुलैर्वीरैर्दृष्टवीर्यैश्च संयुगे॥१०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः",
+      "english_ref": 9,
+      "combined_translation": "9-12"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "मध्यमेन च गुल्मेन रक्षिभिः सा सुरसक्षिता। उत्क्षिप्तगुल्मैश्च तथा हयैश्च सपताकिभिः॥११॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः",
+      "english_ref": 9,
+      "combined_translation": "9-12"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "आघोषितं च नगरे न पातव्या सुरेति वै। प्रमादं परिरक्षद्भिरुग्रसेनोद्धवादिभिः॥१२॥",
+      "english": null,
+      "bhavadeepa": "मध्यमो गुल्मः यत्र स्थितेन योधसङ्घेन चतुर्दिगवस्थिता रिपवो द्रष्टुं बाणादिना प्रहर्तुं च शक्यन्ते तादृशमुच्चस्थानम् । उत्क्षिप्तगुल्मैः परकीयगुल्मोच्चाटनकरैः ॥११॥",
+      "chapter": 15,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः",
+      "english_ref": 9,
+      "combined_translation": "9-12"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "प्रमत्तेष्वभिघातं हि कुर्याच्छावो नराधिपः। इति कृत्वाप्रमत्तास्ते सर्वे वृष्ण्यन्धकाः स्थिताः॥१३॥",
+      "english": "Well-knowing that they would be killed by king Shalva, if they became intoxicated all the Vrishnis and the Andhakas, remained sober and watchful.",
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "आनर्ताश्च तथा सर्वे नटा नर्तकगायनाः। बहिर्निवासिताः क्षिप्रं रक्षद्भिर्वित्तसञ्चयाम्॥१४॥",
+      "english": "The guards soon drove out of the city all actors, dancers and singers of the Anartha country.",
+      "bhavadeepa": "अप्रमत्ता इति छेदः ॥१३॥",
+      "chapter": 15,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "सङ्क्रमा भोदिताः सर्वे नावश्च प्रतिषेधिताः। परिखाश्चापि कौरव्य कालैः सुनिचिताः कृताः॥१५॥",
+      "english": "O descendant of Kuru, all the bridges over rivers were destroyed and boats were forbidden to ply (in those rivers) and the trenches around the city were spiked with poles at the bottom, O best of the Kurus, the land around the city for full two miles was rendered uneven and holes and pits were dug there; combustibles were secreted below its surface.",
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः",
+      "combined_translation": "15-16"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "उदपानाः कुरुश्रेष्ठ तथैवाप्यम्बरीषकाः। समन्तात्क्रोशमात्रं च कारिता विषमा च भूः॥१६॥",
+      "english": null,
+      "bhavadeepa": "संक्रमाः नदीसेतवः कीलैः शुलैः सुनिचिताः व्याप्ताः ॥१५॥",
+      "chapter": 15,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः",
+      "english_ref": 15,
+      "combined_translation": "15-16"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "प्रकृत्या विषमं दुर्गं प्रकृत्या च सुरक्षितम्। प्रकृत्या चायुधोपेतं विशेषेण तदानघ॥१७॥",
+      "english": "O sinless one, our fort is naturally strong. It is always well-defended and filled with all kinds of weapons.",
+      "bhavadeepa": "उदपानाः कूपाः ‘अम्बरीषो भवेद्भ्राष्ट्र’ इति विश्वः गुप्ताग्निरित्यन्ये विषमा लोहकण्टकाद्याकीर्णा ॥१६॥",
+      "chapter": 15,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "सुरक्षितं सुगुप्तं च सर्वायुधसमन्वितम्। तत्पुरं भरतश्रेष्ठ यथेन्द्रभवनं तथा॥१८॥",
+      "english": "And in consequence of the preparations made, our city became then more prepared than ever to meet the enemy. O best of the Bharata race, in consequence of all this, it looked like the abode of Indra.",
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "न चामुद्रोऽभिनिर्याति न चामुद्रः प्रवेश्यते। वृष्ण्यन्धकपुरे राजंस्तदा सौभसमागमे॥१९॥",
+      "english": "O king, when Shalva thus came, none could, without presenting the sign, that was agreed upon, either enter or leave the city of the Vrishnis and the Andhakas.",
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "अनुरथ्यासु सर्वासु चत्वरेषु च कौरव। बलं बभूव राजेन्द्र प्रभूतगजवाजिमत्॥२०॥",
+      "english": "O descendant of Kuru, O great king, all the streets of the city and its open spaces were filled with numerous horses and elephants.",
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "दत्तवेतनभक्तं च दत्तायुधपरिच्छदम्। कृतोपधानं च तदा बलमासीन्महाभुज॥२१॥",
+      "english": "O mighty-arined hero, the soldiers were all gratified with the allowances, wages, rations, weapons and dresses (that were given to them).",
+      "bhavadeepa": "अनुरथ्यासु प्रतिरथ्यम् ॥२०॥",
+      "chapter": 15,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "न कुप्यवेतनी कश्चिन्न चातिक्रान्तवेतनी। नानुग्रहभृतः कश्चिन्न चादृष्टपराक्रमः॥२२॥",
+      "english": "Among those soldiers there was none who was not paid in gold, who was not paid at all, who was not somehow obliged and who was not of tried valour.",
+      "bhavadeepa": "वेतनं धनं भक्तं नित्यभोजनं कृतोपधानं कृतविशेषम् ॥२१॥",
+      "chapter": 15,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "एवं सुविहिता राजन्द्वारका भूरिदक्षिणा। आहुकेन सुगुप्ता च राज्ञा राजीवलोचन॥२३॥",
+      "english": "O lotus-eyed hero, it was thus that Dvarka, abounding in well-ordered arrangements, was defended by Ahuka (Ugrasena).",
+      "bhavadeepa": "कुप्यं स्वर्णरूप्येतरद्धनं ताम्रादि ग्रहो रणोद्यमस्तमनुलक्षीकृत्य मृतोऽनुग्रहतस्तत्कालस्वीकृतो न कश्चित् किं तु चिरसंभृता एव । कृपाभृतो न किं तु शौर्यभृत एवेति वा ॥२२॥",
+      "chapter": 15,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    }
+  ]
+}

@@ -1,0 +1,586 @@
+{
+  "adhyaya_id": "P13_U01_A044",
+  "book": 13,
+  "parva_name": "अनुशासनपर्व",
+  "upaparva_name": "दानधर्मपर्व",
+  "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः",
+  "chapter": 44,
+  "verse_count": 56,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "युधिष्ठिर उवाच। यन्मूलं सर्वधर्माणां स्वजनस्य गृहस्य च। पितृदेवातिथीनां च तन्मे ब्रूहि पितामह ॥१॥",
+      "english": "Yudhishthira said Tell me of that, O grandfather, which is the root of all duties, which is the root of kinsmen of home, of the departed manes and of guests.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "अयं हि सर्वधर्माणां धर्मश्चिन्त्यतमो मतः । कीदृशस्य प्रदेया स्यात्कन्येति वसुधाधिप॥२॥",
+      "english": "I think this should be considered as the foremost of all duties. Tell me, however, O king, to what sort of a person should one give his daughter.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "भीष्म उवाच। शीलवृत्ते समाज्ञाय विद्यां योनिं च कर्म च। सद्भिरेवं प्रदातव्या कन्या गुणयुते वरे ॥३॥",
+      "english": "Having enquired into the conduct and nature of the person, his learning and acquirements, his birth, and his acts, good people should then confer their daughter upon accomplished bridegrooms.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "ब्राह्मणानां सतामेष ब्राह्मो धर्मो युधिष्ठिर ।  आवाह्यमावहेदेवं यो दद्यादनुकूलतः ॥४॥",
+      "english": "All righteous Brahmanas, O Yudhishthira, act thus. This is known as the Brahma marriage, O Yudhishthira.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "शिष्टानां क्षत्रियाणां च धर्म एष सनातनः । आत्माभिप्रेतमुत्सृज्य कन्याभिप्रेत एव यः ॥५॥",
+      "english": "Selecting a befitting bridegroom, the father of the girl should make him marry his daughter, having by various presents, induced the bridegroom to that act. This form of marriage, forms the eternal practice of all good Kshatriyas.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "अभिप्रेता च या यस्य तस्मै देया युधिष्ठिर ।  गान्धर्वमिति तं धर्मं प्राहुर्वेदविदो जनाः ॥६॥",
+      "english": "When the father of the girl, without consulting his wishes, confers his own daughter upon a person whom the daughter likes and who reciprocates the girl's sentiments, the form of marriage, O Yudhishthira, is called Gandharva by those versed in the Vedas.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "धनेन बहुधा क्रीत्वा संप्रलोभ्य च बान्धवान्। असुराणां नृपैतं वै धर्ममाहुर्मनीषिणः ॥७॥",
+      "english": "The wise have declared, O king, to be the practice of the Asuras, viz., marrying a girl after buying her at a high cost and after gratifying the cupidity of her kinsmen.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "हत्वा छित्त्वा च शीर्षाणि रुदतां रुदतीं गृहात्। प्रसह्य हरणं तात राक्षसो विधिरुच्यते ॥८॥",
+      "english": "Killing and chopping off the heads of weeping kinsmen, the bridegroom sometimes forcibly takes away the girl he marries. Such marriage, O son, passes by the name of Rakshasa.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "पञ्चानां तु त्रयो धर्म्या द्वावधर्म्यौ युधिष्ठिर। पैशाचश्चासुरश्चैव न कर्तव्यौ कथञ्चन ॥९॥",
+      "english": "Of these five, (viz., the Brahma, the Kshatra, the Gandharva, the Asura, and the Rakshasa), three are righteous, O Yudhishthira, and two are unrighteous, The Paishacha and the Asura forms should, never be followed.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "ब्राह्मः क्षात्रोऽथ गान्धर्व एते धर्म्या नरर्षभ । पृथग्वा यदि वा मिश्राः कर्तव्या नात्र संशयः॥१०॥",
+      "english": "The Brahma, Kshatra, and Gandharva forms are righteous, O prince of men! Pure or mixed, these forms should forsooth be followed.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "तिस्रो भार्या ब्राह्मणस्य द्वे भार्ये क्षत्रियस्य तु। वैश्यः स्वजात्यां विन्देत तास्वपत्यं समं भवेत्॥११॥",
+      "english": "The Brahmana can take three wives. The Kshatriya can take two wives. The Vaishya should take a wife from only his own caste. The children born of these wives should all be considered as equal.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "ब्राह्मणी तु भवेज्ज्येष्ठा क्षत्रिया क्षत्रियस्य तु । रत्यर्थमपि शूद्रा स्यान्नेत्याहुरपरे जनाः ॥१२॥",
+      "english": "Of the three wives of a Brahmana. She taken from his own caste should be considered as the foremost. Likewise, of the two wives permitted to the Kshatriya, she taken from his own caste should be considered as superior. Some say that persons belonging to the three higher castes may take, only for purposes of enjoyment, wives from the lowest or the Shudra caste. Others, however, forbid the practice.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "अपत्यजन्म शूद्रायां न प्रशंसन्ति साधवः । शूद्रायां जनयन्विप्रः प्रायश्चित्ती विधीयते ॥१३॥",
+      "english": "The righteous condemn the practice of begetting children upon Shudra women. A Brahmana, by begetting children upon a Shudra women, becomes subject to the liability of performing an expiation.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "त्रिंशद्वर्षो दशवर्षीं भार्यां विन्देत नग्निकाम् । एकविंशतिवर्षो वा सप्तवर्षामवाप्नुयात् ॥१४॥",
+      "english": "A person of thirty years of age should marry a girl of ten years of age wearing a single piece of cloth. Or, a person of one and twenty years of age should marry a girl of seven years of age.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "यस्यास्तु न भवेद्भ्राता पिता वा भरतर्षभ ।  नोपयच्छेत तां जातु पुत्रिकाधर्मिणी हि सा॥१५॥",
+      "english": "That girl who has no brother nor father should not be married, O chief of Bharata's race, For she may be intended for giving birth to the heir of her father.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "त्रीणि वर्षाण्युदीक्षेत कन्या ऋतुमती सती ।  चतुर्थे त्वथ संप्राप्त स्वयं भर्तारमर्जयेत् ॥१६॥",
+      "english": "After puberty, it in, the girl (if not married) should wait for three years. On the fourth year, she should look for a husband herself.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "प्रजा न हीयते तस्या रतिश्च भरतर्षभ । अतोऽन्यथा वर्तमाना भवेद्वाच्या प्रजापतेः॥१७॥",
+      "english": "The children of such a girl do not lose their respectability, nor does union with such a girl become disgraceful. If, instead of selecting a husband for herself, she acts otherwise, she gets the reproach of Prajapati herself.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "असपिण्डा च या मातुरसगोत्रा च या पितुः। इत्येतामनुगच्छेत तं धर्मं मनुरब्रवीत् ॥१८॥",
+      "english": "One should marry that girl who is not a Sapinda of his mother or of the same family with his father. This is the usage which Manu has declared.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "युधिष्ठिर उवाच। शुल्कमन्येन दत्तं स्याद्ददानीत्याह चापरः। बलादन्यः प्रभाषेत धनमन्यः प्रदर्शयेत्॥१९॥",
+      "english": "Yudhishthira said Desirous of marriage some one actually gives a dower to the girl's kinsmen; some one, the girl's kinsmen consenting, promises to give a present; some one says, I shall carry away the girl by force; some one simply shows his riches; some one, again, actually takes the hand of the girl with rites of marriage. I ask you, O grandfather, whose wife does the girl actually become? You are the eye to those who wish to know the truth.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः",
+      "combined_translation": "19-20"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "पाणिग्रहीता चान्यःस्यात्कस्य भार्या पितामह। तत्त्वं जिज्ञासमानानां चक्षुर्भवतु नो भवान्॥२०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः",
+      "english_ref": 19,
+      "combined_translation": "19-20"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "भीष्म उवाच। यत्किञ्चित्कर्म मानुष्यं संस्थानाय प्रदृश्यते। मन्त्रवन्मन्त्रितं तस्य मृषावादरतु पातकः॥२१॥",
+      "english": "Bhishma said The deeds of men approved by the wise, are seen to yield good. False speech, however, is always sinful.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "भार्यां पत्यर्त्विगाचार्याः शिष्योपाध्याय एव च। मृषोक्ते दण्डमर्हन्ति नेत्याहुरपरे जनाः ॥२२॥",
+      "english": "The girl herself who becomes wife, the sons born of her, the Ritvijas and preceptors and disciples and Upadhyayas present at the marriage all become liable to expiation if the girl gives her hand to a person other than he whom she had promised to marry. Some are of opinion that no expiation is necessary for such conduct.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "न ह्यकामेन संवासं मनुरेवं प्रशंसति । अयशस्यमधर्म्यं च यन्मृषा धर्मकोपनम् ॥२३॥",
+      "english": "Manu does not speak highly of the practice of a girl living with a person whom she does not like. Living as wife with a person whom she does not like, produces disgrace and sin. No one commits sin in any of the following cases.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "नैकान्तो दोष एकस्मिंस्तदा केनोपपद्यते ।  धर्मतो यां प्रयच्छन्ति यां च क्रीणन्ति भारत॥२४॥",
+      "english": "In forcibly carrying away for marriage a girl that is bestowed upon the abductor by the girl's relatives with due rites, as also a girl for whom dower has been paid and accepted, there is no great sin.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "बन्धुभिः समनुज्ञाते मन्त्रहोमौ प्रयोजयेत् । तथा सिद्ध्यन्ति ते मन्त्रा नादत्तायाः कथञ्चन॥२५॥",
+      "english": "Upon the girl's kinsmen having given their consent, Mantras and Homa should be restored to. Such Mantras truly accomplish their purpose. Mantras and Homa recited and performed in the case of a girl who has not been given away by her kinsmen, do not accomplish their purpose.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "यस्त्वत्र मन्त्रसमयो भार्यापत्त्योर्मिथः कृतः । तमेवाहुर्गरीयांसं यश्चासौ ज्ञातिभिः कृतः॥२६॥",
+      "english": "The engagement made by the relatives of a girl is, no doubt, binding and sacred. But the engagement that is made by the bride and bridegroom, with the help of Mantras, is very much, more so.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "देवद‌तां पतिर्भार्यां वेत्ति धर्मस्य शासनात्। स दैवीं मानुषीं वाचमनृतां पर्युदस्यति ॥२७॥",
+      "english": "According to the injunctions of the scriptures, the husband should regard his wife as an acquisition due to his own pristine deeds or to what has been ordained by God. One, therefore, commits no sin by accepting for wife a girl who had been promised to another by her kinsmen or for whom dower had been accepted by them from another.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "युधिष्ठिर उवाच। कन्यायां प्राप्तशुल्कायां ज्यायांश्चेदाव्रजेद्वरः।  धर्मकामार्थसंपन्नो वाच्यमत्रानृतं न वा ॥२८॥",
+      "english": "Yudhishthira said When after the receipt of dower for a girl, the girl's father more eligible sees a bridegroom,-one, who is endued with the threefold objects, does the girl's father commit sin by rejecting the person from whom dower had been received in favour of him who is more eligible?",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "तस्मिन्नुभयतो दोषे कुर्वञ्छ्रेयः समाचरेत् ।  अयं नः सर्वधर्माणां धर्मश्चिन्त्यतमो मतः॥२९॥",
+      "english": "In such a case either alternative appears to be sinful, for to discard the person to whom the girl has been promised can never be honorable, while to reject the person who is more eligible can never be good. I ask, how should the father act so that he might be said to do that which is beneficial? To us, of all duties this seems to deserve utmost deliberation.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "तत्त्वं जिज्ञासमानानां चक्षुर्भवतु नो भवान् । तदेतत्सर्वमाचक्ष्व न हि तृप्यामि कथ्यताम् ॥३०॥",
+      "english": "We are desirous of determining the truth. You, indeed, are our eyes. Do you explain this to us. I am never satiated vith listening to you.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "भीष्म उवाच। नैव निष्ठाकरं शुल्कं ज्ञात्वाऽऽसीत्तेन नाहृतम्। न हि शुल्कपराः सन्तः कन्यां ददति कर्हिचित्॥३१॥",
+      "english": "Bhishma said The gift of the dower does not make the girl wife. This is wellknown to the person paying it. He pays it simply as the price of the girl . Then again the good never bestow their daughters, induced by the dowers that others may offer.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "अन्यैर्गुणैरुपेतं तु शुल्कं याचन्ति बान्धवाः । अलंकृत्वा वहस्वेति यो दद्यादनुकूलतः ॥३२॥",
+      "english": "When the person desirous of marrying happens to be gifted with such qualities as do not go down with the girl's kinsmen, it is then that kinsmen demand dower from him. The person, however, who won over by another's accomplishments, says,—Do you marry my girl, adorning her with proper ornaments of gold and gems,—and that person who satisfies this request, cannot be said to demand dower or give it, for such a transaction is not a sale. The bestowal of a daughter upon acceptance of what may properly be considered as gifts is the eternal practice.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः",
+      "combined_translation": "32-33"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "यच्च तां च ददत्येवं न शुल्कं विक्रयो न सः।  प्रतिगृह्य भवेद्देयमेष धर्मः सनातनः ॥३३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः",
+      "english_ref": 32,
+      "combined_translation": "32-33"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "दास्यामि भवते कन्यामिति पूर्वं न भाषितम्।  ये चाहुर्ये च नाहुर्ये ये चावश्यं वदन्त्युत ॥३४॥",
+      "english": "In matters of marriage, some fathers say-I shall bestow my daughter upon such and such a person; some say-~-I shall not bestow my daughter upon such a one:—Some, again, say forcibly—I must bestow my daughter upon such an individual.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "तस्मादाग्रहणात्पाणेर्याचयन्ति परस्परम् । कन्यावरः पुरा दत्तो मरुद्भिरिति नः श्रुतम्॥३५॥",
+      "english": "These declarations are not tantamount to actual marriage. People are seen to solicit one another for the hands of maidens. Till the hand is actually taken with due rites, marriage does not happen. We have heard that even this was the boon granted to men formerly by the Maruts about maidens.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "नानिष्टाय प्रदातव्या कन्या इत्यृषिचोदितम्। तन्मूलं काममूलस्य प्रजनस्येति मे मतिः॥३६॥",
+      "english": "The Rishis have laid the command upon all men that maidens should never be bestowed upon persons unless the father are eligible. The daughter is the root of desire and of descendants of the collateral line. This is what I think.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "समीक्ष्य च बहून्दोषान्संवासाद्विद्धि पाणयोः। यथा निष्ठाकरं शुल्कं न जात्वासीत्तथा शृणु॥३७॥",
+      "english": "The practice of sale and purchase of the daughter, has been known to human beings for a long time. On account of such familiarity with the practice, you may be able, upon careful examination, to find innumerable faults in it. The gift or acceptance of dower alone could not be considered as creating the relation of husband and wife. Listen to what I say on this head.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "अहं विचित्रर्वार्यस्य द्वे कन्ये समुदावहम् । जित्वा च मागधान्सर्वान् कार्शानथ च कोसलान् ॥३८॥",
+      "english": "was Formerly, having defeated all the Magadhas, the Kashis, and the Koshalas, I bought away by force two maidens for Vichitravirya.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "गृहीतपाणिरेकाऽऽसीत्प्राप्तशुल्का पराऽभवत्। कन्या गृहीता तत्रैव विसर्ज्या इति मे पिता॥३९॥",
+      "english": "One of those two maidens was married with due rites. The other maiden was not formally married on the ground that she was one for whom dower had been paid in the shape of chivalry My uncle of Kuru's race, viz., king Balhika, said that the maiden so brought away and not married with due rules should be liberated. That maiden, therefore, recommended to Vichitravirya for being married by him according to due rites.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "अब्रवीदितरां कन्यामावहेति स कौरवः । अप्यन्याननुपप्रच्छ शंकमानः पितुर्वचः ॥४०॥",
+      "english": "Doubting my father's words I went to others for asking their opinion. I thought that my father was exceedingly punctilious in matters of morality.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "अतीव ह्यस्य धर्मेच्छा पितुर्मेऽभ्यधिकाभवत्।  ततोऽहमब्रुवं राजन्नाचारेप्सुरिदं वचः । आचारं तत्त्वतो वेत्तुमिच्छामि च पुनः पुनः॥४१॥",
+      "english": "I then went to my father himself, O king, and addressed him these words from desire of Knowing something about the practices of pious people in respect of marriage: I wish, O sire, to know what in truth the practices are of righteous people! I repeatedly expressed my wish. Such was my eagerness and curiosity, that I expressed my desire several times.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "ततो मयैवमुक्ते तु वाक्ये धर्मभृतां वरः । पिता मम महाराज बाह्लीको वाक्यमब्रवीत्॥४२॥",
+      "english": "After I had uttered those words that foremost of pious men, viz., my father Balhika, answered me, saying-If in your opinion the relation of husband and wife belongs to the gift and acceptance of dower and not to the actual taking of the maiden's hand with due rites, the father of the maiden would show himself to be the follower of a creed other than that which comes from the ordinary scriptures. This is what the accepted scriptures say.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः",
+      "combined_translation": "42-43"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "यदि वः शुल्कतो निष्ठा न पाणिग्रहणात्तथा। लाजान्तरमुपासीत प्राप्तशुल्क इति स्मृतिः॥४३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः",
+      "english_ref": 42,
+      "combined_translation": "42-43"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "न हि धर्मविदः प्राहुः प्रमाणं वाक्यतः स्मृतम्। येषां वै शुल्कतो निष्ठा न पाणिग्रहणात्तथा॥४४॥",
+      "english": "Persons conversant with morality and duty do not hold that their words are at all authoritative who say that the relation of husband and wife arises from the gift and acceptance of dower, and not from the actual taking of the hand with due rites.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "प्रसिद्धं भाषितं दाने नैषां प्रत्यायकं पुनः । ये मन्यन्ते क्रयं शुल्कं न ते धर्मविदो नराः॥४५॥",
+      "english": "The saying is well known that the relation of husband and wife is created by actual bestowal of the daughter by the father. The relation of wife is not formed through sale and purchase. They who consider such status to be due to sale and the gift of dower are persons who are certainly unacquainted with the scriptures.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "न चैतेभ्यः प्रदातव्या न वोढव्या तथाविधा। न ह्येव भार्या क्रेतव्या न विक्रय्या कथञ्चन॥४६॥",
+      "english": "No one should bestow his daughter upon such persons. In fact, they are not men with whom one may marry his daughter. A wife should never be purchased. Nor should a father sell his daughter.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "ये च क्रीणन्ति दासीं च विक्रीणन्ति तथैव च। भवेत्तेषां तथा निष्ठा लुब्धानां पापचेतसाम्॥४७॥",
+      "english": "Only those sinful persons who possessed besides, by cupidity, and who sell and purchase female slaves for making them servants, consider the relation of wife as capable of originating from the gift and acceptance of dower.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "अस्मिन्नर्थे सत्यवन्तं पर्यपृच्छन्त वै जनाः । कन्यायाः प्राप्तशुल्कायाः शुल्कदः प्रशमं गतः॥४८॥",
+      "english": "On this subject some people on one occasion had asked prince Satyavat the are following question-If the giver of a dower to the kinsmen of a maiden happens to die before marriage, can another person take the hand of that maiden in marriage? We have doubts on this matter. Do you remove these doubts of ours for you are gifted with great wisdom and are honoured by the wise.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः",
+      "combined_translation": "48-49"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "पाणिग्रहीता वाऽन्यः स्यादत्र नो धर्मसंशयः । तन्नश्छिन्धि महाप्राज्ञ त्वं हि वै प्राज्ञसंमतः॥४९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः",
+      "english_ref": 48,
+      "combined_translation": "48-49"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "तत्त्वं जिज्ञासमानानां चक्षुर्भवतु नो भवान्।  तानेवं ब्रुवतः सर्वान्सत्यवान्वाक्यमब्रवीत्॥५०॥",
+      "english": "ghaflat citantsura ya taifat HyrT:114 811 Be you the eyes to ourselves who are desirous of learning the truth.—Prince Satyavat answered, saying,-The kinsmen of the maiden should bestow her upon him whom they consider proper. There need be no scruples in this. The righteous act thus without caring for the giver of the dower even if he be alive! while, about the giver who is dead, there is not the slightest doubt.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः",
+      "combined_translation": "50-51"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "यत्रेष्टं तत्र देया स्यान्नात्र कार्या विचारणा । कुर्वते जीवतोऽप्येवं मृते नैवास्ति संशयः॥५१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः",
+      "english_ref": 50,
+      "combined_translation": "50-51"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "देवरं प्रविशेत्कन्या तप्येद्वाऽपि तपः पुनः । तमेवानुगता भूत्वा पाणिग्राहस्य काम्यया ॥५२॥",
+      "english": "Some say that the virgin wife or widow, whose, marriage has not been consummated with her husband by actual sexual intercourse on account of his absence or death-may be allowed to unite herself with her husband's younger brother or such other relation. The husband dying before such consummation, the virginwidow may either surrender herself to her husband's younger brother or practise penances.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "लिखन्त्येव तु केषांचिदपरेषां शनैरपि । इति ये संवदन्त्यत्र त एतं निश्चयं विदुः॥५३॥",
+      "english": "In the opinion of some, the younger brother of the husband or such other relation may thus use the virgin wife or widow, though others hold that such practice, though it is frequent, originates from desire instead of being a scriptural ordinance. They who say so are clearly of opinion that the father of a maiden has the right to bestow her upon any eligible person, disregarding the dower previously given by another and accepted by himself. one",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "तत्पाणिग्रहणात्पूर्वमन्तरं यत्र वर्तते । सर्वमङ्गलमन्त्रं वै मृषा वादस्तु पातकः ॥५४॥",
+      "english": "If after the hand of a maiden has been promised all the initial rites before marriage be performed, the maiden may still be given to a person other than the one to whom she had been promised. Only the giver commits the sin of falsehood; so far, however, as the relation of wife is concerned, no injury can occur thereto.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 55,
+      "sanskrit": "पाणिग्रहणमन्त्राणां निष्ठा स्यात्सप्तमे पदे।  पाणिग्रहस्य भार्या स्याद्यस्य चाद्भिः प्रदीयते॥५५॥",
+      "english": "The Mantras of marriage accomplish their object of bringing about the indissoluble union of marriage at the seventh step. The maiden becomes the wife of him to whom the gift is actually made with water.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 56,
+      "sanskrit": "इति देयं वदन्त्यत्र त एनं निश्चयं विदुः। अनुकूलामनुवंशां भ्रात्रा दत्तामुपाग्निकाम् । परिक्रम्य यथान्यायं भार्यां विन्देद्द्विजोत्तमः॥५६॥",
+      "english": "The gift of maidens should be made in the following way. The wise know it forsooth. A superior Brahmana should marry a maiden who is not unwilling, who belongs to a family equal to his own in purity or dignity, and who is given away by her brother. Such a girl should be married in the presence of fire, with due rites, causing her, amongst other things, to go round the bridegroom for the usual number of times.",
+      "bhavadeepa": null,
+      "chapter": 44,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "चतुश्चत्वारिंशोऽध्यायः"
+    }
+  ]
+}

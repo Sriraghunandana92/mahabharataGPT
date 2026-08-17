@@ -1,0 +1,481 @@
+{
+  "adhyaya_id": "P07_U05_A116",
+  "book": 7,
+  "parva_name": "द्रोणपर्व",
+  "upaparva_name": "जयद्रथवधपर्व  - ५",
+  "adhyaya_name": "षोडशाधिकशततमोऽध्यायः",
+  "chapter": 116,
+  "verse_count": 46,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "सञ्जय उवाच।\n              ते किरन्तः शरव्रातान् सर्वे यत्ताः प्रहारिणः।  त्वरमाणा महाराज युयुधानमयोधयन्॥१॥",
+      "english": "Sanjaya said Then, O mighty monarch, all those warriors accomplished in smiting down the foe and united together, began to fight with Yuyudhana quickly discharging numerous arrows.",
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "तं द्रोणः सप्त सप्तत्या जघान निशितैः शरैः।  दुर्मर्षणो द्वादशभिर्दुःसहो दशभिः शरैः॥२॥",
+      "english": "Then Drona pierced Satyaki with seven and seventy shafts of great sharpness; Durmursana pierced him with twelve and Dussaha with ten shafts.",
+      "bhavadeepa": "ते किरन्त इति ॥१॥",
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "विकर्णश्चापि निशितैस्त्रिंशद्भिः कङ्कपत्रिभिः। विव्याध सव्ये पार्श्वे तु स्तनाभ्यामन्तरे तथा॥३॥",
+      "english": "Vikarna pierced Satyaki with thirty whetted shafts furnished with wings of Kanka feather, on his lift side and on the centre of his chest.",
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "दुर्मुखो दशभिर्बाणैस्तथा दुःशासनोऽष्टभिः।  चित्रसेनश्च शैनेयं द्वाभ्यां विव्याध मारिष॥४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "दुर्योधनश्च महता शरवर्षेण माधवम्।  अपीडयद्रणे राजञ्शूराश्चान्ये महारथाः॥५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "सर्वतः प्रतिविद्धस्तु तव पुत्रैर्महारथैः।  तान् प्रत्यविध्यद्वार्ष्णेयः पृथक् पृथगजिह्मगैः॥६॥",
+      "english": "Thus opposed on all sides by your sons, all mighty car-warriors, he of the Vrishni race began to pierce them all in return with distinct groups of straight-going shafts.",
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "भारद्वाजं त्रिभिर्बाणैर्दुःसहं नवभिः शरैः। विकर्णं पञ्चविंशत्या चित्रसेनं च सप्तभिः॥७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "दुर्मर्षणं द्वादशभिरष्टाभिश्च विविंशतिम्। सत्यव्रतं च नवभिर्विजयं दशभिः शरैः॥८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "ततो रुक्मांगदं चापं विधुन्वानो महारथः।  अभ्ययात् सात्यकिस्तूर्णं पुत्रं तव महारथम्॥९॥",
+      "english": "Then that mighty car-warrior Satyaki, having pierced Rukmangada, stretching his bow quickly assailed your son Duryodhana who also was a mighty car-warrior.",
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "राजानं सर्वलोकस्य सर्वलोकमहारथम्।  शरैरभ्याहनद्गाढं ततो युद्धमभूत्तयोः ॥१०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "विमुञ्चन्तौ शरांस्तीक्ष्णान् सन्दधानौ च सायकान्।  अदृश्यं समरेऽन्योन्यं चक्रतुस्तौ महारथौ ॥११॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "सात्यकिः कुरुराजेन निर्विद्धो बह्वशोभत।  अस्रवद्रुधिरं भूरि स्वरसं चन्द‌नो यथा ॥१२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "सात्वतेन च बाणौघैर्निर्विद्धस्तनयस्तव।  शातकुंभमयापीडो बभौ यूप इवोच्छ्रितः॥१३॥",
+      "english": "r'ierced with myriads of shafts by him of the Satvata race, your son appeared beautiful like a golden stake set up at a sacrifice.",
+      "bhavadeepa": "चन्दनो रक्तचन्दनः ॥१२॥",
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "माधवस्तु रणे राजन् कुरुराजस्य धन्विनः।  धनुश्चिच्छेद समरे क्षुरप्रेण हसन्निव ॥१४॥",
+      "english": "Thereafter, Oking, that descendant of Madhu's race, with a razor-headed shaft, cutoff in battle the bow of the Kuru king that best wielder of the bow, smiling all the while.",
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "अथैनं छिन्नधन्वानं शरैर्बहुभिराचिनोत्।  निर्भिन्नश्च शरैस्तेन द्विषता क्षिप्रकारिणा ॥१५॥",
+      "english": "Then he pierced the king whose bow had been severed, with numerous shafts. Thereat mangled with the arrows of his light-handed enemy.",
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "नामृष्यत रणे राजा शत्रोर्विजयलक्षणम्।  अथान्यद्धनुरादाय हेमपृष्ठं दुरासदम् ॥१६॥",
+      "english": "m In that battle, he could not bear this sign of the success of his enemy. Then taking up another bow of great toughness and golden staff.",
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "विव्याध सात्यकिं तूर्णं सायकानां शतेन ह।  सोऽतिविद्धो बलवता तव पुत्रेण धन्विना ॥१७॥",
+      "english": "He pierced Satyaki quickly with a group of hundred arrows. Pierced deeply by that great bowman endued with might, viz., your son, Satyaki.",
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "अमर्षवशमापन्नस्तव पुत्रमपीडयत्।  पीडितं नृपतिं दृष्ट्वा तव पुत्रा महारथाः॥१८॥",
+      "english": "Under the influence of wrath began to afflict your son severely. Beholding the king thus afflicted, your other sons all mighty carwarriors.",
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "सात्यकिं शरवर्षेण छाद‌यामासुरोजसा।  स च्छाद्यमानो बहुभिस्तव पुत्रैर्महारथैः ॥१९॥",
+      "english": "Covered Satyaki with a shower of mighty arrows. Thus covered by your sons, all mighty car-warriors.",
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "एकैकं पञ्चभिर्विद्ध्वा पुनर्विव्याध सप्तभिः।  दुर्योधनं च त्वरितो विव्याधाष्टभिराशुगैः ॥२०॥",
+      "english": "Satyaki piercing each with five arrows, again pierced each with seven shafts. He then quickly pierced Duryodhana with eight swiftcoursing arrows.",
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "प्रहसंश्चास्य चिच्छेद कार्मुकं रिपुभीषणम्।  नागं मणिमयं चैव शरैर्ध्वजमपातयत् ॥२१॥",
+      "english": "Then smiling he cut-off Duryodhana's bow that used to inspire terror into the hearts of the enemy. Then with his arrows, he cut down the latter's standard and the elephant of pearls embossed thereon.",
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "हत्वा तु चतुरो वाहांश्चतुर्भिर्निशितैः शरैः। सारथिं पातयामास क्षुरप्रेण महायशाः॥२२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "एतस्मिन्नन्तरे चैव कुरुराजं महारथम्।  अवाकिरच्छरैर्हृष्टो बहुभिर्मर्मभेदिभिः॥२३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "स वध्यमानः समरे शैनेयस्य शरोत्तमैः। प्राद्रवत् सहसा राजन् पुत्रो दुर्योधनस्तव॥२४॥",
+      "english": "Thus pierced by the excellent shafts of the grandson of Sini, Oking, your son Duryodhana suddenly fled away from the field of battle.",
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "आप्लुतश्च ततो यानं चित्रसेनस्य धन्विनः।  हाहाभूतं जगच्चासीद् दृष्ट्वा राजानमाहवे ॥२५॥",
+      "english": "He then ascended the car of Chitrasena that great bowman. Then cries of Alas and Oh were uttered by your troops as they beheld the king in that battle.",
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "ग्रस्यमानं सात्यकिना खे सोममिव राहुणा।  तं तु शब्दमथ श्रुत्वा कृतवर्मा महारथः ॥२६॥",
+      "english": "Devoured by Satyaki, like Soma in the skies devoured by Rahu. Then hearing that woeful exclamation, the mighty car-warrior Kritavarman.",
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "अभ्ययात् सहसा तत्र यत्रास्ते माधवः प्रभुः।  विधुन्वानो धनुः श्रेष्ठं चोदयंश्चैव वाजिनः॥२७॥",
+      "english": "Quickly proceeded to the spot where that mighty-descendant of Madhu's race, was fighting. He came stretching his bow and urging his steeds.",
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "भर्त्सयन्‌ साराथिं चाग्रे याहि याहीति सत्वरम्।  तमापतन्तं संप्रेक्ष्य व्यादितास्यमिवान्तकम्॥२८॥",
+      "english": "And encouraging his charioteer with the words. Proceed in haste, Proceed in haste. Beholding him come like the Destroyer himself with mouth wide open.",
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "युयुधानो महाराज यन्तारमिदमब्रवीत्। कृतवर्मा रथेनैष द्रुतमापतते शरी ॥२९॥",
+      "english": "O mighty Monarch, Yuyudhana addressed his charioteer saying-Yonder is the heroic Kritavarman rushing at me on his chariot.",
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "प्रत्युद्याहि रथेनैनं प्रवरं सर्वधन्विनाम्।  ततः प्रजविताश्वेन विधिवत् कल्पितेन च ॥३०॥",
+      "english": "Encounter this foremost all wielder of bow and drive your car before him.” Then urging to the top of their speed those horses duly equipped.",
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "आससाद रणे भोजं प्रतिमानं धनुष्मताम्।  ततः परमसंक्रुद्धौ ज्वलिताविव पावकौ ॥३१॥",
+      "english": "The charioteer drove the car towards the king of the Bhojas held in high honor by all bowmen. Then highly excited and looking like two blazing fires.",
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "समेयातां नरव्याघ्रौ व्याघ्राविव तरस्विनौ।  कृतवर्मा तु शैनेयं षड्विंशत्या समार्पयत् ॥३२॥",
+      "english": "Those two foremost of men encountered one another like two tigers endued with great agility. Then Kritavarman wounded the grandson of Sini with twenty-six.",
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "निशितैः सायकैस्तीक्ष्णैर्यन्तारं चास्य पञ्चभिः।  चतुरश्चतुरो वाहांश्चतुर्भिः परमेषुभिः॥३३॥",
+      "english": "Sharp arrows all well-whetted; and his charioteer with five shafts. With four excellent shafts he pierced the four steeds of the Satvata hero, steeds whose teeth were graceful and that were of the Sindhu breed. Then stretching his mighty-bow of golden back, that one of golden standards.",
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः",
+      "combined_translation": "33-34"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "अविध्यत् साधुदान्तान् वे सैन्धवान् सात्वतस्य हि।  रुक्मध्वजो रुक्मपृष्ठं महद्विस्फार्य कार्मुकम् ॥३४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः",
+      "english_ref": 33,
+      "combined_translation": "33-34"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "रुक्माङ्गदी रुक्मवर्मा रुक्मपुंखैरवारयत्।  ततोऽशीतिं शिनेः पौत्रः सायकान्‌ कृतवर्मणे॥३५॥",
+      "english": "Decked with golden Angadas and clad in a golden mail, covered Satyaki with arrow of golden wings. Thereafter the grandson of Sini quickly sped numerous shafts at Kritavarman, as he was longing to have a sight of Dhananjaya. Pierced deeply by his powerful adversary, that scorcher of foes.",
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः",
+      "combined_translation": "35-36"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "प्राहिणोत्त्वरया युक्ता द्रष्टुकामो धनञ्जयम्।  सोऽतिविद्धो बलवता शत्रुणा शत्रुतापनः॥३६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः",
+      "english_ref": 35,
+      "combined_translation": "35-36"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "समकम्पत दुर्धर्षः क्षितिकंपे यथाऽचलः।  त्रिषष्ट्या चतुरोऽस्याश्वान् सप्तभिः सारथिं तथा ॥३७॥",
+      "english": "Began to tremble like a mountain during an earth-quake. Then Stayaki of prowess incapable of being baffled quickly pierced his four steeds with sixty-three and his charioteer with seven sharp arrows. Then Satyaki placed on his bow string a shaft furnished with golden wings.",
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः",
+      "combined_translation": "37-38"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "विव्याध निशितैस्तूर्णं सात्यकिः सत्यविक्रमः।  सुवर्णपुंखं विशिखं समाधाय च सात्यकिः॥३८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः",
+      "english_ref": 37,
+      "combined_translation": "37-38"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "व्यसृजत्तं महाज्वालं संक्रुद्धमिव पन्नगम्।  सोऽविध्यत् कृतवर्माणं यमदण्डोपमः शरः ॥३९॥",
+      "english": "That emitted great effulgence and looked like an enraged snake; that arrow that resembled the the dart of Death, wounded Kritavarman sorely.",
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "जांबूनदविचित्रं च वर्म निर्भिद्य भानुमत्।  अभ्यगाद्धरणीमुग्रो रुधिरेण समुक्षितः॥४०॥",
+      "english": "Then that fierce arrow, penetrating through the effulgent and gold-decked armour of Kritavarman, fell down on the ground, steeped completely in blood.",
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "संजातरुधिरश्चाजौ सात्वतेषुभिरर्दितः।  सशरं धनुरुत्सृज्य न्यपतत् स्यन्दनोत्तमात्॥४१॥",
+      "english": "Covered all over with blood and afflicted with the arrows of the of the Satvata hero, Kritavarman, throwing aside his bow and arrow, feil upon his niche on the chariot.",
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "स सिंहदंष्ट्रो जानुभ्यां पतितोऽमितविक्रमः। शरार्दितः सात्यकिना रथोपस्थे नरर्षभः ॥४२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "सहस्रबाहुसदृशमक्षोभ्यमिव सागरम्।  निवार्य कृतवर्माणं सात्यकिः प्रययौ ततः॥४३॥",
+      "english": "Thereafter Satyaki having successfully checked Kritavarman who reseinbled the thousand-armed Arjuna or the unagitable ocean itself, quickly advanced onwards.",
+      "bhavadeepa": "दंष्ट्राश्चतस्त्रो यस्य स्युर्दशनेभ्यः समुच्छ्रिताः । सिंहदंष्ट्रःस गदितश्चतुर्दंष्ट्रश्च सूरिभिः॥४२॥",
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः",
+      "combined_translation": "43-48"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "खड्गशक्तिधनुःकीर्णां गजाश्वरथसंकुलाम्।  प्रवर्तितोग्ररुधिरां शतशः क्षत्रियर्षभैः ॥४४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "प्रेक्षतां सर्वसैन्यानां मध्येन शिनिपुङ्गवः।  अभ्यगाद्वाहिनीं हित्वा वृत्रहेवासुरीं चमूम्॥४५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "समाश्वस्य च हार्दिक्यो गृह्य चान्यन्महद्धनुः। तस्थौ स तत्र बलवान्वारयन्युधि पाण्डवान्॥४६॥",
+      "english": "Meanwhile the son of Hridika regaining his composure and grasping another mighty bow, stood on the field of battle checking the mighty Pandava hosts. cars and shedding blood copiously, before the very eyes of all the troops that foremost of the descendants of Sini moved forwards like the slayer of Vritra passing through the Asura host.",
+      "bhavadeepa": null,
+      "chapter": 116,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "षोडशाधिकशततमोऽध्यायः"
+    }
+  ]
+}

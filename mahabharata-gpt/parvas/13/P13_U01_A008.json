@@ -1,0 +1,306 @@
+{
+  "adhyaya_id": "P13_U01_A008",
+  "book": 13,
+  "parva_name": "अनुशासनपर्व",
+  "upaparva_name": "दानधर्मपर्व",
+  "adhyaya_name": "अष्टमोऽध्यायः",
+  "chapter": 8,
+  "verse_count": 29,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "युधिष्ठिर उवाच। के पूज्याः के नमस्कार्याः कान्नमस्यसि भारत । एतन्मे सर्वमाचक्ष्व येभ्यः स्पृहयसे नृप ॥१॥",
+      "english": "Yudhishthira said Who are deserving of adoration? Who are they to whom one may bow? Who are they, O Bharata, to whom you would lower your head? Who, again, are they whom you like? Tell me all this, O prince.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "उत्तमापद्गतस्यापि यत्र ते वर्तते मनः । मनुष्यलोके सर्वस्मिन् यदमुत्रेह चाप्युत ॥२॥",
+      "english": "What is that upon which your mind turn when affliction overwhelms you. Do you describe to me what is beneficial here, that is, in this region of human beings, as also hereafter.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "भीष्म उवाच। स्पृहयामि द्विजातिभ्यो येषां ब्रह्म परं धनम् । येषां स्वप्रत्ययः स्वर्गस्तपःस्वाध्यायसाधनम् ॥३॥",
+      "english": "Bhishma said I like those twiceborn persons whose highest wealth is Brahma, whose heaven is their knowledge of the soul, and whose penances are formed by their diligent study of the Vedas.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "येषां बालाश्च वृद्धाश्च पितृपैतामहीं धुरम् । उद्वहन्ति न सीदन्ति तेभ्यो वै स्पृहयाम्यहम् ॥४॥",
+      "english": "My heart longs for those in whose family persons young and old diligently bear the, ancestral burthens without languishing under them.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "विद्यास्वभिविनीतानां दान्तानां मृदुभाषिणाम् । श्रुतवृत्तोपपन्नानां सदाक्षरविदां सताम् ॥५॥",
+      "english": "Brahmanas well-trained in several branches of knowledge, self-controlled, mild-speeched, conversant with the scriptures, well-bchaved, possessed of the knowledge of Brahma, and righteous in conduct, discourse in respectable assemblies like flights of swans. They in a voice deep as the muttering of clouds give vent to auspicious, sweet, excellent, and wellpronounced words, O Yudhishthira. In the courts of monarchs, they spoke these words fraught with happiness both temporal and spiritual, themselves being received with honour and attention and served with respect by those kings.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः",
+      "combined_translation": "5-7"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "संसत्सु वदतां तात हंसानामिव सङ्घशः । मङ्गल्यरूपा रुचिरा दिव्यजीमूतनिःस्वनाः ॥६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः",
+      "english_ref": 5,
+      "combined_translation": "5-7"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "सम्यगुच्चरिता वाचः श्रूयन्ते हि युधिष्ठिर । शुश्रूषमाणे नृपतौ प्रेत्य चेह सुखावहाः ॥७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः",
+      "english_ref": 5,
+      "combined_translation": "5-7"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "ये चापि तेषां श्रोतारः सदा सद‌सि सम्मताः । विज्ञानगुणसम्पन्नास्तेभ्यश्च स्पृहयाम्यहम् ॥८॥",
+      "english": "Indeed, my heart longs after them who endued with knowledge and all desirable attributes, and honoured by others, listen to such words when uttered in assemblies or the courts of kings.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "सुसंस्कृतानि प्रयताः शुचीनि गुणवन्ति च । ददत्यन्नानि तृप्त्यर्थं ब्राह्मणेभ्यो युधिष्ठिर ॥९॥",
+      "english": "My heart, O king, always yearns after them who, for the satisfaction of Brahmanas, O Yudhishthira, give to them, with devotion, food that is well-cooked and clean and wholesome.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "ये चापि सततं राजंस्तेभ्यश्च स्पृहयाम्यहम् । शक्यं ह्येवाहवे योद्धुं न दातुमनसूयितम् ॥१०॥",
+      "english": "It is easy to fight in battle, but not so to make a gift without pride or vanity.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "शूरा वीराश्च शतशः सन्ति लोके युधिष्ठिर । येषां संख्यायमानानां दानशूरो विशिष्यते ॥११॥",
+      "english": "In this world, O Yudhishthira, there are hundreds of brave men and heroes. While counting them, he who is a hero in gifts should be considered as superior.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "धन्यः स्यां यद्यहं भूयः सौम्य ब्राह्मणकोऽपि वा । कुले जातो धर्मगतिस्तपोविद्यापरायणः ॥१२॥",
+      "english": "O amiable one, if I had been even a vulgar Brahmana I would have considered myself as very great, not to speak of one born in a good family, gifted with righteousness of conduct, and given to penances and learning.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "न मे त्वत्तः प्रियतरो लोकेऽस्मिन् पाण्डुनन्दन । त्वत्तश्चापि प्रियतरा ब्राह्मणा भरतर्षभ ॥१३॥",
+      "english": "There is no one, O son of Pandu, in this world, who is dearer to me than you, O chief of Bharats's race, but Brahmans are dearer to me than you.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "यथा मम प्रियतमास्त्वत्तो विप्राः कुरूत्तम । तेन सत्येन गच्छेयं लोकान्यत्र स शान्तनुः ॥१४॥",
+      "english": "And since, O best of the Kurus, the Brahmanas are very much dearer to me than you, it is by that truth that I expect to go to all those regions of happiness which have been gained by my father Shantanu.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "न मे पिता प्रियतरो ब्राह्मणेभ्यस्तथाऽभवत् । न मे पितुः पिता वापि ये चान्येऽपि सुहृज्जनाः ॥१५॥",
+      "english": "Neither my father, nor my grandfather, nor any one else connected with me by blood, is dearer to me than the Brahmanas.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "न हि मे वृजिनं किञ्चिद्विद्यते ब्राह्मणेष्विह । अणु वा यदि वा स्थूलं विद्यते साधु कर्मसु ॥१६॥",
+      "english": "I do not expect any fruit, small or great, from my adoration of the Brahmanas.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "कर्मणा मनसा वापि वाचा वापि परन्तप । यन्मे कृतं ब्राह्मणेभ्यस्तेनाद्य न तपाम्यहम् ॥१७॥",
+      "english": "On account of what I have done to the Brahmanas in thought, word, and deed, I do not feel any pain now.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "ब्रह्मण्य इति मामाहुस्तया वाचाऽस्मि तोषितः । एतदेव पवित्रेभ्यः सर्वेभ्यः परमं स्मृतम् ॥१८॥",
+      "english": "People used to call me as one devoted to the Brahmanas. This address always pleased me highly. To do good to the Brahmanas is the most sacred of all sacred duties.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "पश्यामि लोकानमलाञ्छुचीन्ब्राह्मणयायिनः । तेषु मे तात गन्तव्यमह्नाय च चिराय च ॥१९॥",
+      "english": "I see many regions of beatitude waiting for me who have respectfully followed the Brahmanas. Very soon shall I go to these regions for good, O son.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "यथा भर्त्राश्रयो धर्मः स्त्रीणां लोके युधिष्ठिर । स देवः सा गतिर्नान्या क्षत्रियस्य तथा द्विजाः ॥२०॥",
+      "english": "In this world, O Yudhishthira, the duties of women depend upon their husbands. To a woman, verily, the husband is the god and he is the highest end for which she should try. As the husband to wife, so are the Brahmanas to Kshatriyas.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "क्षत्रियः शतवर्षी च दशवर्षी द्विजोत्तमः। पितापुत्रौ च विज्ञेयौ तयोर्हि ब्राह्मणो गुरुः ॥२१॥",
+      "english": "If there be a Kshatriya hundred years old and a good Brahmana child of only ten years, the latter should be considered as a father and the former as a son, for among the two, the Brahmana is superior.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "नारी तु पत्यभावे वै देवरं कुरुते पतिम् । पृथिवी ब्राह्मणालामे क्षत्रियं कुरुते पतिम् ॥२२॥",
+      "english": "A woman, in the absence of her husband, takes his younger brother for her lord; so the Earth, not having obtained Brahmana, made the Kshatriya her king.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "पुत्रवच्च ततो रक्ष्या उपास्या गुरुवच्च ते । अग्निवच्चोपचर्या वै ब्राह्मणाः कुरुसत्तम ॥२३॥",
+      "english": "The Brahmanas should be protected like sons and adored like fathers or preceptors. Indeed, O best of the Kurus, they served reverentially as people wait with respect upon their sacrificial or Homa fires.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "ऋजून्सतः सत्यशीलान्सर्वभूतहिते रतान् । आशीविषानिव क्रुद्धान् द्विजान्परिचरेत्सदा ॥२४॥",
+      "english": "The Brahmanas are gifted with simplicity and righteousness. They are given to truth. They are always engaged in the behalf of all creatures. Yet when angry they are like snakes of dreadful venom. They should, for these reasons, be always waited upon and served with respect and humility.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "तेजसस्तपसश्चैव नित्यं बिभ्येद्युधिष्ठिर । उभे चैते परित्याज्ये तेजश्चैव तपस्तथा ॥२५॥",
+      "english": "One should, O Yudhishthira, always fear these two, viz., Energy and Penances. Both these should be shirked or kept at a distance.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "व्यवसायस्तयोः शीघ्रमुभयोरेव विद्यते । हन्युः क्रुद्धा महाराज ब्राह्मणा ये तपस्विनः ॥२६॥",
+      "english": "The effects of both are quick, There is this superiority, however, of Penances, viz., that Brahmanas gifted with Penances, O king, can, if angry, kill the object of their anger.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "भूयः स्यादुभयं दत्तं ब्राह्मणाद्यद‌कोपनात् । कुर्यादुभयतः शेषं दत्तशेषं न शेषयेत् ॥२७॥",
+      "english": "Even greatest Energy and Penances, become neutralised if applied against a Brahmana who has conquered anger. If the two that is, Energy and Penances-be set against each other, then both of them would be destroyed. Again when Energy, is set against Penances, it is sure to be destroyed without leaving a remnant. Penances applied against Energy cannot be destroyed completely.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "दण्डपाणिर्यथा गोषु पालो नित्यं हि रक्षयेत् । ब्राह्मणा ब्रह्म च तथा क्षत्रियः परिपालयेत् ॥२८॥",
+      "english": "As the herdsman, stick in hand, protects the herd, so should the Kshatriya always protect the Vedas and the Brahmanas.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "पितेव पुत्रान् रक्षेथा ब्राह्मणान् धर्मचेतसः । गृहे चैषामवेक्षेथाः किंस्विदस्तीति जीवनम् ॥२९॥",
+      "english": "The Kshatriya should protect all pious Brahmanas as a father protects his sons. He should always look after the houses of the Brahmanas for finding out that the means of subsistence may not be wanting.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    }
+  ]
+}

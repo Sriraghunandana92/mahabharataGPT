@@ -1,0 +1,392 @@
+{
+  "adhyaya_id": "P01_U15_A214",
+  "book": 1,
+  "parva_name": "आदिपर्व",
+  "upaparva_name": "अर्जुनवनवासपर्व",
+  "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः",
+  "chapter": 214,
+  "verse_count": 36,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वैशंपायन उवाच।\n              तं प्रयान्तं महाबाहुं कौरवाणां यशस्करम्। अनुजग्मुर्महात्मानो ब्राह्मणा वेदपारगाः॥१॥",
+      "english": "Vaishampayana said : When that that mighty-armed hero, spreader of the fame of the Kuru race, went away, the Veda-knowing Brahmanas followed him.",
+      "bhavadeepa": null,
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "वेदवेदाङ्गविद्वासस्तथैवाध्यात्मचिन्तकाः। भैक्षाश्च भगवद्भक्ताः सूताः पौराणिकाश्च ये॥२॥",
+      "english": "Followed by the Veda and Vedanga knowing Brahmanas, ever devoted in the contemplation of the Supreme spirit by persons skilled in music, by ascetics devoted to the Deity, by Pauranika Sutas (men learned in the Puranas), by Kathakas (the reciters of sacred stories), by celebrate, by dwellers of forests, by Brahmanas who recited sweetly the celestials histories.",
+      "bhavadeepa": "चतुर्दशाधिकद्विशततमोऽध्यायः तं प्रयान्तमिति ॥१॥",
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः",
+      "combined_translation": "2-3"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "कथकाश्चापरे राजञ्श्रमणाश्च वनौकसः। दिव्याख्यानानि ये चापि पठन्ति मधुरं द्विजाः॥३॥",
+      "english": null,
+      "bhavadeepa": "भैक्षाः भिक्षाजीबिनो यतयो ब्रह्मचारिणश्च । चौक्षा इति पाठे चोक्षाः शुचयस्त एक चौक्षाः ‘ चोक्षो गीते शुचौ दक्षे तथा तीक्ष्णमनोज्ञयोः’ इति मेदिनी । चोक्षा इत्येव मुख्यः पाठः ॥२॥",
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः",
+      "english_ref": 2,
+      "combined_translation": "2-3"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "एतैश्चान्यैश्च बहुभिः सहायैः पाण्डुनन्दनः। वृतः श्लक्ष्णकथैः प्रायान्मरुद्भिरिव वासवः॥४॥",
+      "english": "And by many other sweet-speeched men. With those men, the son of Pandu (Arjuna) travelled over the country like Indra followed by the Marutas.",
+      "bhavadeepa": "श्रमणाः ऊर्ध्वरेतसो यतयो ब्रह्मचारिणश्च ॥३॥",
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "रमणीयानि चित्राणि वनानि च सरांसि च। सरितः सागरांश्चैव देशानपि च भारत॥५॥",
+      "english": "O descendant of Bharata, that best of men (Arjuna) saw many charming and picturesque forests, lakes, rivers, seas and countries and many sacred pilgrimages. Coming to the source of the Ganges, the lord (Arjuna) thought of dwelling there.",
+      "bhavadeepa": null,
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः",
+      "combined_translation": "5-6"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "पुण्यान्यपि च तीर्थानि ददर्श भरतर्षभः। स गङ्गाद्वारमाश्रित्य निवेशमकरोत्प्रभुः॥६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः",
+      "english_ref": 5,
+      "combined_translation": "5-6"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "तत्र तस्याद्भुतं कर्म शृणु त्वं जनमेजय। कृतवान्यद्विशुद्धात्मा पाण्डूनां प्रवरो हि सः॥७॥",
+      "english": "Janamejaya, listen to the wonderful feat which that foremost of the Pandavas, the highsouled hero, performed.",
+      "bhavadeepa": null,
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "निविष्टे तत्र कौन्तेये ब्राह्मणेषु च भारत। अग्निहोत्राणि विप्रास्ते प्रादुश्चक्रुरनेकशः॥८॥",
+      "english": "O descendant of Bharata, when the son of Kunti (Arjuna) and the Brahmanas lived there the letter performed many Agnihotras (fire sacrifices).",
+      "bhavadeepa": null,
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "तेषु प्रबोध्यमानेषु ज्वलितेषु हुतेषु च। कृतपुष्पोपहारेषु तीरान्तरगतेषु च॥९॥",
+      "english": "O King, in consequence of those learned, vow-observing, undeviatingly righteous Brahmanas' daily establishing and kindling fires for their sacrifices on the banks of that sacred river and pouring libations of ghee into it and worshipping it with flowers that region from which the Ganges flowed became exceedingly beautiful.",
+      "bhavadeepa": null,
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः",
+      "combined_translation": "9-10"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "कृताभिषेकैर्विद्वद्भिर्नियतैः सत्पथि स्थितैः। शुशुभेऽतीव तद्राजन्गङ्गाद्वारं महात्मभिः॥१०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः",
+      "english_ref": 9,
+      "combined_translation": "9-10"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "तथा पर्याकुले तस्मिन्निवेशे पाण्डवर्षभः। अभिषेकाय कौन्तेयो गङ्गामवततार ह॥११॥",
+      "english": "One day that best of the Pandavas, the son of Kunti (Arjuna), in order to perform his ablutions, went to the Ganges which flowed in the midst of the Brahmanas.",
+      "bhavadeepa": null,
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "तत्राभिषेकं कृत्वा स तर्पयित्वा पितामहान्। उत्तितीर्षुर्जलाद्राजन्नग्निकार्यचिकीर्षया॥१२॥",
+      "english": "O king, performing his ablutions and offering water to the grandsires, as he was getting out of the water with the desire of performing his sacrificial rites before the fire. O great king the mighty-armed hero was dragged into water by the daughter of the Naga king, named Ulupi, maddened with desire.",
+      "bhavadeepa": "अग्निकार्यचिकीर्षयेति । पत्नीसान्निध्याभावेपि प्रवसता औपासनहोमः कर्तव्यः इति दर्शितम् ॥११॥",
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः",
+      "combined_translation": "12-13"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "अपकृष्टो महाबाहुर्नागराजस्य कन्यया। अन्तर्जले महाराज उलूप्या कामयानया॥१३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः",
+      "english_ref": 12,
+      "combined_translation": "12-13"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "ददर्श पाण्डवस्तत्र पावकं सुसमाहितः। कौरव्यस्याथ नागस्य भवने परमार्चिते॥१४॥",
+      "english": "He saw a fire there in the house of the Naga, named Kaurava and the son of Kunti, Dhananjaya, performed his sacrificial rites with devotion before that fire. Agni was much pleased to see the fearlessness with which he poured the libations.",
+      "bhavadeepa": "अपकृष्टोऽपनीतः । कामयानया तं पतिमिच्छन्त्या ॥१३॥",
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः",
+      "combined_translation": "14-15"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "तत्राग्निकार्यं कृतवान्कुन्तीपुत्रो धनञ्जयः। अशङ्कमानेन हुतस्तेनातुष्यद्धुताशनः॥१५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः",
+      "english_ref": 14,
+      "combined_translation": "14-15"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "अग्निकार्यं स कृत्वा तु नागराजसुतां तदा। प्रहसन्निव कौन्तेय इदं वचनमब्रवीत्॥१६॥",
+      "english": "Having performed the sacrificial rites me for the fire, the son of Kunti (Arjuna) spoke thus smilingly to the daughter of the Naga king.",
+      "bhavadeepa": "अशङ्कमानेन आपद्धर्मनिश्चयवता विस्मयरहितेन ॥१५॥",
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "किमिदं साहसं भीरु कृतवत्यसि भामिनि। कश्चायं सुभगे देशः का च त्वं कस्य वात्मजा॥१७॥",
+      "english": "Arjuna said : O handsome maiden, O timid girl, what a bold act have performed! O blessed damsel, where is this beautiful region situated? Who are you and whose daughter are you?",
+      "bhavadeepa": null,
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "उलूप्युवाच। ऐरावतकुले जातः कौरव्यो नाम पन्नगः। तस्यास्मि दुहिता राजन्नुलूपी नाम पन्नगी॥१८॥",
+      "english": "Ulupi said: O king there is a Naga, named Kaurava, born in the race of Airavata. I am his daughter, I am the Naga maiden, named Ulupi.",
+      "bhavadeepa": null,
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "साऽहं त्वामभिषेकार्थमवतीर्णं समुद्रगाम्। दृष्ट्वैव पुरुषव्याघ्र कन्दर्पेणाभिमूर्च्छिता॥१९॥",
+      "english": "O best of men, seeing you descend into the river in order to perform your ablutions, I was deprived of my senses by the god of love.",
+      "bhavadeepa": null,
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "तां मामनङ्गग्लपितां त्वत्कृते कुरुनन्दन। अनन्यां नन्दयस्वाद्य प्रदानेनात्मनोऽनघ॥२०॥",
+      "english": "o descendant of Kuru, I am still unmarried. O sinless, afflicted as I am by the god of love, gratify me to-day by giving yourself up to me.",
+      "bhavadeepa": "समुद्रगां गङ्गाम् ॥१९॥",
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "अर्जुन उवाच।\n              ब्रह्मचर्यमिदं भद्रे मम द्वादशमासिकम्। धर्मराजेन चादिष्टं नाहमस्मि स्वयं वशः॥२१॥",
+      "english": "Arjuna said: O amiable girl, commanded by Dharmaraja (Yudhishthira), I am observing Brahmacharya for twelve years. I am not in my sway.",
+      "bhavadeepa": "अनङ्गग्लपितां कामेन पीडिताम् ॥२०॥",
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "तव चापि प्रियं कर्तुमिच्छामि जलचारिणि। अनृतं नोक्तपूर्वं च मया किंचन कर्हिचित्॥२२॥",
+      "english": "O aquatic lady desirous of doing what is agreeable to you. I have never before spoken an untruth in my life.",
+      "bhavadeepa": null,
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "कथं च नानृतं मे स्यात्तव चापि प्रियं भवेत्। न च पीड्येत मे धर्मस्तथा कुर्या भुजङ्गमे॥२३॥",
+      "english": "Therefore, tell me, O snake-lady, how I may act so that while doing your pleasure, I may not be guilty of any untruth or sin.",
+      "bhavadeepa": null,
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "उलूप्युवाच। जानाम्यहं पाण्डवेय यथा चरसि मेदिनीम्। यथा च ते ब्रह्मचर्यमिदमादिष्टवान्गुरुः॥२४॥",
+      "english": "Ulupi said : O son of Pandu, I know why you are roaming over the world and why you observe Brahmacharya at the command of your elder (brother).",
+      "bhavadeepa": null,
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "परस्परं वर्तमानां द्रुपदस्यात्मजां प्रति। यो नोऽनुप्रविशेन्मोहात्स वै द्वादशवार्षिकम्॥२५॥",
+      "english": "This was the rule which all of you made amongst you for having Draupadi as you common wife, that he who would by ignorance enter the room in which one of you would be with her, he must adopt Brahmacharya for twelve years.",
+      "bhavadeepa": "जानाम्यहं पाण्डवेयेत्यादिना स्वस्यातीन्द्रियं ज्ञानं दर्शयन्ती द्रौपदीनिमित्तमेव तव ब्रह्मचर्यं नान्यत्रेत्याह । अत एवाग्रेपि चित्राङ्गदासुभद्रयोः पाणिग्रहणं सङ्गच्छते ॥२४॥",
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः",
+      "combined_translation": "25-26"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "वने चरेद्ब्रह्मचर्यमिति वः समयः कृतः। तदिदं द्रौपदीहेतोरन्योऽन्यस्य प्रवासनम्॥२६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः",
+      "english_ref": 25,
+      "combined_translation": "25-26"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "कृतवांस्तत्र धर्मार्थमत्र धर्मो न दुष्यति। परित्राणं च कर्तव्यमार्तानां पृथुलोचन॥२७॥",
+      "english": "The exile of any you, therefore, is only for the sake of Draupadi. You are but observing that vow, Your virtue cannot suffer any diminution. O large-eyed hero, it is your duty to relieve the distressed.",
+      "bhavadeepa": null,
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "कृत्वा मम परित्राणं तव धर्मो न लुप्यते। यदि वाप्यस्य धर्मस्य सूक्ष्मोऽपि स्याद्व्यतिक्रमः॥२८॥",
+      "english": "Your virtue cannot suffer any diminution by relieving me. O Arjuna, if your virtue (really) suffer a small diminution, you will acquire great merit by relieving me. O Partha, I am your adorer O lord accept me. This is the opinion of the wise.",
+      "bhavadeepa": null,
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः",
+      "combined_translation": "28-29"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "स च ते धर्म एव स्याद्दत्वा प्राणान्ममार्जुन। भक्तां च भज मां पार्थ सतामेतन्मतं प्रभो॥२९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः",
+      "english_ref": 28,
+      "combined_translation": "28-29"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "न करिष्यसि चेदेवं मृतां मामुपधारय। प्राणदानान्महाबाहो चर धर्ममनुत्तमम्॥३०॥",
+      "english": "If you do not accept me know that I will destroy myself. O mighty-armed hero, earn great merit by saving my life.",
+      "bhavadeepa": null,
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "शरणं च प्रपन्नास्मि त्वामद्य पुरुषोत्तम। दीनाननाथान्कौन्तेय परिरक्षसि नित्यशः॥३१॥",
+      "english": "O best of men I solicit protection. O son of Kunti, you always protect the distressed and the helpless. Weeping in sorry I solicit your protection.",
+      "bhavadeepa": null,
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "साऽहं शऱणमभ्येमि रोरवीमि च दुःखिता। याचे त्वां चाभिकामाहं तस्मात्कुरु मम प्रियम्। स त्वमात्मप्रदानेन सकामां कर्तुमर्हसि॥३२॥",
+      "english": "Being filled with desire, I woo you. Therefore, do what is agreeable to me. You should gratify my wise by giving up yourself to me.",
+      "bhavadeepa": null,
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "वैशंपायन उवाच।\n              एवमुक्तस्तु कौन्तेयः पन्नगेश्वरकन्यया। कृतवांस्तत्तथा सर्वं धर्ममुद्दिश्य कारणम्॥३३॥",
+      "english": "Vaishampayana said : Thus addressed by the daughter o the Naga king, the son of Kunti, making virtue his motive, did everything as she desired.",
+      "bhavadeepa": null,
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "स नागभवने रात्रिं तामुषित्वा प्रतापवान्। उदितेऽभ्युत्थितः सूर्ये कौरव्यस्य निवेशनात्॥३४॥",
+      "english": "The powerful hero passed the night in the mansion of the Naga and rose with the of the sun. From the mansion of Kaurava,",
+      "bhavadeepa": null,
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "आगतस्तु पुनस्तत्र गङ्गाद्वारं तया सह। परित्यज्य गता साध्वी उलूपी निजमन्दिरम्॥३५॥",
+      "english": "He came with her (Ulupi) back to the region from which the Ganges flowed to the plains, Taking his leave, the chaste Ulupi returned to her own abode.",
+      "bhavadeepa": null,
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "दत्त्वा वरमजेयत्वं जले सर्वत्र भारत। साध्या जलचराः सर्वे भविष्यन्ति न संशयः॥३६॥",
+      "english": "O descendant of Bharata, she gave a boon (to Arjuna) making him invincible in water. (She said) “Every aquatic creature will certainly be vanquished by you.'",
+      "bhavadeepa": "परित्यज्य मुनिसमाजे तं विसृज्य ॥३५॥",
+      "chapter": 214,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अर्जुनवनवासपर्व",
+      "adhyaya_name": "चतुर्दशाधिकद्विशततमोऽध्यायः"
+    }
+  ]
+}

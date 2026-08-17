@@ -1,0 +1,949 @@
+{
+  "adhyaya_id": "P05_U06_A072",
+  "book": 5,
+  "parva_name": "उद्योगपर्व",
+  "upaparva_name": "भगवद्यानपर्व",
+  "adhyaya_name": "द्विसप्ततितमोऽध्यायः",
+  "chapter": 72,
+  "verse_count": 93,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वैशम्पायन उवाच।\n              सञ्जये प्रतियाते तु धर्मराजो युधिष्ठिरः। अभ्यभाषत दाशार्हमृषभं सर्वसात्वताम् ॥१॥",
+      "english": null,
+      "bhavadeepa": "निर्माणं रचना जनित्रं जनयितारम् ॥७॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "अयं स कालः संप्राप्तो मित्राणां मित्रवत्सल। न च त्वदन्यं पश्यामि यो न आपत्सु तारयेत् ॥२॥",
+      "english": "This is the time arrived for friends (to show that they are so), O you devoted to the interests of your friends. Any other save yourself I do not see, who could get us through this difficulty.",
+      "bhavadeepa": "सञ्जय इति ॥१॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "त्वां हि माधवमाश्रित्य निर्भया मोघदर्पितम्। धार्तराष्ट्रं सहामात्यं स्वयं समनुयुङ्क्ष्महे ॥३॥",
+      "english": "Depending on you, Madhava, we have without fear asked back our share (of the kingdom) from the son of Dhritarashtra and all his followers, who are filled with vain pride.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "यथा हि सर्वास्वापत्सु पासि वृष्णीनरिन्दम। तथा ते पाण्डवा रक्ष्याः पाह्यस्मान् महतो भयात् ॥४॥",
+      "english": "As you get through the Vrishnis out of all difficulties, O chastiser of chastiser of foes; so are the Pandavas, the proper party, to be protected by you. Get them through this great difficulty.",
+      "bhavadeepa": "मोघं दर्पितं यस्य अनुयुङ्क्षमहे प्रार्थयामहे ॥३॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "श्रीभगवानुवाच। अयमस्मि महाबाहो ब्रूहि यत्ते विवक्षितम्। करिष्यामि हि तत्सर्वं यत्त्वं वक्ष्यसि भारत ॥५॥",
+      "english": "The blessed Krishna of divine attributes said Here am I, O you with long arms. Speak what you want to say. I shall do all that you will ask me to do, O Bharata.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "युधिष्ठिर उवाच।\n              श्रुतं ते धार्तराष्ट्रस्य सपुत्रस्य चिकीर्षितम्। एतद्धि सकलं कृष्ण सञ्जयो मां यदब्रवीत् ॥६॥",
+      "english": "Yudhishthira said You have heard what Dhritarashtra with his son intends to do. It is, O Krishna, exactly as Sanjaya told me.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "तन्मतं धृतराष्ट्रस्य सोऽस्यात्मा विवृतान्तरः। यथोक्तं दूत आचष्टे वध्यः स्यादन्यथा ब्रुवन् ॥७॥",
+      "english": "Such are the intentions of Dhritarashtra; for Sanjaya knows the heart and is as his very soul, so to say. As an ambassador is instructed, so dose he speak; and if he speaks otherwise he should be killed.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "अप्रदानेन राज्यस्य शान्तिमस्मासु मार्गति। लुब्धः पापेन मनसा चरन्नसममात्मनः ॥८॥",
+      "english": "Without restoring to us our kingdom ho wants peace with us; and the covetous man behaves by his sinful heart without impartiality towards those whose interests should be looked after by him equally.",
+      "bhavadeepa": "विवृतान्तरः प्रकाशितभावः ॥७॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "यत्तद्द्वादश वर्षाणि वनेषु ह्युषिता वयम्। छद्मना शरदं चैकां धृतराष्ट्रस्य शासनात् ॥९॥",
+      "english": "For twelve years have the forests been inhabited by us; and at the command of Dhritarashtra have we lived in disguise for another year.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "स्थाता नः समये तस्मिन् धृतराष्ट्र इति प्रभो। नाहास्म समयं कृष्ण तद्धि नो ब्राह्मणा विदुः ॥१०॥",
+      "english": "So that Dhritarashtra might abide by those pledges of ours, O lord; the Brahmanas, O Krishna, in our company know that we did not break our pledges.",
+      "bhavadeepa": "छद्मना अज्ञातचर्यया ॥९॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "गृद्धो राजा धृतराष्ट्रः स्वधर्मं नानुपश्यति। वश्यत्वात् पुत्रगृद्धित्वान्मन्दस्यान्वेति शासनम् ॥११॥",
+      "english": "The avaricious king Dhritarashtra dose not follow the path of virtue of his class, and out of affection for his son and with a desire to please him he follows the course marked out by that fool.",
+      "bhavadeepa": "स्थाता स्थास्यति नः अस्माकम् । तस्मिन् चतुर्दशे वर्षे स्वं राज्यं गृह्णीतेत्यस्मिन् न अहास्म न युक्तवन्तो वयम् ॥१०॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "सुयोधनमते तिष्ठन् राजाऽस्मासु जनार्दन। मिथ्या चरति लुब्धः सन् चरन् हि प्रियमात्मनः॥१२॥",
+      "english": "The king listening to the advice of Suyodhna, O Janardana, behaves deceitfully towards his own interests.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "इतो दुःखतरं किं नु यदहं मातरं ततः। संविधातुं न शक्नोमि मित्राणां वा जनार्दन ॥१३॥",
+      "english": "What is more regrettable than this that I am unable to be of any good to my mother or to my friends, O Janardana.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "काशिभिश्चेदिपाञ्चालैर्मत्स्यैश्च मधुसूदन। भवता चैव नाथेन पञ्च ग्रामा वृता मया ॥१४॥",
+      "english": "Five villages were only asked by me, who have the Kashis, the Chedis, the Panchalas and the Matsyas for my supporters and your exalted self for my lord.",
+      "bhavadeepa": "मातरं संविधातुं सम्यक्पोषयितुं ततः तत्रस्थामित्यर्थः । मित्राणां- कर्मणि षष्ठी । मातुरिति पाठे अन्ततोऽन्येषां वणिक्प्रभृतीनां नागरिकाणां परित्यागेऽपि मातरं मित्राणि च विदुरादीनि संविधातुमिति प्राग्वत् ॥१३॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "अविस्थलं वृकस्थलं माकन्दी वारणावतम्। अवसानं च गोविन्द कञ्चिदेवात्र पञ्चमम् ॥१५॥",
+      "english": "(The villages were) Avisthala, Vrikasthala, Makandi, Varanavata and any other, O Govinda, for the last or the fifth.",
+      "bhavadeepa": "काशिभिः राजभिः नाथेन नाथवता भवदनुग्रहात् शक्तेनापीत्यर्थः ॥१४॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः",
+      "combined_translation": "15-19"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "पञ्च नस्तात दीयन्तां ग्रामा वा नगराणि वा। वसेम सहिता येषु मा च नो भरता नशन् ॥१६॥",
+      "english": "Give as, O Sire, (so we said) five villages or towns where we may reside united together; for we do not desire the destruction of the Bharatas.",
+      "bhavadeepa": "अवसीयते संस्थीयतेऽस्मिन्नित्यवसानं यावज्जीवनं वासस्थानम् ॥१५॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "न च तानपि दुष्टात्मा धार्तराष्ट्रोऽनुमन्यते। स्वाम्यमात्मनि मत्वाऽसावतो दुःखतरं नु किम् ॥१७॥",
+      "english": "Not this even dose the wicked-souled son of Dhritarashtra grant, thinking the proprietary rights of the entire earth to be vested in him. What is there more regrettable than this.",
+      "bhavadeepa": "नः अस्माकं कृते भरताः भरतवंश्या भीष्मादयः मा नशन् मा नश्यन्तु ॥१६॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "कुले जातस्य वृद्धस्य परवित्तेषु गृद्ध्यतः। लोभः प्रज्ञानमाहन्ति प्रज्ञा हन्ति हता ह्रियम् ॥१८॥",
+      "english": "The avarice of man born in a noble family yet desiring to possess himself the wealth of others nullifies his wisdom; and the wisdom being destroyed, the sense of shame dose nowhere exist.",
+      "bhavadeepa": "तानपि भरतानपि ॥१७॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "ह्रीर्हता बाधते धर्मं धर्मो हन्ति हतः श्रियम्। श्रीर्हता पुरुषं हन्ति पुरुषस्याधनं वधः ॥१९॥",
+      "english": "Sense of shame being lost, desire of virtue is weakened; and the destruction of virtue causes the decline of prosperity. Prosperity being lost, the man meets with death; for poverty is death to a man.",
+      "bhavadeepa": "कुले इति द्वाभ्यां गर्वजा दोषसन्ततिरुक्ता ॥१८॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "अधनाद्धि निवर्तन्ते ज्ञातयः सुहृदो द्विजाः। अपुष्पाद‌फलाद्वृक्षाद्यथा कृष्ण पतत्रिणः ॥२०॥",
+      "english": "Form a man stricken with property do cousins, friends and Brahmanas turn away; as from a tree without flowers and fruits the winged creatures turn away.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "एतच्च मरणं तात यन्मत्तः पतितादिव। ज्ञातयो विनिवर्तन्ते प्रेतसत्त्वादिवासवः ॥२१॥",
+      "english": "This I regard as death to me, O Sire, since from me the cousins away as from a fallen creature or breath forsakes an animal that is dead.",
+      "bhavadeepa": "द्विजाः अर्थिनः ॥२०॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "नातः पापीयसीं काञ्चिदवस्थां शम्बरोऽब्रवीत्। यत्र नैवाद्य न प्रातर्भोजनं प्रतिदृश्यते ॥२२॥",
+      "english": "Shambara was of opinion that there was no condition of life which could be more woeful than that in which a man cannot see what his food is to be tomorrow.",
+      "bhavadeepa": "प्रेतसत्वात् प्रगतबुद्धेर्मृतादित्यर्थः ॥२१॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "धनमाहुः परं धर्मं धने सर्वं प्रतिष्ठितम्। जीवन्ति धनिनो लोके मृता ये त्वधना नराः ॥२३॥",
+      "english": "Wealth is said to be the best virtue. Everything is established on wealth; and wealthy men are living in this world and men without wealth are dead.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "ये धनादपकर्षन्ति नरं स्वबलमास्थिताः। ते धर्ममर्थं कामं च प्रमथ्नन्ति नरं च तम् ॥२४॥",
+      "english": "Those, who by force of their physical strength, deprived a man of his wealth, destroy the virtue, profit and pleasure of that man.",
+      "bhavadeepa": "धर्मं धर्मकारणम् । सर्वं यज्ञदानादि ये अधनास्ते मृता एव ॥२३॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "एतामवस्थां प्राप्यैके मरणं वव्रिरे जनाः। ग्रामायैके वनायैके नाशायैके प्रवव्रजुः ॥२५॥",
+      "english": "Having reached this condition (i.e. poverty) one class of men prefer death; another retire to villages (form cities); a third to the wilderness; while the fourth rove about with a view to meet speedy death.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "उन्मादमेके पुष्यन्ति यान्त्यन्ये द्विषतां वशम्। दास्यमेके च गच्छन्ति परेषामर्थहेतुना ॥२६॥",
+      "english": "One class of men become insane; another go under the control of their enemies; and a third become slaves for the sake of getting the wealth of others.",
+      "bhavadeepa": "एतां निर्धनताख्याम् एके नागरिकाः ग्रामाय कुग्रामवासार्थं वनायास्मदादयः नाशाय मरणाय॥२५॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "आपदेवास्य मरणात् पुरुषस्य गरीयसी। श्रियो विनाशस्तद्ध्यस्य निमित्तं धर्मकामयोः ॥२७॥",
+      "english": "Poverty is a more potent evil to a man than death; for it destroys his prosperity. Wealth is the source of a man's virtue well as his pleasure.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "यदस्य धर्म्यं मरणं शाश्वतं लोकवर्त्म तत्। समन्तात् सर्वभूतानां न तदत्येति कश्चन ॥२८॥",
+      "english": "The natural death of a man is like the ever recurring point of the wheel of this world. It is the unavoidable path of all creatures and none can avoid it.",
+      "bhavadeepa": "आपत्पदार्थमाह - श्रियो विनाश इति । तद्धि श्रीर्हि ॥२७॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "न तथा बाध्यते कृष्ण प्रकृत्या निर्धनो जनः। यथा भद्रां श्रियं प्राप्य तया हीनः सुखैधितः ॥२९॥",
+      "english": "A man without wealth from his very birth does not suffer so much, 0 Krishna, as one who after the possession of great prosperity and a life of great happiness is deprived of it.",
+      "bhavadeepa": "धर्म्यं देहस्वभावात् प्राप्तं न तु दारिद्र्याद्यपराधजं मरणं तच्छाश्वतम् अनिमित्तमित्यर्थः । समन्तात् सर्वत्र अपरिहार्यमिति शेषः । नात्येति नातिक्रामति ॥२८॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "स तदाऽऽत्मापराधेन संप्राप्तो व्यसनं महत्। सेन्द्रान् गर्हयते देवान्नात्मानं च कथञ्चन ॥३०॥",
+      "english": "The man steeped in gigantic difficulties by his own short comings blames the gods with Indra and rarely himself.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "न चास्य सर्वशास्त्राणि प्रभवन्ति निबर्हणे। सोऽभिक्रुध्यति भृत्यानां सुहृदश्चाभ्यसूयति ॥३१॥",
+      "english": "His intimacy with all the holy books cannot procure him a mitigation of his sufferings. Sometimes he feels wrathful towards his servants; and afterwards he envies his friends.",
+      "bhavadeepa": "तदा संपत्काले आत्मापराधेन चित्तदोषेण रागादिना नात्मानं चेत्यस्य न चात्मानमित्यर्थः ॥३०॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "तत्तदा मन्युरेवैति स भूयः संप्रमुह्यति। स मोहवशमापन्नः क्रूरं कर्म निषेवते ॥३२॥",
+      "english": "Ever subject to outbursts of passion, he sometimes loses his senses and getting himself under the control of his folly he attaches himself to the performance of evil deeds.",
+      "bhavadeepa": "अस्य व्यसनस्य निबर्हणे नाशनिमित्तम् ॥३१॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "पापकर्मतया चैव सङ्करं तेन पुष्यति। सङ्करो नरकायैव सा काष्ठा पापकर्मणाम् ॥३३॥",
+      "english": "From his evil deeds spring confusion of castes; and a mixing up of castes is the way to hell, for it is the very culminating point of sinful deeds.",
+      "bhavadeepa": "तत्तदा सर्वदेत्यर्थः । मन्युः क्रोधः स तद्वानेवेत्यर्थः । मुह्यति कार्याकार्ये न जानाति ॥३२॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "नचेत्प्रबुध्यते कृष्ण नरकायैव गच्छति। तस्य प्रबोधः प्रज्ञैव प्रज्ञाचक्षुस्तरिष्यति ॥३४॥",
+      "english": "If he does not awake, he goes to hell O Krishna, wisdom alone is his awakening; the ey.es of wisdom alone can rescue him.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "प्रज्ञालाभे हि पुरुषः शास्त्राण्येवान्ववेक्षते। शास्त्रनिष्ठः पुनर्धर्मं तस्य ह्रीरङ्गमुत्तमम् ॥३५॥",
+      "english": "A man on obtaining the gift of wisdom follows the holy books. Observance of what is enjoyed in the holy books is the best virtue and modesty is the beautiful accompaniment of such a life.",
+      "bhavadeepa": "एवं श्रिया युक्तानां नरकप्राप्तिमुक्त्वा तेषामुद्धारोपायमाह- तस्येति । तस्य श्रीमतः अविद्याया निद्राणस्य प्रज्ञा विवेकः स एव प्रबोधो जागरणम् । यतः प्रज्ञाचक्षुः पुमान् तरिष्यति अविद्यामिति शेषः॥३४॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "ह्रीमान् हि पापं प्रद्वेष्टि तस्य श्रीरभिवर्धते। श्रीमान् स यावद्भवति तावद्भवति पूरुषः ॥३६॥",
+      "english": "A man endued with a senses of shame despises sins and his prosperity ever increases. When he becomes endued with prosperity, then he is a man.",
+      "bhavadeepa": "तरणे क्रममाह - प्रज्ञेति । धर्मं करोतीति शेषः । तस्य धर्मस्य ह्रीरकार्यकरणान्निवृत्तिहेतुश्चेतोवृत्तिविशेषः । ह्रीहीनेन कृतो धर्मोऽप्यधर्म एवेति भावः ॥३५॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "धर्मनित्यः प्रशान्तात्मा कार्ययोगवहः सदा। नाधर्मे कुरुते बुद्धिं न च पापे प्रवर्तते ॥३७॥",
+      "english": "That clam soul, ever engaged in the practice of virtue and ever attached to action after mature thought, never turns his mind towards vice, nor ever turns to sin.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "अह्रीको वा विमूढो वा नैव स्त्री न पुनः पुमान्। नास्याधिकारो धर्मेऽस्ति यथा शूद्रस्तथैव सः ॥३८॥",
+      "english": "The one without a sense of shame is neither a woman nor a man. He has no claims upon virtue; he is as a Shudra.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "ह्रीमानवति देवांश्च पितॄनात्मानमेव च। तेनामृतत्वं व्रजति सा काष्ठा पुण्यकर्मणाम् ॥३९॥",
+      "english": "The man endued with a sense of shame pleases the gods, the Pitris and his own self; and by this does he obtain immortality which is the goal of men attached to virtuous acts.",
+      "bhavadeepa": "अह्रीकः तिर्यक्स्थावरतुल्यो न मनुष्य इत्यर्थः ॥३८॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "तदिदं मयि ते दृष्टं प्रत्यक्षं मधुसूदन। यथा राज्यात् परिभ्रष्टो वसामि वसतीरिमाः ॥४०॥",
+      "english": "All this has been seen by you in me, o slayer of Madhu, namely, how I have lived these years, deprived of our kingdom.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "ते वयं न श्रियं हातुमलं न्यायेन केनचित्। अत्र नो यतमानानां वधश्चेदपि साधु तत् ॥४१॥",
+      "english": "There is no need for us to abandon that prosperity. In this case the death of ourselves, struggling to obtain back our prosperity, would be better.",
+      "bhavadeepa": "इदं ह्रीमत्त्वं ते त्वया मयि दृष्टम् ॥४०॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "तत्र नः प्रथमः कल्पो यद्वयं ते च माधव। प्रशान्ताः शमभूताश्च श्रियं तामश्नुवीमहि ॥४२॥",
+      "english": "With regard to that our intention the first thing is to enjoy that prosperity, themselves and ourselves united in peace and with the same interests, O Madhava.",
+      "bhavadeepa": "अत्र श्रीनिमित्तं नः अस्माकम् ॥४१॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "तत्रैषा परमा काष्ठा रौद्रकर्मक्षयोदया। यद्वयं कौरवान् हत्वा तानि राष्ट्राण्यवाप्नुमः ॥४३॥",
+      "english": "It is the greatest of all vicious deeds for us to prosper after this destruction-that we should obtain the kingdoms after slaying the sons of Kuru.",
+      "bhavadeepa": "प्रथमः कल्पः मुख्यः पक्षः समभूताः निर्वैरत्वं गताः ॥४२॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "ये पुनः स्युरसम्बद्धा अनार्याः कृष्ण शत्रवः। तेषामप्यवधः कार्यः किं पुनर्ये स्युरीदृशाः ॥४४॥",
+      "english": "Those that are not related to us, O Krishna, those dishonourable foes-the refrainment of slaying them too is our duty. What then is our duty towards those who are so closely related to us.",
+      "bhavadeepa": "रौद्रकर्म रौद्रकर्मणां सुपां सुलुगिति सप्तम्याश्च (?) लुक् । क्षयोदया क्षयपूर्वक उद‌यो यस्यां सा रौद्रकर्मणां परमा काष्ठेति सम्बन्धः ॥४३॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "ज्ञातयश्चैव भूयिष्ठाः सहाया गुरवश्च नः। तेषां वधोऽतिपापीयान् किं नु युद्धेऽस्ति शोभनम् ॥४५॥",
+      "english": "We have many cousins; and our elders are supporters (on both sides). Their destruction is extremely vicious. What then is the good in engaging in battle?",
+      "bhavadeepa": "असंबद्धाः अबान्धवाः अवधः वधविरुद्धं पालनम् ईदृशा इति बान्धवा आर्या अशत्रवश्च ये तेषामवधः कार्य इति किमाश्चर्यमित्यर्थः ॥४४॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "शूद्रः करोति शुश्रूषां वैश्या वै पण्यजीविकाः। वयं वधेन जीवामः कपालं ब्राह्मणैर्वृतम् ॥४७॥",
+      "english": "A Shudra serves (the other classes); a Vaishya lives by trade and commerce; we live by massacre; and the wooden plate (profession of begging) has been selected by the Brahmanas.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "क्षत्रियः क्षत्रियं हन्ति मत्स्यो मत्स्येन जीवति। श्वा श्वानं हन्ति दाशार्ह पश्य धर्मो यथागतः ॥४८॥",
+      "english": "A Kshatriya kills another Kshatriya; a fish lives on another fish; a dog kills another dog. See how each follows his rule of life, O you of the Dasharha race.",
+      "bhavadeepa": "कपालं भिक्षापात्रम् ॥४७॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "युद्धे कृष्ण कलिर्नित्यं प्राणाः सीदन्ति संयुगे। बलं तु नीतिमाधाय युध्ये जयपराजयौ ॥४९॥",
+      "english": "In battle, O Krishna, Kali is ever present; in a battle lives are lost; but, in spite of fixed policy applied to fighting, success and defeat.",
+      "bhavadeepa": "यथा येन प्रकारेण आगतः कुलपरंपरया प्राप्तस्तं पश्येति योजना ॥४८॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "नात्मच्छन्देन भूतानां जीवितं मरणं तथा। नाप्यकाले सुखं प्राप्यं दुःखं वाऽपि यदूत्तम ॥५०॥",
+      "english": "Are not dependent on the will (of the combatants); as life and death are independent of the will of creatures. Until the right time happiness cannot be attained, nor misery, O you best of the Yadu race.",
+      "bhavadeepa": "बलमिति । नीतिमेव बलं कृत्वा युध्ये योत्स्ये । जयपराजयौ तु आत्मच्छन्देन स्वेच्छया न भवतः । तथा तद्वत् भूतानां जीवितं मरणं च स्वेच्छया न स्तः ॥४९॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "एको ह्यपि बहुन् हन्ति घ्नन्त्येकं बहवोऽप्युत। शूरं कापुरुषो हन्ति अयशस्वी यशस्विनम् ॥५१॥",
+      "english": "One man kills many; and many also united kill one. A coward kills a real hero, known to fame, a renowned warrior.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "जयो नैवोभयोर्दृष्टो नोभयोश्च पराजयः। तथैवापचयो दृष्टो व्यपयाने क्षयव्ययौ ॥५२॥",
+      "english": "Both parties cannot live to behold victory nor can both parties live to see defeat but the waste and the loss may be seen to be on both sides. To a man attempting to fly there come both loss (of life, and expense.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "सर्वथा वृजिनं युद्धं को घ्नन्न प्रतिहन्यते। हतस्य च हृषीकेश समौ जयपराजयौ ॥५३॥",
+      "english": "In all cases fight is an evil. Who that strikes is not struck in return? But victory and defeat, O Hrishikesha, are of the same moment to one that is killed.",
+      "bhavadeepa": "पराजयभयाद्व्यपयाने पलायनेऽपि अपचयः क्षयव्ययौ च दृष्टौ भवत् एव । अपचयो- दीनता । क्षयो- मरणम् । तत्र हेतुः व्ययः- द्रव्यादेर्नाशः ॥५२॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "पराजयश्च मरणान्मन्ये नैव विशिष्यते। यस्य स्याद्विजयः कृष्ण तस्याप्यपचयो ध्रुवम् ॥५४॥",
+      "english": "Defeat is not very much better than death I think; he on whose side victory is declared, O Krishna, also has surely to meet with a loss.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 55,
+      "sanskrit": "अन्ततो दयितं घ्नन्ति केचिदप्यपरे जनाः। तस्याङ्ग बलहीनस्य पुत्रान् भ्रातॄनपश्यतः ॥५५॥",
+      "english": "At least the men on the other side kill some one who is dear; and a man, thus rendered weak, O adorable one and not seeing his sons and brothers.",
+      "bhavadeepa": "विजयोऽप्यजयः पराजय एव इष्टजननाशादित्याह- यस्येति ॥५४॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 56,
+      "sanskrit": "निर्वेदो जीविते कृष्ण सर्वतश्चोपजायते। ये ह्येव धीरा ह्रीमन्त आर्याः करुणवेदिनः ॥५६॥",
+      "english": "Lives on, O Krishna, as if in unconsciousness and his purposes are foiled at every step. Those who are modest, prudent, honourable, kind and wise are killed in battle; while a wicked avoids defeat. Even after killing the enemy we become a prey to repentance, OJanardana.",
+      "bhavadeepa": "दयितं पुत्रादि । हे अङ्ग बलहीनस्य जातिबलहीनस्य ॥५५॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः",
+      "combined_translation": "56-57"
+    },
+    {
+      "verse": 57,
+      "sanskrit": "त एव युद्धे हन्यन्ते यवीयान् मुच्यते जनः। हत्वाऽप्यनुशयो नित्यं परानपि जनार्दन ॥५७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः",
+      "english_ref": 56,
+      "combined_translation": "56-57"
+    },
+    {
+      "verse": 58,
+      "sanskrit": "अनुबन्धश्च पापोऽत्र शेषश्चाप्यवशिष्यते। शेषो हि बलमासाद्य न शेषमनुशेषयेत् ॥५८॥",
+      "english": "In the end the result is that a surviver gives a lot of troubles and in the end collecting an army puts an end to what remains.",
+      "bhavadeepa": "यवीयान् कनिष्ठः । अनुशयः पश्चात्तापः ॥५७॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 59,
+      "sanskrit": "सर्वोच्छेदे च यतते वैरस्यान्तविधित्सया। जयो वैरं प्रसृजति दुःखमास्ते पराजितः ॥५९॥",
+      "english": "One makes attempts at putting an end to everything through a desire to settle the dispute. Victory gives birth to enmity; and that which has met with defeat lives in misery.",
+      "bhavadeepa": "अनुबन्धो दोषोत्पादः स च पापः कष्टप्रदः शेषः शत्रोः शेषं स्वस्य ॥५८॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 60,
+      "sanskrit": "सुखं प्रशान्तः स्वपिति हित्वा जयपराजयौ। जातवैरश्च पुरुषो दुःखं स्वपिति नित्यदा ॥६०॥",
+      "english": "A man peacefully enjoys lives in the case of leaving aside all thoughts of victory and defeat; but a man who has created an enemy ever sleeps in misery.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 61,
+      "sanskrit": "अनिर्वृत्तेन मनसा ससर्प इव वेश्मनि। उत्सादयति यः सर्वं यशसा स विमुच्यते ॥६१॥",
+      "english": "Without calmness in his mind as if he lives in a house infested by snakes. He who puts an end to everything (of the enemy in battle) gets no fame.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 62,
+      "sanskrit": "अकीर्तिं सर्वभूतेषु शाश्वतीं स नियच्छति। न हि वैराणि शाम्यन्ति दीर्घकालधृतान्यपि ॥६२॥",
+      "english": "And he gets the reverse of fame from all beings throughout his life. Enmity though kept alive for a long time is never brought to an end.",
+      "bhavadeepa": "अनिर्वृत्तेन अस्वस्थेन ॥६१॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 63,
+      "sanskrit": "आख्यातारश्च विद्यन्ते पुमांश्चेद्विद्यते कुले। न चापि वैरं वैरेण केशव व्युपशाम्यति ॥६३॥",
+      "english": "There should be no story-teller (to remind him of his wrongs) so long as there is a man alive in the enemy's) family. Enmity, is never turned into peace by enmity, O Keshava.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 64,
+      "sanskrit": "हविषाऽग्निर्यथा कृष्ण भूय एवाभिवर्धते। अतोऽन्यथा नास्ति शान्तिर्नित्यमन्तरमन्ततः ॥६४॥",
+      "english": "But it increases as fire fed by clarified butter. There is no exception to this; and peace is ever only obtainable by total annihilation.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 65,
+      "sanskrit": "अन्तरं लिप्समानानामयं दोषो निरन्तरः। पौरुषे यो हि बलवानाधिर्हृदयबाधनः। तस्य त्यागेन वा शान्तिर्मरणेनापि वा भवेत् ॥६५॥",
+      "english": "Defects may always be found on either side, by which advantage is sought to be obtained. Manly strength is ever the source of pain in the innermost heart of a man; and peace is attainable only by leaving aside war or by death.",
+      "bhavadeepa": "अत इति । यतः अन्तरं छिद्रं नित्यम् अपरिहार्यमतो हेतोः अन्ततोऽन्यथा स्वस्य शत्रोर्वा नाशं विना शान्तिर्नास्ति ॥६४॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 66,
+      "sanskrit": "अथवा मूलघातेन द्विषतां मधुसूदन। फलनिर्वृत्तिरिद्धा स्यान्न नृशंसतरं भवेत् ॥६६॥",
+      "english": "By putting an end to the enemy to the roots, O slayer of Madhu, we can attain to our object; but it is most cruel.",
+      "bhavadeepa": "अयं दोषः नाशाख्यः अन्तत इत्येतद्व्याचष्टे- पौरुषेय इति सार्धेन ॥६५॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 67,
+      "sanskrit": "या तु त्यागेन शान्तिः स्यात्तदृते वध एव सः। संशयाच्च समुच्छेदाद्द्विषतामात्मनस्तथा ॥६७॥",
+      "english": "The peace that we can obtain by foregoing our claim to the kingdom is in effect the same thing as the total extinction of ourselves and the enemy or the uncertainly of victory.",
+      "bhavadeepa": "द्विषतां मूलघातेन फलनिर्वृत्तिः निष्कण्टकराज्यप्राप्तिः इद्धा प्रदीप्ता स्यात् तावता च नृशंसतरं न भवेत् नृशंसं तु भवेदेवेत्यर्थः । अतः शम एव श्रेयानितिभावः ॥६६॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 68,
+      "sanskrit": "न च त्यक्तुं तदिच्छामो न चेच्छामः कुलक्षयम्। अत्र या प्रणिपातेन शान्तिः सैव गरीयसी ॥६८॥",
+      "english": "We do not wish to give up that (kingdom); nor do you wish death of our family; and in such a case that peace which we can obtain through bending ourselves to the will of the other side is preferable.",
+      "bhavadeepa": "त्यागेन राज्यस्येति शेषः । तदृते राज्यं विना द्विषतां संशयात् किं शत्रवश्छिद्रे प्रहरिष्यन्ति उत उपेक्षां करिष्यन्तीत्येवंरूपात् । आत्मनः भ्रष्टश्रीकस्य सद्यः समुच्छेदात् नाशसंभवात् । अतो राज्यत्यागो न युक्त इति भावः ॥६७॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 69,
+      "sanskrit": "सर्वथा यतमानानामयुद्धमभिकाङ्क्षताम्। सान्त्वे प्रतिहते युद्धं प्रसिद्धं नापराक्रमः ॥६९॥",
+      "english": "When all the attempts of those, who are trying to obtain the kingdom by all means without war, fail; then war is proper for them and not a show of weakness.",
+      "bhavadeepa": "सिद्धान्तमाह- न चेति ॥६८॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 70,
+      "sanskrit": "प्रतिघातेन सान्त्वस्य दारुणं संप्रवर्तते। तच्छुनामिव सम्पाते पण्डितैरुपलक्षितम् ॥७०॥",
+      "english": "On the event of these (attempts at obtaining the desired object without war), the results that follow are terrible. All these have been observed by wise men in a war between dogs.",
+      "bhavadeepa": "सर्वथा सामदानभेदैः राज्यार्थं यतमानानां युद्धं प्रसिद्धमवश्यं कर्तव्यमित्यर्थः । न तु अपराक्रमः क्लीबत्वं युक्त इति शेषः ॥६९॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 71,
+      "sanskrit": "लाङ्गूलचालनं क्ष्वेडा प्रतिवाचो विवर्तनम्। दन्तदर्शनमारावस्ततो युद्धं प्रवर्तते ॥७१॥",
+      "english": "First there comes the wagging of tails, then the bark, then the replying back, then the turning of one round the other, then the show of teeth, then the roaring and then comes the commencement of the fight.",
+      "bhavadeepa": "दारुणं युद्धं तच्छुनामिव निन्द्यमित्यर्थः ॥७०॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 72,
+      "sanskrit": "तत्र यो बलवान् कृष्ण जित्वा सोऽत्ति तदामिषम्। एवमेव मनुष्येषु विशेषो नास्ति कश्चन ॥७२॥",
+      "english": "In the fight the one, who is stronger, O Krishna, gains the victory and eats the other's flesh. Such is the case with men; there is no difference whatever.",
+      "bhavadeepa": "दृष्टान्तं विवृणोति- लाङ्गूलेति । अत्र लाङ्गूलेन ध्वज उपमीयते । क्ष्वेडा ध्वनिकौटिल्यं परस्परछिद्रान्वेषणं च । प्रतिवाचः परस्परनिन्दा स्वप्रशंसा च । विवर्तनं भूमौ लुण्ठनं दन्तदर्शनं मुखस्य व्यादानेन । आरावः भषणं पक्षे सिंहनादः ॥७१॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 73,
+      "sanskrit": "सर्वथा त्वेतदुचितं दुर्बलेषु बलीयसाम्। अनादरो विरोधश्च प्रणिपाती हि दुर्बलः ॥७३॥",
+      "english": "It should always be the duty of a strong man not to crush hostility with the weak; and the weak should be deferential to the strong.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 74,
+      "sanskrit": "पिता राजा च वृद्धश्च सर्वथा मानमर्हति। तस्मान्मान्यश्च पूज्यश्च धृतराष्ट्रो जनार्दन ॥७४॥",
+      "english": "It is proper that the father, the king and the aged should be treated always with respect; therefore is Dhritarashtra the object of our worship and respect, O Janardana.",
+      "bhavadeepa": "सर्वथेति । अनादरे राज्यस्याप्राप्तिः । युद्धे कुलक्षयः । प्रणिपाते तु दौर्बल्यप्रसिद्धिः ॥७३॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 75,
+      "sanskrit": "पुत्रस्नेहश्च बलवान् धृतराष्ट्रस्य माधव। स पुत्रवशमापन्नः प्रणिपातं प्रहास्यति ॥७५॥",
+      "english": "The feeling of affection for his son is stronger in Dhritarashtra, O Madhava. Subject to the will of his son, he will laugh away our respectful submission.",
+      "bhavadeepa": "अन्त्यः पक्षोऽपि न सेत्स्यतीत्याह - पितेति द्वाभ्याम् ॥७४॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 76,
+      "sanskrit": "पापः क्षत्रियधर्मोऽयं वयं च क्षत्रबन्धवः। स नः स्वधर्मो धर्मो वा वृत्तिरन्या विगर्हिता ॥७६॥",
+      "english": "These practices of the Kshatriyas are sinful; but, alas, we are born in Kshatriya families and whether such practices are virtuous or the reverse; any other course of life would not be right!",
+      "bhavadeepa": "प्रहास्यति न स्वीकरिष्यति ॥७५॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः",
+      "combined_translation": "76-76"
+    },
+    {
+      "verse": 76,
+      "sanskrit": "तत्र किं मन्यसे कृष्ण प्राप्तकालमनन्तरम्। कथमर्थाच्च धर्माच्च न हीयेम हि माधव ॥७६॥",
+      "english": "These practices of the Kshatriyas are sinful; but, alas, we are born in Kshatriya families and whether such practices are virtuous or the reverse; any other course of life would not be right!",
+      "bhavadeepa": "प्रहास्यति न स्वीकरिष्यति ॥७५॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः",
+      "combined_translation": "76-76"
+    },
+    {
+      "verse": 77,
+      "sanskrit": "ईदृशेऽत्यर्थकृच्छ्रेऽस्मिन् कमन्यं मधुसूदन। उपसंप्रष्टुमर्हामि त्वामृते पुरुषोत्तम ॥७७॥",
+      "english": "In such a difficulty whom other, 0 slayer of Madhu, but yourself is it proper for us to consult, O best among men.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 78,
+      "sanskrit": "प्रियश्च प्रियकामश्च गतिज्ञः सर्वकर्मणाम्। को हि कृष्णास्ति नस्त्वादृक् सर्वनिश्चयवित्सुहृत् ॥७८॥",
+      "english": "Who is there, O Krishna, who is so dear a friend to ourselves, who desires our welfare so much, who knows so well the course of all acts and who is so well acquainted with the results of everything.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 79,
+      "sanskrit": "वैशम्पायन उवाच।\n              एवमुक्तः प्रत्युवाच धर्मराजं जनार्दनः। उभयोरेव वामर्थे यास्यामि कुरुसंसदम् ॥७९॥",
+      "english": "Vaishampayana said Thus addressed, Janardana said to the king of virtue in reply. For the good for the good cause of both to you shall I go to the encampment of the Kurus.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 80,
+      "sanskrit": "शमं तत्र लभेयं चेद्युष्मदर्थमहापयन्। पुण्यं मे सुमहद्राजंश्चरितं स्यान्महाफलम् ॥८०॥",
+      "english": "If I succeed in ensuring peace there without a sacrifice of our interests, then will an act of great virtue and of large fruits be done by me, O king.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 81,
+      "sanskrit": "मोचयेयं मृत्युपाशात् संरब्धान् कुरुसृञ्जयान्। पाण्डवान् धार्तराष्ट्रांश्च सर्वां च पृथिवीमिमाम् ॥८१॥",
+      "english": "Then shall I free the band of the fated Kurus and Pandavas from the trap of death, as also this earth and all the sons of Dhritarashtra.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 82,
+      "sanskrit": "युधिष्ठिर उवाच।\n              न ममैतन्मतं कृष्ण यत्त्वं यायाः कुरून् प्रति। सुयोधनः सूक्तमपि न करिष्यति ते वचः ॥८२॥",
+      "english": "Yudhishthira said It is not my wish, O Krishna, that you should go to the Kurus. For Suyodhana, though spoken in a most friendly manner and for his own good, will not listen to your words.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 83,
+      "sanskrit": "समेतं पार्थिवं क्षत्रं दुर्योधनवशानुगम्। तेषां मध्यावतरणं तव कृष्ण न रोचये ॥८३॥",
+      "english": "It is not proper for you, O Krishna, to go into the midst of that assembly of Kshatriya rulers of the earth, who follow the lead of Duryodhana.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 84,
+      "sanskrit": "न हि नः प्रीणयेद्द्रव्यं न देवत्त्वं कुतः सुखम्। न च सर्वामरैश्वर्यं तव द्रोहेण माधव ॥८४॥",
+      "english": "The gain of our object will not make us cheerful and what happiness shall we obtain from god-ship or the lordship over the immortals, if any ill happens to you.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 85,
+      "sanskrit": "श्रीभगवानुवाच। जानाम्येतां महाराज धार्तराष्ट्रस्य पापताम्। अवाच्यास्तु भविष्यामः सर्वलोके महीक्षिताम् ॥८५॥",
+      "english": "The blessed God said I know the vicious nature, O great king, of that son of Dhritarashtra; but (by doing as I say) shall we not be spoken ill of in all these worlds in the universe.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 86,
+      "sanskrit": "न चापि मम पर्याप्ताः सहिताः सर्वपार्थिवाः। क्रुद्धस्य संयुगे स्थातुं सिंहस्येवेतरे मृगाः ॥८६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः",
+      "english_ref": 21,
+      "combined_translation": "21-86"
+    },
+    {
+      "verse": 87,
+      "sanskrit": "अथ चेत्ते प्रवर्तेत मयि किञ्चिदसाम्प्रतम्। निर्दहेयं कुरून् सर्वानिति मे धीयते मतिः ॥८७॥",
+      "english": "If they offer insult to me desiring for their good, I shall consume all the Kurus-such is my intention.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 88,
+      "sanskrit": "न जातु गमनं पार्थ भवेत्तत्र निरर्थकम्। अर्थप्राप्तिः कदाचित् स्यादन्ततो वाऽप्यवाच्यता ॥८८॥",
+      "english": "O son of Pritha, my going there shall not be without results. There will be some gain in going there, at least we shall not be blamed by others.",
+      "bhavadeepa": "ते त्वत्संबंधिनि मयि चेत् कुरुकृतम् असांप्रतम् अयुक्तं वधबन्धादि प्रवर्तेत तदा निर्दहेयं कुरूनित्यन्वयः ॥८७॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 89,
+      "sanskrit": "युधिष्ठिर उवाच।\n              यत्तुभ्यं रोचते कृष्ण स्वस्ति प्राप्नुहि कौरवान्। कृतार्थं स्वस्तिमन्तं त्वां द्रक्ष्यामि पुनरागतम् ॥८९॥",
+      "english": "Yudhishthira said As you please, O Krishna. May all that is good come out of it. Go to the sons of Kuru. May I see you return with your object gained and in health.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 90,
+      "sanskrit": "विष्वक्सेन कुरून् गत्वा भरतान् शमयन् प्रभो। यथा सर्वे सुमनसः सह स्याम सुचेतसः ॥९०॥",
+      "english": "Going to the Kurus, establish such peace among the sons of Bharata, O Lord, that we may live with all of them with cheerful minds and in contentment.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 91,
+      "sanskrit": "भ्राता चासि सखा चासि बीभत्सोर्मम च प्रियः। सौहृदेनाविशङ्क्योऽसि स्वस्ति प्राप्नुहि भूतये ॥९१॥",
+      "english": "You are my brother and you are my friend dear to me as Vibhatsa. Relying on your friendship we are not at all anxious. May all that is good attend you, who are going for our interests.",
+      "bhavadeepa": "कुरून् गत्वा तथा वदेति शेषः ॥९०॥",
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 92,
+      "sanskrit": "अस्मान् वेत्थ परान् वेत्थ वेत्थार्थान्वेत्थ भाषितुम्। यद्यदस्मद्धितं कृष्ण तत्तद्वाच्यः सुयोधनः ॥९२॥",
+      "english": "You know us and you know our enemy; you know what is conducive to our interests and you know what to say. Suyodhana should be addressed in such a way as will be for our benefit.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 93,
+      "sanskrit": "यद्यधर्मेण संयुक्तमुपपद्येद्धितं वचः। तत्तत्केशव भाषेथाः सान्त्वं वा यदि वेतरत्॥९३॥",
+      "english": "Even if words that are beneficial (to both parties) do not strictly conform to virtue (e.g. peace even by our getting only five villages, which is a sin) or whatever they are (e.g. even if I am to play at a game of dice again) should be spoken by you, O Keshava.",
+      "bhavadeepa": null,
+      "chapter": 72,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "द्विसप्ततितमोऽध्यायः"
+    }
+  ]
+}

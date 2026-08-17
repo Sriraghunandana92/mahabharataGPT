@@ -1,0 +1,436 @@
+{
+  "adhyaya_id": "P05_U06_A091",
+  "book": 5,
+  "parva_name": "उद्योगपर्व",
+  "upaparva_name": "भगवद्यानपर्व",
+  "adhyaya_name": "एकनवतितमोऽध्यायः",
+  "chapter": 91,
+  "verse_count": 41,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वैशम्पायन उवाच।\n              पृथामामन्त्र्य गोविन्दः कृत्वा चाभिप्रद‌क्षिणम्। दुर्योधनगृहं शौरिरभ्यगच्छदरिन्दमः ॥१॥",
+      "english": "Vaishampayana said Bidding adieu to Pritha and also going round her, Govinda or Shauri, the chastiser of enemies, went the residence of Duryodhana.",
+      "bhavadeepa": null,
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "लक्ष्म्या परमया युक्तं पुरन्दरगृहोपमम्। विचित्रैरासनैर्युक्तं प्रविवेश जनार्दनः ॥२॥",
+      "english": "Janardana entered the house which was furnished very sumptuously and was like the mansion of Purandara, furnished with diverse kinds of seats.",
+      "bhavadeepa": "पृथामिति । तामामन्त्र्येति पूर्वश्लोकेन प्रस्थानमात्रमुक्त्वा पृथामामन्त्र्येत्यत्र तु तदर्थानुवादपूर्वकं दुर्योधनगृहप्राप्तिरुच्यत इत्यपौनरुक्त्यम् ॥१॥",
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "तस्य कक्ष्या व्यतिक्रम्य तिस्रो द्वाःस्थैरवारितः। ततोऽभ्रघनसंकाशं गिरिकूटमिवोच्छ्रितम् ॥३॥",
+      "english": "Traversing tree divisions of that mansion, without a word of challenge from the gatekeepers, that one of great fame, came to a palace, effulgent with marks of prosperity and i having the appearance of a mass of clouds, high as the peak of a mountain. There surrounded by a thousand Kuru kings.",
+      "bhavadeepa": null,
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः",
+      "combined_translation": "3-4"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "श्रिया ज्वलन्तं प्रासादमारुरोह महायशाः। तत्र राजसहस्त्रैश्च कुरुभिश्चाभिसंवृतम् ॥४॥",
+      "english": null,
+      "bhavadeepa": "अभ्रघनः सजलो मेघः । स हि सविद्युत् तत्सादृश्येन महेन्द्रनीलमणिमयत्वं सुवर्णमयत्वं च सूचितम् । अन्ये तु अभ्रघनः आकाशमात्रवर्तिघनः स हि शरत्सम्बन्धाद्धवल इति व्याचख्युः ॥३॥",
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः",
+      "english_ref": 3,
+      "combined_translation": "3-4"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "धार्तराष्ट्र महाबाहुं ददर्शासीनमासने। दुःशासनं च कर्णं च शकुनिं चापि सौबलम् ॥५॥",
+      "english": "The son of Dhritarashtra of long arms, he saw seated on a seat and he also saw, Dushasana, Karna, Shakuni and the son of Subala.",
+      "bhavadeepa": null,
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "दुर्योधनसमीपे तानासनस्थान् ददर्श सः। अभ्यागच्छति दाशार्हे धार्तराष्ट्रो महायशाः ॥६॥",
+      "english": "He saw them on a seat near Duryodhana. The scion of the Dasharha race, having appeared, the son of Dhritarashtra of great fame.",
+      "bhavadeepa": null,
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "उद‌तिष्ठत् सहामात्यः पूजयन्मधुसूदनम्। समेत्य धार्तराष्ट्रेण सहामात्येन केशवः ॥७॥",
+      "english": "Rose up along with his advisers, honouring the slayer of Madhu; Keshava having saluted the son of Dhritarashtra along with his ministers; and having also saluted the kings that were there according to their ages, the scion of the Vrishni race ((Achyuta) seated himself on a seat which was there, made of gold and beautiful looking.",
+      "bhavadeepa": null,
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः",
+      "combined_translation": "7-8"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "राजभिस्तत्र वार्ष्णेयः समागच्छद्यथावयः। तत्र जाम्बूनदमयं पर्यङ्कं सुपरिष्कृतम् ॥८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः",
+      "english_ref": 7,
+      "combined_translation": "7-8"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "विविधास्तरणास्तीर्णमभ्युपाविशदच्युतः। तस्मिन् गां मधुपर्कं चाप्युदकं च जनार्दने ॥९॥",
+      "english": "And ornamented with diverse gems and overlaid with a carpet. The Kuru king then presented a cow, honey, curds and water and placed at his disposal his palaces in the kingdom; and then to Govinda seated here like the radiant Sun.",
+      "bhavadeepa": null,
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः",
+      "combined_translation": "9-10"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "निवेदयामास तदा गृहान् राज्यं च कौरवः। तत्र गोविन्दमासीनं प्रसन्नादित्यवर्चसम् ॥१०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः",
+      "english_ref": 9,
+      "combined_translation": "9-10"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "उपासाञ्चक्रिरे सर्वे कुरवो राजभिः सह। ततो दुर्योधनो राजा वार्ष्णेयं जयतां वरम् ॥११॥",
+      "english": "All the people present including the Kuru kings, made worship. Then the king Duryodhana, that foremost of victors, the scion of Vrishni race.",
+      "bhavadeepa": null,
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "न्यमन्त्रयद्भोजनेन नाभ्यनन्दच्च केशवः। ततो दुर्योधनः कृष्णमब्रवीत् कुरुसंसदि ॥१२॥",
+      "english": "Invited to dinner; but Keshava did not accept the invitation; then Duryodhana said to Krishna in that assembly of the Kurus.",
+      "bhavadeepa": null,
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "मृदुपूर्वं शठोदर्कं कर्णमाभाष्य कौरवः। कस्मादन्नानि पानानि वासांसि शयनानि च ॥१३॥",
+      "english": "In an humble voice but with evil intention concealed in his heart and looking at Karna. 'For what reason the eatables, drinks, garment and beds.",
+      "bhavadeepa": null,
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "त्वदर्थमुपनीतानि नागृहीस्त्वं जनार्दन। उभयोश्च ददत्साह्यमुभयोश्च हिते रतः ॥१४॥",
+      "english": "Which have been provided for you, do you not accept. O Janardana, devoted to the good of both parties in the impending struggle as you are, you ought to keep to both sides; O Madhava, you have besides, closer relationship with Dhritarashtra; you O Govinda, know what is righteous and what is conducive to worldly profit in the true sense and in all their bearings.",
+      "bhavadeepa": "शठोदर्कं शाठ्यपर्यवसानम् । आभाष्य सम्बोधनेनोन्मुखीकृत्य ॥१३॥",
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः",
+      "combined_translation": "14-15"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "सम्बधी दयितश्चासि धृतराष्ट्रस्य माधव। त्वं हि गोविन्द धर्मार्थौ वेत्थ तत्त्वेन सर्वशः। तत्र कारणमिच्छामि श्रोतुं चक्रगदाधर ॥१५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः",
+      "english_ref": 14,
+      "combined_translation": "14-15"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "वैशम्पायन उवाच।\n              स एवमुक्तो गोविन्दः प्रत्युवाच महामनाः। उद्यन्मेघस्वनः काले प्रगृह्य विपुलं भुजम् ॥१६॥",
+      "english": "Vaishampayana said O wielder of the discus and the mace, I want to hear the reason of this action of yours). That Govinda of a great mind being then addressed, said in reply, speaking like the roaring of a cloud, at the proper time raising of a cloud, at the proper time raising his long arm. The one with eyes like the leaves of a lotus said to the king these excellent words giving the reasons-words that were not too low, distinct, correctly pronounced and without any confusion.",
+      "bhavadeepa": "तत्र अन्नादेरग्रहणे ॥१५॥",
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः",
+      "combined_translation": "16-17"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "अलघूकृतमग्रस्तमनिरस्तमसंकुलम्। राजीवनेत्रो राजानं हेतुमद्वाक्यमुत्तमम् ॥१७॥",
+      "english": null,
+      "bhavadeepa": "प्रगृह्य उद्यम्यः ॥१६॥",
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः",
+      "english_ref": 16,
+      "combined_translation": "16-17"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "कृतार्था भुञ्जते दूताः पूजां गृह्णन्ति चैव ह। कृतार्थं मां सहामात्यं समर्चिष्यसि भारत ॥१८॥",
+      "english": "“Those messengers only, who have gained their objects take their food and accept worship; and you, O Bharata, after gratifying me in my wish, may entertain me along with my followers'.",
+      "bhavadeepa": "अलघूकृतं प्रयत्नशैथिल्यहीनकरणम् । पाठान्तरे अनंबूकृतम् अनिष्ठीवनम् अनन्यकृतमित्यपि पठन्ति । अग्रस्तम् अलुप्ताक्षरम् अनिरस्तं स्थानभ्रंशरहितम् असंकुलम् असंकीर्णवर्णम् ॥१७॥",
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "एवमुक्तः प्रत्युवाच धार्तराष्ट्रो जनार्दनम्। न युक्तं भवताऽस्मासु प्रतिपत्तुमसाम्प्रतम् ॥१९॥",
+      "english": "The son of Dhritarashtra, being thus spoken to, said in reply to Janardana-'It is not befitting that your exalted self should behave in this unjust way.",
+      "bhavadeepa": null,
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "कृतार्थं वाऽकृतार्थं च त्वां वयं मधुसूदन। यतामहे पूजयितुं दाशार्ह न च शक्नुमः ॥२०॥",
+      "english": "Whether your objects are gratified or not gratified, we, O slayer of Madhu, were bent on entertaining you but could not. O you of the Dasharha race.",
+      "bhavadeepa": "असाम्प्रतं प्रतिपत्तुम् अयुक्तं कर्तुम् ॥१९॥",
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "न च तत्कारणं विद्मो यस्मिन्नो मधुसूदन। पूजां कृतां प्रीयमाणैर्नामंस्थाः पुरुषोत्तम ॥२१॥",
+      "english": "We do not however see any reason (for your action) in this matter, O slayer of Madhu, namely your non-acceptance of the entertainment's provided for you, O best among men.",
+      "bhavadeepa": null,
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "वैरं नो नास्ति भवता गोविन्द न च विग्रहः। स भवान् प्रसमीक्ष्यैतन्नेदृशं वक्तुमर्हति ॥२२॥",
+      "english": "We have no enmity with your exalted self, O Govinda, nor strife; therefore shall it seem to you, on mature thought that it is not proper for you to have spoken thus.'",
+      "bhavadeepa": null,
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "वैशम्पायन उवाच।\n              एवमुक्तः प्रत्युवाच धार्तराष्ट्रं जनार्दनः। अभिवीक्ष्य सहामात्यं दाशार्हः प्रहसन्निव ॥२३॥",
+      "english": "Vaishampayana said Janardana thus spoken to, said by way of reply to the son of Dhritarashtra, after that scion of the Dasharha race had gazed on him along with his ministers, laughing as it were.",
+      "bhavadeepa": "वैरं द्वेषः विग्रहो युद्धम् ॥२२॥",
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "नाहं कामान्न संरंभान्न द्वेषान्नार्थकारणात्। न हेतुवादाल्लोभाद्वा धर्मं जह्यां कथञ्चन ॥२४॥",
+      "english": "'I never abandon virtue from motives of desire or from wrath or from hate or from the object of gaining my objects or for the sake of argument or from covetousness.",
+      "bhavadeepa": null,
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "संप्रीतिभोज्यान्यन्नानि आपद्भोज्यानि वा पुनः। न च संप्रीयसे राजन्न चैवापद्गता वयम् ॥२५॥",
+      "english": "One should eat (others') food when there is love (between them) or again it should be taken when one is in distress; O king, neither do you please me, nor am I in distress.",
+      "bhavadeepa": "संरंभात् क्रोधात् । हेतुवादात् कपटात् ॥२४॥",
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "अकस्माद्द्वेष्टि वै राजन् जन्मप्रभृति पाण्डवान्। प्रियानुवर्तिनो भ्रातॄन् सर्वैः समुदितान् गुणैः॥२६॥",
+      "english": "For no reason do you, Oking, bear malice, even since their birth, to the Pandavas who are your loving followers and brothers and in whom there are developed all the virtues.",
+      "bhavadeepa": null,
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "अकस्माच्चैव पार्थानां द्वेषणं नोपपद्यते। धर्मे स्थिताः पाण्डवेयाः कस्तान् किं वक्तुमर्हति ॥२७॥",
+      "english": "This malice towards the sons of Pritha, for no reason, is not fitting. The sons of Pandu stand on virtue and who is there that can blame them and in what way?",
+      "bhavadeepa": "द्वेष्टि भवान् ॥२६॥",
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "यस्तान् द्वेष्टि स मां द्वेष्टि यस्ताननु स मामनु। ऐकात्म्यं मां गतं विद्धि पाण्डवैर्धर्मचारिभिः ॥२८॥",
+      "english": "He who bears them malice, bears me malice; he that follows them, follows me, know that I am merged in the Pandavas.",
+      "bhavadeepa": null,
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "कामक्रोधानुवर्ती हि यो मोहाद्विरुरुत्सति। गुणवन्तं च यो द्वेष्टि तमाहुः पुरुषाधमम् ॥२९॥",
+      "english": "He who following the dictates of impulse or wrath, owing to a confusion of the intellects, wants to act against the interests of.",
+      "bhavadeepa": null,
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "यः कल्याणगुणान् जातीन् मोहाल्लोभाद्दिदृक्षते। सोऽजितात्माऽजितक्रोधो न चिरं तिष्ठति श्रियम् ॥३०॥",
+      "english": "A deserving man and bears him malice, has been called the vilest of men, and he who desires to see a cousin endued with blessed virtue with eyes of lost of ignorance.",
+      "bhavadeepa": "विरुरुत्सति विरोधं कर्तुमिच्छति ॥२९॥",
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "अथ यो गुणसंपन्नान् हृदयस्याप्रियानपि। प्रियेण कुरुते वश्यांश्चिरं यशसि तिष्ठति ॥३१॥",
+      "english": "Is a slave to his soul and a slave to his wrath; prosperity does not remain with him for any length of time. On the other hand, he, who, by good services, wins over those who are endued with virtues and accomplishments, through they are not dear to his heart ever become renowned.",
+      "bhavadeepa": "मोहात् अदुष्टे दुष्टबुद्धिर्मोहः। लोभः परकीयधनापहारेच्छा । अजितक्रोध इति छेदः ॥३०॥",
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "सर्वमेतन्न भोक्तव्यमन्नं दुष्टामिसंहितम्। क्षत्तुरेकस्य भोक्तव्यमिति मे धीयते मतिः ॥३२॥",
+      "english": "All these eatables, defiled by wickedness, cannot be taken by me-I am of opinion, that eatables provided to me by Kshatta alone, Vidura should be eaten by me.",
+      "bhavadeepa": null,
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "एवमुक्त्वा महाबाहुर्दुर्योधनममर्षणम्। निश्चक्राम ततः शुभ्राद्धार्तराष्ट्रनिवेशनात् ॥३३॥",
+      "english": "The one of long arms, thus speaking to the wrathful Duryodhana, then came away from the white mansion of the son of Dhritarashtra.",
+      "bhavadeepa": null,
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "निर्याय च महाबाहुर्वासुदेवो महामनाः। निवेशाय ययौ वेश्म विदुरस्य महात्मनः ॥३४॥",
+      "english": "And the large minded Vamadeva of long arms, coming out went to the residence of the great-souled Vidura.",
+      "bhavadeepa": "शुभ्रात् नानारत्नमयत्वेन प्रदीप्तात् ‘शुभ्रं प्रदीप्ते धवलेऽभ्रके च’ इति विश्वः ॥३३॥",
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "तमभ्यगच्छद्द्रोणश्च कृपो भीष्मोऽथ बाह्लिकः। कुरवश्च महाबाहुं विदुरस्य गृहे स्थितम् ॥३५॥",
+      "english": "There came to him the Kurus, Drona, Kripa, Bhishma, Bahlika while the house of Vidura.",
+      "bhavadeepa": null,
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "त ऊचुर्माधवं वीरं कुरवो मधुसूदनम्। निवेदयामो वार्ष्णेय सरत्नांस्ते गृहान्वयम् ॥३६॥",
+      "english": "Those Kurus said to the heroic Madhava, the slayer of Madhu, 'You scion of the Vrishni race, we place at your disposal our abodes ornamented with gems.'",
+      "bhavadeepa": null,
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "तानुवाच महातेजाः कौरवान् मधुसूदनः। सर्वे भवन्तो गच्छन्तु सर्वा मेऽपचितिः कृता॥३७॥",
+      "english": "The slayer of Madhu, of great energy said to those descendants of Kuru, 'All of you may go away; by these offers have you honoured me.'",
+      "bhavadeepa": null,
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "यातेषु कुरुषु क्षत्ता दाशार्हमपराजितम्। अभ्यर्चयामास तदा सर्वकामैः प्रयत्नवान् ॥३८॥",
+      "english": "The Kurus having departed, the Khattva Vidura paid due honours to the scion of the Dasharha race who had never met with a defeat and then made special endeavours to meet all his wishes.",
+      "bhavadeepa": "अपचितिः पूजा ॥३७॥",
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "ततः क्षत्ताऽन्नपानानि शुचीनि गुणवन्ति च। उपाहरदनेकानि केशवाय महात्मने ॥३९॥",
+      "english": "Then the Kshatta collected large quantities of clean and delicious foods and drinks for the great-souled Keshava.",
+      "bhavadeepa": null,
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "तैस्तर्पयित्वा प्रथमं ब्राह्मणान् मधुसूदनः। वेदविद्भ्यो ददौ कृष्णः प्रथमं द्रविणान्यवि ॥४०॥",
+      "english": "The slayer of Madhu having gratified the Brahmanas first, he gave first to Brahmanas conversant with the Vedas, some of that food with wealth.",
+      "bhavadeepa": null,
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "ततोऽनुयायिभिः सार्धं मरुद्भिरिव वासवः। विदुरान्नानि बुभुजे शुचीनि गुणवन्ति च ॥४१॥",
+      "english": "There along with his followers, like Vasava in the midst of the Marutas, he took his clean and delicious eatables provided by Vidura. A",
+      "bhavadeepa": null,
+      "chapter": 91,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "एकनवतितमोऽध्यायः"
+    }
+  ]
+}

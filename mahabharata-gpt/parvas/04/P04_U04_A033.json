@@ -1,0 +1,633 @@
+{
+  "adhyaya_id": "P04_U04_A033",
+  "book": 4,
+  "parva_name": "विराटपर्व",
+  "upaparva_name": "गोहरणपर्व",
+  "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः",
+  "chapter": 33,
+  "verse_count": 60,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वैशम्पायन उवाच । तमसाऽभिप्लुते लोके रजसा चैव भारत । अतिष्ठन् वै मुहूर्तं तु व्यूढानीकाः प्रहारिणः ॥१॥",
+      "english": "Vaishampayana said O descendant of Bharata, the whole world being enshrouded in dust and natural darkness, the soldiers of both sides, without breaking the battle array, stopped for some time.",
+      "bhavadeepa": "ततः सैन्यमिति श्लोकः प्राचीनपुस्तकेष्वन्यथा पठ्यते । 'ततः सेनाः समाहत्य मत्स्यराजसुशर्मणौ । न जानीतां तदाऽन्योन्यं सैन्येन रजसावृतौ इति, तत्र सुशर्मणाविति ह्रस्वत्वमार्षम् । सेनाः सेनास्थान् शूरान् समाहत्य अन्योन्यसंघट्टं कारयित्वा सैन्येन सेनोत्थेन ॥३०॥",
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "ततोऽन्धकारं प्रणुदन्नुदतिष्ठत चन्द्रमाः । कुर्वाणो विमलां रात्रिं नन्दयन् क्षत्रियान् युधि ॥२॥",
+      "english": "Then dispelling the darkness the moon rose, making the night clear and gladdening the Kshatriyas in the battle field.",
+      "bhavadeepa": "तमसेति तमसा नैशेनान्धकारेण मुहूर्तमाचंद्रोदयकालं न तु घटीद्वयमात्रम् । कृष्णपक्षस्य सप्तमीमिति सप्तम्यां गोग्रहणस्योक्तत्वात् ॥१॥",
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "ततः प्रकाशमासाद्य पुनर्युद्धमवर्तत । घोररूपं ततस्ते स्म नावैक्षन्त परस्परम् ॥३॥",
+      "english": "When every thing came in view, the battle began again; and it became so dreadful that they could not see each other.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "ततः सुशर्मा त्रैगर्तः सह भ्रात्रा यवीयसा । अभ्यद्रवन्मत्स्यराजं रथव्रातेन सर्वशः ॥४॥",
+      "english": "Then Susharma, the king of Trigartas, with his younger brother and surrounded by his cars, encountered the king of Matsya.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "ततो रथाभ्यां प्रस्कन्द्य भ्रातरौ क्षत्रियर्षभौ । गदापाणी सुसंरब्धौ समभ्यद्रवतां रथान् ॥५॥",
+      "english": "Then descending from their chariots, those two brothers, the foremost of Kshatriyas, worked up with anger, with mace in hands, rushed towards (the enemy's) cars.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "तथैव तेषां तु बलानि तानि क्रुद्धान्यथान्योन्यमभिद्रवन्ति । गदासिखड्गैश्च परश्वधैश्च प्रासैश्च तीक्ष्णाग्रसुपीतधारैः ॥६॥",
+      "english": "The hostile armies fiercely assailed each other with maces, swords, scimitars, axes, nooses, and with sharpened points.",
+      "bhavadeepa": "प्रस्कन्द्य अवरुह्य ॥५॥",
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "बलं तु मत्स्यस्य बलेन राजा सर्वं त्रिगर्ताधिपतिः सुशर्मा । प्रमथ्य जित्वा च प्रसह्य मत्स्यं विराटमोजस्विनमभ्यधावत् ॥७॥",
+      "english": "Having assailed and vanquished with energy the entire army of the king of Matsya's, Susharman, the king of Trigartas, rushed furiously at the highly energetic Virata.",
+      "bhavadeepa": "तीक्ष्णानि अग्राणि सुपीताः सुतरां पीताः शोषिताः कृशीकृता अनायासेन शीघ्रं परशरीरप्रवेशक्षमा धाराश्च येषां ते तीक्ष्णाग्रसुपीतधारास्तैः । तीक्ष्णायसपीतेति पाठेऽपि पीतशब्दस्योक्त एवार्थः ॥६॥",
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "तौ निहत्य पृथक् धुर्यावुभौ तौ पार्ष्णिसारथी । विरथं मत्स्यराजानं जीवग्राहमगृह्णताम् ॥८॥",
+      "english": "Having slain severally his two horses, his charioteer as also the soldiers who protected him in the rear they took the king of Matsya captive, even alive, deprivation of his car.",
+      "bhavadeepa": "बलं जित्वा चेति सम्बन्धः ॥७॥",
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "तमुन्मथ्य सुशर्माऽथ युवतीमिव कामुकः । स्यन्दनं स्वं समारोप्य प्रययौ शीघ्रवाहनः ॥९॥",
+      "english": "Then assailing him fiercely like a lustful person (oppressing) a female, they placed him on the car and speedily went out.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "तस्मिन् गृहीते विरथे विराटे बलवत्तरे । प्राद्रवन्त भयान्मत्स्यास्त्रिगतैरर्दिता भृशम् ॥१०॥",
+      "english": "After the powerful Virata, deprived of his car, had been taken captive, the Matsya's, greatly assailed by Trigartas, fled away to different directions in fear.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "तेषु सन्त्रस्यमानेषु कुन्तीपुत्रो युधिष्ठिरः । प्रत्यभाषन्महाबाहुं भीमसेनमरिन्दमम् ॥११॥",
+      "english": "Beholding them thus terrified Yudhishthira, the son of Kunti, said to the mighty-armed Bhimasena, the slayer of enemies.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "मत्स्यराजः परामृष्टस्त्रिगर्तेन सुशर्मणा । तं मोचय महाबाहो न गच्छेद्द्विषतां वशम् ॥१२॥",
+      "english": "The king of Matsya has been captivated by Susharman, the king of Trigartas; O you of mighty arms, release him so that he may not be subject to the enemies.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "उषिताः स्म सुखं सर्वे सर्वकामैः सुपूजिताः । भीमसेन त्वया कार्या तस्य वासस्य निष्कृतिः॥१३॥",
+      "english": "We have lived happily in his house with our desire satisfied O Bhimasena, you should satisfy that debt.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "भीमसेन उवाच । अहमेनं परित्रास्ये शासनात् तव पार्थिव । पश्य मे सुमहत् कर्म युध्यतः सह शत्रुभिः ॥१४॥",
+      "english": "Bhimasena said By your command, O king, I shall set him free: behold my great feat of fighting with the enemies.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "स्वबाहुबलमाश्रित्य तिष्ठ त्वं भ्रातृभिः सह । एकान्तमाश्रितो राजन् पश्य मेऽद्य पराक्रमम् ॥१५॥",
+      "english": "Stay aside with brothers at a corner depending on the strength of your arms and behold my prowess today.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "सुस्कन्धोऽयं महावृक्षो गदारूप इव स्थितः । अहमेनमपारुज्य द्रावयिष्यामि शात्रवान् ॥१६॥",
+      "english": "uprooting this huge tree with a trunk looking like a mace I shall assail the enemies.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "वैशम्पायन उवाच । तं मत्तमिव मातङ्गं वीक्षमाणं वनस्पतिम् । अब्रवीद्भ्रातरं वीरं धर्मराजो युधिष्ठिरः ॥१७॥",
+      "english": "Vaishampayana said Seeing Bhima look at that tree like an infuriated elephant the heroic and pious king Yudhishthira said to his brother.",
+      "bhavadeepa": "अपारुज्य उत्पाठ्य ॥१६॥",
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "मा भीम साहसं कार्षीस्तिष्ठत्वेष वनस्पतिः । मा त्वं वृक्षेण कर्माणि कुर्वाणमतिमानुषम् ॥१८॥",
+      "english": "\"Do not commit such a rash act, О Bhima, let the tree stand there.\" You should not with a tree perform superhuman deeds.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "जनाः समवबुध्येरन् भीमोऽयमिति भारत । अन्यदेवायुधं किञ्चित् प्रतिपद्यस्व मानुषम् ॥१९॥",
+      "english": "O descendant of Bharata, people will then recognize you and say “This is Bhima\". Take you therefore, some other human weapon,",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "चापं वा यदि वा शक्तिं निस्त्रिंशं वा परश्वधम् । यदेव मानुषं भीम भवेदन्यैरलक्षितम् ॥२०॥",
+      "english": "A bow, or a dart, sword or battle-axe. Taking a weapon that is human, release the king, O Bhima, speedily, so that people may not recognize you. The highly powerful twins will be the protectors of your wheels. Being united together in battle, release the king of Matsya.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः",
+      "combined_translation": "20-22"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "तदेवायुधमादाय मोक्षयाशु महीपतिम् । यमौ च चक्ररक्षौ ते भवितारौ महाबलौ ॥२१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः",
+      "english_ref": 20,
+      "combined_translation": "20-22"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "सहिताः समरे तत्र मत्स्यराजं परीप्सत । वैशम्पायन उवाच । एवमुक्तस्तु वेगेन भीमसेनो महाबलः ॥२२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः",
+      "english_ref": 20,
+      "combined_translation": "20-22"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "गृहीत्वा तु धनुः श्रेष्ठं जवेन सुमहाजवः । व्यमुञ्चच्छरवर्षाणि सतोय इव  तोयदः ॥२३॥",
+      "english": "Thus accosted the highly powerful Bhimasena, gifted with great speed, took up with great force his best of bows,",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "तं भीमो भीमकर्माणं सुशर्माणमथाद्रवत् । विराटं समवीक्ष्यैनं तिष्ठ तिष्ठेति चावदत् ॥२४॥",
+      "english": "And discharged from it a shower of shafts like a cloud surcharged with water. Bhima then fell upon Susharma of dreadful deeds.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "सुशर्मा चिन्तयामास कालान्तकयमोपमम् । तिष्ठ तिष्ठेति भाषन्तं पृष्ठतो रथपुङ्गवः ॥२५॥",
+      "english": "Casting his looks on Virata he said to (Susharma) “stay stay.” Susharma thought him to be Yama-the very regent of death.",
+      "bhavadeepa": "विराटं समवीक्ष्यैनं हे सम हे साधो इति विराटं वीक्ष्य वाचा दृशा च संभाव्य एनं सुशर्माणं तिष्ठ तिष्ठेति चावददिति सम्बन्धः ‘सर्वसाधुसमानेषु समं स्यादभिधेयवत्’ इति मेदिनी ॥२४॥",
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "पश्यतां सुमहत् कर्म महद्युद्ध‌मुपस्थितम् । परावृत्तो धनुर्गुह्य सुशर्मा भ्रातृभिः सह । निमेषान्तरमात्रेण भीमसेनेन ते रथाः ॥२६॥",
+      "english": "Taking up his bow, Susharma with his brothers turned back and within the twinkling of an eye those cars (were destroyed by) Bhimasena.",
+      "bhavadeepa": "रथपुङ्गवः तिष्ठ तिष्ठेति भाषमाणः महत्कर्माऽन्योऽन्ययुद्धं पश्यता । कर्मव्यतिहारे तङ् । अयं मां महत्कर्म कुर्वाणं पश्यतु अहं चैनं द्रक्ष्ये इत्यर्थः ॥२५॥",
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "रथानां च गजानां च वाजिनां च ससादिनाम् । सहस्रशतसङ्घाताः शूराणामुग्रधन्विनाम् ॥२७॥",
+      "english": "And hundreds of thousand of chariots, elephants, horses, horsemen and brave and powerful bowmen were over thrown by him before the very presence of Virata.",
+      "bhavadeepa": "रथाः संगता इति शेषः ॥२६॥",
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "पातिता भीमसेनेन विराटस्य समीपतः । पत्तयो निहतास्तेषां गदां गृह्य महात्मना ॥२८॥",
+      "english": "Their infantry was slain by the high-souled (Bhima with mace in hand): Beholding such a fight Susharma, irrepressible in battle,",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "तद्दृष्ट्वा तादृशं युद्धं सुशर्मा युद्धदुर्मदः । चिन्तयामास मनसा किं शेषं हि बलस्य मे । अपरो दृश्यते सैन्ये पुरा मग्नो महाबले ॥२९॥",
+      "english": "Thought within his mind: \"Is this the end of my army. I see my brother drowned in the midst of his powerful army.”",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "आकर्णपूर्णेन तदा धनुषा प्रत्यदृश्यत । सुशर्मा सायकांस्तीक्ष्णान् क्षिपते च पुनः पुनः ॥३०॥",
+      "english": "Stretching his bow to his ear Susharma began to retreat and discharge repeatedly sharpened shafts.",
+      "bhavadeepa": "चिन्तयामासेति । सुशर्मा बलस्य सैन्यस्य किं शेषं कुत्सितं वधं चिन्तयामास ‘शेषः संकर्षणे वधे’ इति मेदिनी । तत्र हेतुः हि यस्मात् मे मम अपरो भ्राता महाबले सैन्ये पुरा मग्नो दृश्यते भ्रातुः संकटं दृष्ट्वा सैन्यनाशं चिन्तयामासेत्यर्थः ॥२९॥",
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "ततः समस्तास्ते सर्वे तुरगानभ्यचोदयन् । दिव्यमस्त्रं विकुर्वाणास्त्रिगर्तान् प्रत्यमर्षणाः ॥३१॥",
+      "english": "Beholding the Pandavas return to their cars the entire huge army urged on their horses and began to assail the Trigartas with excellent weapons. Virata's son, greatly enraged, began to display highly wonderful feats in battle.",
+      "bhavadeepa": "धनुषा शोभमान इति शेषः ॥३०॥",
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः",
+      "combined_translation": "31-32"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "तान्निवृत्तरथान् दृष्ट्वा पाण्डवान् सा महाचमूः । वैराटिः परमक्रुद्धो युयुधे परमाद्भुतम् ॥३२॥",
+      "english": null,
+      "bhavadeepa": "ते सर्वे मत्स्याः ॥३१॥",
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः",
+      "english_ref": 31,
+      "combined_translation": "31-32"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "सहस्त्रमवधीत्तत्र कुन्तीपुत्रो युधिष्ठिरः । भीमः सप्त सहस्राणि यमलोकमदर्शयत् ॥३३॥",
+      "english": "Kunti's son Yudhishthira killed one thousand and Bhima dispatched seven thousand.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "नकुलश्चापि सप्तैव शतानि प्राहिणोच्छरैः । शतानि त्रीणि शूराणां सहदेवः प्रतापवान् ॥३४॥",
+      "english": "Nakula killed with arrows seven hundred and powerful Sahadeva the foremost of men, commanded by Yudhishthira, slew three hundreds of heroes. Slaying that huge army of Trigartas, the mighty car-warrior, Yudhishthira, with uplifted weapon, attacked him sorely with shafts.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः",
+      "combined_translation": "34-36"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "युधिष्ठिरसमादिष्टो निजघ्ने पुरुषर्षभः । ततोऽभ्यपतदत्युग्रः सुशर्माणमुदायुधः ॥३५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः",
+      "english_ref": 34,
+      "combined_translation": "34-36"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "हत्वा तां महतीं सेनां त्रिगर्तानां महारथः । ततो युधिष्ठिरो राजा त्वरमाणो महारथः ॥३६॥",
+      "english": null,
+      "bhavadeepa": "अत्युग्रो युधिष्ठिरः वाक्यशेषात् ॥३५॥",
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः",
+      "english_ref": 34,
+      "combined_translation": "34-36"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "अभिपत्य सुशर्माणं शरैरभ्याहनद्भृशम् । सुशर्माऽपि सुसंरब्धस्त्वरमाणो युधिष्ठिरम् ॥३७॥",
+      "english": "Susharma, too greatly enraged, with impetuosity pierced Yudhishthira with nine shafts and his four horses with four. Then 0 king, the quick-coursing son of Kunti, Vrikodara, nearing Susharma, assailed his horses. Having slain the soldiers that were in the rear with huge shafts, he, in anger, brought down his (Susharmas') charioteer from his car. The heroic protector of the wheels celebrated as Madiraksha,",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः",
+      "combined_translation": "37-40"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "अविध्यन्नवभिर्बाणैश्चतुर्भिश्चतुरो हयान् । ततो राजन्नाशुकारी कुन्तीपुत्रो वृकोदरः ॥३८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः",
+      "english_ref": 37,
+      "combined_translation": "37-40"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "समासाद्य सुशर्माणमश्वानस्य व्यपोथयत् । पृष्ठगोपांश्च तस्याथ हत्वा परमसायकैः ॥३९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः",
+      "english_ref": 37,
+      "combined_translation": "37-40"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "अथास्य सारथिं क्रुद्धो रथोपस्थादपातयत् । चक्ररक्षश्च शूरो वै मदिराक्षोऽतिविश्रुतः ॥४०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः",
+      "english_ref": 37,
+      "combined_translation": "37-40"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "समायाद्विरथं दृष्ट्वा त्रिगर्तं प्राहरत् तदा । ततो विराटः प्रस्कन्द्य रथादथ सुशर्मणः ॥४१॥",
+      "english": "Seeing Trigarta deprived of his car, came there. Then coming down from Susharma's car Virata.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "गदां तस्य परामृश्य तमेवाभ्यद्रवद्बली । स चचार गदापाणिर्वृद्धोऽपि तरुणो यथा ॥४२॥",
+      "english": "Heroic (as he was) took up his Susharma's mace and rushed upon him, And he, with mace in hand moved about like a young man, although an old man.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "पलायमानं त्रैगर्तं दृष्ट्वा भीमोऽभ्यभाषत । राजपुत्र निवर्तस्व न ते युक्तं पलायनम् ॥४३॥",
+      "english": "Beholding the king of Trigarta taking to his heels, Bhima said :\"Desist, O prince, it does not behove you to fly away.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "अनेन वीर्येण कथं गास्त्वं प्रार्थयसे बलात् । कथं चानुचरांस्त्यक्त्वा शत्रुमध्ये विषीदसि ॥४४॥",
+      "english": "With such powers how could you think of taking away the kine? Why forsaking your followers do you droop in the midst of your enemies?",
+      "bhavadeepa": "त्रैगर्तं त्रिगर्ताधिपतिम् ॥४३॥",
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "इत्युक्तः स तु पार्थेन सुशर्मा रथयूथपः । तिष्ठ तिष्ठेति भीमं स सहसाऽभ्यद्रवद्वली ॥४५॥",
+      "english": "Being thus addressed by Partha, the powerful Susharma, owner of cars, all on a sudden rushed upon Bhima (saying \"stay! stay!!').",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "भीमस्तु भीमसंकाशो रथात् प्रस्कन्द्य पाण्डवः । प्राद्रवत्तूर्णमव्यग्रो जीवितेप्सुः सुशर्मणः ॥४६॥",
+      "english": "Getting down from the car the dreadful Bhimasena, the son of Pandu, rushed towards him with coolness, desirous of taking Susharma's life.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "तं भीमसेनो धावन्तमभ्यधावत वीर्यवान् । त्रिगर्तराजमादातुं सिंहः क्षुद्रमृगं यथा ॥४७॥",
+      "english": "With a view to get hold of the king of Trigarta approaching towards him the energetic Bhimasena rushed upon him like a lion upon a small deer.",
+      "bhavadeepa": "भीमसंकाशो भीमोपम ‘रामरावणयोर्युद्धं रामरावणयोरिव’ इतिवदनुपम इत्यर्थः ॥४६॥",
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "अभिद्रुत्य सुशर्माणं केशपक्षे परामृशत् । समुद्यम्य तु रोषात् तं निष्पिपेष महीतले ॥४८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः",
+      "english_ref": 40,
+      "combined_translation": "40-48"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "पदा मूर्ध्नि महाबाहुः प्राहरद्विलपिष्यतः । तस्य जानुं ददौ भीमो जघ्ने चैनमरत्निना । स मोहमगमद्राजा प्रहारवरपीडितः ॥४९॥",
+      "english": "The mighty-armed (Bhima) struck him on the head, who was weeping, with his foot and placing his keen on his breast dealt him severe blows.",
+      "bhavadeepa": "केशपक्षे केशकलापे ‘पाशः पक्षश्च हस्तश्च कलापार्थाः कचात्परे’ इति॥ ‘पक्षो मासार्धके’ इत्युपक्रम्य ‘केशादेः परतो वृन्दे’ इति मेदिनी । अत्रोक्तं नीतिशास्त्रे- वामपाणिकचोत्पीडा (१) भूमौ निष्पेषणं बलात् (२) मूर्ध्नि पादप्रहरणम् (३) जानुनोदरमर्दनम् (४) मालूराकारया मुष्ट्या कपोले दृढताडनम् (५) कफोणिपातोऽप्यसकृत् (६) सर्वतस्तलताडनम् (७) तालेन युद्धे भ्रमणम् (८) मारणं स्मृतमष्टधा । चतुर्भिः क्षत्रियं हन्यात् पञ्चभिः क्षत्रियाधमम् । षड्भिर्वैश्यं सप्ताभिस्तु शूद्रं संकरमष्टाभिः' इति । एतेषां मध्ये तं केशग्रहादिभिः पञ्चभिर्मारयताऽस्य क्षत्रियाधमत्वं दर्शितम् ॥४८॥",
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "तस्मिन् गृहीते विरथे त्रिगर्तानां महारथे । अभज्यत बलं सर्वं त्रैगर्तं तद्भयातुरम् ॥५०॥",
+      "english": "Assailed by the stroke the king lost consciousness. The mighty car-warrior, the king of Trigartas, deprived of car, being scized,",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "निवर्त्य गास्ततः सर्वाः पाण्डुपुत्रा महारथाः । अवजित्य सुशर्माणं धनं चादाय सर्वशः ॥५१॥",
+      "english": "The entire army, of Trigarta afflicted with fear, were dispersed. Thereupon preventing the kine from being taken away, all the mighty carwarriors, the sons of Pandu,",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "स्वबाहुबलसम्पन्ना ह्रीनिषेवा यतव्रताः । विराटस्य महात्मानः परिक्लेशविनाशनाः ॥५२॥",
+      "english": "Discomfitting Susharma and taking all his wealth-they, endued with the strength of their own arms, humble and observant of vows,",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "स्थिताः समक्षं ते सर्वे त्वथ भीमोऽभ्यभाषत । नायं पापसमाचारो मत्तो जीवितुमर्हति । किं तु शक्यं मया कर्तुं यद्राजा सततं घृणी ॥५३॥",
+      "english": "This perpetrator of impious deeds does not deserve living at my hands. But what can I do, the king is always merciful.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "गले गृहीत्वा राजानमानीय विवशं वशम् । तत एनं विचेष्टन्तं बध्वा पार्थो वृकोदरः ॥५४॥",
+      "english": "Then holding the king (Susharma) by the neck who was unconscious, bringing him and binding him who could make no exertion, Vrikodara, the son of Pritha,",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 56,
+      "sanskrit": "रथमारोपयामास विसंज्ञं पांसुगुण्ठितम् । अभ्येत्य रणमध्यस्थमभ्यगच्छद्युधिष्ठिरम् ॥५६॥",
+      "english": "Placed him on the chariot who was insensible and covered with dust. Then approaching Yudhishthira who was in the midst of the battle field,",
+      "bhavadeepa": "घृणी दयालुः ॥५४॥",
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 57,
+      "sanskrit": "दर्शयामास भीमस्तु सुशर्माणं नराधिपम् । प्रोवाच पुरुषव्याघ्रो भीममाहवशोभिनम् ॥५७॥",
+      "english": "Bhima showed to him the king Susharma. The foremost of men then said to Bhima. beautifying the battle field.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 58,
+      "sanskrit": "तं राजा प्राहसत् दृष्ट्वा मुच्यतां वै नराधमः । एवमुक्तोऽब्रवीद्भीमः सुशर्माणं महाबलम् ॥५८॥",
+      "english": "Then seeing him the king smilingly said: “Release this wretch.\" Thus addressed Bhima said to the highly powerful Susharma.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 59,
+      "sanskrit": "भीम उवाच । जीवितुं चेच्छसे मूढ हेतुं मे गदतः शृणु । दासोऽस्मीति त्वया वाच्यं संसत्सु च सभासु च ॥५९॥",
+      "english": "“If you wish to live, O wretch, hear my words. You should say in courts and assemblies that you are our slave.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 60,
+      "sanskrit": "एवं ते जीवितं दद्यामेष युद्धजितो विधिः । तमुवाच ततो ज्येष्ठो भ्राता सप्रणयं वचः ॥६०॥",
+      "english": "Under this condition I can grant you your life: such is the custom of the victorious.\" Then his eldest brother addressed to him affectionate words.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 61,
+      "sanskrit": "युधिष्ठिर उवाच । मुञ्च मुञ्चाधमाचारं प्रमाणं यदि ते वयम् । दासभावं गतो ह्येष विराटस्य महीपतेः । अदासो गच्छ मुक्तोऽसि मैवं कार्षीः कदाचन ॥६१॥",
+      "english": "\"If you regard me, release this wicked wretch. He has already become the slave of the great king Virata. (Then he said to Susharma): “You are free, go and never do such a thing.\"",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशोऽध्यायः"
+    }
+  ]
+}

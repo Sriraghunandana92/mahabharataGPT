@@ -1,0 +1,169 @@
+{
+  "adhyaya_id": "P06_U01_A010",
+  "book": 6,
+  "parva_name": "भीष्मपर्व",
+  "upaparva_name": "जम्बू-खाण्ड विनिर्मण पर्व",
+  "adhyaya_name": "अध्यायः -  ०१०",
+  "chapter": 10,
+  "verse_count": 15,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "धृतराष्ट्र उवाच ।\n              भारतस्यास्य वर्षस्य तथा हैमवतस्य च । प्रमाणमायुषः सूत बलं चापि शुभाशुभम् ॥१॥",
+      "english": "Dhritarashtra said 0 Sanjaya, O Suta, tell me in detail the length of life, the strength, the good and bad things, the past, present and future of the dwellers of the Bharata Varsha and of the Himavat Varsha and also of Harivarsha.",
+      "bhavadeepa": "एवमाधिदैविकं भूमिजयफलमुक्तम् । अथाध्यात्मं भूमिजयफलमाह - पितेति । अच्छिद्रं सम्पूर्णदर्शनं यस्याः सा भूमिः योगमार्गरीत्या कार्त्स्न्येन दृष्टा सती पित्रादिवदिह भौतिकेभ्य आघातेभ्यः पाति वज्रकायत्वं प्रयच्छतीत्यर्थः । खं स्वस्थं सूर्यादीनां पदं द्यौः स्वर्गपदं च सैव भवति तत्तत्प्रापयतीत्यर्थः॥७६॥",
+      "chapter": 10,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "जम्बू-खाण्ड विनिर्मण पर्व",
+      "adhyaya_name": "अध्यायः -  ०१०",
+      "combined_translation": "1-2"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "अनागतमतिक्रान्तं वर्तमानं च सञ्जय । आचक्ष्व मे विस्तरेण हरिवर्षं तथैव च ॥२॥",
+      "english": null,
+      "bhavadeepa": "भारतस्येति ॥१॥",
+      "chapter": 10,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "जम्बू-खाण्ड विनिर्मण पर्व",
+      "adhyaya_name": "अध्यायः -  ०१०",
+      "english_ref": 1,
+      "combined_translation": "1-2"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "सञ्जय उवाच ।\n              चत्वारि भारते वर्षे युगानि भरतर्षभ । कृतं त्रेता द्वापरं च तिष्यं च कुरुवर्धन ॥३॥",
+      "english": "Sanjaya said O best of the Bharata race, there are four Yugas in Bharatavarsha, namely Krita, Treta, Dvapara and Kali.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "जम्बू-खाण्ड विनिर्मण पर्व",
+      "adhyaya_name": "अध्यायः -  ०१०"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "पूर्वं कृतयुगं नाम ततस्रेतायुगं प्रभो । सङ्क्षेपाद्द्वापरस्याथ ततस्तिष्यं प्रवर्तते ॥४॥",
+      "english": "The first of the Yugas in Krita. O lord, after the expire of the Krita comes Treta, after Treta comes Dvapara. after the last of all comes Kali.",
+      "bhavadeepa": "तिष्यं कलियुगम् ॥३॥",
+      "chapter": 10,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "जम्बू-खाण्ड विनिर्मण पर्व",
+      "adhyaya_name": "अध्यायः -  ०१०"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "चत्वारि तु सहस्राणि वर्षाणां कुरुसत्तम । आयुःसङ्ख्या कृतयुगे सङ्ख्याता राजसत्तम ॥५॥",
+      "english": "O foremost of the Kurus, O best of kings, the length of life in the Krita Yoga is four thousand years.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "जम्बू-खाण्ड विनिर्मण पर्व",
+      "adhyaya_name": "अध्यायः -  ०१०"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "तथा त्रीणि सहस्राणि त्रेतायां मनुजाधिप । द्वे सहस्रे द्वापरे तु भुवि तिष्ठन्ति साम्प्रतम् ॥६॥",
+      "english": "O ruler of men, the length of life in Treta is three thousand. In the present age, in this Dvapara, persons remain on earth for two thousand years.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "जम्बू-खाण्ड विनिर्मण पर्व",
+      "adhyaya_name": "अध्यायः -  ०१०"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "न प्रमाणस्थितिर्ह्यस्ति तिष्येऽस्मिन्भरतर्षभ । गर्भस्थाश्च म्रियन्तेऽत्र तथा जाता म्रियन्ति च ॥७॥",
+      "english": "O best of the Bharata race, in Kali there will be no fixed period for men's life on earth, they will die even in the womb or after birth.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "जम्बू-खाण्ड विनिर्मण पर्व",
+      "adhyaya_name": "अध्यायः -  ०१०"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "महाबला महासत्वाः प्रज्ञागुणसमन्विताः । प्रजायन्ते च जाताश्च शतशोऽथ सहस्रशः ॥८॥",
+      "english": "O king, in the Krita Yuga, men are born and beget children by hundreds and thousands they possess great strength and power and wisdom, wealth and beauty. Great ascetic Rishis, capable of great deeds and possessing highsouls, virtuous, and truthful are born in that age. The Kshatriyas of that age are handsome, able bodied, greatly energetic, accomplished in archery, highly skilled in battle and very brave. O king, in the Krita Yuga, all the Kshatriya kings were lords paramount.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "जम्बू-खाण्ड विनिर्मण पर्व",
+      "adhyaya_name": "अध्यायः -  ०१०",
+      "combined_translation": "8-10"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "जाताः कृतयुगे राजन्धनिनः प्रयदर्शनाः । प्रजायन्ते च जाताश्च मुनयो वै तपोधनाः ॥९॥",
+      "english": null,
+      "bhavadeepa": "प्रजायन्ते प्रजां जनयन्ति ॥८॥",
+      "chapter": 10,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "जम्बू-खाण्ड विनिर्मण पर्व",
+      "adhyaya_name": "अध्यायः -  ०१०",
+      "english_ref": 8,
+      "combined_translation": "8-10"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "महोत्साहा महात्मानो धार्मिकाः सत्यवादिनः । प्रियदर्शना वपुष्मन्तो महावीर्या धनुर्धराः ॥१०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "जम्बू-खाण्ड विनिर्मण पर्व",
+      "adhyaya_name": "अध्यायः -  ०१०",
+      "english_ref": 8,
+      "combined_translation": "8-10"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "वरार्हा युधि जायन्ते क्षत्रियाः शूरसत्तमाः । त्रेतायां क्षत्रिया राजन्सर्वे वै चक्रवर्तिनः ॥११॥",
+      "english": "In Treta age are born brave Kshatriyas who are subject to none who are long-lived, who are heroic, and who wield the bow in battle with great skill.",
+      "bhavadeepa": "वपुष्मन्तः प्रशस्तदेहाः ॥१०॥",
+      "chapter": 10,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "जम्बू-खाण्ड विनिर्मण पर्व",
+      "adhyaya_name": "अध्यायः -  ०१०"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "सर्ववर्णाश्च जायन्ते सदा चैव च द्वापरे । महोत्साहा वीर्यवन्तः परस्परजयैषिणः ॥१२॥",
+      "english": "O kings, when Dvapara comes in, all the four orders of men become capable of great exertions. They possess great energy and they desire to conquer one another.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "जम्बू-खाण्ड विनिर्मण पर्व",
+      "adhyaya_name": "अध्यायः -  ०१०"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "तेजसाल्पेन संयुक्ताः क्रोधनाः पुरुषा नृप । लुब्धा अनृतकाश्चैव तिष्ये जायन्ति भारत ॥१३॥",
+      "english": "O king, the men born in the Kali Yuga possess little energy. They become highly wrathful, covetous and untruthful.",
+      "bhavadeepa": "सर्वे वर्णाः परस्परजयैषिणो जायन्त इति सम्बन्धः ॥१२॥",
+      "chapter": 10,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "जम्बू-खाण्ड विनिर्मण पर्व",
+      "adhyaya_name": "अध्यायः -  ०१०"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "ईर्ष्या मानस्तथा क्रोधो मायाऽसूया तथैव च । तिष्ये भवति भूतानां रागो लोभश्च भारत ॥१४॥",
+      "english": "Jealousy, pride, anger, deception, malice, covetousness, O descendant of Bharata, are the characteristics of men in the Kali age.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "जम्बू-खाण्ड विनिर्मण पर्व",
+      "adhyaya_name": "अध्यायः -  ०१०"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "सङ्क्षेपो वर्तते राजन्द्वापरेऽस्मिन्नराधिप । गुणोत्तरं हैमवतं हरिवर्षं ततः परम् ॥१५॥",
+      "english": "O king, O ruler of men, the portion of the Dvapara Yuga that still remains is very small. The Varsha called Haimavat is superior to Harivarsha in all attributes.",
+      "bhavadeepa": "ईर्ष्या परोत्कर्षासहिष्णुत्वम् । मानः स्वस्मिन् पूज्यताबुद्धिः । क्रोधोऽभिज्वलनम्। माया कपटम् । असूया परगुणेषु दोषाविष्करणम् । रागो विषयेषु प्रीतिः । लोभस्तल्लिप्सा ॥१४॥",
+      "chapter": 10,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "जम्बू-खाण्ड विनिर्मण पर्व",
+      "adhyaya_name": "अध्यायः -  ०१०"
+    }
+  ]
+}

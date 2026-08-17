@@ -1,0 +1,84 @@
+{
+  "adhyaya_id": "P06_U03_A024",
+  "book": 6,
+  "parva_name": "भीष्मपर्व",
+  "upaparva_name": "भगवद्गीतापर्व",
+  "adhyaya_name": "अध्यायः -  ०२४",
+  "chapter": 24,
+  "verse_count": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "धृतराष्ट्र उवाच ।\n              केषां प्रहृष्टास्तत्राग्रे योधा युध्यन्ति सञ्जय । उदग्रमनसः के वा के वा दीना विचेतसः ॥१॥",
+      "english": "Dhritarashtra said O Sanjaya, the warriors of which side first advanced to the fight? Whose hearts were filled with confidence and who were spiritless from melancholy?",
+      "bhavadeepa": "यत्रेति । धर्मफलं द्युतिप्रभृतयः । तर्हि मत्पक्षेऽपि धर्मोऽस्त्येवेति मन्वानं प्रत्याह यत्र धर्मस्तत्र कृष्णः । त्वत्पक्षे कृष्णाभावाद्धर्मोऽपि नास्ति तत्फलभूता द्युत्याद‌योऽपि न सन्तीत्यर्थः । फलितमाह - यतः कृष्णस्ततो जय इति ॥२८॥",
+      "chapter": 24,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भगवद्गीतापर्व",
+      "adhyaya_name": "अध्यायः -  ०२४"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "के पूर्वं प्राहरंस्तत्र युद्धे हृदयकम्पने । मामकाः पाण्डवेया वा तन्ममाचक्ष्व सञ्जय ॥२॥",
+      "english": "In the great battle that makes every one's heart tremble, who were they who struck the first blow; were they my men or did they belong to the Pandavas? O Sanjaya, tell me all this in detail.",
+      "bhavadeepa": "केषामित्याद्यध्यायः स्पष्टार्थः ॥१॥",
+      "chapter": 24,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भगवद्गीतापर्व",
+      "adhyaya_name": "अध्यायः -  ०२४"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "कस्य सेनासमुदये गन्धमाल्यसमुद्भवः । वायुः प्रदक्षिणश्चैव योधानामभिगर्जताम् ॥३॥",
+      "english": "Among whose troops did the garlands of flowers and unguents emit fragrant scents? Whose troops with fearful roars uttered merciful words?",
+      "bhavadeepa": null,
+      "chapter": 24,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भगवद्गीतापर्व",
+      "adhyaya_name": "अध्यायः -  ०२४"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "सञ्जय उवाच ।\n              उभयोः सेनयोस्तत्र योधा जहृषिरे तदा । स्रजः समाः सुगन्धानामुभयत्र समुद्भवः ॥४॥",
+      "english": "Sanjaya said The warriors of both the armies were cheerful in the beginning. The garlands of flowers and unguents emitted equal fragrance. O best of the Bharata race, fearful was the encounter that took place between the troops arrayed for battle.",
+      "bhavadeepa": null,
+      "chapter": 24,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भगवद्गीतापर्व",
+      "adhyaya_name": "अध्यायः -  ०२४",
+      "combined_translation": "4-5"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "संहतानामनीकानां व्यूढानां भरतर्षभ । संसर्गात्समुदीर्णानां विमर्दः सुमहानभूत् ॥५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 24,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भगवद्गीतापर्व",
+      "adhyaya_name": "अध्यायः -  ०२४",
+      "english_ref": 4,
+      "combined_translation": "4-5"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "वादित्रशब्दस्तुमुलः शङ्खभेरीविमिश्रितः । शूराणां रणशूराणां गर्जतामितरेतरम् ॥६॥",
+      "english": "The loud sounds of musical instruments, mingled with that of the conches and drums, and the shouts of brave warriors, that rose fearfully roaring at one another, were awful.",
+      "bhavadeepa": null,
+      "chapter": 24,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भगवद्गीतापर्व",
+      "adhyaya_name": "अध्यायः -  ०२४"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "उभयोः सेनयो राजन्महान्व्यतिकरोऽभवत् । अन्योन्यं वीक्षमाणानां योधानां भरतर्षभ । कुञ्जराणां च नदतां सैन्यानां च प्रहृष्यताम् ॥७॥",
+      "english": "O best of the Bharata race, dreadful was the battle fought by the troops of both parties all staring at one another and all filled with joy. The elephants uttered terrible roars.",
+      "bhavadeepa": null,
+      "chapter": 24,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भगवद्गीतापर्व",
+      "adhyaya_name": "अध्यायः -  ०२४"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "adhyaya_id": "P04_U04_A029",
+  "book": 4,
+  "parva_name": "विराटपर्व",
+  "upaparva_name": "गोहरणपर्व",
+  "adhyaya_name": "एकोनत्रिंशोऽध्यायः",
+  "chapter": 29,
+  "verse_count": 14,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वैशम्पायन उवाच । ततः शारद्वतो वाक्यमित्युवाच कृपस्तदा । युक्तं प्राप्तं च वृद्धेन पाण्डवान् प्रति भाषितम् ॥१॥",
+      "english": "Vaishampayana said Thereupon Sharadvata's son Kripa said the following words: “What the aged Bhishma has said about the Pandavas is reasonable and suited to the occasion.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "धर्मार्थसहितं श्लक्ष्णं तत्त्वतश्च सहेतुकम् । तत्रानुरूपं भीष्मेण ममाप्यत्र गिरं शृणु ॥२॥",
+      "english": "Consistent with Dharma and Artha, praise worthy, reasonable, truthful and is worthy of him. Hear my words on this.",
+      "bhavadeepa": "तत इति । युक्तं युक्तिमत् प्राप्तं प्राप्तकालम् ॥१॥",
+      "chapter": 29,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "तेषां चैव गतिस्तीर्थैर्वासश्चैषां प्रचिन्त्यताम् । नीतिर्विधीयतां चापि साम्प्रतं या हिता भवेत् ॥३॥",
+      "english": "It is proper for you to find out the way they have followed and their whereabouts through spies and adopt what may conduce to your well-being.",
+      "bhavadeepa": "तत्त्वतश्च सहेतुकं युक्त्याभासहीनम् ॥२॥",
+      "chapter": 29,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "नावज्ञेयो रिपुस्तात प्राकृतोऽपि बुभूषता । किं पुनः पाण्डवास्तात सर्वास्त्रकुशला रणे ॥४॥",
+      "english": "O my child, one seeking his welfare should not disregard an enemy, even if he be an ordinary man, what to speak of the Pandavas, well-versed in forms of warfare.",
+      "bhavadeepa": "तीर्थैश्चारैः ॥३॥",
+      "chapter": 29,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "तस्मात् सत्रं प्रविष्टेषु पाण्डवेषु महात्मसु । गूढभावेषु छन्नेषु काले चोदयमागते ॥५॥",
+      "english": "When the time for the return of the highsoul Pandavas comes, who are now passing their days in close disguise in woods you should gauge your own strength in your own kingdom and in those of other kings. Forsooth, the time of the return of the Pandavas is near at hand.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः",
+      "combined_translation": "5-6"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "स्वराष्ट्रे परराष्ट्रे च ज्ञातव्यं बलमात्मनः । उदयः पाण्डवानां च प्राप्ते काले न संशयः ॥६॥",
+      "english": null,
+      "bhavadeepa": "सत्रं कैतवं वेषान्तररूपम् । छन्नेषु गुपेषु उदयमुद्गमनं प्रतिज्ञाते काले उत्क्रान्ते सति । सामीप्ये सप्तमी । कालेऽल्पावशिष्टे सतीत्यर्थः ॥५॥",
+      "chapter": 29,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः",
+      "english_ref": 5,
+      "combined_translation": "5-6"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "निवृत्तसमयाः पार्था महात्मानो महाबलाः । महोत्साहा भविष्यन्ति पाण्डवा ह्यमितौजसः ॥७॥",
+      "english": "When the time of their exile shall be over, the high-minded and the greatly powerful son of Pritha, of incomparable prowess, shall be brimful with energy.",
+      "bhavadeepa": "परराष्ट्रेषु मित्रराष्ट्रेषु स्वराष्ट्रेषु च स्वस्य बलं सैन्यं सामर्थ्यं च यत्तज्ज्ञातव्यम् ॥६॥",
+      "chapter": 29,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "तस्माद्बलं च कोशश्च नीतिश्चापि विधीयताम् । यथाकालोदये प्राप्ते सम्यक्तैः सन्दधामहे ॥८॥",
+      "english": "Therefore (replenish) your treasury and (increase) your forces; and take recourse to a sound policy to conclude an advantageous treaty with them, when the proper time of their return comes.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "तात बुद्ध्याऽपि तत् सर्वं बुद्ध्यस्व बलमात्मनः । नियतं सर्वमित्रेषु बलवत्स्वबलेषु च ॥९॥",
+      "english": "Knowing all this, determine your own strength, O my child, with respect to your allies, weak and powerful.",
+      "bhavadeepa": "नीतिर्नक्तवेतनदानचारप्रवृत्त्यादिका तथा विधीयतां यथा येन प्रकारेण तैः सह सन्दधामहे शरादिसन्धानं कुर्महे । यद्वा बलकोशयोरल्पत्वं स्वस्य परस्य बहुत्वं नीतिर्यथाप्रतिज्ञं सामरूपा विधीयतां यथा तैः सह सन्दधामहे सख्यं कुर्महे इति कालोदये मृत्यूदयरूपे युद्धे प्राप्ते सति । तेषां विधीयत इति पाठे तेषां कालत उदये प्राप्ते सति यथा सम्यग्विधीयते तथा नीतिर्विधीयताम् ॥८॥",
+      "chapter": 29,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "उच्चावचं बलं ज्ञात्वा मध्यस्थं चापि भारत । प्रहृष्टमप्रहृष्टं च सन्दधाम तथा परैः ॥१०॥",
+      "english": "Determining the efficiency, weakness or indifference of your forces, as well as who amongst them are satisfied and dissatisfied we should enter into fight with our enemies or form a treaty.",
+      "bhavadeepa": "नियतमचञ्चलं नियमेन बुद्ध्यस्व ॥९॥",
+      "chapter": 29,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "साम्ना दानेन भेदेन दण्डेन बलिकर्मणा । न्यायेनाक्रम्य च परान् बलाच्चानम्य दुर्बलान् ॥१२॥",
+      "english": "Resorting to the expedients of conciliation, disunion, chastisement, bribery, presents and fair conduct attack your-enemies and vanquish the weak by strength and reconcile the allies and soldiers by sweet speeches. When you shall be able to reinforce your army and replenish your treasury success shall be yours.",
+      "bhavadeepa": "बलं स्वसैन्यं सुखं यथा स्यात्तथा आभाष्यतां प्रीतिवादेन भक्तवेतनमानदानेन संमन्त्रणीयमित्यर्थः। सिद्धिं जयम् ॥१२॥",
+      "chapter": 29,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः",
+      "combined_translation": "12-12"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "सान्त्वयित्वा तु मित्राणि बलं चाभाष्यतां सुखम् । सुकोशबलसंवृद्धः सम्यक् सिद्धिमवाप्स्यसि ॥१२॥",
+      "english": "Resorting to the expedients of conciliation, disunion, chastisement, bribery, presents and fair conduct attack your-enemies and vanquish the weak by strength and reconcile the allies and soldiers by sweet speeches. When you shall be able to reinforce your army and replenish your treasury success shall be yours.",
+      "bhavadeepa": "बलं स्वसैन्यं सुखं यथा स्यात्तथा आभाष्यतां प्रीतिवादेन भक्तवेतनमानदानेन संमन्त्रणीयमित्यर्थः। सिद्धिं जयम् ॥१२॥",
+      "chapter": 29,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः",
+      "combined_translation": "12-12"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "योत्स्यसे चापि बलिभिररिभिः प्रत्युपस्थितैः । अन्यैस्त्वं पाण्डवैर्वाऽपि हीनैः स्वबलवाहनैः ॥१३॥",
+      "english": "You shall then be able to fight with the powerful enemies who will come-what of Pandavas, weak in soldiers and animals.",
+      "bhavadeepa": "बलं स्वसैन्यं सुखं यथा स्यात्तथा आभाष्यतां प्रीतिवादेन भक्तवेतनमानदानेन संमन्त्रणीयमित्यर्थः। सिद्धिं जयम् ॥१२॥",
+      "chapter": 29,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "एवं सर्वं विनिश्चित्य व्यवसायं स्वधर्मतः । यथाकालं मनुष्येन्द्र चिरं सुखमवाप्स्यसि ॥१४॥",
+      "english": "Having determined all these expedients according to the practice of your order, you shall, O king of men, acquire lasting happiness in due time.",
+      "bhavadeepa": null,
+      "chapter": 29,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "एकोनत्रिंशोऽध्यायः"
+    }
+  ]
+}

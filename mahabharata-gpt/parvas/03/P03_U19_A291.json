@@ -1,0 +1,733 @@
+{
+  "adhyaya_id": "P03_U19_A291",
+  "book": 3,
+  "parva_name": "वनपर्व",
+  "upaparva_name": "रामोपाख्यानपर्व",
+  "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः",
+  "chapter": 291,
+  "verse_count": 70,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "मार्कण्डेय उवाच।\n              स हत्वा रावणं क्षुद्रं राक्षसेन्द्रं सुरद्विषम्। बभूव हृष्टः ससुहृद्रामः सौमित्रिणा सह॥१॥",
+      "english": "Markandeya said : Having killed the mean-minded Ravana, the lord of the Rakshasas and the enemy of the gods, great indeed was the joy of Rama and the son of Sumitra.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "ततो हते दशग्रीवे देवाः सर्षिपुरोगमाः। आशीर्भिर्जययुक्ताभिरानर्चुस्तं महाभुजम्॥२॥",
+      "english": "The ten-necked being slain, the celestials with the Rishis at their head eulogised the mighty-armed one by uttering blessings indicative of victory,",
+      "bhavadeepa": "स हत्वेति ॥१॥",
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "रामं कमलपत्राक्षं तुष्टुवुः सर्वदेवताः। गन्धर्वाः पुष्पवर्षैश्च वाग्भिश्च त्रिदशालयाः॥३॥",
+      "english": "All the gods together with the Gandharvas and the inhabitants of the celestials regions delighted Rama gifted with eyes resembling lotus-petals by (chanting) hymns (in his praise) and showering flowers (over his head).",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "पूजयित्वा यथा रामं प्रतिजग्मुर्यथागतम्। तन्महोत्सवसङ्काशमासीदाकाशमच्युत॥४॥",
+      "english": "Having thus worshipped Rama, they returned to their respective abodes. And O being of everlasting fame, it then appeared as if a great carnival was being held in the firmament.",
+      "bhavadeepa": "त्रिदशालयः स्वर्गस्तत्स्थाः ॥३॥",
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "ततो हत्वा दशग्रीवं लङ्कां रामो महायशाः। विभीषणाय प्रददौ प्रभुः परपुरञ्जयः॥५॥",
+      "english": "Then the highly-renowned lord Rama, the destroyer of his enemy's cities, having slain Ravana, gave Lanka to Vibhishana.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "ततः सीतां पुरस्कृत्य विभीषणपुरस्कृताम्। अविन्ध्यो नाम सुप्रज्ञो वृद्धामात्यो विनिर्ययौ॥६॥",
+      "english": "Then Avindhya, the wise and old adviser of Ravana, preceded by Sita who was herself preceded by Vibhishana, set out from Lanka.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "उवाच च महात्मानं काकुत्स्थं दैन्यमास्थितः। प्रतीच्छ देवा सद्वृत्तां महात्मन् जानकीमिति॥७॥",
+      "english": "And he (Avindhya) with great humility said to the high-souled descendant of Kakustha, “O high-souled one, accept this divine lady, the daughter of Janaka, of spotless character.\"",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "एतच्छ्रुत्वा वचस्तस्मादवतीर्य रथोत्तमात्। बाष्पेणापिहितां सीतां ददर्शेक्ष्वाकुनन्दनः॥८॥",
+      "english": "Hearing these words, Rama, the descendant of Kakustha got down from that excellent car and saw Sita weeping profusely.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "तां दृष्ट्वा चारुसर्वाङ्गीं यानस्थां शोककर्शिताम्। मलोपचितसर्वाङ्गीं जटिलां कृष्णवाससम्॥९॥",
+      "english": "And beholding her of faultless proportions, seated in the vehicle weighed down with grief, covered all over with dirt, having matted locks and wearing a dirty cloth.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "उवाच रामो वैदेहीं परामर्शविशङ्कितः। गच्छ वैदेहि मुक्ता त्वं यत्कार्यं तन्मया कृतम्॥१०॥",
+      "english": "Rama, suspecting the loss of her virtue, addressed the daughter of the king of Mithila thus, \"O Princess of Videha, go (wheresoever you like)! You are now liberated (from your captivity). I have done my duty.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "मामासाद्य पतिं भद्रे न त्वं राक्षसवेश्मनि। जरां व्रजेथा इति मे निहतोऽसौ निशाचरः॥११॥",
+      "english": "O gentle creatures, I have killed that nightranger thinking that myself being your husband you should not grow old in the abode of the Rakshasa.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "कथं ह्यस्मद्विधो जातु जानन् धर्मविनिश्चयम्। परहस्तगतां नारीं मुहूर्तमपि धारयेत्॥१२॥",
+      "english": "How can men like us, well acquainted with moral duty, accept for even a moment, a woman carried off by another?",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "सुवृत्तामसुवृत्तां वाऽप्यहं त्वामद्य मैथिलि। नोत्सहे परिमोगाय श्वावलीढं हविर्यथा॥१३॥",
+      "english": "O daughter of the king of Mithila, whether you are of pure or impure character, I dare not enjoy you, who are now like sanctified butter lapped by a dog?\"",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "ततः सा सहसा बाला तच्छ्रुत्वा दारुणं वचः। पपात देवी व्यथिता निकृत्ता कदली यथा॥१४॥",
+      "english": "That divine lady, hearing these cruel words (of Rama) was sorely afflicted with grief and suddenly fell down (to the ground) like a plantain tree torn up by the roots.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "योऽप्यस्या हर्षसम्भूतो मुखरागस्तदाऽभवत्। क्षणेन स पुनर्नष्टो निःश्वास इव दर्पणे॥१५॥",
+      "english": "And the lively colour of her face sprung from her delight (at seeing Rama) as quickly disappeared as breath on a mirror.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "ततस्ते हरयः सर्वे तच्छ्रुत्वा रामभाषितम्। गतासुकल्पा निश्चेष्टा बभुवुः सहलक्ष्मणाः॥१६॥",
+      "english": "(Then) Shakra, Agni, Vayu, Yama, Varuna, the divine lord of the Yakshas, the seven holy sages (whom Brahma created first of all).",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः",
+      "combined_translation": "16-16"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "शक्रश्चाग्निश्च वायुश्च यमो वरुण एव च। यक्षाधिपश्च भगवांस्तथा सप्तर्षयोऽमलाः॥१६॥",
+      "english": "(Then) Shakra, Agni, Vayu, Yama, Varuna, the divine lord of the Yakshas, the seven holy sages (whom Brahma created first of all).",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः",
+      "combined_translation": "16-16"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "ततो देवो विशुद्धात्मा विमानेन चतुर्मुखः। पद्मयोनिर्जगत्स्रष्टा दर्शयामास राघवम्॥१७॥",
+      "english": "Then the pure-souled and the four-faced god (Brahma) the creator of the universe, who sprang from a lotus (on the nave of Vishnu), appeared before the descendant of Raghu on a chariot.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "राजा दशरथश्चैव दिव्यभास्वरमूर्तिमान्। विमानेन महार्हेण हंसयुक्तेन भास्वता॥१९॥",
+      "english": "And king Dasharatha also in his celestials appearance and robes and mounted on a highly-resplendent and bright car (appeared on the scene).",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "ततोऽन्तरिक्षं तत् सर्वं देवगन्धर्वसङ्कुलम्। शुशुभे तारकाचित्रं शरदीव नभस्तलम्॥२०॥",
+      "english": "Then the firmament crowded with the gods and the Gandharvas shone like the autumnal sky studded with stars.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "तत उत्थाय वैदेही तेषां मध्ये यशस्विनी। उवाच वाक्यं कल्याणी रामं पृथुलवक्षसम्॥२१॥",
+      "english": "Then rising in the midst of them, the blessed and renowned princess of Videha spoke these words to the broad-chested Rama.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "राजपुत्र न ते दोषं करोमि विदिता हि ते। गतिः स्त्रीणां नराणां च शृणु चेदं वचो मम॥२२॥",
+      "english": "\"O prince, I do not blame you; (for) you are conversant with the ways of men and women. (Yet) listen to these my words.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "अन्तश्चरति भूतानां मातरिश्वा सदागतिः। स मे विमुञ्चतु प्राणान् यदि पापं चराम्यहम्॥२३॥",
+      "english": "The air which is always in motion, moves within (the hearts of) all the creatures. If I have sinned, let it forsake my life.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "अग्निरापस्तथाऽऽकाशं पृथिवी वायुरेव च। विमुञ्चन्तु मम प्राणान् यदि पापं चराम्यहम्॥२४॥",
+      "english": "And not only let air, but let fire, water, space and earth forsake my life if I have erred.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "यथाऽहं त्वदृते वीर नान्यं स्वप्नेऽप्यचिन्तयम्। तथा मे देवनिर्दिष्टस्त्वमेव हि पतिर्भव॥२५॥",
+      "english": "As, O hero, I have thought of no other person than you even in my dreams, so you only be my husband as ordained by the gods.\"",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "ततोऽन्तरिक्षे वागासीत् सुभगा लोकसाक्षिणी। पुण्या संहर्षणी तेषां वानराणां महात्मनाम्॥२६॥",
+      "english": "Then a sacred and auspicious voice, joyful to the high-souled monkeys, was heard in the firmament which made the whole universe bear testimony to it.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "वायुरुवाच।\n              भो भो राघव सत्यं वै वायुरस्मि सदागतिः। अपापा मैथिली राजन् सङ्गच्छ सह भार्यया॥२७॥",
+      "english": "Vayu said: O descendant of Raghu, (what Sita has said) is true. I am the wind (god) and ever in motion. O king, the princess of Mithila is pure. Be united with your wife.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "अग्निरुवाच।\n              अहमन्तःशरीरस्थो भूतानां रघुनन्दन। सुसूक्ष्ममपि काकुत्स्थ मैथिली नापराध्यति॥२८॥",
+      "english": "Agni said: O scion of Raghu's race, I am in the body of every creature. O descendant of Kakustha, the princess of Videha is thoroughly guiltless.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "वरुण उवाच।\n              रसा वै मत्प्रसूता हि भूतदेहेषु राघव। अहं वै त्वां प्रब्रवीमि मैथिली प्रतिगृह्यताम्॥२९॥",
+      "english": "Varuna said: O descendant of Raghu, the humours in animal bodies owe their existence to me. (Therefore) I ask you to accept the princess of Mithila.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "ब्रह्मोवाच।\n              पुत्र नैतदिद्दाश्चर्यं त्वयि राजर्षिधर्मणि। साधो सद्वृत्त काकुत्स्थ शृणु चेदं वचो मम॥३०॥",
+      "english": "Brahma said: O descendant of Kakustha, O son of good character, this (behaviour) is not surprising on your part, (because) you are honest and know the duties of the royal sages: (Now) hear these my words.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "शत्रुरेष त्वया वीर देवगन्धर्वभोगिनाम्। यक्षाणां दानवानां च महर्षीणां च पातितः॥३१॥",
+      "english": "O hero, this enemy of the gods, the Gandharvas, the Uragas, the Yakshas, the Danavas and the Maharshis has been destroyed by yol.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "अवध्यः सर्वभूतानां मत्प्रसादात् पुराऽभवत्। कस्माच्चित् कारणात्पापः कञ्चित्कालमुपेक्षितः॥३२॥",
+      "english": "Formerly, he was made, through my favour, indestructible of all the creatures. And for some reason I spared that sinful wretch for sometime.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "वधार्थमात्मनस्तेन हृता सीता दुरात्मना। नलकूबरशापेन रक्षा चास्याः कृता मया॥३३॥",
+      "english": "It was for his own destruction that Sita was carried off by that wicked-souled (wretch). (But) I protected her (from being violated) through Nalakubera's curse.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "यदि ह्यकामामासेवेत् स्त्रियमन्यामपि ध्रुवम्। शतधाऽस्य फलेन्मूर्धा इत्युक्तः सोऽभवत् पुरा॥३४॥",
+      "english": "For, he (Ravana) was formerly cursed by that person (Nalakubera) to the effect that if he would enjoy any woman against her will, his head should surely be split into a hundred fragments.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "नात्र शङ्का त्वया कार्या प्रतीच्छेमां महाद्युते। कृतं त्वया महत् कार्य देवानाममरप्रभ॥३५॥",
+      "english": "O highly-resplendent one, O creature of divine effulgence, you need not entertain any doubt on this point. You have, (indeed) done a great service to the gods (by slaying Ravana).",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "दशरथ उवाच।\n              प्रीतोऽस्मि वत्स भद्रं ते पिता दशरथोऽस्मि ते। अनुजानामि राज्यं च प्रशाधि पुरुषोत्तम॥३६॥",
+      "english": "Dasharatha said: My son, I am pleased with you. May you be blessed. I am your father Dasharatha. O foremost of men, I command you to govern your kingdom.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "राम उवाच।\n              अभिवादये त्वां राजेन्द्र यदि त्वं जनको मम। गमिष्यामि पुरीं रम्यामयोध्यां शासनात् तव॥३७॥",
+      "english": "Rama said : O king of kings, if you are my father I bow down to you. I will repair to the beautiful city of Ayodhya at your command.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "मार्कण्डेय उवाच।\n              तमुवाच पिता भूयः प्रहृष्टो भरतर्षभ। गच्छायोध्यां प्रशाधीति रामं रक्तान्तलोचनम्॥३८॥",
+      "english": "Markandeya said : O best of the Bharatas, well pleased with Rama, the corners of whose eyes were red, his father again said to him \"O highly resplendent one, now that the fourteen years (of your exile) are complete, repair to Ayodhya and reign there.\"",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः",
+      "combined_translation": "38-39"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "सम्पूर्णानीह वर्षाणि चतुर्दश महाद्युते। ततो देवान् नमस्कृत्य सुहृद्भिरभिनन्दितः॥३९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः",
+      "english_ref": 38,
+      "combined_translation": "38-39"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "महेन्द्र इव पौलोम्या भार्यया स समेयिवान्। ततो वरं ददौ तस्मै ह्यविन्ध्याय परन्तपः॥४०॥",
+      "english": "Then, bowing down to the gods and congratulated by his friends, he was united with his wife like Mahendra with the daughter Pauloma.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "त्रिजटां चार्थमानाभ्यां योजयामास राक्षसीम्। तमुवाच ततो ब्रह्मा देवैः शक्रपुरोगमैः॥४१॥",
+      "english": "That tormentor of foes then conferred a boon on Avindhya. He then honoured and gave riches to the Rakshasa woman Trijata.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "कौसल्यामातरिष्टांस्ते वरानद्य ददानि कान्। वव्रे रामः स्थितिं धर्मे शत्रुभिश्चापराजयम्॥४२॥",
+      "english": "Then Brahma together with (all) the celestials headed by Shakra said to him, “O son of Kausalya, what desirable boons shall we bestow on you today\"?",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "राक्षसैर्निहतानां च वानराणां समुद्भवम्। ततस्ते ब्रह्मणा प्रोक्ते तथेति वचने तदा॥४३॥",
+      "english": "And when Brahma had said \"be it so,\" O mighty monarch, the monkeys brought back to life, rose up.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः",
+      "combined_translation": "43-44"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "समुत्तस्थुर्महाराज वानरा लब्धचेतसः। सीता चापि महाभागा वरं हनुमते ददौ॥४४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः",
+      "english_ref": 43,
+      "combined_translation": "43-44"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "रामकीर्त्या समं पुत्र जीवितं ते भविष्यति। दिव्यास्त्वामुपभोगाश्च मत्प्रसादकृताः सदा॥४५॥",
+      "english": "And the highly fortunate Sita also, conferred on Hanuman this boon, saying “My son, you will live as long as Rama's achievements.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "उपस्थास्यन्ति हनुमन्निति स्म हरिलोचन। ततस्ते प्रेक्षमाणानां तेषामक्लिष्टकर्मणाम्॥४६॥",
+      "english": "And through my favour, O yellow-eyed Hanuman, celestials dishes and drinks will over be within your reach.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "अन्तर्धानं ययुर्देवाः सर्वे शक्रपुरोगमाः। दृष्ट्वा रामं तु जानक्या सङ्गतं शक्रसारथिः॥४७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः",
+      "english_ref": 19,
+      "combined_translation": "19-47"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "उवाच परमप्रीतः सुहृन्मध्य इदं वचः। देवगन्धर्वयक्षाणां मानुषासुरभोगिनाम्॥४८॥",
+      "english": "Then the charioteer of Shakra seeing Rama united with the daughter of Janaka was well pleased and addressed him, in the midst of friends, these words. “O truly-powerful one, as you have done away with this distress of the gods, the Gandharvas, the Yakshas, the mortals, the Asuras and the serpents.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः",
+      "combined_translation": "48-49"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "अपनीतं त्वया दुःखमिदं सत्यपराक्रम। सदेवासुरगन्धर्वा यक्षराक्षसपन्नगाः॥४९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः",
+      "english_ref": 48,
+      "combined_translation": "48-49"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "कथयिष्यन्ति लोकास्त्वां यावद्भूमिर्धरिष्यति। इत्येवमुक्त्वाऽनुज्ञाप्य रामं शस्त्रभृतां वरम्॥५०॥",
+      "english": "Therefore always the Asuras, Gandharvas, Yakshas, Rakshasas and the Punagas and all the world will speak (well) of you so long as the world will exist.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "सम्पूज्यापाक्रमत् तेन रथेनादित्यवर्चसा। ततः सीतां पुरस्कृत्य रामः सौमित्रिणा सह॥५१॥",
+      "english": "Saying these words to Rama, the foremost of the wielders of weapons and taking leave of and paying his respects to him (matali) set out (for the celestials regions) on that car of sunlike splendour.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "सुग्रीवप्रमुखैश्चैव सहितः सर्ववानरैः। विधाय रक्षां लङ्कायां विभीषणपुरस्कृतः॥५२॥",
+      "english": "Then Rama with Sita in this front and accompanied by the son of Sumitra and by all the monkeys with Sugriva at their head and preceded by Vibhishana and taking steps for the protection of Lanka and one that selfcontained (Rama) surrounded by his chief advisers in order of precedence rode on that sky-ranging car Pushpaka, moving anywhere at will re-crossed the abode of the Makaras (i.e. the ocean) by means of the same bridge.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः",
+      "combined_translation": "52-53"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "सन्ततार पुनस्तेन सेतुना मकरालयम्। पुष्पकेण विमानेन खेचरेण विराजता॥५३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः",
+      "english_ref": 52,
+      "combined_translation": "52-53"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "कामगेन यथा मुख्यैरमात्यैः संवृतो वशी। ततस्तीरे समुद्रस्य यत्र शिश्ये स पार्थिवः॥५४॥",
+      "english": "Then that virtuous lord of the earth together with all the monkeys took up his (temporary) quarter son that portion of the sea-shore where had lain down before (on a bed of Kusha grass to invoke the aid of the ocean).",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः",
+      "combined_translation": "54-55"
+    },
+    {
+      "verse": 55,
+      "sanskrit": "तत्रैवोवास धर्मात्मा सहितः सर्ववामरैः। अथैनान् राघवः काले समानीयाभ्यपूज्य च॥५५॥",
+      "english": null,
+      "bhavadeepa": "यत्र शिश्ये पूर्वं समुद्रप्रार्थनार्थं शयनं कृतवान् ॥५४॥",
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः",
+      "english_ref": 54,
+      "combined_translation": "54-55"
+    },
+    {
+      "verse": 56,
+      "sanskrit": "विसर्जयामास तदा रत्नैः सन्तोष्य सर्वशः। गतेषु वानरेन्द्रेषु गोपुच्छर्क्षेषु तेषु च॥५६॥",
+      "english": "Then the descendant of Raghu bringing all those (monkeys) together at the due time worshipped them all. He then dismissed them all after having satisfied them with gifts of gems.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 57,
+      "sanskrit": "सुग्रीवसहितो रामः किष्किन्धां पुनरागमत्। विभीषणेनानुगतः सुग्रीवसहितस्तदा॥५७॥",
+      "english": "Those foremost of monkeys, the apes with tails like cows and the bears having departed, Rama reentered Kishkindha with Sugriva.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 58,
+      "sanskrit": "पुष्पकेण विमानेन वैदेह्या दर्शयन् वनम्। किष्किन्धां तु समासाद्य रामः प्रहरतां वरः॥५८॥",
+      "english": "(And on his way from the sea-shore to Kishkindha) Rama in company with Vibhishana and Sugriva, riding on the car Pushpaka showed the princess of Videha all the woods. Having reached Kishkindha, Rama, the most efficient of all smiters, made the successful Angada prince-regent.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः",
+      "combined_translation": "58-59"
+    },
+    {
+      "verse": 59,
+      "sanskrit": "अङ्गदं कृतकर्माणं यौवराज्येऽभ्यषेचयत्। ततस्तैरेव सहितो रामः सौमित्रिणा सह॥५९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः",
+      "english_ref": 58,
+      "combined_translation": "58-59"
+    },
+    {
+      "verse": 60,
+      "sanskrit": "यथागतेन मार्गेण प्रययौ स्वपुरं प्रति। अयोध्यां स समासाद्य पुरीं राष्ट्रपतिस्ततः॥६०॥",
+      "english": "(He) then, together with all these and accompanied by the son of Sumitra, set out for his capital by the same route by which he had come.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 61,
+      "sanskrit": "भरताय हनूमन्तं दूतं प्रास्थापयत् तदा। लक्षयित्वेङ्गितं सर्वं प्रियं तस्मै निवेद्य वै॥६१॥",
+      "english": "Having reached Ayodhya the king sent Hanuman as his messenger to Bharata.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 62,
+      "sanskrit": "वायुपुत्रे पुनः प्राप्ते नन्दिग्राममुपागमत्। स तत्र मलदिग्धाङ्गं भरतं चीरवाससम्॥६२॥",
+      "english": "(Hanuman) then communicated to him the happy news on having observed his external signs and (gestures). And the son of the windgod having come back, (Rama himself) went to Nandigrama.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 63,
+      "sanskrit": "अग्रतः पादुके कृत्वा ददर्शासीनमासने। सङ्गतो भरतेनाथ शत्रुघ्नेन च वीर्यवान्॥६३॥",
+      "english": "He there saw Bharata covered with dirt, attired in barks of trees and seated on the throne with (Rama's) shoes before him.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 64,
+      "sanskrit": "राघवः सहसौमित्रिर्मुमुदे भरतर्षभ। ततो भरतशत्रुघ्नौ समेतौ गुरुणा तदा॥६४॥",
+      "english": "Then, O best of the Bharatas, the mighty descendant of Raghu together with the son of Sumitra experienced a great delight on being joined with Bharata and Shatrughna.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 65,
+      "sanskrit": "वैदेह्या दर्शनेनोभौ प्रहर्षं समवापतुः। तस्मै तद्भरतो राज्यमागतायातिसत्कृतम्। न्यासं निर्यातयामास युक्तः परमया मुदा॥६५॥",
+      "english": "And Bharata and Shatrughna too being united with their eldest brother and beholding the princess of Mithila rejoiced exceedingly.",
+      "bhavadeepa": "गुरुणा रामेण ॥६४॥",
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 66,
+      "sanskrit": "ततस्तं वैष्णवे शूरं नक्षत्रेऽभिमतेऽहनि। वसिष्ठो वामदेवश्च सहितावभ्यषिञ्चताम्॥६६॥",
+      "english": "Then Vasishtha together with Vamadeva installed that hero, at the eighth muhurta (a muhurta is equal to two dandas that is 4 minutes), of day under the constellation Shravana.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 67,
+      "sanskrit": "सोऽभिषिक्तः कपिश्रेष्ठं सुग्रीवं ससुहृज्जनम्। विभीषणं च पौलस्त्यमन्वजानाग्रद्गृहान् प्रति॥६७॥",
+      "english": "Being installed (on the throne) Rama gave his permission to that foremost of monkeys, Sugriva together with his friends and also to Vibhishana, the son of Pulastya to return to their homes.",
+      "bhavadeepa": "वैष्णवे नक्षत्रे श्रवणे ॥६६॥",
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 68,
+      "sanskrit": "अभ्यर्च्य विविधैर्भोगैः प्रीतियुक्तौ मुदा युतौ। समाधायेतिकर्तव्यं दुःखेन विससर्ज ह॥६८॥",
+      "english": "Having entertained those two (friends) Sugriva and Vibhishana who were well pleased and exceedingly glad, with various sorts of foods and drinks and having done his duty suitable to the occasion he dismissed them with a heavy heart.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 69,
+      "sanskrit": "पुष्पकं च विमानं तत् पूजयित्वा स राघवः। प्रादाद्वैश्रवणायैव प्रीत्या स रघुनन्दनः॥६९॥",
+      "english": "And having worshipped the car Pushpaka, the descendant of Raghu, gladly gave it back to Kubera.",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 70,
+      "sanskrit": "ततो देवर्षिसहितः सरितं गोमतीमनु। दशाश्वमेधानाजह्रे जारूथ्यान् स निरर्गलान्॥७०॥",
+      "english": "Then assisted by that divine sage (Vasishtha) he safely celebrated ten horse sacrifices on the banks of the (river) Gomati by offering to the Brahmanas presents thrice (as much as usual).",
+      "bhavadeepa": null,
+      "chapter": 291,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "एकनवत्यधिकद्विशततमोऽध्यायः"
+    }
+  ]
+}

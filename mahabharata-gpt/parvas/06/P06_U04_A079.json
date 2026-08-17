@@ -1,0 +1,661 @@
+{
+  "adhyaya_id": "P06_U04_A079",
+  "book": 6,
+  "parva_name": "भीष्मपर्व",
+  "upaparva_name": "भीष्मवधपर्व",
+  "adhyaya_name": "ऊनाशीतितमोऽध्यायः",
+  "chapter": 79,
+  "verse_count": 64,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "सञ्जय उवाच ।\n          ततो दुर्योधनो राजा लोहितायति भास्करे ।  सङ्ग्रामरभसो भीमं हन्तुकामोऽभ्यधावत ॥१॥",
+      "english": "Sanjaya said Then when the sun assumed a crimsons hue, king Duryodhana, ardently longing for battle, rushed towards Bhima, out of a desire for slaying him.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "तमायान्तमभिप्रेक्ष्य नृवीरं दृढवैरिणम् ।  भीमसेनः सुसङ्क्रुद्ध इदं वचनमब्रवीत् ॥२॥",
+      "english": "Beholding that best of human heroes, that most implacable enemy of his, make towards himself Bhimasena, excited to the highest pitch of wrath, said these words,",
+      "bhavadeepa": "तत इति ॥१॥",
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "अयं स कालः संप्राप्तो वर्षपूगाभिवाञ्छितः ।  अद्य त्वां निहनिष्यामि यदि नोत्सृजसे रणम् ॥३॥",
+      "english": "The hour has come that I have been loO king forward to so anxiously for all these years. Today I will slay you, if indeed you, you do not abandon fighting.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "अद्य कुन्त्याः परिक्लेशं वनवासं च कृत्स्नशः ।  द्रौपद्याश्च परिक्लेशं प्रणेष्यामि हते त्वयि ॥४॥",
+      "english": "Slaying you, I will this day soothe the sorrows of Kunti and also those of Draupadi, today will I avenge the woes that we did suffer during our exile in the woods.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "यत्पुरा मत्सरी भूत्वा पाण्डवानवमन्यसे ।  तस्य पापस्य गान्धारे पक्ष्य व्यसनमागतम् ॥५॥",
+      "english": "O son of Gandhari, inflated with pride in days past, you disregarded the sons of Pandu, Reap now the dire fruit of that act of yours.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "कर्णस्य मतमास्थाय सौबलस्य च यत्पुरा ।  अचिन्त्य पाण्डवान् कामाद्यथेष्टं कृतवानसि ॥६॥",
+      "english": "Acting upon the counsel of Karna and the son of Subala, and thoroughly disregarding the Pandavas, you formerly treated the latter as it had pleased you.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "याचमानं च यन्मोहाद्दाशार्हमवमन्यसे ।  उलूकस्य समादेशं यद्ददासि च हृष्टवत् ॥७॥",
+      "english": "You also despised the descendant of the Dasharnas (Krishna) when be begged you (for peace). Filled with joy, you sent Uluka to us with your messages.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "तेन त्वां निहनिष्यामि सानुबन्धं सबान्धवम् ।  समीकरिष्ये तत्पापं यत्पुरा कृतवानसि ॥८॥",
+      "english": "For all these act of yours, I will, this day, slay you with all your relations, and will avenge all those wrongs you did formerly inflict on us\".",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "एवमुक्त्वा धनुर्घोरं विकृष्योद्भ्राम्य चासकृत् ।  समाधत्त शरान् घोरान्महाशनिसमप्रभान् ॥९॥",
+      "english": "Having spoken these words, and bending and repeatedly stretching his bow and taking up terrible arrows that resembled the thunder boit itself in effulgence Bhima.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "षड्विंशतिमसंक्रुद्धो मुमोचाशु सुयोधने ।  ज्वलिताग्निशिखाकारान् वज्रकल्पानजिह्मगान् ॥१०॥",
+      "english": "Excited with rage, quickly shot at Suyodhana thirty six arrows resembling the flames of a blazing fire, loO king like the thunderbolt and coursing straight through the air.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "ततोऽस्य कार्मुकं द्वाभ्यां सूतं द्वाभ्यां च विव्यधे ।  चतुर्भिरश्वान् जवनाननयद्यमसादनम् ॥११॥",
+      "english": "Thereafter he struck Duryodhana's bow with two arrows, his charioteer with another two; and with four others, he dispatched the latter's fleet steeds to the abode of Death.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "द्वाभ्यां च सुविकृष्टाभ्यां शराभ्यामरिमर्दनः ।  छत्रं चिच्छेद समरे राज्ञस्तस्य नरोत्तम ॥१२॥",
+      "english": "Then that grinder of foes, with two other arrows drawn a long way back at the time of being discharged, cut down, in that conflict, the umbrella of the king from his excellent car.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "षड्भिश्च तस्य चिच्छेद ज्वलन्तं ध्वजमुत्तमम् ।  छित्वा तं च ननादोच्चैस्तव पुत्रस्य पश्यतः ॥१३॥",
+      "english": "With three more arrows he cut down the excellent standard that was indeed blazing. Having severed it, he uttered a loud roar even before ihe very eyes of your son.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "रथाच्च स ध्वजः श्रीमान्नानारत्नविभूषितात् ।  पपात सहसा भूमौ विद्युज्जलधरादिव ॥१४॥",
+      "english": "And that beautiful standard, decked with diverse kinds of gems, suddenly felt down on the ground from the chariot, like lighting from the clouds shooting down on the earth.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "ज्वलन्तं सूर्यसङ्काशं नागं मणिमयं शुभम् ।  ध्वजं कुरुपतेश्छिन्नं ददृशुः सर्वपार्थिवाः ॥१५॥",
+      "english": "And all the rulers of men then beheld that blazing and propitious standard of the Kuru king, effulgent like the sun, bearing the device of an elephants and embossed with gems, fall down, (served by Bhima).",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "अथेनं दशभिर्बाणैस्तोत्रैरिव महाद्विपम् ।  आजघान रणे वीरं स्मयन्निव महारथः ॥१६॥",
+      "english": "Then the mighty car-warrior Bhima, as if smiling, struck Duryodhana with ten shafts, in that battle, like and elephants-rider piercing the huge animal with the hook.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "ततः स राजा सिन्धूनां रथश्रेष्ठो महारथः ।  दुर्योधनस्य जग्राह पार्ष्णिं सत्पुरुषैर्वृतः ॥१७॥",
+      "english": "Thereupon the king of the Sindhus, that foremost of car-warrior, that highly powerful one, stationed himself on the flank of Duryodhana, being supported by many excellent warriors.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "कृपश्च रथिनां श्रेष्ठः कौरव्यममितौजसम् ।  आरोपयद्रथं राजन् दुर्योधनममर्षणम् ॥१८॥",
+      "english": "Then that foremost of car-warrior, namely Kripa took upon his own car, O king, the vindictive Duryodhana, that descendant of the Kuru race, endued with immeasurable energy.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "स गाढविद्धो व्यथितो भीमसेनेन संयुगे ।  निषसाद रथोपस्थे राजन् दुर्योधनस्तदा ॥१९॥",
+      "english": "Then in that conflict, king Duryodhana,, pierced deep and afflicted sore by Bhimasena, squalled down on the terrace of his car.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "परिवार्य ततो भीमं जेतुकामो जयद्रथः ।  रथैरनेकसाहस्त्रैर्भीमस्यावारयद्दिशः ॥२०॥",
+      "english": "Thereafter king Jayadratha, desirous of slaying Bhima, surrounded him on all sides with thousands of chariots, and warriors, and thus intercepted him.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "धृष्टकेतुस्ततो राजन्नभिमन्युश्च वीर्यवान् ।  केकया द्रौपदेयाश्च तव पुत्रानयोधयन् ॥२१॥",
+      "english": "The Kaikeya brothers, Dhrishtaketu and the greatly powerful Abhimanyu. Seeing them coming to his rescue, with Drona, Shalya, and Kripa.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः",
+      "combined_translation": "21-101"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "चित्रसेनः सुचित्रश्च चित्राङ्गश्चित्रदर्शनः ।  चारुचित्रः सुचारुश्च तथा नन्दोपनन्दकौ ॥२२॥",
+      "english": "Thereupon, O king, Dhrishtaketu and Abhimanyu endued with prowess, the Kaikeyas, and the sons of Draupadi, engaged with your sons.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "अष्टावेते महेष्वासाः सुकुमारा यशस्विनः ।  अभिमन्युरथं राजन् समन्तात् पर्यवारयन् ॥२३॥",
+      "english": "In that battle the eight great archer and chivalrous warriors-Chitrasena, Suchitra, Chitranga, Chitradarshana, Caruchitra, Sucharu, Nanda and Upananda had trapped in a circle the chariot of delicate Abhimanyu.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "आजघान ततस्तूर्णमभिमन्युर्महामनाः ।  एकैकं पञ्चभिर्बाणैः शितैः सन्नतपर्वभिः ॥२४॥",
+      "english": "The high-souled Abhimanyu quickly struck them all piercing each with five shafts.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "वज्रमृत्युप्रतीकाशैर्विचित्रायुधनिःसृतैः ।  अमृष्यमाणास्ते सर्वे सौभद्रं रथसत्तमम् ॥२५॥",
+      "english": "Resembling the thunder-bolt itself or the mace of Death, shot from his beautiful bow. Thereupon all of them unable to bear it, showered an arrow down pour on that excellent car-warrior namely Subhadra's son, like clouds showering rain on the Meru mountain. Thus afflicted in the battle, that hero, accomplished in the use of weapons, and invincible in fight.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः",
+      "combined_translation": "25-26"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "ववृषुर्मार्गणैस्तीक्ष्णैर्गिरिं मेरुमिवाम्बुदाः ।  स पीड्यमानः समरे कृतास्त्रो युद्धदुर्मदः ॥२६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः",
+      "english_ref": 25,
+      "combined_translation": "25-26"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "अभिमन्युर्महाराज तावकान् समकम्पयत् ।  यथा देवासुरे युद्धे वज्रपाणिर्महासुरान् ॥२७॥",
+      "english": "Namely, Abhimanyu, O king, made your warriors tremble, like the wielder of the thunder-bolt making the Asuras tremble in the war between them and the celestial.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "विकर्णस्य ततो भल्लान् प्रेषयामास भारत ।  चतुर्दश रथश्रेष्ठो घोरानाशीविषोपमान् ॥२८॥",
+      "english": "Thereafter, O Bharata, that foremost of carwarrior, hurled at Vikarna fourteen mortal broad-headed shafts that looked like snakes of most virulent venom.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "स तैर्विकर्णस्य रथात् पातयामास वीर्यवान् ।  ध्वजं सूतं हयांश्चैव नृत्यमान इवाहवे ॥२९॥",
+      "english": "Possessed of great prowess, and as if dancing in battle, with those shafts he cut down the standard of Vikarna from this car and also slew his charioteer and steeds.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "पुनश्चान्यान्शरान्पीतानकुण्ठाग्रान् शिलाशितान् ।  प्रेषयामास संक्रुद्धो विकर्णाय महाबलः ॥३०॥",
+      "english": "Again that mighty car-warrior viz., the son of Subhadra shot at Vikarna other arrows, well tempered, kcen-pointed and straight-coursing.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "ते विकर्णं समासाद्य कङ्कबर्हिणवाससः ।  भित्त्वा देहं गता भूमिं ज्वलन्त इव पन्नगाः ॥३१॥",
+      "english": "Those arrows decked with the feathers of the Kanka bird, coming upon Vikarna and passing through his body stuck on the ground like so many hissing snakes.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "ते शरा हेमपुङ्खाग्रा व्यदृश्यन्त महीतले ।  विकर्णरुधिरक्लिन्ना वमन्त इव शोणितम् ॥३२॥",
+      "english": "Those arrows, with wings and points decorated with gold and bathed in the blood of Vikarna, and stuck on the earth appeared to the vomit-blood.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "विकर्णं वीक्ष्य निर्भिन्नं तस्यैवान्ये सहोदराः ।  अभ्यद्रवन्त समरे सौभद्रप्रमुखान् रथान् ॥३३॥",
+      "english": "Beholding Vikarna thus penetrated through and through, his other uterine brothers, rushed in that conflict against those warriors who were headed by the son of Subhadra.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "अभियात्वा तथैवान्यान् रथांस्तान् सूर्यवर्चसः ।  अविध्यन् समरेऽन्योन्यं संरंभाद्युद्धदुर्मदाः ॥३४॥",
+      "english": "When those warriors formidable in battle riding on their own chariots quickly came upon the combatant of the Pandava army seated on their car like so many effulgent suns, they began to pierce one another in that battle.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "दुर्मुखः श्रुतकर्माणं विध्वा सप्तभिराशुगैः ।  ध्वजमेकेन चिच्छेद सारथिं चास्य सप्तभिः ॥३५॥",
+      "english": "Then Durmukha piercing Shrutakarma with five swift-coursing arrows cut down the latter's standard with a single arrow, and pierced his charioteer also with seven others.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "अश्वान् जांबूनदैर्जालैः प्रच्छन्नान् वातरंहसः ।  जघान षड्भिरासाद्य सारथिं चाभ्यपातयत् ॥३६॥",
+      "english": "Advancing closer, with six arrows he pierced Shrutakarman's steedscaparisoned with a net work of gold and fleet as the wind itself; he also felled the letters charioteer.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "स हताश्वे रथे तिष्ठन् श्रुतकर्मा महारथः ।  शक्तिं चिक्षेप संक्रुद्धो महोल्कां ज्वलितामिव ॥३७॥",
+      "english": "Thereupon standing on that chariot of his of which the steeds were slain, that mighty carwarrior Shrutakarma, excited to the highest pitch of fury, hurled a great dart blazing like a fierce meteor.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "सा दुर्मुखस्य विमलं वर्म भित्त्वा यशस्विनः ।  विदार्य प्राविशद्भूमिं दीप्यमाना स्वतेजसा ॥३८॥",
+      "english": "That very resplendent dart charge with great energy penetrating through the massive armour of the renowned Durmukha, and shattering it, stuck itself on the ground.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "तं दृष्ट्वा विरथं तत्र सुतसोमो महारथः ।  पश्यतां सर्वसैन्यानां रथमारोपयत्स्वकम् ॥३९॥",
+      "english": "Thereupon Sutosoma, possessed of great prowess beholding Shrutakarma deprived of his chariot, took him up on his car even before the very eyes of the assembled host.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "श्रुतकीर्तिस्तथा वीरो जयत्सेनं सुतं तव ।  अभ्ययात् समरे राजन् हन्तुकामो यशस्विनम् ॥४०॥",
+      "english": "Thereafter, 0 monarch, Shrutakirti possessed of heroism, rushed, in that battle, against your illustrious son Jayatsena, out of a desire for slaying him.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "तस्य विक्षिपतश्चापं श्रुतकीर्तेर्महास्वनम् ।  चिच्छेद समरे तूर्णं जयत्सेनः सुतस्तव ॥४१॥",
+      "english": "Then in that conflict ( monarch your son Jayatsena with a sharp edged Kshurapra (horse-shoe-headed shaft), as if smiling, cut off the bow of that high-souled warrior, namely Shrutakirti, 0 Bharata, as the latter came repeatedly stretching it. Thereupon Shatanika seeing his uterine brother deprived of his bow.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः",
+      "combined_translation": "41-42"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "क्षुरप्रेण सुतीक्ष्णेन प्रहसन्निव भारत ।  तं दृष्ट्वा छिन्नधन्वानं शतानीकः सहोदरम् ॥४२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः",
+      "english_ref": 41,
+      "combined_translation": "41-42"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "अभ्यपद्यत तेजस्वी सिंहवन्निनदन्मुहुः ।  शतानीकस्तु समरे दृढं विस्फार्य कार्मुकम् ॥४३॥",
+      "english": "Endued as he was with great energy, quickly rushed to the shop, every moment uttering roars resembling those of a lion. Then in that conflict stretching his bow with a strong hand, Shatanika.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "विव्याध दशभिस्तूर्णं जयत्सेनं शिलीमुखैः ।  ननाद सुमहानादं प्रभिन्न इव वारणः ॥४४॥",
+      "english": "With great lightness of hands, pierced Jayatsena with ten sharp arrows and then uttered a loud roar like that of an elephants in rut.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "अथान्येन सुतीक्ष्णेन सर्वावरणभेदिना ।  शतानीको जयत्सेनं विव्याध हृदये भृशम् ॥४५॥",
+      "english": "Then again with another sharp arrow capable of penetrating through all kinds of main, Shatanika deeply pierced Jayatsena on the breast.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "तथा तस्मिन् वर्तमाने दुष्कर्णो भ्रातुरन्तिके ।  चिच्छेद समरे चापं नाकुलेः क्रोधमूर्च्छितः ॥४६॥",
+      "english": "At this crisis, Dushkarna, who was near his brother, overwhelmed with wrath cut off the bow and arrows of the son of Nakula (Shatanika).",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "अथान्यद्धनुरादाय भारसाहमनुत्तमम् ।  समादत्त शरान् घोरान् शतानीको महाबलः ॥४७॥",
+      "english": "Thereat, grasping another bow of excellent make and capable of bearing great strain the highly powerful Shatanika fixed on the bow string shafts of exceeding sharpness.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "तिष्ठ तिष्ठेति चामन्त्र्य दुष्कर्णं भ्रातुरग्रतः ।  मुमोचास्मै शितान्बाणान् ज्वलितान्पन्नगानिव ॥४८॥",
+      "english": "Then he (Shatanika) challenged Dushkarna before his brothers, saying \"Wait” “Wait\", and then he discharged at him those keen pointed arrows that resembled so many blazing snakes.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "ततोऽस्य धनुरेकेन द्वाभ्यां सूतं च मारिष ।  चिच्छेद समरे तूर्णं तं च विव्याध सप्तभिः ॥४९॥",
+      "english": "Then the former cut off the latter's bow with a single shaft; and pierced his charioteer with two shafts; and, O sire, in that conflict the former also quickly pierced the latter with feathered shafts.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "अश्वान् मनोजवांस्तस्य कर्बुरान् वातरंहसः ।  जघान निशितैस्तूर्णं सर्वान् द्वाद‌शभिः शरैः ॥५०॥",
+      "english": "Thereafter that sinless warriors, with twelve shafts of great sharpness, pierced all the steeds of Dushkarna, steeds that we effect as the mind and decked with gold trappings.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "अथापरेण भल्लेन सुयुक्तेनाशुपातिना ।  दुष्कर्णं सुदृढं क्रुद्धो विव्याध हृदये भृशम् ॥५१॥",
+      "english": "Then highly excited with rage, he in that conflict, deeply pierced, Dushkarna on the chest with another broad-headed arrow welldirected and swift coursing.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "स पपात ततो भूमौ वज्राहत इव द्रुमः ।  दुष्कर्णं व्यथितं दृष्ट्वा पञ्च राजन्महारथाः ॥५२॥",
+      "english": "There at the latter fell down on the ground like a tree smitten by the thunder bolt. Beholding Dushkarna slain, the five mighty car-warrior, O king.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "जिघांसन्तः शतानीकं सर्वतः पर्यवारयन् ।  छाद्यमानं शरव्रातैः शतानीकं यशस्विनम् ॥५३॥",
+      "english": "encompassed Shatanika on all sides, out of a desire for slaying him; and they began to strike the illustrious Shatanika with a showers of arrows.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "अभ्यधावन्त संक्रुद्धाः केकयाः पञ्च सोदराः ।  तानभ्यापततः प्रेक्ष्य तव पुत्रा महारथाः ॥५४॥",
+      "english": "Thereupon the five Kaikeya princes excited with rage, rushed (to the rescue of Shatanika). Beholding them advance, your sons all mighty car-warriors.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 55,
+      "sanskrit": "प्रत्युद्ययुर्महाराज गजानिव महागजाः ।  दुर्मुखो दुर्जयश्चैव तथा दुर्मर्षणो युवा ॥५५॥",
+      "english": "O mighty monarch, encountered them like so many elephants encountering their huge compeers. Durmukha, Durjaya, the youthful Durmarshana.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 56,
+      "sanskrit": "शत्रुञ्जयः शत्रुसहः सर्वे क्रुद्धा यशस्विनः ।  प्रत्युद्याता महाराज केकयान् भ्रातरः समम् ॥५६॥",
+      "english": "Shatrunjaya and Shatrusaha, all these illustrious warriors, proceeded, O king, in a body against the Kaikeya brothers.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 57,
+      "sanskrit": "रथैर्नगरसंकाशैर्हयैर्युक्तैर्मनोजवैः ।  नानावर्णविचित्राभिः पताकाभिरलंकृतैः ॥५७॥",
+      "english": "Riding their chariots resembling (fortified) cities, to which were steed decked with precious caparisons and which were decorated wonderful streamers of variegated hue.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 58,
+      "sanskrit": "वरचापधरा वीरा विचित्रकवचध्वजाः ।  विविशुस्ते परं सैन्यं सिंहा इव वनाद्वनम् ॥५८॥",
+      "english": "on Those heroes, welding excellent bows, owing finest armours and best standards, entered the hostile array like lions going from one forest to another.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 59,
+      "sanskrit": "तेषां सुतुमुलं युद्धं व्यतिषक्तरथाद्विपम् ।  अवर्तत महारौद्रं निघ्नतामितरेतरम् ॥५९॥",
+      "english": "Then between them and the foe, raged a fierce and dreadful combat in which cars and elephants got entangled together and in which the combatants (mercilessly) slew one another,",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 60,
+      "sanskrit": "अन्योन्यागस्कृतां राजन् धर्मराष्ट्रविवर्धनम् ।  मुहूर्तास्तमिते सूर्ये चक्रुर्युद्धं सुदारुणम् ॥६०॥",
+      "english": "Out of a feeling of animosity, they fought the dreadful fight that lasted for a few moments only before sun-set, adding to the population of Death's kingdom,",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 61,
+      "sanskrit": "रथिनः सादिनश्चाथ व्यकीर्यन्त सहस्रशः ।  ततः शान्तनवः कुद्धः शरैः सन्नतपर्वभिः॥६१॥",
+      "english": "Then car-warriors and cavalry-soldiers were strewn by thousand on the filed of battle. Thereupon excited with wrath, the son of Shantanu namely Bhishma, with straightknotted shafts, began to slay the troops of the high-souled Pandavas. with his arrows he also dispatched to the regions of Death the troops belonging to the Panchala Princes.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः",
+      "combined_translation": "61-62"
+    },
+    {
+      "verse": 62,
+      "sanskrit": "नाशयामास सेनां तां भीष्मस्तेषां महात्मनाम् ।  पञ्चालानां च सैन्यानि शरैर्निन्ये यमक्षयम् ॥६२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः",
+      "english_ref": 61,
+      "combined_translation": "61-62"
+    },
+    {
+      "verse": 63,
+      "sanskrit": "एवं भित्त्वा महेष्वासः पाण्डवानामनीकिनीम् ।  कृत्वाऽवहारं सैन्यानां ययौ स्वशिबिरं नृप ॥६३॥",
+      "english": "Thus, O king, having broken the ranks of the Pandava host, the grandsire, withdrawing his force, retired to his own encampment.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    },
+    {
+      "verse": 64,
+      "sanskrit": "धर्मराजोऽपि संप्रेक्ष्य धृष्टद्युम्नवृकोद‌रौ ।  मूर्ध्नि चैतावुपाघ्राय प्रहृष्टः शिबिरं ययौ ॥६४॥",
+      "english": "The very virtuous king Yudhishthira also seeing Dhrishtadyumna and Vrikodara, smelt their heads, and with a delighted heart repaired to his camps.",
+      "bhavadeepa": null,
+      "chapter": 79,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "ऊनाशीतितमोऽध्यायः"
+    }
+  ]
+}

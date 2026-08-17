@@ -1,0 +1,439 @@
+{
+  "adhyaya_id": "P05_U06_A073",
+  "book": 5,
+  "parva_name": "उद्योगपर्व",
+  "upaparva_name": "भगवद्यानपर्व",
+  "adhyaya_name": "त्रिसप्ततितमोऽध्यायः",
+  "chapter": 73,
+  "verse_count": 42,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "श्रीभगवानुवाच। सञ्जयस्य श्रुतं वाक्यं भवतश्च श्रुतं मया। सर्वं जानाम्यभिप्रायं तेषां च भवतश्च यः ॥१॥",
+      "english": "The blessed God said The words of Sanjaya have been listened to by me as also your words. I know all their intentions and also those of yours.",
+      "bhavadeepa": "यदीति । अधर्मेण सान्त्वं नो राज्यार्धार्हाणां पञ्चग्रामदानेन अधर्मेण इतरत् द्यूतेनैव राज्यप्रत्यादानं बृहदश्वादक्षहृदयस्य प्राप्तत्वात् । यद्यद्धर्मेणेति सत्यं वेति च पाठे त्वनृतस्य धर्मसंयुक्तत्वमहिंसाप्राधान्येन बोध्यम् ॥९३॥",
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "तव धर्माश्रिता बुद्धिस्तेषां वैराश्रया मतिः। यदयुद्धेन लभ्येत तत्ते बहुमतं भवेत् ॥२॥",
+      "english": "Your intentions are established on virtue; while their purposes are based on malice. What is gained by not having recourse to war, is much in your estimate.",
+      "bhavadeepa": "सञ्जयस्येति ॥१॥",
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "न चैवं नैष्ठिकं कर्म क्षत्रियस्य विशाम्पते। आहुराश्रमिणः सर्वे न भैक्षं क्षत्रियश्चरेत् ॥३॥",
+      "english": "A life-long practice of Brahmacharya vow is not the proper course of life for a Kshatriya, O lord of the universe. All the householders have said that a Kshatriya should not gain his livelihood by begging.",
+      "bhavadeepa": null,
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "जयो वधो वा संग्रामे धात्राऽऽदिष्टः सनातनः। स्वधर्मः क्षत्रियस्यैष कार्पण्यं न प्रशस्यते ॥४॥",
+      "english": "Victory or death has been originally fixed by the Father of the universe. The proper course of life for a Kshatriya is this (war) and it is not proper to show a humiliating spirit in this course. son",
+      "bhavadeepa": "नैष्टिकं कर्म यावज्जीवं ब्रह्मचर्यं पारिव्राज्यं च विहितमिति शेषः ॥३॥",
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "न हि कार्पण्यमास्थाय शक्या वृत्तिर्युधिष्ठिर। विक्रमस्व महाबाहो जहि शत्रून् परन्तप ॥५॥",
+      "english": "Earning one's livelihood is not possible by a policy based on a humiliating spirit, O Yudhishthira; show your strength, O you with long arms and conquer your enemies, O you chastiser of your enemies.",
+      "bhavadeepa": "कार्पण्यं ग्रामपञ्चकं देहीति दीनवचनम् ॥४॥",
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "अतिगृद्धाः कृतस्नेहा दीर्घकालं सहोषिताः। कृतमित्राः कृतबला धार्तराष्ट्राः परंतप ॥६॥",
+      "english": "The exceedingly avaricious of Dhritarashtra, has, O chastiser of your enemies, lived for too long a time united with other, enjoying their affection and their friendship and supported by them.",
+      "bhavadeepa": "वृत्तिः जीविका कर्त्तुमिति शेषः ॥५॥",
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "न पर्यायोऽस्ति यत्साम्यं त्वयि कुर्युर्विशांपते। बलवत्तां हि मन्यन्ते भीष्मद्रोणकृपादिभिः ॥७॥",
+      "english": "The peace of the Kurus with you is therefore not expedient or desirable (they think), O lord of the universe. They think themselves strong having on their side Bhishma, Drona, Kripa and others.",
+      "bhavadeepa": "अतिगृद्धाः अत्यंतलुब्धाः ॥६॥",
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "यावच्च मार्दवेनैतान्राजन्नुपचरिष्यसि। तावदेते हरिष्यन्ति तव राज्यमरिन्दमे ॥८॥",
+      "english": "So long as you treat these, O king, with kindness, they will deprive you of your kingdom, O you chastiser of your foes.",
+      "bhavadeepa": "पर्याय उपायः । यद्येन बलवत्तां स्वस्येति शेषः ॥७॥",
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "नानुक्रोशान्न कार्पण्यान्न च धर्मार्थकारणात्। अलङ्कर्तुं धार्तराष्ट्रास्तव काममरिन्दम ॥९॥",
+      "english": "Not out of kindness, nor out of cowardice and not even from a desire to gain virtue or profit will the son of Dhritarashtra do as you wish, O you chastiser of your foes.",
+      "bhavadeepa": null,
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "एतदेव निमित्तं ते पाण्डवास्तु यथा त्वयि। नान्वतप्यन्त कौपीनं तावत्कृत्वाऽपि दुष्करम् ॥१०॥",
+      "english": "This is an example of the feeling they bear you, O son of Pandu. They are not even sorry for making you wear the Kaupinas (a strip of cloth-a sign of a mendicant and undergoing all these hardships.",
+      "bhavadeepa": "अनुक्रोशात् भवत्सु कृपातः । कार्पण्यात् स्वस्य दैन्यात् । अलं कर्तुं पूर्णं कर्तुं न समर्थाः ॥९॥",
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "पितामहस्य द्रोणस्य विदुरस्य च धीमतः। ब्राह्मणानां च साधूनां राज्ञश्च नगरस्य च ॥११॥",
+      "english": "When before the very eyes of the grandfather (Bhishma), Drona, the wise Vidura and the Brahmanas, holy men and the entire city and before all the chiefs among the Kurus, he, O king, by means of deceit, defeated you at a game of dice, you who are attached to the habit of making gifts, who are of virtuous habits and life of austere vows, he was not ashamed of his cruel act.",
+      "bhavadeepa": "निमित्तमशमे कारणम् । हे पाण्डव त्वयि कौपीनं धारयति सति ते कौरवाः नान्वतप्यन्त पश्चात्तापं न कृतवन्तः । तावत् वनवासादि ॥१०॥",
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः",
+      "combined_translation": "11-13"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "पश्यतां कुरुमुख्यानां सर्वेषामेव तत्त्वतः। दानशीलं मृदुं दान्तं धर्मशीलमनुव्रतम् ॥१२॥",
+      "english": null,
+      "bhavadeepa": "पितामहादीननादृत्य उपधिना छलेन त्वां द्यूते वञ्चितवानिति सार्धद्वयसम्बन्धः ॥११॥",
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः",
+      "english_ref": 11,
+      "combined_translation": "11-13"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "यत्त्वामुपधिना राजन् द्यूते वञ्चितवांस्तदा। न चापत्रपते तेन नृशंसः स्वेन कर्मणा ॥१३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः",
+      "english_ref": 11,
+      "combined_translation": "11-13"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "तथा शीलसमाचारे राजन् मा प्रणयं कृथाः। वध्यास्ते सर्वलोकस्य किं पुनस्तव भारत ॥१४॥",
+      "english": "With one who is of such habits of life, do not, O king, contract a friendship; they are fit to be killed by any man; then why not by you, OBharata.",
+      "bhavadeepa": null,
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "वाग्भिस्त्वप्रतिरूपाभिरतुदत्त्वां सहानुजम्। श्लाघमानः प्रहृष्टः सन् भ्रातृभिः सह भाषते ॥१५॥",
+      "english": "With improper speeches against you did they boast rejoicingly with their brothers, at yourself and your younger.",
+      "bhavadeepa": null,
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "एतावत् पाण्डवानां हि नास्ति किञ्चिदिह स्वकम्। नामधेयं च गोत्रं च तदप्येषां न शिष्यते ॥१६॥",
+      "english": "He said-Now have the sons of Pandu nothing to call their own in this world. Their very names and the name of their family even no longer exist.",
+      "bhavadeepa": "अतुदत् पीडितवान् ॥१५॥",
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "कालेन महता चैषां भविष्यति पराभवः। प्रकृतिं ते भजिष्यन्ति नष्टप्रकृतयो मयि ॥१७॥",
+      "english": "As great time rolls on, they will meet with defeat. Your subjects no longer yours will now adhere to me.",
+      "bhavadeepa": null,
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "दुःशासनेन पापेन तदा द्यूते प्रवर्तिते। अनाथवत्तदा देवी द्रौपदी सुदुरात्मना ॥१८॥",
+      "english": "By the vicious and exceedingly wickedsouled Dushasana, while the game of dice was yet going on, was the lady Draupadi like one having none to protect her.",
+      "bhavadeepa": "प्रकृतिं पञ्चतां मयि मत्समीपे नष्टा प्रकृतिः शौर्यादिरूपः स्वभावो येषाम् ॥१७॥",
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "आकृष्य केशे रुदती सभायां राजसंसदि। भीष्मद्रोणप्रमुखतो गौरिति व्याहृता मुहुः ॥१९॥",
+      "english": "Dragged by the hair weeping in the assembly of kings in the council; and in the very presence of Bhishma and Drona they called her cow again and again.",
+      "bhavadeepa": null,
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "भवता वारिताः सर्वे भ्रातरो भीमविक्रमाः। धर्मपाशनिबद्धाश्च न किञ्चित् प्रतिपेदिरे ॥२०॥",
+      "english": "All your brothers of terrible strength dissuaded by you and tied by the trap of virtue did absolutely nothing at this.",
+      "bhavadeepa": "गौरिव सर्वभोग्येत्युपहासो गौर्गौरिति ॥१९॥",
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "एताश्चान्याश्च परुषा वाचः स समुदीरयन्। श्लाघते ज्ञातिमध्ये स्म त्वयि प्रव्रजिते वनम् ॥२१॥",
+      "english": "He pronounced these cruel words and others and he expressed plea are among his cousins at your being exiled into the forest.",
+      "bhavadeepa": null,
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "ये तत्रासन् समानीतास्ते दृष्ट्वा त्वामनागसम्। अश्रुकण्ठा रुदन्तश्च सभायामासते सदा ॥२२॥",
+      "english": "Those who were assembled there, seeing you without any fault at the time sat in the council weeping with choked voices.",
+      "bhavadeepa": null,
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "न चैनमभ्यनन्दंस्ते राजानो ब्राह्मणैः सह। सर्वे दुर्योधनं तत्र निन्दन्ति स्म सभासदः ॥२३॥",
+      "english": "Those kings along with the Brahmanas did not praise him for this; and all the courtiers there spoke ill of Duryodhana,",
+      "bhavadeepa": null,
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "कुलीनस्य च या निन्दा वधो वाऽमित्रकर्शन। महागुणो वधो राजन्न तु निन्दा कुजीविका ॥२४॥",
+      "english": "Blame to one born in a high family is death itself, O you chastiser of your foes. Worthless life with blame attached is death many times over, Oking.",
+      "bhavadeepa": null,
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "तदैव निहतो राजन् यदैव निरपत्रपः। निन्दितश्च महाराज पृथिव्यां सर्वराजभिः ॥२५॥",
+      "english": "Since that time is he dead, when he was without shame, though blamed by all the kings on earth, O great king.",
+      "bhavadeepa": null,
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "ईषत्कार्यो वधस्तस्य यस्य चारित्रमीदृशम्। प्रस्कुन्देन प्रतिस्तब्धश्छिन्नमूल इव द्रुमः ॥२६॥",
+      "english": "He whose character is of this description can be killed with very little effort like a tree with all its roots cut asunder and standing only on its principal root.",
+      "bhavadeepa": null,
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "वध्यः सर्प इवानार्यः सर्वलोकस्य दुर्मतिः। जह्येनं त्वममित्रघ्न मा राजन् विचिकित्सिथाः ॥२७॥",
+      "english": "Like a serpent is that dishonourable and wicked-souled wretch fit to he slain by everyone. Kill him therefore, O you slayer of your foes; and do not hesitate, Oking.",
+      "bhavadeepa": "ईषत्कार्यः अनायाससाध्यः प्रस्कुंदेन चक्राकारया वैदिकया ‘कुंदश्चक्रभ्रमे मेघे’ इति विश्वः । पारस्करादित्वात् सुट् । प्रस्कंदेनेति पाठे मध्यमशिफयेति प्राञ्चः ॥२६॥",
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "सर्वथा त्वत्क्षमं चैतद्रोचते च ममानघ। यत्त्वं पितरि भीष्मे च प्रणिपातं समाचरेः ॥२८॥",
+      "english": "It is proper by all means and my wish, too, that you should pay proper respects to him who is like a father to you, as also to Bhishma.",
+      "bhavadeepa": null,
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "अहं तु सर्वलोकस्य गत्वा छेत्स्यामि संशयम्। येषामस्ति द्विधाभावो राजन् दुर्योधनं प्रति ॥२९॥",
+      "english": "I, too, going there, shall remove the doubts of all men, who are of one opinion and now of another regarding Duryodhana, O king.",
+      "bhavadeepa": null,
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "मध्ये राज्ञामहं तत्र प्रातिपौरुषिकान् गुणान्। तव सङ्कीर्तयिष्यामि ये च तस्य व्यतिक्रमाः ॥३०॥",
+      "english": "In the midst of the kings shall I describe all your good qualities among men, as also defects.",
+      "bhavadeepa": "द्विधाभावः- अयं साधुरसाधुर्वेति संशयः ॥२९॥",
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "ब्रुवतस्तत्र मे वाक्यं धर्मार्थसहितं हितम्। निशम्य पार्थिवाः सर्वे नानाजनपदेश्वराः ॥३१॥",
+      "english": "Hearing me, speak beneficial words conducive to both virtue and worldly good. All the rulers of the earth, the lords of the different provinces,",
+      "bhavadeepa": "प्रातिपौरुषिकान् सर्वपुरुषसाधारणान् ॥३०॥",
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "त्वयि सम्प्रतिपत्स्यन्ते धर्मात्मा सत्यवागिति। तसिंश्चाधिगमिष्यन्ति यथा लोभादवर्तत ॥३२॥",
+      "english": "Will know you to be virtuous shouted and truthful of speech and will know how avariciously inclined he is.",
+      "bhavadeepa": null,
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "गर्हयिष्यामि चैवैनं पौरजानपदेष्वपि। वृद्धबालानुपादाय चातुर्वर्ण्ये समागते ॥३३॥",
+      "english": "I shell speak of his defects before both people of towns and villages, before both old and young and before all the members of the four orders assembled there.",
+      "bhavadeepa": null,
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "शमं वै याचमानस्त्वं नाधर्मं तत्र लप्स्यसे। कुरून् विगर्हयिष्यन्ति धृतराष्ट्रं च पार्थिवाः ॥३४॥",
+      "english": "You will not be called sinful there; for you ask peace and the rulers of the earth will blame the Kurus and Dhritarashtra.",
+      "bhavadeepa": null,
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "तस्मिन् लोकपरित्यक्ते किं कार्यमवशिष्यते। हते दुर्योधने राजन् यदन्यत्क्रियतामिति ॥३५॥",
+      "english": "When he is forsaken by men, what shall there be left to be done and Duryodhana is killed; do whatever remains to be accomplished.",
+      "bhavadeepa": null,
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "यात्वा चाहं कुरून् सर्वान् युष्मदर्थमहापयन्। यतिष्ये प्रशमं कर्तुं लक्षयिष्ये च चेष्टितम् ॥३६॥",
+      "english": "Going to all the Kurus, I shall seek to effect peace without any sacrifice of your interests; and shall observe their intentions.",
+      "bhavadeepa": "हते निंद्यतया नष्टप्राये ॥३५॥",
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "कौरवाणां प्रवृत्तिं च गत्वा युद्धाधिकारिकाम्। निशम्य विनिवर्तिष्ये जयाय तव भारत ॥३७॥",
+      "english": "Having observed and made out the intentions of the sons of Kuru and their preparations for war I shall come back to make victory yours, O Bharata.",
+      "bhavadeepa": "यात्वा गत्वा ॥३६॥",
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "सर्वथा युद्धमेवाहमाशंसामि परैः सह। निमित्तानि हि सर्वाणि तथा प्रादुर्भवन्ति मे ॥३८॥",
+      "english": "I anticipate war with the enemy by all mcans. It seems to me that all the signs indicate the same.",
+      "bhavadeepa": "निशम्य आलोच्य ॥३७॥",
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "मृगाः शकुन्ताश्च वदन्ति घोरं हस्त्यश्वमुख्येषु निशामुखेषु। घोराणि रूपाणि तथैव चाग्निर्वर्णान् बहून् पुष्यति घोररूपान् ॥३९॥",
+      "english": "The birds and beasts are making loud sounds; and the best of elephants and horses assume terrible appearances at the approach of night. Fire too assumes many terrific looking colours.",
+      "bhavadeepa": null,
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "मनुष्यलोकक्षयकृत् सुघोरो नो चेदनुप्राप्त इहान्तकः स्यात्। शस्त्राणि यन्त्रं कवचा रथांश्च नागान् हयांश्च प्रतिपादयित्वा ॥४०॥",
+      "english": "If the cause of waste among men and the world generally were not near at hand, these omens indicating evils would never have been here. Keeping ready for use their arms, machines, helmets, cars, elephants and horses, let all your soldiers be prepared for battle; and let them be careful about their horses, elephants and chariots. O chief of men, collect together all that ought to be kept ready for the battle.",
+      "bhavadeepa": null,
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः",
+      "combined_translation": "40-41"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "योधाश्च सर्वे कृतनिश्चयास्ते भवन्तु हस्त्यश्वरथेषु यत्ताः। साङ्ग्रामिकं ते यदुपार्जनीयं सर्वं समग्रं कुरु तन्नरेन्द्र ॥४१॥",
+      "english": null,
+      "bhavadeepa": "चेदिहान्तकोऽनुप्राप्तो नो स्यात्तर्हि एतन्न स्यादिति शेषः । यन्त्रं गोलकोत्क्षेपणं कवचा कवचानि वर्माणि सुपां सुलुगिति सुपो डादेशः । नान्तपाठे पुंस्त्वमार्षम् । प्रतिपादयित्वा सज्जीकृत्य ॥४०॥",
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः",
+      "english_ref": 40,
+      "combined_translation": "40-41"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "दुर्योधनो न ह्यलमद्य दातुं जीवंस्तवैतन्नृपते कथञ्चित्। यत्ते पुरस्तादभवत्समृद्धं द्यूते हृतं पाण्डवमुख्य राज्यम् ॥४२॥",
+      "english": "Duryodhana, O lord of men, will not be able to return you any portion of your prosperous territories which were yours in days of old and which he stole from you at a game of dice.",
+      "bhavadeepa": null,
+      "chapter": 73,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिसप्ततितमोऽध्यायः"
+    }
+  ]
+}

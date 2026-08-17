@@ -1,0 +1,609 @@
+{
+  "adhyaya_id": "P19_U02_A106",
+  "book": 19,
+  "parva_name": "हरिवंशः",
+  "upaparva_name": "विष्णुपर्व",
+  "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६",
+  "chapter": 161,
+  "verse_count": 58,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वैशम्पायन उवाच।\n              शम्बरस्तु ततः क्रुद्धः सूतमाह विशाम्पते। शत्रुप्रमुखतो वीर रथं मे वाहय द्रुतम्॥१॥",
+      "english": null,
+      "bhavadeepa": "साध्वसैः निर्दयकार्मुकैः रतिमिव समरं पक्षे रतिं समरम् इवेति विग्रहः॥८४॥",
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "यावदेनं शरैर्हन्मि मम विप्रियकारकम्। ततो भर्तृवचः श्रुत्वा सूतस्तत्प्रियकारकः॥२॥",
+      "english": null,
+      "bhavadeepa": "शम्बर इति॥१॥",
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६",
+      "combined_translation": "2-2"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "रथं सञ्चोदयामास चामीकरविभूषितम्। तं दृष्त्वा रथमायान्तं प्रद्युम्नः फुल्ललोचनः॥३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६",
+      "combined_translation": "3-3"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "सन्दधे चापमादाय शरं कनकभूषितम्। तेनाहनत्सुसङ्क्रुद्धः कोपयञ्शम्बरं रणे॥४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६",
+      "combined_translation": "4-4"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "हृदये ताडितस्तेन देवशत्रुः सुविक्लवः। रथशक्तिं समाश्रित्य तस्थौ सोऽथ विचेतनः॥५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६",
+      "combined_translation": "5-5"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "स चेतनां पुनः प्राप्य धनुरादाय शम्बरः। विव्याध कार्ष्णिं कुपितः सप्तभिर्निशितैः शरैः॥६॥",
+      "english": null,
+      "bhavadeepa": "रथशक्तिं रथस्योत्साहहेतुं ध्वजं “शक्तिरस्त्रान्तरे सौर्यामुत्सहादौ बले स्त्रियाम्।” इति मेदिनी॥५॥",
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६",
+      "combined_translation": "6-60"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "तानप्राप्ताञ्शरान्सोऽथ सप्तभिः सप्तधाच्छिनत्। शम्बरं च जघानाथ सप्तत्या निशितैः शरैः॥७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६",
+      "combined_translation": "7-7"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "पुनः शरसहस्रेण कङ्कबर्हिणवाससा। अहनच्छम्बरं क्रोधाद्धाराभिरिव पर्वतम्॥८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६",
+      "combined_translation": "8-8"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "प्रदिशो विदिशश्चैव शरधारासमावृता। स दिशो विदिशश्चैव शरधारा समावृणोत्॥९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६",
+      "combined_translation": "9-9"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "अन्धकारीकृतं व्योम दिनकर्ता न दृश्यते। ततोऽन्धकारमुत्सार्य वैद्युतास्त्रेण शम्बरः॥१०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६",
+      "combined_translation": "10-10"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "प्रद्युम्नस्य रथोपस्थे शरवर्षं मुमोच ह। तदस्त्रजालं प्रद्युम्नः शरेणानतपर्वणा॥११॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६",
+      "combined_translation": "11-11"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "चिच्छेद बहुधा राजन्दर्शयन्पाणिलाघवम्। हते तस्मिन्महावर्षे शराणां कार्ष्णिना तदा॥१२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६",
+      "combined_translation": "12-58"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "द्रुमवर्षं मुमोचाथ मायया कालशम्बरः। द्रुमवर्षोच्छ्रितं दृष्ट्वा प्रद्युम्नः क्रोधमूर्च्छितः॥१३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६",
+      "combined_translation": "13-13"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "आग्नेयास्त्रं मुमोचाथ तेन वृक्षाननाशयत्। भस्मीभूते वृक्षवर्षे शिलासङ्घातमुत्सृजत्॥१४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६",
+      "combined_translation": "14-14"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "प्रद्युम्नस्तं तु वायव्यैः प्रोत्सारयत संयुगे। ततो मायां परां चक्रे देवशत्रुः प्रतापवान्॥१५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६",
+      "combined_translation": "15-15"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "सिंहान्व्याघ्रान्वराहांश्च तरक्षूनृक्षवानरान्। वारणान्वारिदप्रख्यान्हयानुष्ट्रान्विशाम्पते॥१६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६",
+      "combined_translation": "16-16"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "मुमोच धनुरायम्य प्रद्युम्नस्य रथोपरि। गन्धर्वास्त्रेण चिच्छेद सर्वांस्तान्खण्डशस्तदा॥१७॥",
+      "english": null,
+      "bhavadeepa": "वारिदप्रख्यान्मेघवत् मृज्यमानान्, “प्रख्या बृहत्प्रेक्षणे बुद्धौ” इति विश्वः॥१६॥",
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६",
+      "combined_translation": "17-17"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "प्रद्युम्नेन तु सा माया हता तां वीक्ष्य शम्बरः। अन्यां मायां मुमोचाथ शम्बरः क्रोधमूर्च्छितः॥१८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६",
+      "english_ref": 1,
+      "combined_translation": "1-18"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "गजेन्द्रान्भिन्नवदनान्षष्टिहायनयौवनान्। महामात्रोत्तमारूढान्कल्पितान्रणकोविदान्॥१९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "तामापतन्तीं मायां तु कार्ष्णिः कमललोचनः। सैंहीं मायां समुत्स्रष्टुं चक्रे बुद्धिं महामनाः॥२०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "सा सृष्टा सिंहमाया तु रौक्मिणेयेन धीमता। माया नागवती नष्टा आदित्येनेवे शर्वरी॥२१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "निहितां हस्तिमायां तु तां समीक्ष्य महासुरः। अन्यां संमोहिनीं मायां सोऽसृजद्दानवोत्तमः॥२२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "तां दृष्ट्वा मोहिनीं नाम मायां मयविनिर्मिताम्। संज्ञास्त्रेण तु प्रद्युम्नो नाशयामास वीर्यवान्॥२३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "शम्बरस्तु ततः क्रुद्धो हतया मायया तदा। सैंहीं मायां महातेजाः सोऽसृजद्दानवेश्वरः॥२४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "सिंहानापततो दृष्ट्वा रौक्मिणेयः प्रतापवान्। अस्त्रं गान्धर्वमादाय शरभानसृजत्तदा। तेऽष्टापदा बलोदग्रा नखदंष्ट्रायुधा रणे॥२५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "सिंहान्विद्रावयामासुर्वयुर्जलधरानिव। सिंहान्विद्रवतो दृष्ट्वा माययाष्टपदेन वै॥२६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "शम्बरश्चिन्तयामास कथमेनं निहन्मि वै। अहो मूर्खस्वभावोऽहं यन्मया न हतः शिशुः॥२७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "प्राप्तयौवनदेहस्तु कृतास्त्रश्चापि दुर्मतिः। तत्कथं निहनिष्यामि शत्रुं रणशिरःस्थितम्॥२८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "माया सा तिष्ठते तीव्रा पन्नगी नाम भीषणा। दत्ता मे देवदेवेन हरेणासुरघातिना॥२९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "तां सृजामि महामायामाशीविषसमाकुलाम्। तया दह्येत दुष्टात्मा ह्येष मायामयो बली॥३०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "सा सृष्टा पन्नगी माया विषज्वालासमाकुला। तया पन्नगमय्या तु सरथं सहवाजिनम्॥३१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "ससूतं स हि प्रद्युम्नं बबन्ध शरबन्धनैः। बध्यमानं तदा दृष्ट्वा आत्मानं वृष्णिवंशजः॥३२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "मायां सञ्चिन्तयामास सौपर्णीं सर्पनाशिनीम्। सा चिन्तिता महामाया प्रद्युम्नेन महात्मना॥३३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "सुपर्णा विचरन्ति स्म सर्पा नष्टा महाविषाः। भग्नायां सर्पमायायां प्रशंसन्ति सुरासुराः॥३४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "साधु वीर महाबाहो रुक्मिण्यानन्दवर्धन। यत्त्वया धर्षिता माया तेन स्म परितोषिताः॥३५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "हतायां सर्पमायायां शम्बरश्चिन्तयत्पुनः। अस्ति मे कालदण्डाभो मुद्गरो हेमभूषितः॥३६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "तमप्रतिहतं युद्धे देवदानवमानवैः। पुरा यो मम पार्वत्या दत्तः परमतुष्टया॥३७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "गृहाण शम्बरेमं त्वं मुद्गरं हेमभूषितम्। मया सृष्टं स्वदेहे वै तपः परमदुश्चरम्॥३८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "मायान्तकरणं नाम सर्वासुरविनाशनम्। अनेन दानवौ रौद्रौ बलिनौ कामरूपिणौ॥३९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "शुम्भश्चैव निशुम्भश्च सगणौ सूदितौ मया। प्राणसंशयमापन्ने त्वया मोक्ष्यः स शत्रवे॥४०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "इत्युक्त्वा पार्वती देवी तत्रैवान्तरधीयत। तदहं मुद्गरं श्रेष्ठं मोचयिष्यामि शत्रवे॥४१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "तस्य विज्ञाय चित्तं तु देवराजोऽभ्यभाषत। गच्छ नारद शीघ्रं त्वं प्रद्युम्नस्य रथं प्रति॥४२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "सम्बोधय महाबाहुं पूर्वजातिं च मोक्षय। वैष्णवास्त्रं प्रयच्छास्मै वधार्थं शम्बरस्य च॥४३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "अभेद्यं कवचं चास्य प्रयच्छासुरसूदन। एवमुक्तो मघवता नारदः प्रययौ त्वरम्॥४४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "आकाशेऽधिष्ठितोऽवोचन्मकरध्वजकेतनम्। कुमारं पश्य मां प्राप्तं देवगन्धर्वनारदम्। प्रेषितं देवराजेन तव सम्बोधनाय वै॥४५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "स्मर त्वं पूर्वकं भावं कामदेवोऽसि मानद। हरकोपानलाद्दग्धस्तेनानङ्ग इहोच्यते॥४६॥",
+      "english": null,
+      "bhavadeepa": "देवगन्धर्वप्रियो नारदो देवगन्धर्वनारदस्तम्॥४५॥",
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "त्वं वृष्णिवंशजातोऽसि रुक्मिण्या गर्भसम्भवः। जातोऽसि केशवेन त्वं प्रद्युम्न इति कीर्त्यसे॥४७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "आहृत्य शम्बरेण त्वमिहानीतोऽसि मानद। सप्तरात्रे त्वसम्पूर्णे सूतिकागारमध्यतः॥४८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "वधार्थं शम्बरस्य त्वं ह्रियमाणो ह्युपेक्षितः। केशवेन महाबाहो देवकार्यार्थसिद्धये॥४९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "यैषा मायावती नाम भार्या वै शम्बरस्य तु। रतिं तां विद्धि कल्याणीं तव भार्यां पुरातनीम्॥५०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "तव संरक्षणार्थाय शम्बरस्य गृहेऽवसत्। मायां शरीरजां तस्य मोहनार्थं दुरात्मनः॥५१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "रतेः सम्पादनार्थाय प्रेषयत्यनिशं तदा। एवं प्रद्युम्नं बुद्ध्वा वै तत्र भार्या प्रतिष्ठिता॥५२॥",
+      "english": null,
+      "bhavadeepa": "तवेति। रतिरेव मायमायं शरीरान्तरं स्वसदृशं कृत्वा मायावतीसंज्ञं कृत्वा दैत्यं रमयतीत्यर्थः॥५१॥",
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "हत्वा तं शम्बरं वीर वैष्णवास्त्रेण संयुगे। गृह्य मायावतीं भार्यां द्वारकां गन्तुमर्हसि॥५३॥",
+      "english": null,
+      "bhavadeepa": "रतेः प्रीतेः एतेन रतेः पातिव्रत्यभङ्गो नास्तीति दर्शितम्॥५२॥",
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "गृहाण वैष्णवं चास्त्रं कवचं च महाप्रभम्। शक्रेण तव सङ्गृह्य प्रेषितं शत्रुसूदन॥५४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 55,
+      "sanskrit": "शृणु मे ह्यपरं वाक्यं क्रियतामविशङ्कया। अस्य देवरिपोस्तात मुद्गरो नित्यमूर्जितः॥५५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 56,
+      "sanskrit": "पार्वत्यां परितुष्टायां दत्तः शत्रुनिबर्हणः। अमोघश्चैव सङ्ग्रामे देवदानवमानवैः॥५६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 57,
+      "sanskrit": "तदस्त्रप्रविघातार्थं देवीं त्वं स्मर्तुमर्हसि। स्तव्या चैव नमस्या च महादेवी रणोत्सुकैः॥५७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    },
+    {
+      "verse": 58,
+      "sanskrit": "तत्र वै क्रियतां यत्नः सङ्ग्रामे रिपुणा सह। इत्युक्त्वा नारदो वाक्यं प्रययौ यत्र वासवः॥५८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 161,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "शम्बरवधे नारदवाक्यम्-१०६"
+    }
+  ]
+}

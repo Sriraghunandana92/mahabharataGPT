@@ -1,0 +1,526 @@
+{
+  "adhyaya_id": "P08_U01_A042",
+  "book": 8,
+  "parva_name": "कर्णपर्व",
+  "upaparva_name": "कर्णपर्व",
+  "adhyaya_name": "द्विचत्वारिंशोऽध्यायः",
+  "chapter": 42,
+  "verse_count": 50,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "सञ्जय उवाच।\n              मद्राधिपस्याधिरधिर्महात्मा वचो निशम्याप्रियमप्रतीतः । उवाच शल्यं विदितं ममैतद्यथाविधावर्जुनवासुदेवौ ॥१॥",
+      "english": "Sanjaya said Listening to those unpleasant words and not being convinced the high-souled car-warrior, the king of Madra, said to Shalya \"I know well what Vasudeva and Arjuna are.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "शौरे रथं वाहयतोऽर्जुनस्य बलं महास्त्राणि च पाण्डवस्य । अहं विजानामि यथावदद्य परोक्षभूतं तव तत्तु शल्य ॥२॥",
+      "english": "Even now I know well the skill of Shouri in the management of cars and the power and great weapons of Arjuna, the son of Pandu. But you have no practical knowledge of them, O Shalya.",
+      "bhavadeepa": "मद्रेति  ॥१॥",
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "तौ चाप्यहं शस्त्रभृतां वरिष्ठौ व्यपेतभीर्योधयिष्यामि कृष्णौ । संतापयत्यभ्यधिकं नु रामाच्छापोऽद्य मां ब्राह्मणसत्तमाच्च ॥३॥",
+      "english": "I shall fearlessly fight with those two Krishnas, the foremost of the wielders of weapons. The course of Rama, the foremost of Brahmanas, pains me greatly.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "अवसं वै ब्राह्मणच्छद्मनाऽहं रामे पुरा दिव्यमस्त्रं चिकीर्षुः । तत्रापि मे देवराजेन विघ्नो हितार्थिना फाल्युनस्यैव शल्य ॥४॥",
+      "english": "I lived formerly with Rama in the disguise of a Brahmana with a view to obtain the celestial weapons from him. At that time, O Shalya, the king of gods, wishing to do a good office by Phalguna, put in an impediment by approaching my thigh and piercing it in the form of a dreadful worm. When my preceptor slept placing his head on my thigh that worm began to bore it through.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः",
+      "combined_translation": "4-5"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "कृतो बिभेदेन ममोरुमेत्य प्रविश्य कीटस्य तनुं विरूपाम् । ममोरुमेत्य प्रबिभेद कीटः सुप्ते गुरौ तत्र शिरो निधाय ॥५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः",
+      "english_ref": 4,
+      "combined_translation": "4-5"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "ऊरूप्रभेदाच्च महान्बभूव शरीरतो मे घनशोणितौघः । गुरोर्भयाच्चापि न चोलवानहं ततो विबुद्धो ददृशे स विप्रः ॥६॥",
+      "english": "On account of this boring of my thigh a pool of thick blood gushed out of my body. For fear of my preceptor I did not move my limb. The Brahmana, on waking, saw it.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "स धैर्ययुक्तं प्रसमीक्ष्य मां वै न त्वं विप्रः कोऽसि सत्यं वदेति । तस्मै तदाऽऽत्मानमहं यथावदाख्यातवान्सूत इत्येव शल्य ॥७॥",
+      "english": "O Shalya, Beholding my patience he said-\"you are never a Brahmana. Tell me truly who you are.\" I then gave him the true information about myself and said that I was a Suta.",
+      "bhavadeepa": "चेलिवान् चलितवान् ॥६॥",
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "स मां निशम्याथ महातपस्वी संशप्तवान् रोषपरीतचेताः । सूतोपधावाप्तमिदं तवास्त्रं न कर्मकाले प्रतिभास्यति त्वाम् ॥८॥",
+      "english": "Hearing this the great ascetic, worked up with anger, imprecated a curse on me, saying-\"On account of the deception O charioteer, by which you have got this weapon it will never come to your mind at the time of necessity.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "अन्यत्र तस्मात्तव मृत्युकालादब्राह्मणे ब्रह्म न हि ध्रुवं स्यात् । तदद्य पर्याप्तमतीव चास्त्रमस्मिन्संग्रामे तुमुलेऽतीव भीमे ॥९॥",
+      "english": "When the hour of your death will arrive. Brahmastra can never live in one who is not a Brahmana. I have forgotten that great weapon in this fierce and dreadful encounter.",
+      "bhavadeepa": "सूतोपधौ सूतवपिधाननिमित्तं कर्मकाले स्वप्रतिज्ञारक्षणकाले ॥८॥",
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "योऽयं शल्य भरतेषूपपन्नः प्रकर्षणः सर्वहरोऽतिभीमः । सोऽभिमन्ये क्षत्रियाणां प्रवीरान् प्रतापिता बलवान्वै विमर्दः ॥१०॥",
+      "english": "O Shalya, that descendant of Bharatas who is highly dreadful, the destroyer of all the grinders of foes and powerful, will, me-thinks, grind many Kshatriya heroes.",
+      "bhavadeepa": "पर्याप्तं समाप्तं विस्मृतमित्यर्थः ॥९॥",
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "शल्योग्रधन्वानमहं वरिष्ठं तरस्विनं भीममसह्यवीर्यम् । सत्यप्रतिज्ञं युधि पाण्डवेयं धनञ्जयं मृत्युमुखं नयिष्ये ॥११॥",
+      "english": "Know however, O Shalya, I will kill in battle today that terrible bowman and the foremost of warriors, the son of Pandu, Dhananjaya, who is highly energetic and ascetic-a hero whose promises and always carried out.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "अस्त्रं ततोऽन्यत्प्रतिपन्नमद्य येन क्षेप्स्ये समरे शत्रुपूगान् । प्रतापिनं बलवन्तं कृतास्त्रं तमुग्रधन्वानममितौजसं च ॥१२॥",
+      "english": "I have at least that weapon with me with which I will be able to kill a goodly number of enemies. I will kill in battle, that grinder of weapons, that powerful heroes, the master of weapons, that dreadful bowman of incomparable energy, that ruthless and dreadful hero who can resist his enemies-(I mean) Dhananjaya.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "क्रूरं शूरं रौद्रममित्रसाहं धनञ्जयं संयुगेऽहं हनिष्ये । अपां पतिर्वेगवानप्रमेयो निमज्जयिष्यन्बहुलाः प्रजाश्च ॥१३॥",
+      "english": "The limitless deep, the king of waters dashes on impetuously for overwhelming numberless creatures. The continent flow over holds and restrains him.",
+      "bhavadeepa": "अस्त्रं ततो रामदत्तादस्त्रादन्यत्प्रतिपन्नं प्राप्तम् अहिबाणाख्यमित्यर्थः ॥१२॥",
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "महावेगं संकुरुते समुद्रो वेला चैनं धारयत्यप्रमेयम् । प्रमुञ्चन्तं बाणसङ्घानमेयान्मर्मच्छिदो वीरहणः सुपुत्रान् ॥१४॥",
+      "english": "I will today, in this world, withstand in fight the son of Kunti the foremost of archers while he will ceaselessly discharge his winged arrows capable of killing heroes and penetrating into every limb and none of which becomes futile.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "कुन्तीपुत्रं यत्र योत्स्यामि युद्धे ज्यां कर्षतामुत्तममद्य लोके । एवं बलेनातिबलं महास्त्रं समुद्रकल्पं सुदुरापमुग्रम् ॥१५॥",
+      "english": "Like the bank of an ocean restraining it I will withstand Partha that foremost strongest of the strong the great hero owning many weapons, resembling the ocean itself and having many dreadful and far-reaching arrows like unto the waves of the ocean while he will be engaged in assailing the kings.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "शरौघिणं पार्थिवान्मज्जयन्तं वेलेव पार्थमिषुभिः संसहिष्ये । अद्याहवे यस्य न तुल्यमन्यं मन्ये मनुष्यं धनुराददानम् ॥१६॥",
+      "english": "Today, I will encounter in battle the man, who, in my view, is non-pariel amongst the archers and who conquered the entire earth.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "सुरासुरान् युधि वै यो जयेत तेनाद्य मे पश्य युद्धं सुघोरम् । अतीव मानी पाण्डवो युद्धकामो ह्यमानुषैरेष्यति मे महास्त्रैः ॥१७॥",
+      "english": "Witness my highly dreadful encounter with him today in baitle, who, methinks, has not equal amongst men, using bows and who vanquished the gods and demons in battle.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "तस्यास्त्रमस्त्रैः प्रतिहत्य संख्ये बाणोत्तमैः पातयिष्यामि पार्थम् । सहस्त्ररश्मिप्रतिमं ज्वलन्तं दिशश्च सर्वाः प्रतपन्तमुग्रम् ॥१८॥",
+      "english": "The Pandava is exceedingly haughty. Desirous of fighting he will approach me with superhuman and powerful weapons. Counteracting his weapons with mine in battle I will fell Partha with my excellent arrows.",
+      "bhavadeepa": "मे मां प्रति एष्यति ॥१७॥",
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "तमोनुदं मेघ इवातिमात्रं धनञ्जयं छादयिष्यामि बाणैः । वैश्वानरं धूमशिखं ज्वलन्तं तेजस्विनं लोकमिदं दहन्तम् ॥१९॥",
+      "english": "He burns down his enemies like the sun of fiery rays and shines in his fame. As the clouds gather round the dispeller of darkness, so I shall cover Dhananjaya with my shafts,",
+      "bhavadeepa": "अस्त्रैरस्त्रतुल्यैः ॥१८॥",
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "पर्जन्यभूतः शरवर्षैर्यथाग्निं तथा पार्थं शमयिष्यामि युद्धे । आशीविषं दुर्धरमप्रमेयं सुतीक्ष्णदंष्ट्रं ज्वलनप्रभावम् ॥२०॥",
+      "english": "As the clouds with showers extinguish the powerful fire burning with smoking flames and as if consuming the whole worlds, so I will with showers of my arrows, put down the son of Kunti.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "क्रोधप्रदीप्तं त्वहितं महान्तं कुन्तीपुत्रं शमयिष्यामि भल्लैः । प्रमाथिनं बलवन्तं प्रहारिणं प्रभञ्जनं मातरिश्वानमुग्रम् ॥२१॥",
+      "english": "With my darts I will put down the son of Kunti in battle who is like a dreadful and fierce snake of sharpened fang, who burns in effulgence and anger and consumes those who work him evil.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "युद्धे सहिष्ये हिमवानिवाचलो धनञ्जयं क्रुद्धममृष्यमाणम् । विशारदं रथमार्गेषु शक्तं धुर्यं नित्यं समरेषु प्रवीरम् ॥२२॥",
+      "english": "As the Himalaya holds the powerful, crushing and all-striking wind-god so I will, without perturbation, withstand the angry and vindictive Dhananjaya.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "लोके वरं सर्वधनुर्धराणां धनञ्जयं संयुगे संसहिष्ये । अद्यावे यस्य न तुल्यमन्यं मन्ये मनुष्यं धनुराददानम् ॥२३॥",
+      "english": "I will withstand in battle Dhananjaya the foremost of all the archers in the world who knows well all the car-tracks, who is always in the van, competent and heroic in battle.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "सर्वामिमां यः पृथिवीं विजिग्ये तेन प्रयोद्धाऽस्मि समेत्य संख्ये । यः सर्वभूतानि सदैवतानि प्रस्थेऽजयत्खाण्डवे सव्यसाची ॥२४॥",
+      "english": "What man, save me, who wishes to keep his life, will fight with Savyasachin who defeated all creatures, including even the celestials in the country called Khandava.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः",
+      "combined_translation": "24-25"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "को जीवितं रक्ष्यमाणो हि तेन युयुत्सेद्वै मानुषो मामृतेऽन्यः । मानी कृतास्त्रः कृतहस्तयोगो दिव्यास्त्रविच्छ्वेतहयः प्रमाथी ॥२५॥",
+      "english": null,
+      "bhavadeepa": "खाण्डवे खाण्डवदाहे ॥२४॥",
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः",
+      "english_ref": 24,
+      "combined_translation": "24-25"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "तस्याहमद्यातिरथस्य कायाच्छिरो हरिष्यामि शितैः पृषत्कैः । योत्स्याम्येनं शल्य धनञ्जयं वै मृत्युं पुरस्कृत्य रणे जयं वा ॥२६॥",
+      "english": "He is proud, holds his weapons firmly, is light-handed, knows the use of celestial weapons, has white horses and is capable of smiting all. Today shall I with sharpened shafts sever the head of such a great warrior from his body.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "अन्यो हि न ह्येकरथेन मर्त्यो युध्येत यः पाण्डवमिन्द्र कल्पम् । तस्याहवे पौरुषं पाण्डवस्य ब्रूयां हृष्टः समितौ क्षत्रियाणाम् ॥२७॥",
+      "english": "O Shalya, keeping either death or victory before me, I will fight with Dhananjaya today. There is none else but me who can fight on a single car with that Pandava resembling Death himself.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "किं त्वं मूर्खः प्रसभं मूढचेता ममावोचः पौरुषं फाल्गुनस्य । अप्रियो यः पुरुषो निष्ठुरो हि क्षुद्रः क्षेप्ता क्षमिणश्चाक्षमावान् ॥२८॥",
+      "english": "I will myself with pleasure speak of the prowess of Pandava in battle before the assembly of the Kshatriyas. Why do you, a fool as you are, speak of the prowess of Phalguna to me?",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "हन्यामहं त्वादृशानां शतानि क्षमाम्यहं क्षमया कालयोगात् । अवोचस्त्वं पाण्डवार्थेऽप्रियाणि प्रधर्षयन्मां मूढवत्पापकर्मन् ॥२९॥",
+      "english": "The forgiving always forgive a mean and a cruel person who performs unpleasant deeds. I can slay a hundred like you, but I forgive you for my forgiving nature and the necessity of the time.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "मयाऽऽर्जवे जिह्ममतिर्हतस्त्वं मित्रद्रोही साप्तपदं हि मैत्रम् । कालस्त्वयं प्रत्युपयाति दारुणो दुर्योधनो युद्धमुपागमद्यत् ॥३०॥",
+      "english": "You are the perpetrator of evil deeds. You have, like a fool, for the sake of the Pandavas, remonstrated with me and spoken many unpleasant things. You have said these to me who am innocent. Cursed you are, an injurer of friendship is seven paced.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "अस्यार्थसिद्धिं त्वभिकांक्षमाणस्तन्मन्यसे यत्र नैकान्त्यमस्ति । मित्रं मिन्देर्नन्दतेः प्रीयतेर्वा संत्रायतेर्मिनुतेर्मोदतेर्वा ॥३१॥",
+      "english": "The present moment, that has arrived, is really dreadful for Duryodhona has come to battle. I always wish to see his ends accomplished. But you are acting in such a vay that it appears you have no friendship for the Kuru king.",
+      "bhavadeepa": "आर्जवे कर्तव्ये सति ॥३०॥",
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "ब्रवीमि ते सर्वमिदं ममास्ति तच्चापि सर्वं मम वेत्ति राजा । शत्रुः शदेः शासतेर्वा श्यतेर्वा ऋणातेर्वा श्वसतेः सीदतेर्वा ॥३२॥",
+      "english": "He is a friend who gladdens his friend, pleases him, protects him, honors him and shares in his joy. I have got all these qualities; the king himself knows it.",
+      "bhavadeepa": "अहं सिद्धिं काङ्क्षमाणोऽस्मि त्वं तु तन्मन्यसे यत्र ऐकान्त्यं सख्यं नास्ति । अस्मत्पक्षीयोऽप्यन्यत्र स्नेहवानसीत्यर्थः। तदेवाह - मित्रमिति । मिन्दयति मेदयति वा स्नेहार्थान्मिन्देर्मिदेर्वा मित्रमिति रूपम् । नन्दतेरित्यत्र मदतेरिति पाठः । मदी हर्षे इत्यस्य वा रूपं मादयति तर्पयतीति वा मादयतेर्मित्रं मिदतेस्त्राणार्थस्य वा मिदेरिदं रूपम् । नन्दयतेः प्रीयतेः सन्त्रायतेर्वाऽर्थे वर्तमानस्य मिदेर्मित्रमिति वाऽर्थः । मिनुते मानं करोति सर्वं हितमस्य सङ्गृह्णातीति वा मोदतेऽस्य सुखेनेति वा मित्रमित्येतेऽर्था मयि सन्तीत्यर्थः ॥३१॥",
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "उपसर्गाद्बहुधा सूदतेश्च प्रायेण सर्वं त्वयि तच्च मह्यम् । दुर्योधनार्थं तव च प्रियार्थं यशोऽर्थमात्मार्थमपीश्वरार्थम् ॥३३॥",
+      "english": "Whereas he who destroys, remonstrates with, sharpens his weapons, makes us to sigh and cheerless and wrongs us in many ways is our enemy. All these marks are to be seen in you and you display them all against us.",
+      "bhavadeepa": "शत्रुरिति । शदेः शातनार्थात् शास्तेः शासनार्थात् श्यतेस्तनूकरणार्थात् शृणातेर्हिंसार्थात् श्वसतेरुच्छ्वासार्थादन्तर्भावितण्यर्थात् सीदतेः सूदतेर्वा दन्त्यस्थाने तालव्यस्योपसर्जनात् शत्रुरिति शब्द उत्पन्नस्तदर्थश्च सर्वस्त्वय्यस्तीत्यर्थः ॥३२॥",
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "तस्मादहं पाण्डववासुदेवौ योत्स्ये यत्नात्कर्म तत्पश्य मेऽद्य । अस्त्राणि पश्याद्य ममोत्तमानि ब्राह्माणि दिव्यान्यथ मानुषाणि ॥३४॥",
+      "english": "For the sake of Duryodhana, for the sake of doing what is agreeable to you, for the sake of fame, for the sake of myself and the God, I will vigorously fight with Partha and Vasudeva. Behold today my feats.",
+      "bhavadeepa": "दुर्योधनस्य तव मम च प्रीतिर्जयलाभेन यशसश्च प्राप्तिस्त्रयाणामपि ईश्वरप्रीतिः स्वधर्माचरणेनेत्यर्थः ॥३३॥",
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "आसादयिष्याम्यहमुग्रवीर्यं द्विपो द्विपं मत्तमिवातिमत्तः । अस्त्रं ब्राह्मं मनसा युध्यजेयं क्षेप्स्ये पार्थायाप्रमेयं जयाय । तेनापि मे नैव मुच्येत युद्धे न चेत्पतेद्विषमे मेऽद्य चक्रम् ॥३५॥",
+      "english": "For my victory I will hurl today that highly powerful Brahma weapon at Partha will my mind alone. Arjuna will never be able to escape that weapon if only the wheels of my car do not sink in the earth in battle today.",
+      "bhavadeepa": "अस्त्राणीति । कालेऽस्त्रं न प्रतिभास्याति पूर्वमुक्त्त्वापि आवेशात्स्वस्य विद्यमानामस्त्रसंपद‌मभिप्रेत्याह - ब्राह्माणि ब्रह्मशिर आदीनि दिव्यानि ऐन्द्रवारुणगान्धर्वादीनि मानुषाणि भौमानि दिव्यधनुरादीनि ॥३४॥",
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "वैवस्वताद्दण्डहस्ताद्वरुणाद्वापि पाशिनः । सगदाद्वा धनपतेः सवज्राद्वापि वासवात् ॥३६॥",
+      "english": "Know this, O Shalya, that I will not even fear Yama armed with his rod or Varuna armed with his noose, or Kubera armed with his mace, or Vasava armed with his thunder-bolt or any other cnemy who may come forward to kill me.",
+      "bhavadeepa": "अस्त्रमिति । यत् यदि हि प्रसिद्धं क्षेप्स्ये तर्हि नैव मुच्येत शत्रुः परन्तु यदि चक्रं विषमेन पतेदित्ययमपि द्वितीयो दोषो दर्शितः ॥३५॥",
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः",
+      "combined_translation": "36-37"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "अन्यस्मादपि कस्माच्चिदमित्रादाततायिनः । इति शल्य विजानीहि यथा नाहं बिभेम्यतः । तस्मान्न मे भयं पार्थान्नापि चैव जनार्दनात् ॥३७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः",
+      "english_ref": 36,
+      "combined_translation": "36-37"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "सह युद्धं हि मे ताभ्यां सांपराये भविष्यति । कदाचिद्विजयस्याहमस्त्रहेतोरटन्नृप ॥३८॥",
+      "english": "There I have no fear from Partha or Janardana. There shall take place an encounter between me and them both in the battle.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "अज्ञानाद्धि क्षिपन्बाणान् घोररूपान् भयानकान् । होमधेन्वा वत्समस्य प्रमत्त इषुणाऽहनम् ॥३९॥",
+      "english": "O king, while wandering about to set arrows my Vijaya bow I myself unconsciously killed with an arrows the calf of a Brahmana's Homa I began discharging dreadful shafts while it was roaming in the dense forest. The Brahmana then addressed me, saying-",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः",
+      "combined_translation": "39-40"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "चरन्तं विजने शल्य ततोऽनुव्याजहार माम् । यस्मात्त्वत्या प्रमत्तेन होमधेन्वा हतः सुतः ॥४०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः",
+      "english_ref": 39,
+      "combined_translation": "39-40"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "श्वभ्रे ते पततां चक्रमिति मां ब्राह्मणोऽब्रवीत् । युध्यमानस्य संग्रामे प्राप्तस्यैकायनं भयम् ॥४१॥",
+      "english": "Since you have carelessly killed the offspring of my Homa cow, the wheel of your car will sink into the earth and at the time of war your heart will be possessed by fear.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "तस्माद्बिभेमि बलवद्ब्राह्मणव्याहृतादहम् । एते हि सोमराजान ईश्वराः सुखदुःखयोः ॥४२॥",
+      "english": "I always stand in great fear of these words of the Brahmana. The kings of the Lunar dynasty, the lords of people's happiness and on COW as misery, offered him a thousand kine and six hundred bovine bulls. Still with such a gift O Shalya, O king Madra, the Brahmana was not grated.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः",
+      "combined_translation": "42-43"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "अदां तस्मै गोसहस्रं बलीवर्दांश्च षट्शतान् । प्रसादं न लभे शल्य ब्राह्मणान्मद्रकेश्वर ॥४३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः",
+      "english_ref": 42,
+      "combined_translation": "42-43"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "ईषादन्तान् सप्तशतान् दासीदासशतानि च । ददतो द्विजमुख्यो मे प्रसादं न चकार सः ॥४४॥",
+      "english": "I then offered him seven hundred elephants of huge tusks and many hundreds of male and female slaves. And still that best of Brahmanas was not satisfied.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "कृष्णानां श्वेतवत्सानां सहस्राणि चतुर्दश । आहरं न लभे तस्मात्प्रसादं द्विजसत्तमात् ॥४५॥",
+      "english": "Offering him then full fourteen thousand black kine each with a white calf I could not obtain the grace of that best of Brahmanas.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "ऋद्धं गृहं सर्वकामैर्यच्च मे वसु किञ्चन । तत्सर्वमस्मै सत्कृत्य प्रयच्छामि न चेच्छति ॥४६॥",
+      "english": "Then I offered him a beautiful palace abounding in all objects of desire, in fact, whatever riches I had but still he refused to accept the gift.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "ततोऽब्रवीन्मां याचन्तमपराधं प्रयत्नतः । व्याहृतं यन्मया सूत तत्तथा न तदन्यथा ॥४७॥",
+      "english": "He then said to nie who had offered him and thus implored his forgiveness.” What I have said, O Suta, will surely take place. It can never be otherwise.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "अनृतोक्तं प्रजां हन्यात्ततः पापमवाप्नुयाम् । तस्माद्धर्माभिरक्षार्थं नानृतं वक्तुमुत्सहे ॥४८॥",
+      "english": "False words will destroy creatures and the sin will come upon me. Therefore for preserving virtue I dare not speak an untruth.",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "मा त्वं ब्रह्म गतिं हिंस्याः प्रायश्चित्तं कृतं त्वया । मद्वाक्यं नानृतं लोके कश्चित्कुर्यात्समाप्नुहि ॥४९॥",
+      "english": "You shall not destroy the means of Brahmana's livelihood. There is none on earth who can falsify my words. Accept my words and this will be an atonement for your sin,",
+      "bhavadeepa": null,
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "इत्येतत्ते मया प्रोक्तं क्षिप्तेनापि सुहृत्तया । जानामि त्वां विक्षिपन्तं जोषमास्वोत्तरं शृणु ॥५०॥",
+      "english": "Although chastised by you still for your friendship I have spoken out all this to you. I know you who are chastising me thus. Be silent and hear what I will speak 11OW. know you who are chastising me thus. Be silent and hear what I will speak 11OW.",
+      "bhavadeepa": "समाप्नुहि शापमनुभवस्वेत्यर्थः ॥४९॥",
+      "chapter": 42,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्विचत्वारिंशोऽध्यायः"
+    }
+  ]
+}

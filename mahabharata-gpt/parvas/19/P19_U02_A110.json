@@ -1,0 +1,909 @@
+{
+  "adhyaya_id": "P19_U02_A110",
+  "book": 19,
+  "parva_name": "हरिवंशः",
+  "upaparva_name": "विष्णुपर्व",
+  "adhyaya_name": "धन्योपाख्यानम्-११०",
+  "chapter": 165,
+  "verse_count": 88,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वैशम्पायन उवाच।\n              हृतो यदैव प्रद्युम्नः शम्बरेणात्मघातिना। मासेऽस्मिन्नेव साम्बस्तु जाम्बवत्यामजायत॥१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "बाल्यात्प्रभृति रामेण शस्त्रेषु विनियोजितः। रामादनन्तरश्चैव मानितः सर्ववृष्णिभिः॥२॥",
+      "english": null,
+      "bhavadeepa": "हृत इति॥१॥",
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०",
+      "combined_translation": "2-2"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "जातमात्रे ततः कृष्णः शुभां तामवसत्पुरीम्। निहतामित्रसामन्तः शक्रोद्यानं यथामरः॥३॥",
+      "english": null,
+      "bhavadeepa": "अनन्तरः अनूनः॥२॥",
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०",
+      "combined_translation": "3-3"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "यादवीं च श्रियं दृष्ट्वा स्वां श्रियं द्वेष्टि वासवः। जनार्दनभयाच्चैव न शान्तिं लेभिरे नृपाः॥४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०",
+      "combined_translation": "4-4"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "कस्यचित्त्वथ कालस्य पुरे वारणसाह्वये। दुर्योधनस्य यज्ञे वै समीयुः सर्वपार्थिवाः॥५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०",
+      "combined_translation": "5-5"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "तां श्रुत्वा माधवीं लक्ष्मीं सपुत्रं च जनार्दनम्। पुरीं द्वारवतीं चैव निविष्टां सागरान्तरे॥६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०",
+      "combined_translation": "6-6"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "दूतैस्तैः कृतसन्धानाः पृथिव्यां सर्वपार्थिवाः। श्रियं द्रश्टुं हृषीकेशमाजग्मुः कृष्णमन्दिरम्॥७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०",
+      "combined_translation": "7-7"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "दुर्योधनमुखाः सर्वे धृतराष्ट्रवशानुगाः। पाण्दवप्रमुखाश्चैव धृष्टद्युम्नादयो नृपाः॥८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०",
+      "combined_translation": "8-8"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "पाण्ड्याश्चोलकलिङ्गेशा बाह्लीका द्राविडाः खशाः। अक्षौहिणीः प्रकर्षन्तो दश चाष्टौ च भूमिपाः॥९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०",
+      "combined_translation": "9-9"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "आजग्मुर्यादवपुरीं गोविन्दभुजपालिताम्। ते पर्वतं रैवतकं परिवार्यावनीश्वराः॥१०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०",
+      "combined_translation": "10-10"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "विविशुर्योजनाख्यासु स्वासु स्वासु च भूमिषु। ततः श्रीमान्हृषीकेशः सह यादवपुङ्गवैः॥११॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०",
+      "combined_translation": "11-11"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "समीपं मानवेन्द्राणां निर्ययौ कमलेक्षणाः। स तेषां नरदेवानां मध्यस्थो मधुसूदनः॥१२॥",
+      "english": null,
+      "bhavadeepa": "योजनाख्यासु बहूनां सैनिकानां प्रधानराज्ञैकदेशेनामुकदेशीयेन स्थातव्यमित्येवंरूपा सुव्यवस्था योजनास्तदाख्यासु॥११॥",
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०",
+      "combined_translation": "12-12"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "व्यराजत यदुश्रेष्ठः शरदीव दिवाकरः। स तत्र समुदाचारं यथास्थानं यथावयः॥१३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०",
+      "combined_translation": "13-53"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "कृत्वा सिंहासने कृष्णः काञ्चने निषसाद ह। राजानोऽपि यथास्थानं निषेदुर्विविधेष्वथ॥१४॥",
+      "english": null,
+      "bhavadeepa": "समुदाचारं वन्दनादिरूपं शिष्टाचारम्॥१३॥",
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०",
+      "combined_translation": "14-14"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "सिंहासनेषु चित्रेषु पीठेषु च नराधिपाः। स यादवनरेन्द्राणां समाजः शुशुभे तदा॥१५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०",
+      "combined_translation": "15-15"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "सुराणामसुराणां च सदसि ब्रह्मणो यथा। तेषां चित्राः कथास्तत्र प्रवृत्तास्तत्समागमे। यदूनां पार्थिवानां च केशवस्योपशृण्वतः॥१६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०",
+      "combined_translation": "16-16"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "एतस्मिन्नन्तरे वायुर्ववौ मेघरवोपमः। तुमुलं दुर्दिनं चासीत्सविद्युत्स्तनयित्नुमत्॥१७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०",
+      "combined_translation": "17-17"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "तद्दुर्दिनतलं भित्त्वा नारदः प्रत्यदृश्यत। संवेष्टितजटाभारो वीणासक्तेन बाहुना॥१८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०",
+      "english_ref": 1,
+      "combined_translation": "1-18"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "स पपात नरेन्द्राणां मध्ये सागरसन्निभः। नारदोऽग्निशिखाकारः श्रीमाञ्छक्रसखो मुनिः॥१९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "तस्मिन्निपतिते भूमौ नारदे मुनिपुङ्गवे। तदद्भुतं महामेघं व्यपाकृष्यत दुर्दिनम्॥२०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "सोऽवगाह्य नरेन्द्राणां मध्ये सागरसन्निभः। आसनस्थं यदुश्रेष्ठमुवाच मुनिरव्ययम्॥२१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "आश्चर्यं खलु देवानामेकस्त्वं पुरुषोत्तमः। धन्यश्चासि महाबाहो लोके नान्योऽस्ति कश्चन॥२२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "एवमुक्तः स्मितं कृत्वा प्रत्युवाच मुनिं प्रभुः। आश्चर्यश्चैव धन्यश्च दक्षिणाभिः सहेत्यहम्॥२३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "एवमुक्तो मुनिश्रेष्ठः प्राह मध्ये महीभृताम्। कृष्ण पर्याप्तवाक्योऽस्मि गमिश्यामि यथागतम्॥२४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "तं प्रस्थितमभिप्रेक्ष्य पार्थिवाः प्राहुरीश्वरम्। गुह्यं मन्त्रमजानन्तो वचनं नारदेरितम्॥२५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "आश्चर्यमित्यभिहितं धन्योऽसीति च माधव। दक्षिणाभिः सहेत्येवं प्रयुक्तेऽपि च नारदे॥२६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "किमेतन्नाभिजानीमो दिव्यं मन्त्रपदं महत्। यदि श्राव्यमिदं कृष्ण श्रोतुमिच्छाम तत्त्वतः॥२७॥",
+      "english": null,
+      "bhavadeepa": "अत्र कूर्मादिक्रमेण आश्चर्यत्वधन्यत्वयोः परा काष्ठा कृष्ण इति नारदमुखात्तस्य ज्ञानं दक्षिणाभिः सहेति वासुदेवस्य प्रत्युत्तरं ये विपुलदक्षिणैर्यज्ञैरीश्वरं मां यजन्ते त एव मय्याश्चर्यत्वधन्यत्वयोः विश्रान्तिं जानन्तीति॥२६॥",
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "तानुवाच ततः कृष्णः सर्वान्पार्थिवपुङ्गवान्। श्रोतव्यं नारदस्त्वेष द्विजो वः कथयिष्यति॥२८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "ब्रूहि नारद तत्त्वार्थं श्रोतुकामा महीभुजः। यत्त्वयाभिहितं वाक्यं मया नु प्रतिभाषितम्॥२९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "स पीठे काञ्चने शुभ्रे सूपविष्टः स्वलङ्कृतः। प्रभावं तस्य वन्द्यस्य प्रवक्तुमुपचक्रमे॥३०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "नारद उवाच।\n              श्रूयतां भो नृपश्रेष्ठा यावन्तः स्थ समागताः। अस्य कृष्णस्य महतो यथा पारमहं गतः॥३१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "अहं कदाचिद्गङ्गायास्तीरे त्रिषवणातिथिः। चराम्येकः क्षपापाये दृश्यमाने दिवाकरे॥३२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "अपश्यं गिरिकूटाभं कपालद्वयदेहिनम्। क्रोशमण्डलविस्तारं तावद्द्विगुणमायतम्॥३३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "चतुश्चरणसुश्लिष्टं क्लिन्नं चैव सपाङ्किलम्। मम वीणाकृतिं कूर्मं गजचर्मचयोपमम्॥३४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "सोऽहं तं पाणिना स्पृष्ट्वा प्रोक्तवाञ्जलचारिणम्। त्वमाश्चर्यशरीरोऽसि कूर्म धन्योऽसि मे मतः॥३५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "यस्त्वमेवमभेद्याभ्यां कपालाभ्यां समावृतः। तोये चरसि निःशङ्कः किञ्चिदन्यमचिन्तयन्॥३६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "स मामुवाचाम्बुचरः कूर्मो मानुषवत्स्वयम्। किमाश्चर्यं मयि मुने धन्यश्चाहं कथं विभो॥३७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "गङ्गेयं निम्नगा धन्या किमाश्चर्यमतः परम्। यत्राहमिव सत्त्वानि चरन्त्ययुतशो द्विज॥३८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "सोऽहं कुतूहलाविष्टो नदीं गङ्गामुपस्थितः। धन्यासि त्वं सरिच्छ्रेष्ठे नित्यमाश्चर्यभूषिता॥३९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "या त्वमेव महादेहैः श्वापदैरुपशोभिता। ह्रदिनी सागरं यासि रक्षन्ती तापसालयान्॥४०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "एवमुक्ता ततो गङ्गा रूपिणी प्रत्यभाषत। नारदं देवगन्धर्वं शक्रस्य दयितं द्विजम्॥४१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "मा मैवं देवगन्धर्व सङ्ग्रामकलहप्रिय। नाहं धन्या द्विजश्रेष्ठ नैवाश्चर्योपशोभिता॥४२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "तव सत्ये निविष्टस्य वाक्यं मां प्रतिबाधते। सर्वाश्चर्यकरो लोके धन्यश्चैवार्णावो द्विजः॥४३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "यत्राहमिव विस्तीर्णाः शतशो यान्ति निम्नगाः। सोऽहं त्रिपथगावाक्यं श्रुत्वार्णवमुपस्थितः॥४४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "आश्चर्यं खलु लोकानां धन्यश्चासि महार्णव। येन खल्वसि योनिस्त्वमम्भसां सलिलेश्वरः॥४५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "स्थाने त्वां वारिवाहिन्यः सरितो लोकपावनाः। इमाः समभिगच्छन्ति पत्न्यो लोकनमस्कृताः॥४६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "समुद्रस्त्वेवमुक्तस्तु ततो मामवदद्वचः। स्वं जलौघतलं भित्त्वा व्युत्थितः पवनेरितः॥४७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "मा मैवं देवगन्धर्व नास्म्याश्चर्यो द्विजर्षभ। वसुधेयं मुने धन्या यन्नाहमुपरि स्थितः॥४८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "ऋते तु पृथिवीं लोके किमाश्चर्यमतः परम्। सोऽहं सागरवाक्येन क्षितिं क्षितितले स्थितः॥४९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "कौतूहलसंविष्टो ह्यब्रुवं जगतो गतिम्। धरित्रि देहिनां योने धन्या खल्वसि शोभने॥५०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "आश्चर्यं चापि भूतेषु महत्या क्षमया युते। तेन खल्वसि भूतानां धरणी मनुजारणिः॥५१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "क्षमा त्वत्तः प्रभूता च कर्म चाम्बरगामिनाम्। ततो भूः स्तुतिवाक्येन सा मयोक्तेन तेजिता॥५२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "विहाय सहजं धैर्यं प्रत्यक्षा मामभाषत। देवगन्धर्व मा मैव सङ्ग्रामकलहप्रिय॥५३॥",
+      "english": null,
+      "bhavadeepa": "तेजिता क्षोभिता॥५२॥",
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "नास्मि धन्या न चाश्चर्यं पारक्येयं धृतिर्मम। एते धन्या द्विजश्रेष्ठ पर्वता धारयन्ति माम्॥५४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 55,
+      "sanskrit": "आश्चर्याणि च दृष्यन्ते एते लोकस्य हेतवः। सोऽहं धरणिवाक्येन पर्वतान्समुपस्थितः॥५५॥",
+      "english": null,
+      "bhavadeepa": "पारक्या परकीया॥५४॥",
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 56,
+      "sanskrit": "धन्या भवन्तो दृश्यन्ते बह्वाश्चर्याश्च भूधराः। काञ्चनस्याग्ररत्नस्य धातूनां च विशेषतः॥५६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 57,
+      "sanskrit": "तेन खल्वाकराः सर्वे भवन्तो भुवि शाश्वताः। ते ममैतद्वचः श्रुत्वा पर्वतास्तस्थुषां वराः॥५७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 58,
+      "sanskrit": "ऊचुर्मां सान्त्वयुक्तानि वचांसि वनशोभिताः। ब्रह्मर्षे न वयं धन्या नाप्याश्चर्याणि सन्ति नः। ब्रह्मा प्रजापतिर्धन्यः सर्वाश्चर्यः सुरेष्वपि॥५८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 59,
+      "sanskrit": "सोऽहं प्रजापतिं गत्वा सर्वप्रभवमव्ययम्। तस्य वाक्यस्य पर्यायपर्याप्तमिव लक्षये॥५९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 60,
+      "sanskrit": "सोऽहं पितामहं देवं लोकयोनिं चतुर्मुखम्। स्तोतुं पश्चादुपगतः प्रणतोऽवनताननः॥६०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 61,
+      "sanskrit": "सोऽहं वाक्यसमाप्त्यर्थं श्रावये पद्मयोनिजम्। आश्चर्यं भगवानेको धन्योऽसि जगतो गुरुः॥६१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 62,
+      "sanskrit": "न किञ्चिदन्यत्पश्यामि भूतं यद्भवता समम्। त्वत्तः सर्वमिदं जातं जगत्स्थावरजङ्गमम्॥६२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 63,
+      "sanskrit": "सदेवदानवा मर्त्या लोकभूतेन्द्रियात्मकाः। भवन्ति सर्वदेवेश दृष्ट्वा सर्वमिदं जगत्॥६३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 64,
+      "sanskrit": "तेन खल्वसि देवानां देवदेवः सनातनः। तेषामेवासि यत्स्रष्टा लोकानामादिसम्भवः॥६४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 65,
+      "sanskrit": "ततो मां प्राह भगवान्ब्रह्मा लोकपितामहः। धन्याश्चर्याश्रितैर्वाक्यैः किं मां नारद भाषसे॥६५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 66,
+      "sanskrit": "आश्चर्यं परमं वेदा धन्या वेदाश्च नारद। ये लोकान्धारयन्ति स्म वेदास्तत्त्वार्थदर्शिनः॥६६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 67,
+      "sanskrit": "ऋक्सामयजुषां सत्यमथर्वणी च यन्मतम्। तन्मयं विद्धि मां विप्र धृतोऽहं तैर्मया च ते॥६७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 68,
+      "sanskrit": "पारमेष्ठ्येन वाक्येन नोदितोऽहं स्वयम्भुवा। वेदोपस्थानिकां चक्रे मतिसंस्थानविस्तरात्॥६८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 69,
+      "sanskrit": "सोऽहं स्वयम्भूवचनाद्वेदान्वै समुपस्थितः। अवोचं तांश्च चतुरो मन्त्रप्रवचनान्वितान्॥६९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 70,
+      "sanskrit": "धन्या भवन्तः पुण्याश्च नित्यमाश्चर्यभूषिताः। आधारश्चैव विप्राणामेवमाह प्रजापतिः॥७०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 71,
+      "sanskrit": "स्वयम्भुवोऽपीह परं भवत्सु प्रश्नमागतम्। युष्मत्परतरं नास्ति श्रुत्या वा तपसापि वा॥७१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 72,
+      "sanskrit": "प्रत्यूचुस्ते ततो वाक्यं वेदा मामभितः स्थिताः। आश्चर्याश्चैव धन्याश्च यज्ञाश्चात्मपरायणाः॥७२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 73,
+      "sanskrit": "यज्ञार्थे च वयं सृष्टा धात्रा येन स्म नारद। तदस्माकं परो यज्ञो न वयं स्ववशे स्थिताः॥७३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 74,
+      "sanskrit": "स्वयम्भुवः परा वेदा वेदानां क्रतवः पराः। ततोऽहमब्रुवं यज्ञान्बृहद्वाग्भिः पुरस्कृतान्॥७४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 75,
+      "sanskrit": "भो यज्ञाः परमं तेजो युष्मासु खलु लक्ष्यते। ब्रह्मणाभिहितं वाक्यं यच्च वेदैरुदीरितम्॥७५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 76,
+      "sanskrit": "आश्चर्यमन्यल्लोकेऽस्मिन्भवद्भ्यो नाभिगम्यते। धन्याः खलु भवन्तो ये द्विजातीनां स्ववंशजाः॥७६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 77,
+      "sanskrit": "तेऽपि खल्वग्नयस्तृप्तिं युष्माभिर्यान्ति तर्पिताः। भागैश्च त्रिदशाः सर्वे मन्त्रैश्चैव महर्षयः॥७७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 78,
+      "sanskrit": "अग्निष्टोमादयो यज्ञा मम वाक्यादनन्तरम्। प्रत्यूचुर्मां ततो वाक्यं सर्वे यूपध्वजाः स्थिताः॥७८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 79,
+      "sanskrit": "आश्चर्यशब्दो नास्मासु धन्यशब्दोऽपि वा मुने। आश्चर्यं परमं विष्णुः स ह्यस्माकं परा गतिः॥७९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 80,
+      "sanskrit": "यदाज्यं वयमश्नीमो हुतमग्निषु पावनम्। तत्सर्वं पुण्डरीकाक्षो लोकमूर्तिः प्रयच्छति॥८०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 81,
+      "sanskrit": "सोऽहं विष्णोर्गतिं प्रेप्सुरिह सम्पतितो भुवि। दृष्टश्चायं मया कृष्णो भवद्भिरिह संवृतः॥८१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 82,
+      "sanskrit": "यन्मयाभिहितो ह्येष त्वमाश्चर्यं जनार्दन। धन्यश्चासीति भवतां मध्यस्थो ह्यत्र पार्थिवाः॥८२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 83,
+      "sanskrit": "प्रत्युक्तोऽहमनेनाद्य वाक्यस्यास्य यदुत्तरम्। दक्षिणाभिः सहेत्येवं पर्याप्तं वचनं मम॥८३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 84,
+      "sanskrit": "यज्ञानां हि गतिर्विष्णुः सर्वेषां सहदक्षिणः। दक्षिणाभिः सहेत्येवं प्रश्नो मम समाप्तवान्॥८४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 85,
+      "sanskrit": "कूर्मेणाभिहितं पूर्वं पारम्पर्यादिहागतम्। सदक्षिणोऽस्मिन्पुरुषे तद्वाक्यं प्रतिपादितम्॥८५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 86,
+      "sanskrit": "यन्मां भवन्तः पृच्छन्ति वाक्यस्यास्य विनिर्णयम्। तदेतत्सर्वमाख्यातं साधयामि यथागतम्॥८६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 87,
+      "sanskrit": "नारदे तु गते स्वर्गं सर्वे ते पृथिवीभुजः। विस्मीताः स्वानि राष्ट्राणि जग्मुः सबलवाहनाः॥८७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    },
+    {
+      "verse": 88,
+      "sanskrit": "जनार्दनोऽपि सहितो यदुभिः पावकोपमैः। स्वमेव भवनं वीरो विवेश यदुनन्दनः॥८८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 165,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "धन्योपाख्यानम्-११०"
+    }
+  ]
+}

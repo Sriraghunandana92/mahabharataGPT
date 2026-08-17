@@ -1,0 +1,926 @@
+{
+  "adhyaya_id": "P01_U07_A095",
+  "book": 1,
+  "parva_name": "आदिपर्व",
+  "upaparva_name": "सम्भवपर्व",
+  "adhyaya_name": "पञ्चनवतितमोऽध्यायः",
+  "chapter": 95,
+  "verse_count": 90,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "जनमेजय उवाच॥\n              श्रुतस्त्वत्तो मया ब्रह्मन्पूर्वेषां सम्भवो महान् । उदाराश्चापि वंशेऽस्मिन्राजानो मे परिश्रुताः ॥१॥",
+      "english": "Janamejaya said : O Brahmana, I have heard from you the great history of my ancestors. I have also heard from you about the great kings that were born in my dynasty.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "किं तु लघ्वर्थसंयुक्तं प्रियाख्यानं न मामति । प्रीणात्यतो भवान्भूयो विस्तरेण ब्रवीतु मे ॥२॥",
+      "english": "But I am not still satiated with this charming account, for it is so short. Therefore, narrate to me in detail. This delightful history, commencing from Prajapati Manu. Who will not feel delight in hearing such an account, sacred as it is.",
+      "bhavadeepa": "पञ्चनवतितमोऽध्यायः श्रुत इति ॥१॥",
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः",
+      "combined_translation": "2-3"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "एतामेव कथां दिव्यामा प्रजापतितो मनोः । तेषामाजननं पुण्यं कस्य न प्रीतिमावहेत् ॥३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः",
+      "english_ref": 2,
+      "combined_translation": "2-3"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "सद्धर्मगुणमाहात्म्यैरभिवर्धितमुत्तमम् । विष्टभ्य लोकांस्त्रीनेषां यशः स्फीतमवस्थितम् ॥४॥",
+      "english": "The fame of these monarchs covered the three on account of their wisdom, virtue, accomplishments and high characters.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "गुणप्रभाववीर्यौजःसत्त्वोत्साहवतामहम् । न तृप्यामि कथां शृण्वन्नमृतास्वादसंमिताम् ॥५॥",
+      "english": "Having heard of their liberality, prowess, physical strength, mental vigour, energy and perseverance, this history, sweet as ambrosia, I have not been satiated.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "वैशम्पायन उवाच।\n              शृणु राजन्पुरा सम्यङ्मया द्वैपायनाच्छ्रुतम् । प्रोच्यमानमिदं कृत्स्नं स्ववंशजननं शुभम् ॥६॥",
+      "english": "Vaishampayana said : O king, hear the auspicious history, of your own race as I recite it to you in detail and just as I heard it before from Dvaipayana.",
+      "bhavadeepa": "गुणाः दातृत्वादयः प्रभावो देवतादिवशित्वम् । वीर्यं शारीरं बलम् । ओजः मानसं सामर्थ्यं धैर्यादि । सत्वमदीनत्वम् उत्साहः प्रयतमानता ॥५॥",
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "दक्षाददितिरदितेर्विवस्वान्विवस्वतो मनुर्मनोरिला  इलायाः पुरूरवाः । पुरूरवस आयुरायुषो \n              नहुषो नहुषाद्ययातिर्ययातेर्द्वे भार्ये बभूवतुः ॥७॥",
+      "english": "Daksha, begot Aditi, Aditi begot Vivasvat. Vivasvat begot Manu. Manu begot lla. Ila begot Pururava, Pururava begot Ayusha, Ayusha begot Nahusha, Nahusha begot Yayati, Yayati had two wives, namely Devayani, the daughter of Ushanas (Shukra) and Sharmishtha, the daughter of Vrishaparva.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः",
+      "combined_translation": "7-8"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "उशनसो दुहिता देवयानी वृषपर्वणश्च दुहिता शर्मिष्ठा नाम ॥८॥",
+      "english": null,
+      "bhavadeepa": "अदितेर्दक्षोऽजायत दक्षाद्वादितिरिति परिश्रुतयोः सृष्टिक्रमयोरन्त्यमाह । दक्षाददितिरिति । आद्यस्तु हरिवंशे वक्ष्यते । अदितेर्दक्षो द्वादश इति । अनयोश्च पक्षयोः कल्पभेदेन व्यवस्था ॥७॥",
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः",
+      "english_ref": 7,
+      "combined_translation": "7-8"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "अत्रानुवंशो भवति । यदुं च तुर्वसुं चैव देवयानी व्यजायत । द्रुह्युं चानुं च पूरुं च शर्मिष्ठा वार्षपर्वणी ॥९॥",
+      "english": "This is a Sloka about this line-Devayani gave birth to Yadu and Turvasu; and Sharmishtha, the daughter of Vrishaparva, gave birth to Druhyu, Anu and Puru.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "तत्र यदोर्यादवाः पूरोः पौरवाः ॥१०॥",
+      "english": "From Yadu, the Yadavas were descended and from Puru and Pauravas.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "पूरोस्तु भार्या कौसल्या नाम तस्यामस्य जज्ञे\n              जनमेजयो नाम यस्त्रीनश्वमेधानाजहार विश्वजिता चेष्ट्वा वनं प्रविवेश ॥११॥",
+      "english": "Puru had a wife, named Kaushalya and he begot on her a son named Janamejaya. He performed three great Horse-sacrifices and a sacrifice called Vishvajit. He then retired into a forest.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "जनमेजयः खल्वनन्तां नामोपयेमे माधवीं\n              तस्यामस्य जज्ञे प्राचिन्वान् यः प्राचीं दिशं \n              जिगाय यावत्सूर्योदयात्ततस्तस्य प्राचिन्वत्वम्॥१२॥",
+      "english": "Janamejaya married Ananta, the daughter of Madhava. He begot on her a son, named Prachinvan. He was so called because he conquered all the countries in the east even where the sun rises.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "प्राचिन्वान्खल्वश्मकीमुपयेमे यादवीं तस्यामस्य जज्ञे संयातिः ॥१३॥",
+      "english": "Prachinvan married Ashmaki, the daughter of the Yadavas and she gave birth to a son, named Sanyati.",
+      "bhavadeepa": "यावत्सूर्योदयात् उदयाचलपर्यन्तम् एकेनैवाह्ना इति तु भावः ॥१२॥",
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "संयातिः खलु दृषद्वतो दुहितरं वराङ्गीं नामोपयेमे तस्यामस्य जज्ञे अहंयातिः॥१४॥",
+      "english": "Sanyati married Varangi, the daughter of Drishadvata and she gave birth to a son called Ahamyati.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "अहंयातिः खलु कृतवीर्यदुहितरमुपयेमे भानु-\n              मतीं नाम तस्यामस्य जज्ञे सार्वभौमः ॥१५॥",
+      "english": "Ahamyati married Bhanumati, the daughter of Kritavirya and he begot on her a son, named Sarvabhauma.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "सार्वभौमः खलु जित्वा जहार कैकेयीं सुनन्दां \n              नाम तामुपयेमे तस्यामस्य जज्ञे जयत्सेनो नाम॥१६॥",
+      "english": "Sarvabhauma married Sunanda, the daughter of Kekaya who was taken by force and she gave birth to a son, named Jayatsena.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "जयत्सेनः खलु वैदर्भीमुपयेमे सुश्रवां नाम \n              तस्यामस्य जज्ञे अवाचीनः॥१७॥",
+      "english": "Jayatsena married Sushrava, the daughter of the Vidarbha king and she gave birth to a son, named Avachina.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "अवाचीनोऽपि वैदर्भीमपरामेवोपयेमे मर्यादां \n              नाम तस्यामस्य जज्ञे अरिहः॥१८॥",
+      "english": "Avachina married another princess of the Vidharbha kings, called Maryada and she gave birth to a son, named Ariha.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "अरिहः खल्वाङ्गीमुपयेमे तस्यामस्य जज्ञे महाभौमः॥१९॥",
+      "english": "Ariha married Angi and she gave birth to a son, named Mahabhauma.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "महाभौमः खलु प्रासेनजितीमुपयेमे सुयज्ञां नाम \n              तस्यामस्य जज्ञे अयुतनायी यः पुरुषमेधा-\n              नामयुतमानयत्तेनास्यायुतनायित्वम्॥२०॥",
+      "english": "Mahabhauma married Suyajna, the daughter of Prasenjit and she gave birth to a son, named Ayutanayi. He was so called, because he performed a sacrifice in which the fat of one Ayuta male beings was required.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "अयुतनायी खलु पृथुश्रवसो दुहितरमुपयेमे कामां नाम । तस्यामस्य जज्ञे अक्रोधनः ॥२१॥",
+      "english": "Ayutanayi married Kama, the daughter of Prithushrava and she gave birth to a son, called Akrodhana.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "स खलु कालिङ्गीं करम्भां नामोपयेमे । तस्यामस्य जज्ञे देवातिथिः॥२२॥",
+      "english": "Akrodhana married Karambha, the daughter of the king of Kalinga and she gave birth to a son, called Devatithi.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "देवातिथिः खलु वैदेहीमुपयेमे मर्यादां नाम । तस्यामस्य जज्ञेऽरिहो नाम॥२३॥",
+      "english": "Devatithi married Maryada, the princess of Videha and she gave birth to a son, named Ariha.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "अरिहः खल्वाङ्गेयीमुपयेमे सुदेवां नाम । तस्यां पुत्रमजनयदृक्षम् ॥२४॥",
+      "english": "Ariha married Sudeva, the princess of Anga and she gave birth to a son, Riksha.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "ऋक्षः खलु तक्षकदुहितरमुपयेमे ज्वालां नाम । तस्यां पुत्रं मतिनारं नामोत्पादयामास ॥२५॥",
+      "english": "Riksha married Jvala, the daughter of Takshaka and she gave birth to a son, named Matinara.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "मतिनारः खलु सरस्वत्यां गुणसमन्वितं द्वादशवार्षिकं \n              सत्रमाजहार समाप्ते च सत्रे सरस्वत्यभिगम्य तं भर्तारं वरयामास । तस्यां पुत्रमजनयत्तंसुं नाम ॥२६॥",
+      "english": "Matinara performed the most efficacious twelve years' sacrifice on the banks of the Sarasvati. At the conclusion of the sacrifice, the Sarasvati herself appeared before him and chose him as her husband. He begot on her a son, named Tansu.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "अत्रानुवंशो भवति । तंसुं सरस्वती पुत्रं मतिनारादजीजनत् । ईलिनं जनयामास कालिङ्ग्यां तं सुरात्मजम् ॥२७॥",
+      "english": "Here is Sloka describing Tansu's descendants. Tansu begot on his wife, the princess of Kalinga, a son, named Ilina.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "ईलिनस्तु रथन्तर्यां दुष्यन्ताद्यान्पञ्च पुत्रानजीजनत्॥२८॥",
+      "english": "Ilana begot on his wife, Rathantari, five sons, Dushyanta being the eldest of them.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "दुःषन्तः खलु विश्वामित्रदुहितरं शकुन्तलां नामोपयेमे । तस्यामस्य जज्ञे भरतः ॥२९॥",
+      "english": "Dushyanta married Shakuntala, the daughter of Vishvamitra and she gave birth to a son, named Bharata.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "अत्रानुवंशश्लोकौ भवतः । भस्त्रा माता पितुः पुत्रो येन जातः स एव सः । भरस्व पुत्रं दुष्यन्त मावमंस्थाः शकुन्तलाम् ॥३०॥",
+      "english": "Here are two Slokas, describing the descendants of Bharata. \"O Dushyanta, the mother is but a sheath of flesh (within which the son dwells). The son sprung from the father is the father himself. Therefore, cherish your son. Do not insult Shakuntala.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "रेतोधाः पुत्र उन्नयति नरदेव यमक्षयात् । त्वं चास्य धाता गर्भस्य सत्यमाह शकुन्तला ॥३१॥",
+      "english": "\"O best of men, the son, begotten by one's own self, rescues him from the abode of Yama. You are the father of this son. Shakuntala has spoken the truth.\"",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "ततोऽस्य भरतत्वं भरतः खलु काशेयीमुपयेमे \n              सार्वसेनीं सुनन्दां नाम तस्यामस्य जज्ञे भुमन्युः ॥३२॥",
+      "english": "It is for this reason he was called Bharata. Bharata married Sunanda, the daughter of Sarvasena, the king of Kashi and she gave birth to a son, called Bhumanyu.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "भुमन्युः खलु दाशार्हीमुपयेमे विजयां नाम तस्यामस्य जज्ञे सुहोत्रः॥३३॥",
+      "english": "Bhumanyu married Vijaya, the daughter of Dasarha and she gave birth to a son, named Suhotra.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "सुहोत्रः खल्विक्ष्वाकुकन्यामुपयेमे सुवर्णां नाम \n              तस्यामस्य जज्ञे हस्ती ।य इदं हास्तिनपुरं स्थापयामास । एतदस्य हास्तिनपुरत्वम् ॥३४॥",
+      "english": "Suhotra married Suvarna, the daughter of Ikshaku and she gave birth to a son, named Hasti, who founded this city, called after his name Hastinapur.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "हस्ती खलु त्रैगर्तीमुपयेमे यशोधरां नाम । तस्यामस्य जज्ञे विकुण्ठनो नाम॥३५॥",
+      "english": "Hasti married Yashodhara, the princess of Trigarta and she gave birth to a son, named Vikunthana.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "विकुण्ठनः खलु दाशार्हीमुपयेमे सुदेवां नाम । तस्यामस्य अजमीढो नाम॥३६॥",
+      "english": "Vikunthana married Sudeva, the princess of Dasarha and she gave birth to a son, named Ajamidha.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "अजमीढस्य चतुर्विंशं पुत्रशतं बभूव कैकेय्यां गान्धार्यां \n              विशालायामृक्षायां चेति पृथक्पृथग्वंशधरा नृपतयः । तत्र वंशकरः संवरणः ॥३७॥",
+      "english": "Ajamidha had four wives, namely Kaikeyi, Gandhari, Vishala and Riksha and he begot on them two thousands and one hundred sons. And Amongst them all, Samvarana became the perpetuator of the dynasty,",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "संवरणः खलु वैवस्वतीं तपतीं नामोपयेमे । तस्यामस्य जज्ञे कुरुः ॥३८॥",
+      "english": "Samvarana married Tapati, the daughter of Vivasvata and she gave birth to a son, named Kuru.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "कुरुः खलु दाशार्हीमुपयेमे शुभाङ्गीं नाम । तस्यामस्य जज्ञे विदूर:॥३९॥",
+      "english": "Kuru married Shubhangi, the princess of Dasarha and she gave birth to a son, named Vidura.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "विदूरस्तु मागधीमुपयेमे सम्प्रियां नाम । तस्यामस्य जज्ञे अनश्वा नाम॥४०॥",
+      "english": "Vidura married Sungpriya, the daughter of Madhava and she gave birth to a son, named Anashva.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "अनश्वा खलु मागधीमुपयेमे अमृतां नाम । तस्यामस्य जज्ञे परीक्षित् ॥४१॥",
+      "english": "Anashva married Amrita, the daughter of the Magadhas and she gave birth to a son, named Parikshit.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "परीक्षित्खलु बाहुदामुपयेमे सुयशां नाम । तस्यामस्य जज्ञे भीमसेनः॥४२॥",
+      "english": "Parikshit married Suyasha, the daughter of Vahuda and she gave birth to a son, named Bhimasena.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "भीमसेनः खलु कैकेयीमुपयेमे सुकुमारीं नाम । तस्यामस्य जज्ञे पतिश्रवा नाम॥४३॥",
+      "english": "Bhimasena married Kumari, the princess of Kekaya and she gave birth to a son, named Pratishrava.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "प्रतिश्रवसः प्रतीपः खलु शैब्यामुपयेमे सुनन्दां नाम । तस्यां पुत्रानुत्पादयामास देवापिं शान्तनुं बाह्लीकं चेति ॥४४॥",
+      "english": "Pratishrava begot Pratipa; Pratipa married Sunanda, the daughter of Sibi and she gave birth to three sons, namely Devapi, Shantanu and Balhika.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "देवापिः खलु बाल एवारण्यं विवेश । शान्तनुस्तु महीपालो बभूव॥४५॥",
+      "english": "Devapi retired into a forest as a hermit when he was still a boy. Therefore, Shantanu became king.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "अत्रानुवंशश्लोको भवति । यं यं कराभ्यां स्पृशति जीर्णं स सुखमश्नुते । पुनर्युवा च भवति तस्मात्तं शान्तनुं विदुः ॥\n              इति तदस्य शान्तनुत्वम् ॥४६॥",
+      "english": "Here occurs a Sloka, describing Shantanu. \"Those that were touched by this king with his hands, felt indescribable pleasure. They became restored to youth. Therefore, this king was called Shantanu.\"",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "शान्तनुः खलु गङ्गां भागीरथीमुपयेमे । तस्यामस्य जज्ञे देवव्रतो यमाहुर्भीष्ममिति ॥४७॥",
+      "english": "Shantanu married Ganga and she gave birth to a son, named Devavrata, who was afterwards called Bhishma.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "भीष्मः खलु पितुः प्रियचिकीर्षया सत्यवतीं\n              मातरमुदवाहयत् यामाहुर्गन्धकालीमिति॥४८॥",
+      "english": "Bhishma, being desirous of doing good to his father, got him married to Satyavati, who was also called Gandhakali.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "तस्यां पूर्वं कानीनो गर्भः पराशराद्द्वैपायनोऽभवत् । तस्यामेव शन्तनोरन्यौ द्वौ पुत्रौ बभूवतुः ॥४९॥",
+      "english": "In her maidenhood she gave birth to a son by Parashara, named Dvaipayana. Shantanu begot two more sons on her.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "विचित्रवीर्यश्चित्राङ्गदश्च तयोरप्राप्तयौवन एव \n              चित्राङ्गदो गन्धर्वेण हतः विचित्रवीर्यस्तु राजासीत्॥५०॥",
+      "english": "Namely Vichitravirya and Chitrangada. But before they attained to their youth, Chitrangada was killed by the Gandharvas. Therefore, Vichitravirya became king.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "विचित्रवीर्यः खलु कौसल्यात्मजेऽम्बिका \n              बालिके काशिराजदुहितरावुपयेमे॥५१॥",
+      "english": "Vichitravirya married the two daughters of the king of Kashi born of Kaushalya, named Amyika and Ambalika.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "विचित्रवीर्यस्त्वनपत्य एव विदेहत्वं प्राप्तस्ततः\n              सत्यवत्यचिन्तयन्मा दौष्यन्तो वंश उच्छेदं व्रजेदिति॥५२॥",
+      "english": "Vichitravirya died childless. Thereupon, Satyavati began to think how the dynasty of Dushyanta might be perpetuated.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "सा द्वैपायनमृषिं मनसा चिन्तयामास । स तस्याः पुरतः स्थितः किं करवाणीति ॥५३॥",
+      "english": "She then thought of Rishi Dvaipayana in her mind. He stood before her and said, \"What are you commands?”'",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "सा तमुवाच भ्राता तवानपत्य एव स्वर्यातो विचित्रवीर्यः । साध्वपत्यं तस्योत्पादयेति ॥५४॥",
+      "english": "She told him, “Your brother Vichitravirya has gone to heaven childless. Beget virtuous children for him.”",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 55,
+      "sanskrit": "स तथेत्युक्त्वा त्रीन्पुत्रानुत्पादयामास \n              धृतराष्ट्रं पाण्डुं विदुरं चेति॥५५॥",
+      "english": "Dvaipayana consented to do it and he begot three sons, namely Dhritarashtra, Pandu and Vidura.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 56,
+      "sanskrit": "तत्र धृतराष्ट्रस्य राज्ञः पुत्रशतं बभूव गान्धार्यां वरदानाद्द्वैपायनस्य॥५६॥",
+      "english": "The king Dhritarashtra begot one hundred sons on his wife Gandhari on account of the boon granted by Dvaipayana.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 57,
+      "sanskrit": "तेषां धृतराष्ट्रस्य पुत्राणां चत्वारः प्रधाना बभूवुर्दुर्योधनो दुःशासनो विकर्णश्चित्रसेन इति ॥५७॥",
+      "english": "Amongst those one hundred sons, four became famous; (they were) Duryodhana, Dushasana, Vikarna and Chitrasena.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 58,
+      "sanskrit": "पाण्डोस्तु द्वे भार्ये बभूवतुः कुन्ती पृथा नाम माद्री चेत्युभे स्त्रीरत्ने॥५८॥",
+      "english": "Pandu had two best jewels of wives, namely Kunti, also called Pritha and Madri.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 59,
+      "sanskrit": "अथ पाण्डुर्मृगयां चरन्मैथुनगतमृषिमपश्यन्मृग्यां वर्तमानम् । तथैवाद्भुतमनासादितकामरसमतृप्तं च बाणेनाजघान॥५९॥",
+      "english": "Pandu one day went to hunt and saw a deer with its mate. It was s Rishi in the form of a deer. He killed it with his arrow in that state, when his desire was not satiated.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 60,
+      "sanskrit": "स बाणविद्ध उवाच पाण्डुम् चरता धर्ममिमं येन त्वयाभिज्ञेन कामरसस्याहमनवाप्तकामरसो निहतस्तस्मात्त्वमप्येतामवस्थामासाद्यानवाप्तकामरसः पञ्चत्वमाप्स्यसि क्षिप्रमेवेति स विवर्णरूपस्तथा पाण्डुः शापं परिहरमाणो नोपासर्पत भार्ये वाक्यं चोवाच॥६०॥",
+      "english": "Wounded with the arrow of the king, the deer quickly changed its form and became a Rishi. He said to Pandu, \"You are virtuous and you know the pleasure derived from the gratification of one's desire. My desire is not yet satisfied, but you have killed me. Therefore, you will also die when you will be so engaged and when your desire will not be gratified.” Pandu became pale to hear this curse. And from that time he did not go to his wives.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 61,
+      "sanskrit": "स्वचापल्यादिदं प्राप्तवानहम् शृणोमि च नानपत्यस्य लोका सन्तीति । सा त्वं मदर्थे पुत्रानुत्पादयेति कुन्तीमुवाच सा तथोक्ता पुत्रानुत्पादयामास। धर्माद्युधिष्ठिरं मारुताद्भीमसेनं शक्रादर्जुनमिति ॥६१॥",
+      "english": "He told them, “I have been cursed by my fault. But I have heard that there are no regions hereafter for those who are childless.\" Therefore, he asked Kunti to raise offspring for him. Kunti said, “Let it be so.\" By Dharma she had Yudhishthira, by Maruta Bhima and by Indra Arjuna.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 62,
+      "sanskrit": "तां संहृष्टरूपः पाण्डुरुवाच ।\n              इयं ते सपत्न्यनपत्या साध्वस्या अपत्यमुत्पाद्यतामिति । एवमस्त्विति कुन्ती  तां विद्यां माद्र्याः प्रायच्छत्॥६२॥",
+      "english": "Pandu was much pleased with her and said, “This your sister (my co-wife) is also childless. Therefore, cause her to give birth to children.” Kunti said, “Let it be so,\" and she imparted unto Madri the Mantra of invocation.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 63,
+      "sanskrit": "माद्र्यामश्विभ्यां नकुलसहदेवावुत्पादितौ ॥६३॥",
+      "english": "And Madri gave birth by the Ashvinis, the twins Nakula and Sahadeva.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 64,
+      "sanskrit": "माद्रीं खल्वलङ्कृतां दृष्ट्वा पाण्डुर्भावं चक्रे स तां स्पृष्ट्वैव विदेहत्वं प्राप्तः ॥६४॥",
+      "english": "One day Pandu saw Madri decked in ornaments and his desire was kindled, As soon as he touched her, he died. Thereupon, Madri ascended, his funeral pyre. She said to Kunti, “Let my twin sons be affectionately brought up by you.\"",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः",
+      "combined_translation": "64-65"
+    },
+    {
+      "verse": 65,
+      "sanskrit": "तत्रैनं चितास्थं माद्री समन्वारुरोह । उवाच कुन्तीम् यमयोरप्रमत्तया त्वया भवितव्यमिति ॥६५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः",
+      "english_ref": 64,
+      "combined_translation": "64-65"
+    },
+    {
+      "verse": 66,
+      "sanskrit": "ततस्ते पाण्डवाः कुन्त्या सहिता हास्तिनपुरमानीय \n              तापसैर्भीष्मस्य च विदुरस्य च निवेदिताः । सर्ववर्णानां च निवेद्यां तर्हितास्तापसा बभूवुः प्रेक्ष्यमाणानां तेषाम्॥६६॥",
+      "english": "Some time after, the Pandu princes, with their mother Kunti, were taken by the ascetics to Hastinapur and they were introduced to Bhishma and Vidura. After introducing them to all the orders, the ascetics disappeared in the very sight of all.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 67,
+      "sanskrit": "तच्च वाक्यमुपश्रुत्य भगवतामन्तरिक्षात्पुष्पवृष्टिः पपात \n              देवदुन्दुभयश्च प्रणेदुः॥६७॥",
+      "english": "After the conclusion of the speech of these ascetics, flowers were showered down upon the place and celestial drums were beaten in the sky.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 68,
+      "sanskrit": "प्रतिगृहीताश्च पाण्डवाः पितुर्निधनमावेदयन्तस्तस्यौर्ध्वदेहिकं\n              न्यायतश्च कृतवन्तस्तांस्तत्र निवसतः पाण्डवान्बाल्यात्प्रभृति दुर्योधनो नामर्षयत्॥६८॥",
+      "english": "The Pandavas were, thereupon, accepted (by all). They then represented the death of their father and duly performed his obsequies. As they were brought up there in their boyhood, Duryodhana became very jealous of them.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 69,
+      "sanskrit": "पापाचारो राक्षसीं बुद्धिमाश्रितोऽनेकैरुपायैरुद्धर्तुं च \n              व्यवसितो भावित्वाच्चार्थस्य न शकितास्ते समुद्धर्तुम्॥६९॥",
+      "english": "The sinful (Duryodhana), acting like a Rakshasa, attempted by various means to drive them away, but what is to be can never be prevented.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 70,
+      "sanskrit": "ततश्च धृतराष्ट्रेण व्याजेन वारणावतमनुप्रेषिता गमनमरोचयन्॥७०॥",
+      "english": "Dhritarashtra then by an act of deception sent them to Varanavata. They also went gladly there.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 71,
+      "sanskrit": "तत्रापि जतुगृहे दग्धुं समारब्धा न शकिता विदुरमन्त्रितेन ॥७१॥",
+      "english": "An attempt was there made to burn them to death, but they were saved through the warning counsel of Vidura.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 72,
+      "sanskrit": "तस्माच्च हिडिम्बमन्तरा हत्वा एकचक्रां गताः ॥७२॥",
+      "english": "After this Hidimba was killed and they then went to a place, called Ekachakra.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 73,
+      "sanskrit": "तस्यामप्येकचक्रायां बकं नाम राक्षसं हत्वा पाञ्चालनगरमभिगताः ॥७३॥",
+      "english": "They killed at Ekachakra a Rakshasa, named Baka. They then went to Panchala city.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 74,
+      "sanskrit": "तत्र द्रौपदीं भार्यामविन्दन् स्वविषयं चाभिजग्मुः॥७४॥",
+      "english": "There they obtained Draupadi as their wife and they returned to their own kingdom.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 75,
+      "sanskrit": "कुशलिनः पुत्रांश्चोत्पादयामासुः प्रतिविन्ध्यं युधिष्ठिरः । सुतसोमं वृकोदरः श्रुतकीर्तिमर्जुनः शतानीकं नकुलः \n              श्रुतकर्माणं सहदेव इति ॥७५॥",
+      "english": "They lived in peace there (in Hastinapur) and begot sons. Yudhishthira begot Prativindhya, Bhima (begot) Sutasoma, Arjuna (begot) Shrutakirti, Nakula (begot) Shatanika and Sahadeva (begot) Shrutakarmana.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 76,
+      "sanskrit": "युधिष्ठिरस्तु गोवासनस्य शैब्यस्य देविकां नाम कन्यां स्वयंवराल्लेभे । तस्यां पुत्रं जनयामास यौधेयं नाम ॥७६॥",
+      "english": "Yudhishthira obtained in Svayamvara for his wife Devika, the daughter of Govasana of the Shaivya race and he begot on her a son, named Yaudheya. Bhima also obtained for his wife Balandhara, the daughter of the king of Kashi, by offering as his dower his own great prowess. He begot on her a son, named Sarvaga.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः",
+      "combined_translation": "76-77"
+    },
+    {
+      "verse": 77,
+      "sanskrit": "भीमसेनोऽपि काश्यां बलधरां नामोपयेमे वीर्यशुल्काम् । तस्यां पुत्रं सर्वगं नामोत्पादयामास॥७७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः",
+      "english_ref": 76,
+      "combined_translation": "76-77"
+    },
+    {
+      "verse": 78,
+      "sanskrit": "अर्जुनः खलु द्वारवतीं गत्वा भगिनीं वासुदेवस्य सुभद्रां भद्रभाषिणीं भार्यामुदावहत् । स्वविषयं चाभ्यजगाम कुशली तस्यां पुत्रमभिमन्युमतीव गुणसम्पन्नं दयितं वासुदेवस्याऽजनयत्॥७८॥",
+      "english": "Arjuna went to Dwarika and there he married by force the sweet-speeched Subhadra, the sister of Vasudeva (Krishna). He begot on her a son, named Abhimanyu, who was endued with all accomplishments and who was dear to Vasudeva himself.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 79,
+      "sanskrit": "नकुलस्तु चैद्यां करेणुवतीं नाम भार्यामुदवहत् । तस्यां पुत्रं निरमित्रं नामाजनयत् ॥७९॥",
+      "english": "Nakula obtained for his wife Karenumati, the princess of Chedi and he begot on her a son, named Niramitra.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 80,
+      "sanskrit": "सहदेवोऽपि माद्रीमेव स्वयंवरे विजयां नामोपयेमे । भद्रराजस्य द्युतिमतो दुहितरं तस्यां पुत्रमजनयत्सुहोत्रं नाम ॥८०॥",
+      "english": "Sahadeva obtained in Svayamvara Vijaya, the daughter of Dyutimata, the king of Madra. He begot a son on her, named Suhotra.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 81,
+      "sanskrit": "भीमसेनस्तु पूर्वमेव हिडिम्बायां राक्षस्यां घटोत्कचं नाम पुत्रमुत्पादयामास॥८१॥",
+      "english": "Bhima begot some time before on Hidimba a son, named Ghatotkacha.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 82,
+      "sanskrit": "इत्येते एकादश पाण्डवानां पुत्रास्तेषां वंशकरोऽभिमन्युः॥८२॥",
+      "english": "These were the eleven sons, begot by the Pandavas. Amongst them Abhimanyu was the perpetuator of the dynasty.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 83,
+      "sanskrit": "स विराटस्य दुहितरमुपयेमे उत्तरां नाम। तस्यामस्य परासुर्गर्भोऽभवत्तमुत्सङ्गेन \n              प्रतिजग्राह पृथा नियोगात्पुरुषोत्तमस्य वासुदेवस्य षाण्मासिकं गर्भमहमेनं जीवयिष्यामीति ॥८३॥",
+      "english": "He married Uttara, the daughter of the king of Virata. She gave birth to a dead child, whom Pritha (Kunti) took up on her lap at the command of Krishna, who said, \"I will revive this child of six months.”",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 84,
+      "sanskrit": "स भगवता वासुदेवेनासंजातबलवीर्यपराक्रमो कालजातोऽस्त्राग्निना दग्धस्तेजसा\n              स्वेन संजीवितः जीवयित्वा चैनमुवाच परिक्षीणे कुले जातो भवत्वयं परिक्षिन्नामेति॥८४॥",
+      "english": "Though born before time, having been burnt by the fire of the weapon (hurled by Ashvathama), though deprived of life, strength and energy, he was revived by Vasudeva and was given strength, energy and prowess. After thus making him alive, Vasudeva said, “As this child is born in an extinct race, let him be called Parikshit.” Parikshit married Madravati, your mother and she gave birth to you, Janamejaya.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः",
+      "combined_translation": "84-85"
+    },
+    {
+      "verse": 85,
+      "sanskrit": "परिक्षित्खलु माद्रवतीं नामोपयेमे त्वन्मातरं तस्यां भावन् जनमेजयः॥८५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः",
+      "english_ref": 84,
+      "combined_translation": "84-85"
+    },
+    {
+      "verse": 86,
+      "sanskrit": "भवतो पुष्टमायां द्वौ पुत्रौ जज्ञाते। शतानीकः शङ्कुकर्णश्च\n              शतानीकस्य वैदेह्यां पुत्र उत्पन्नोश्चमेधदत्त इति॥८६॥",
+      "english": "You have begotten two sons on your wife Vapushtama, named Shatanika and Shankukarna. And Shatanika has also begotten a son on the princess of Videha, named Ashvamedhadatta.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 87,
+      "sanskrit": "एष पूरोर्वंशः पाण्डवानां च कीर्तितो धन्यः पुण्यः परमपवित्रः सततं श्रोतय्वो\n              ब्राह्मणैर्नियमवद्भिरनन्तरं क्षत्रियैः स्वधर्मनिरतैः तथा शूद्रैरपि त्रिवर्णशुश्रूषुभिः श्रद्दद्धानैरिति॥८७॥",
+      "english": "Thus have I narrated to you the history of the Kuru and Pandu dynasty. It is excellent, virtue-increasing and greatly sacred. It should always be heard by the vow-observing Brahmanas and Kshatriyas devoted to the duties of their subjects. (It should be heard) also by Vaishyas with attention and with reverence by Shudras, whose chief duties are to wait upon the three other orders.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 88,
+      "sanskrit": "इतिहासमिमं पुण्यमशेषतः श्रावयिष्यन्ति ये नराः श्रोष्यन्ति वा नियतात्मनो विमत्सरा\n              मैत्रा वेदपरास्तेपि स्वर्गजितः पुण्यलोका भवान्ति सततं देवब्राह्मणमनुष्याणां मान्याः संपूज्याश्च॥८८॥",
+      "english": "Those Brahmanas, learned in the Vedas and all those men who will recite or listen to this holy history with attention and reverence, will conquer the heaven and attain to the abode of the blessed. They will be always respected and adored by the celestials, Brahmanas and all other men.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 89,
+      "sanskrit": "परं हीदं भारतं भगवता व्यासेन प्रोक्तं पावनं ये ब्राह्मणादयो वर्णाः श्रद्दधाना अमत्सरा\n              मैत्रा वेदसंपन्नाः श्रोष्यन्ति तेऽपि स्वर्गजितः सुकृतिनोऽशोच्याः कृताकृते भवन्ति॥८९॥",
+      "english": "This holy history, Bharata, has been told by the illustrious Vyasa. The Brahmanas, learned in the Vedas and all those men who hear it recited with reverence and without malice, conquer the heavens and earn great virtues. Though sinning, he is not disrespected by any.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 90,
+      "sanskrit": "भवति चात्र श्लोकः । इदं हि वेदैः समितं पवित्रमपि चोत्तमम्। धन्यं यशस्यमायुष्यं श्रोतव्यं नियतात्मभिः॥९०॥",
+      "english": "Here occurs a sloka. “This Bharata is equal to the Vedas. It is holy and good. It gives wealth, fame and life. Therefore, it should be heard by men with great attention.”",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    }
+  ]
+}

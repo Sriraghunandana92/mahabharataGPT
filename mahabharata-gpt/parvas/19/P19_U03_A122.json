@@ -1,0 +1,283 @@
+{
+  "adhyaya_id": "P19_U03_A122",
+  "book": 19,
+  "parva_name": "हरिवंशः",
+  "upaparva_name": "भविष्यपर्व",
+  "adhyaya_name": "सङ्कुलयुद्धम्",
+  "chapter": 305,
+  "verse_count": 25,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वैशम्पायन उवाच।\n              द्वे सेने सङ्गते राजन्सध्वजे सपरिच्छदे। महापरिघसङ्कीर्णे गदाशक्तिसमाकुले॥१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 305,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "भविष्यपर्व",
+      "adhyaya_name": "सङ्कुलयुद्धम्",
+      "combined_translation": "1-28"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "भेरीझर्झरसम्पूर्णे डिण्डिमारावसङ्कुले। प्रगृहीतमहाशस्त्रे शूलासिवरकार्मुके॥२॥",
+      "english": null,
+      "bhavadeepa": "द्व इति॥१॥",
+      "chapter": 305,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "भविष्यपर्व",
+      "adhyaya_name": "सङ्कुलयुद्धम्",
+      "combined_translation": "2-2"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "परस्परकृतोत्साहे चक्राते युद्धमुल्बणम्। ते शराः कार्मुकोत्सृष्टा निर्भिद्याथ शरीरिणाम्॥३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 305,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "भविष्यपर्व",
+      "adhyaya_name": "सङ्कुलयुद्धम्",
+      "combined_translation": "3-3"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "शरीराणि महाराज जग्मुर्दूरं सहस्रशः। भटबाहुविनिर्मुक्ताः खड्गा निर्भिद्य वक्षसि॥४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 305,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "भविष्यपर्व",
+      "adhyaya_name": "सङ्कुलयुद्धम्",
+      "combined_translation": "4-4"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "स्फुरन्तश्च तथा राजञ्छरांस्याहृत्य खं ययुः। परिघाश्च तथा राज्ञां बाहुभिः परिचोदिताः॥५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 305,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "भविष्यपर्व",
+      "adhyaya_name": "सङ्कुलयुद्धम्",
+      "combined_translation": "5-5"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "तिलशश्चक्रुरतुलं शरीरं नृपरक्षसाम्। दैत्यानां कुर्वतां नादमन्योन्यवधकाङ्क्षिणाम्॥६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 305,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "भविष्यपर्व",
+      "adhyaya_name": "सङ्कुलयुद्धम्",
+      "combined_translation": "6-6"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "दैत्या रक्षांसि राजेन्द्र राजानश्च समन्ततः। अन्योन्यं परिघैर्जघ्नुश्चापमुक्तैः शिलाशितैः॥७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 305,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "भविष्यपर्व",
+      "adhyaya_name": "सङ्कुलयुद्धम्",
+      "combined_translation": "7-7"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "शरैश्च भोगिभोगाभैस्तीक्ष्णमन्ये महाबलाः। राक्षसा दानवाश्चान्ये मत्तमातङ्गविक्रमाः॥८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 305,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "भविष्यपर्व",
+      "adhyaya_name": "सङ्कुलयुद्धम्",
+      "combined_translation": "8-8"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "अन्योन्यं जघ्निरे राजंश्चापमुक्तैर्महाशरैः। नागा नागैर्महाराज हया अश्वैः समन्ततः॥९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 305,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "भविष्यपर्व",
+      "adhyaya_name": "सङ्कुलयुद्धम्"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "रथा रथैः समाजग्मुः सादिनः सादिभिर्तथा। पट्टिशासिशरव्रातैः कुन्तैः सायककर्षणैः॥१०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 305,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "भविष्यपर्व",
+      "adhyaya_name": "सङ्कुलयुद्धम्"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "सशक्तिपरिघप्रासपरश्वधसमाकुलैः। भिन्दिपालैर्महारौद्रैर्जघ्नुरन्योन्यमाहवे॥११॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 305,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "भविष्यपर्व",
+      "adhyaya_name": "सङ्कुलयुद्धम्",
+      "combined_translation": "11-11"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "अन्योन्यं जघ्निरे राजंश्चापमुक्तैः शिलशितैः। राक्षसा दानवा राजङ्क्षत्रियाश्च समन्ततः। इतश्चेतश्च धावन्तः कुर्वन्तो विस्वरं रवम्॥१२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 305,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "भविष्यपर्व",
+      "adhyaya_name": "सङ्कुलयुद्धम्",
+      "combined_translation": "12-12"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "हताः केचिन्महाराज पेतुरुर्व्यां महासिभिः। केचिन्मथितमस्तिष्का गदाभिर्वीर्यवत्तमाः॥१३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 305,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "भविष्यपर्व",
+      "adhyaya_name": "सङ्कुलयुद्धम्",
+      "combined_translation": "13-13"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "भिन्नग्रीवा महाराज परिघैः परिघायुधैः। यमराष्ट्रं गताः केचित्केचित्स्वर्गं समाययुः॥१४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 305,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "भविष्यपर्व",
+      "adhyaya_name": "सङ्कुलयुद्धम्",
+      "combined_translation": "14-14"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "अप्सरोभिः समासेदुः पश्यन्तः स्वकलेवरम्। केचित्स्वांश्च परांश्चैव हत्वा भ्रान्ता इवाभवन्॥१५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 305,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "भविष्यपर्व",
+      "adhyaya_name": "सङ्कुलयुद्धम्",
+      "combined_translation": "15-15"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "एतस्मिन्नन्तरे राजञ्छङ्खा भेर्यः सहस्रशः। सस्वनुः सर्वतः सैन्ये मृदङ्गा बहवस्तथा॥१६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 305,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "भविष्यपर्व",
+      "adhyaya_name": "सङ्कुलयुद्धम्",
+      "combined_translation": "16-16"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "मध्यन्दिनगते सूर्ये तापं दधति घोरवत्। ततः पिशाचा विकृताः करालविततोदराः॥१७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 305,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "भविष्यपर्व",
+      "adhyaya_name": "सङ्कुलयुद्धम्",
+      "combined_translation": "17-17"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "राक्षसाश्च महाघोराः पिशितं केशशाद्वलम्। मुदिता भक्षयामासुः पिबन्तः शोणितं बहु॥१८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 305,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "भविष्यपर्व",
+      "adhyaya_name": "सङ्कुलयुद्धम्",
+      "combined_translation": "18-18"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "सञ्चितानि शवान्यासन्कबन्धाः खड्गपातिताः। विभज्य देशं बहुशो युद्धभूमौ शवाशिनः॥१९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 305,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "भविष्यपर्व",
+      "adhyaya_name": "सङ्कुलयुद्धम्",
+      "combined_translation": "19-19"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "अथ श्येना मृगाश्चैव कङ्का गृध्रास्तथा परे। तुण्डैः शवान्विनिष्कृश्य भक्षयन्ति ततस्ततः॥२०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 305,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "भविष्यपर्व",
+      "adhyaya_name": "सङ्कुलयुद्धम्",
+      "combined_translation": "20-20"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "सप्ताशीतिसहस्राणि हता नागा नृपोत्तम। त्रिंशत्सहस्रमयुतं निहता हयसत्तमाः॥२१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 305,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "भविष्यपर्व",
+      "adhyaya_name": "सङ्कुलयुद्धम्",
+      "combined_translation": "21-21"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "हतं लक्षं महाराज रथानां रथिभिः सह। त्रिंशत्कोट्यो हतास्तत्र सादिनः सयुधा भृशम्॥२२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 305,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "भविष्यपर्व",
+      "adhyaya_name": "सङ्कुलयुद्धम्",
+      "combined_translation": "22-22"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "मध्यन्दिनगते सूर्ये हताः केचन निर्गताः। केचिच्च तृषिता राजन्विविशुः पुष्करं सरः॥२३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 305,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "भविष्यपर्व",
+      "adhyaya_name": "सङ्कुलयुद्धम्",
+      "combined_translation": "23-23"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "केचिद्भूमिं समालिङ्ग्य भीता इत्यब्रुवन्रणे। मुक्तकेशाः पतन्ति स्म रथान्सन्त्यज्य केचन॥२४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 305,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "भविष्यपर्व",
+      "adhyaya_name": "सङ्कुलयुद्धम्"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "सन्दष्टौष्ठपुटाः केचित्सादिनः पुरतो हताः। अत्यद्भुतं महायुद्धमासित्पुष्करतीर्थके। यथा देवासुरं युद्धमासीत्पूर्वं नृपोत्तम॥२५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 305,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "भविष्यपर्व",
+      "adhyaya_name": "सङ्कुलयुद्धम्",
+      "combined_translation": "25-25"
+    }
+  ]
+}

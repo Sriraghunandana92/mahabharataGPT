@@ -1,0 +1,348 @@
+{
+  "adhyaya_id": "P01_U16_A220",
+  "book": 1,
+  "parva_name": "आदिपर्व",
+  "upaparva_name": "सुभ्रद्राहरणपर्व।",
+  "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः",
+  "chapter": 220,
+  "verse_count": 32,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वैशंपायन उवाच।\n              ततः संवदिते तस्मिन्ननुज्ञातो धनंजयः। गतां रैवतके कन्यां विदित्वा जनमेजय॥१॥",
+      "english": "Vaishampayana said : O Janamejaya, having received information of the assent (of Yudhishthira) and learning that the maiden had gone on the Raivataka (hill), Dhananjaya (Arjuna). That best of the Bharata race, obtained the assent of Vasudeva (Krishna) and also settled in consultation with him all that was to be done.",
+      "bhavadeepa": "अनुज्ञातवान् ॥२५॥",
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः",
+      "combined_translation": "1-2"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "वासुदेवाभ्यनुज्ञातः कथतित्वेतिकृत्यताम्। कृष्णस्य मतमादाय प्रययौ भरतर्षभः॥२॥",
+      "english": null,
+      "bhavadeepa": "विंशत्यधिकद्विशततमोऽध्यायः तत इति । तस्मिन् विवाहसन्देशे ॥१॥",
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः",
+      "english_ref": 1,
+      "combined_translation": "1-2"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "रथेन काञ्चनाङ्गेन कल्पितेन यथाविधि। शैब्यसुग्रीवयुक्तेन किङ्किणीजालमालिना॥३॥",
+      "english": "That best of men (Arjuna), attired in armour and armed with the sword and his figures encased in leather fences, set out as if in a hunting excursion on his (Krishna's) wellbuilt golden car, adorned with rows of small bells and equipped with every kind of weapon. The clatter of its wheels resembled the roars of clouds; its splendour was as that of a blazing fire; it struck terror into the hearts of all foes; and the two horses yoked with it were named Sugriva and Shaivya.",
+      "bhavadeepa": "इतिकृत्यताम् अग्रेतनीम् इतिकर्तव्यताम् ॥२॥",
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः",
+      "combined_translation": "3-18"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "सर्वशस्त्रोपपन्नेन जीमूतरवनादिना। ज्वलिताग्निप्रकाशेन द्विषतां हर्षघातिना॥४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः",
+      "english_ref": 3,
+      "combined_translation": "3-18"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "संनद्धः कवची खड्गी बद्धगोधाङ्गुलित्रवान्। मृगयाव्यपदेशेन प्रययौ पुरुषर्षभः॥५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः",
+      "english_ref": 3,
+      "combined_translation": "3-18"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "सुभद्रा त्वथ शैलेन्द्रमभ्यच्यैव हि रैवतम्। दैवतानि च सर्वाणि ब्राह्मणान्स्वस्ति वाच्य च॥६॥",
+      "english": "Subhadra, having worshipped that king of hills, Raivataka and the celestials and having been blessed by all the Brahmanas, and having walked round the hill, was returning towards Dwarka. The son of Kunti, struck by the arrows of the god of love, suddenly rushed towards that faultless featured Subhadra and forcibly took her upon his chariot.",
+      "bhavadeepa": null,
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः",
+      "combined_translation": "6-7"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "प्रदक्षिणं गिरेः कृत्वा प्रयतौ द्वारकां प्रति। तामभिद्रुत्य कौन्तेयः प्रसह्यारोपयद्रथम्। सुभद्रां चारिसर्वाङ्गीं कामबाणप्रपीडितः॥७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः",
+      "english_ref": 6,
+      "combined_translation": "6-7"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "ततः स पुरुषव्याघ्रस्तामादाय शुचिस्मिताम्। रथेना काञ्चनाङ्गेन प्रययौ स्वपुरं प्रति॥८॥",
+      "english": "Thereupon that best of men, having seized that lady of sweet-smiles, proceeded (in haste) on his golden car towards his own city (Indraprastha).",
+      "bhavadeepa": null,
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "ह्रियमाणां तु तां दृष्ट्वा सुभद्रां सैनिका जनाः। विक्रोशन्तोऽद्रवन्सर्वे द्वारकामभितः पुरीम्॥९॥",
+      "english": "Seeing Subhadra thus forcibly carried away, her armed attendants all ran crying towards the city of Dvarka.",
+      "bhavadeepa": null,
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "ते समासाद्य सहिताः सुधर्मामभितः सभाम्। सभापालस्य तत्सर्वमाचख्युः पार्थविक्रमम्॥१०॥",
+      "english": "Having arrived all together to that (Yadava) court, called Sudharma, they represented to the Sabhapala (the chief officer of the court), all about the prowess of Partha.",
+      "bhavadeepa": null,
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "तेषां श्रुत्वा सभापालो भेरीं सान्नाहिकीं ततः। समाजघ्ने महाघोषां जाम्बूनदपरिष्कृताम्॥११॥",
+      "english": "Having heard this, the Sabhapala blew his golden decked trumpet of loud blare, calling every one to arms.",
+      "bhavadeepa": null,
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "क्षुब्धास्तेनाथ शब्देन भोजवृष्ण्यन्धकास्तदा। अन्नपानमपास्याथ समापेतुः समन्ततः॥१२॥",
+      "english": "Alarmed by that sound, the Bhojas the Vrishnis and the Andhakas poured in from all directions, even those who were eating and drinking came leaving their food and drink,",
+      "bhavadeepa": "भेरीं दुदुभिम् । सांनाहिकीं संनद्धाः सर्वे भवतेति सूचयन्तीम् ॥११॥",
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "तत्र जाम्बूनदाङ्गानि स्पर्ध्यास्तरणवन्ति च। मणिविद्रुमचित्राणि ज्वलिताग्निप्रभाणि च॥१३॥",
+      "english": "Like blazing fires taking faggots to increase their splendour, those best of men, the great car-warriors of the Vrishni and the Andhaka races, possessing the lustre of the blazing fire, took their seats on thousands of golden thrones, covered with excellent carpets and adorned with gems and corals.",
+      "bhavadeepa": null,
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः",
+      "combined_translation": "13-14"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "भेजिरे पुरुषव्याघ्रा वृष्ण्यन्धकमहारथाः। सिंहासनानि शतशो धिष्ण्यानीव हुताशनाः॥१४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः",
+      "english_ref": 13,
+      "combined_translation": "13-14"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "तेषां समुपविष्टानां देवानामिव सन्नये। आचख्यौ चेष्टितं जिष्णोः सभापालः सहानुगः॥१५॥",
+      "english": "When they were all seated like an assembly of celestials, the Sabhapala with his followers narrated all about the conduct of Jishnu (Arjuna).",
+      "bhavadeepa": null,
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "तच्छ्रुत्वा वृष्णिवीरास्ते मदसंरक्तलोचनाः। अमृष्यमाणाः पार्थस्य समुत्पेतुरहङ्कृताः॥१६॥",
+      "english": "Having heard it, the proud heroes of the Vrishni, with their eyes red with wine, rose up from their seats, being unable to brook the conduct of Partha.",
+      "bhavadeepa": "सन्नये समुदाये ॥१५॥",
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "योजयध्वं रथानाशु प्रासानाहरतेति च। धनूंषि च महार्हाणि कवचानि बृहन्ति च॥१७॥",
+      "english": "Some cried, “Yoke our cars\", some “Bring our weapons, “some” Bring our costly bows and strong armours,\" some loudly called their charioteers to yoke their horses adorned with gold to their cars.",
+      "bhavadeepa": null,
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः",
+      "combined_translation": "17-18"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "सूतानुच्चुक्रुशुः केचिद्रथान्योजयतेति च। स्वयं च तुरगान्केचिदयुञ्जन्हेमभूषितान्॥१८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः",
+      "english_ref": 17,
+      "combined_translation": "17-18"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "रथेष्वानीयमानेषु कवचेषु ध्वजेषु च। अभिक्रन्दे नृवीराणां तदासीत्तुमुलं महत्॥१९॥",
+      "english": "While their cars, their armours and their standards were being brought, the uproars of those heroes became exceedingly great.",
+      "bhavadeepa": null,
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "वनमाली ततः क्षीबः कैलासशिखरोपमः। नीलवासा मदोत्सिक्त इदं वचनमब्रवीत्॥२०॥",
+      "english": "Then proud and intoxicated with wine, Baladeva, who was like the Kailasa mountain, adorned with the garlands of wild flowers and attired in blue robes, thus spoke to all.",
+      "bhavadeepa": null,
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "किमिदं कुरुथाप्रज्ञास्तूष्णींभूते जनार्दने। अस्य भावमविज्ञाय संक्रुद्धा मोघगर्जिताः॥२१॥",
+      "english": "\"O senseless men, what are you doing when Janardana (Krishna) is sitting silent? Without knowing what is in his heart, you are vainly roaring in wrath.",
+      "bhavadeepa": null,
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "एष तावदभिप्रायमाख्यातु स्वं महामतिः। यदस्य रुचिरं कर्तुं तत्कुरुध्वमतन्द्रिताः॥२२॥",
+      "english": "Let the high-minded (Krishna) speak out what he proposes to do. Accomplish with all alacrity what he desires to do.\"",
+      "bhavadeepa": null,
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "ततस्ते तद्वचः श्रुत्वा ग्राह्य रूपं हलायुधात्। तूष्णींभूतास्ततः सर्वे साधु साध्विति चाब्रुवन्॥२३॥",
+      "english": "Having heard these words of Halayudha (Baladeva) which deserved, to be accepted, they all exclaimed, “Excellent,” “Excellent.” They then became silent.",
+      "bhavadeepa": null,
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "समं वचो निशम्यैव बलदेवस्य धीमतः। पुनरेव सभामध्ये सर्वे ते समुपाविशन्॥२४॥",
+      "english": "Silence have been restored by the words of the intelligent Baladeva, they again all took their seats in that court.",
+      "bhavadeepa": "श्रुत्वा पार्थस्य विक्रमं श्रुत्वा ग्राह्य गृहीत्वा रूपम् उपदेशात्मकमालोकम् ॥२३॥",
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "ततोऽब्रवीद्वासुदेवं वचो रामः परन्तपः। किमवागुपविष्टोऽसि प्रेक्षमाणो जनार्दन॥२५॥",
+      "english": "Then the chastiser of foes Rama (Baladeva) thus spoke to Vasudeva (Krishna), \"O Janardana, why do you not speak, why are you silently gazing?",
+      "bhavadeepa": null,
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "सत्कृतस्त्वत्कृते पार्थः सर्वैरस्माभिरच्युत। न च सोऽर्हति तां पूजां दुर्बुद्धिः कुलपांसनः॥२६॥",
+      "english": "O Achyuta, it was for your sake that Partha had been welcomed and received with all honour by us. It appears that wretch, that fool, does not deserve our welcome and honour.",
+      "bhavadeepa": null,
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "को हि तत्रैव भुक्त्वान्नं भाजनं भेत्तुमर्हति। मन्यमानः कुले जातमात्मानं पुरुषः क्वचित्॥२७॥",
+      "english": "Is there a man born of a respectable family who will break the very plate after having dined off it?",
+      "bhavadeepa": null,
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "इच्छन्नेव हि संबन्धं कृतं पूर्वं च मानयन्। को हि नाम भवेनार्थी साहसेन समाचरेत्॥२८॥",
+      "english": "Even if one desires to have such an alliance, who is there who desiring happiness will act so rashly remembering the services he has received?",
+      "bhavadeepa": null,
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "सोऽवमन्य तथाऽस्माकमनादृत्य च केशवम्। प्रसह्य हृतवानद्य सुभद्रां मृत्युमात्मनः॥२९॥",
+      "english": "By insulting us and disregarding Keshava (Krishna) he has carried away Subhadra by force wishing to compass his own death.",
+      "bhavadeepa": "भवेन ऐश्वर्येण ॥२८॥",
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "कथं हि शिरसो मध्ये कृतं तेन पदं मम। मर्षयिष्यामि गोविन्द पादस्पर्शमिवोरगः॥३०॥",
+      "english": "He has placed his foot on my head. O Govinda, how shall I bear it, (shall I not resent it) like a snake trodden by foot?",
+      "bhavadeepa": null,
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "अद्य निष्कौरवामेकः करिष्यामि वसुन्धराम्। न हि मे मर्षणीयोऽयमर्जुनस्य व्यतिक्रमः॥३१॥",
+      "english": "I shall alone to-day make the earth free of all Kauravas. Never shall I put up with this insult offered to us by Arjuna.\"",
+      "bhavadeepa": null,
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "तं तथा गर्जमानं तु मेघदुन्दुभिनिःस्वनम्। अन्वपद्यन्त ते सर्वे भोजवृष्ण्यन्धकास्तदा॥३२॥",
+      "english": "Thereupon all the Bhojas, Vrishnis and the Andhakas, assembled there approved of every thing that Baladeva said and they roared like the sounds of kettledrum or the clouds.",
+      "bhavadeepa": null,
+      "chapter": 220,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सुभ्रद्राहरणपर्व।",
+      "adhyaya_name": "विंशत्यधिकशततमोऽध्ययः"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "adhyaya_id": "P05_U01_A006",
+  "book": 5,
+  "parva_name": "उद्योगपर्व",
+  "upaparva_name": "सेनोद्योगपर्व",
+  "adhyaya_name": "षष्ठोऽध्यायः",
+  "chapter": 6,
+  "verse_count": 19,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "द्रुपद उवाच।\n              भूतानां प्राणिनः श्रेष्ठाः प्राणिनां बुद्धिजीविनः। बुद्धिमत्सु नराः श्रेष्ठा नरेष्वपि द्विजातयः ॥१॥",
+      "english": "Drupada said Of all beings, those that have life are superior. Of those that have life, those that live with the help of their intelligence are superior, those that have intelligence man is superior and among men, those that are twice-born are superior.",
+      "bhavadeepa": null,
+      "chapter": 6,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "षष्ठोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "द्विजेषु वैद्याः श्रेयांसो वैद्येषु कृतबुद्धयः। कृतबुद्धिषु कर्तारः कर्तृषु ब्रह्मवादिनः ॥२॥",
+      "english": "Among the twice-born, those that know the Vedas are superior and among the Vedaknowing people whose understanding is cultured are superior and among people with cultured understanding those living practical lives are superior and among practical people those that know Brahma are superior.",
+      "bhavadeepa": "भूतानामिति ॥१॥",
+      "chapter": 6,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "षष्ठोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "स भवान् कृबुद्धीनां प्रधान इति मे मतिः। कुलेन च विशिष्टोऽसि वयसा च श्रुतेन च॥३॥",
+      "english": "I am of opinion that you are the chief among those who have cultured understanding, you come of a respectable family and you are aged both in years and in learning.",
+      "bhavadeepa": "वैद्याः विद्यावन्तः कृतबुद्धयः सिद्धान्तज्ञाः ॥२॥",
+      "chapter": 6,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "षष्ठोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "प्रज्ञया सदृशश्चासि शुक्रेणाङ्गिरसेन च। विदितं चापि ते सर्वं यथावृत्तः स कौरवः ॥४॥",
+      "english": "Your wisdom is equal to that of Shukra or the son of Angirasa and it is known to you what sort of a man the Kaurava is.",
+      "bhavadeepa": null,
+      "chapter": 6,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "षष्ठोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "पाण्डवश्च यथावृत्तः कुन्तीपुत्रो युधिष्ठिरः। धृतराष्ट्रस्य विदिते वञ्चिताः पाण्डवाः परैः ॥५॥",
+      "english": "Also what sort of a man Yudhishthira and the son of Kunti the descendant of Pandu is. The sons Pandu were dispossessed (of their kingdom) with the help of the knowledge of Dhritarashtra.",
+      "bhavadeepa": null,
+      "chapter": 6,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "षष्ठोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "विदुरेणानुनीतोऽपि पुत्रमेवानुवर्तते। शकुनिर्बुद्धिपूर्वं हि कुन्तीपुत्रं समाह्वयत् ॥६॥",
+      "english": "Though he is advised by Vidura, he follows the instructions of his son and it was at the instigation of Shakuni that he challenged the son of Kunti.",
+      "bhavadeepa": null,
+      "chapter": 6,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "षष्ठोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "अनक्षज्ञं मताक्षः सन् क्षत्रवृत्ते स्थितं शुचिम्। ते तथा वञ्चयित्वा तु धर्मराजं युधिष्ठिरम् ॥७॥",
+      "english": "Adepts at the play, they robbed the virtuous king Yudhishthira who was holy, attached to the rules of the Kshatriya class and unskillful at the game of dice.",
+      "bhavadeepa": null,
+      "chapter": 6,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "षष्ठोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "न कस्याञ्चिदवस्थायां राज्यं दास्यन्ति वै स्वयम्। भवांस्तु धर्मसंयुक्तं धृतराष्ट्रं ब्रुवन्वचः ॥८॥",
+      "english": "On no account whatever will they give back the kingdom voluntarily. You, too who will speak words of virtue to Dhritarashtra.",
+      "bhavadeepa": null,
+      "chapter": 6,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "षष्ठोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "मनांसि तस्य योधानां ध्रुवमावर्तयिष्यति। विदुरश्चापि तद्वाक्यं साधयिष्यति तावकम्॥९॥",
+      "english": "Will certainly gain the hearts of his soldiers. And Vidura also by men of your words will try to create disaffection in minds the minds of Bhishma, Drona Kripa and others. With difference opinion among the ministers and disaffection in the soldiers.",
+      "bhavadeepa": null,
+      "chapter": 6,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "षष्ठोऽध्यायः",
+      "combined_translation": "9-10"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "भीष्मद्रोणकृपादीनां भेदं संजनयिष्यति। अमात्येषु च भिन्नेषु योधेषु विमुखेषु च॥१०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 6,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "षष्ठोऽध्यायः",
+      "english_ref": 9,
+      "combined_translation": "9-10"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "पुनरेकत्रकरणं तेषां कर्म भविष्यति। एतस्मिन्नन्तरे पार्थाः सुखमेकाग्रबुद्धयः॥११॥",
+      "english": "It will be their duty to make them agree and join one another; and in the meantime the very wise sons of Pritha will easily make preparations for the war and collect stores.",
+      "bhavadeepa": null,
+      "chapter": 6,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "षष्ठोऽध्यायः",
+      "combined_translation": "11-12"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "सेनाकर्म करिष्यन्ति द्रव्याणां चैव सञ्चयम्। भिद्यमानेषु च स्वेषु लम्बमाने तथा त्वयि॥१२॥",
+      "english": null,
+      "bhavadeepa": "एतस्मिन्नन्तरे शत्रुषु भिन्नानामेकीकरणे व्यापृतेष्वित्यर्थः ॥११॥",
+      "chapter": 6,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "षष्ठोऽध्यायः",
+      "english_ref": 11,
+      "combined_translation": "11-12"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "न तथा ते करिष्यन्ति सेनाकर्म न संशयः। एतत्प्रयोजनं चात्र प्राधान्येनोपलभ्यते॥१३॥",
+      "english": "While you are still there and their men are delaying, they no doubt will not be able to make preparations. This is necessary and here it seems imperative.",
+      "bhavadeepa": "लम्बमाने विलम्बं कुर्वाणे ॥१२॥",
+      "chapter": 6,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "षष्ठोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "संगत्या धृतराष्ट्रश्च कुर्याद्धर्म्यं वचस्तव। स भवान् धर्मयुक्तश्च धर्म्यं तेषु समाचरन् ॥१४॥",
+      "english": "Yourself, being virtuous, should behave virtuously with them and Dhritarashtra, on your meeting him, may act in conformity with your virtuous words.",
+      "bhavadeepa": null,
+      "chapter": 6,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "षष्ठोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "कृपालुषु परिक्लेशान् पाण्डवीयान्प्रकीर्तयन्। वृद्धेषु कुलधर्मं च ब्रुवन् पूर्वैरनुष्ठितम् ॥१५॥",
+      "english": "By detailing those that are kind the hardships of the Pandavas and telling before old people the virtuous acts in the family done by their ancestors,",
+      "bhavadeepa": null,
+      "chapter": 6,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "षष्ठोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "विभेत्स्यति मनांस्येषामिति मे नात्र संशयः। न च तेभ्यो भयं तेऽस्ति ब्राह्मणो ह्यसि वेदवित् ॥१६॥",
+      "english": "I have no doubt you will estrange the minds of the men and you need not have any fear for them for you are a Veda knowing Brahmin,",
+      "bhavadeepa": null,
+      "chapter": 6,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "षष्ठोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "दूतकर्मणि युक्तश्च स्थविरश्च विशेषतः। स भवान् पुष्ययोगेन मुहूर्तेन जयेन च॥१७॥",
+      "english": "And engaged in the post of an ambassador especially as you are aged. You therefore set out quick for the accomplishment of the interests of the son of Kunti the moment called Jaya and at the position of the planets named Pushya.",
+      "bhavadeepa": null,
+      "chapter": 6,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "षष्ठोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "कौरवेयान् प्रयात्वाशु कौन्तेयस्यार्थसिद्धये ॥ वैशम्पायन उवाच।\n              तथाऽनुशिष्टः प्रययौ द्रुपदेन महात्मना। पुरोधा वृत्तसम्पन्नो नगरं नागसाह्वयम् ॥१८॥",
+      "english": "Vaishampayana said Being instructed in this way by the noblehearted Drupada the priest went to the city called after the elephant.",
+      "bhavadeepa": null,
+      "chapter": 6,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "षष्ठोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "शिष्यैः परिवृतो विद्वान् नीतिशास्त्रार्थकोविदः। पाण्डवानां हितार्थाय कौरवान् प्रति जग्मिवान् ॥१९॥",
+      "english": "The priest, who was learned in scriptures of ethics and economy went to the city of Kauravas with his disciples.",
+      "bhavadeepa": null,
+      "chapter": 6,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "षष्ठोऽध्यायः"
+    }
+  ]
+}

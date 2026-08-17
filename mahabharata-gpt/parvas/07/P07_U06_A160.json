@@ -1,0 +1,622 @@
+{
+  "adhyaya_id": "P07_U06_A160",
+  "book": 7,
+  "parva_name": "द्रोणपर्व",
+  "upaparva_name": "घटोत्कचवधपर्व - ६",
+  "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः",
+  "chapter": 160,
+  "verse_count": 60,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "सञ्जय उवाच।\n              दुर्योधनेनैवमुक्तो द्रौणिराहवदुर्मदः।  चकारारिवधे यत्नमिन्द्रो दैत्यवधे यथा। प्रत्युवाच महाबाहुस्तव पुत्रमिदं वचः॥१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "सत्यमेतन्महाबाहो यथा वदसि कौरव।  प्रिया हि पाण्डवा नित्यं मम चापि पितुश्च मे॥२॥",
+      "english": null,
+      "bhavadeepa": "दुर्योधनेनेति ॥१॥",
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "तथैवावां प्रियौ तेषां न तु युद्धे कुरूद्वह।  शक्तितस्तात युध्यामस्त्यक्त्वा प्राणानभीतवत्॥३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "अहं कर्णश्च शल्यश्च कृपो हार्दिक्य एव च। निमेषात्पाण्डवीं सेनां क्षपयेम नृपोत्तम॥४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "ते चापि कौरवीं सेनां निमेषार्धात्कुरूद्वह। क्षपयेयुर्महाबाहो न स्याम यदि संयुगे॥५॥",
+      "english": "Can destroy the army of the Pandavas, O most excellent of kings, in the twinkling of an eye. And O best of the Kurus, O mighty armed one, they too can destroy the army of the Kauravas within the twinkling of an eye, if we are not present in battle. We are fighting with Pandavas putting forth our utmost prowess and they too are battling with us to the best of their might.",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः",
+      "combined_translation": "5-6"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "युध्यतां पाण्डवाञ्छक्त्या तेषां चास्मान्युयुत्सताम्। तेजस्तेजः समासाद्य प्रशमं यातु भारत॥६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः",
+      "english_ref": 5,
+      "combined_translation": "5-6"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "अशक्या तरसा जेतुं पाण्डवानामनीकिनी।  जीवत्सु पाण्डुपुत्रेषु तद्धि सत्यं ब्रवीमि ते॥७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "आत्मार्थं युध्यमानास्ते समर्थाः पांडुनन्दनाः।  किमर्थं तव सैन्यानि न हनिष्यन्ति भारत॥८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "त्वं तु लुब्धतमो राजन्निकृतिज्ञश्च कौरव।  सर्वाभिशंकी मानी च ततोऽस्मानभिशंकसे॥९॥",
+      "english": "Why will not they, therefore, destroy your troops, O Bharata? O descendant of Kuru, O king, you are most avaricious, deceitful.",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "मन्ये त्वं कुत्सितो राजन्पापात्मा पापपूरुषः।  अन्यानपि स नः क्षुद्र शंकसे पापभावितः॥१०॥",
+      "english": null,
+      "bhavadeepa": "त्वं त्विति । निकृतिर्वचनं तज्ज्ञत्वादस्मानप्यात्मवत्पश्यसीत्यर्थः॥९॥",
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "अहं तु यत्नमास्थाय त्वदर्थे त्यक्तजीवितः। एष गच्छामि संग्रामं त्वत्कृते कुरुनन्दन॥११॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "योत्स्येऽहं शत्रुभिः सार्धं जेष्यामि च वरान्वरान्।  पञ्चालैः सह योत्स्यामि सोमकैः केकयैस्तथा॥१२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "पाण्डवेयैश्च संग्रामे त्वत्प्रियार्थमरिन्दम।  अद्य मद्बाणनिर्दग्धाः पञ्चालाः सोमकास्तथा॥१३॥",
+      "english": "In order to do what is agreeable to you, O chastiser of foes, I will fight with the Panchalas, the Somakas as well as with the Kaikeyas and the Pandavas, in battle.",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "सिंहेनेवार्दिता गावो विद्रविष्यन्ति सर्वशः।  अद्य धर्मसुतो राजा दृष्ट्वा मम पराक्रमम्॥१४॥",
+      "english": "Today the Chedis, the Panchalas and the Somakas, scorched with my darts, like cows afflicted by a lion, will fly on all sides.",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "अश्वत्थाममयं लोकं मंस्यते सह सोमकैः। आगमिष्यति निर्वेदं धर्मपुत्रो युधिष्ठिरः॥१५॥",
+      "english": "Witnessing my prowess today, king (Yudhishthira), the son of Dharma, together with the Somakas, will deem the whole world full of Ashvatthamas.",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "दृष्ट्वा विनिहतान्संख्ये पञ्चालान्सोमकैः सह।  ये मां युद्धेऽभियोत्स्यन्ति तान्हनिष्यामि भारत॥१६॥",
+      "english": "Beholding the destruction of the Panchalas as well well as of the Somakas in battle, Yudhishthira, the lord of Dharma, will experience a great pain.",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "न हि ते वीर मोक्ष्यन्ते मद्बाह्वन्तरमागताः।  एवमुक्त्वा महाबाहुः पुत्रं दुर्योधनं तव॥१७॥",
+      "english": "O Bharata, I will destroy all those that will confront me in battle. O hero, afflicted with the prowess of my arms no one shall escape.",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "अभ्यवर्तत युद्धाय त्रासयन्सर्वधन्विनः।  चिकीर्षुस्तव पुत्राणां प्रियं प्राणभृतां वरः॥१८॥",
+      "english": "Having thus addressed your Duryodhana, that one, possessed of mighty arms (i.e., Ashvatthama), distressing all bow men, proceeded to battle.",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "ततोऽब्रवीत्सकैकेयान् पञ्चालान् गौतमीसुतः।  प्रहरध्वमितः सर्वे मम गात्रे महारथाः॥१९॥",
+      "english": "(And) that foremost of those that bear life was desirous of doing what was agreeable to your sons. Then the son of Goutama's daughter said thus to the Panchalas together with the Kaikeyas.",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "स्थिरीभूताश्च युद्ध्यध्वं दर्शयन्तोऽस्त्रलाघवम्। एवमुक्तास्तु ते सर्वे शस्त्रवृष्टीरपातयन्॥२०॥",
+      "english": "All of you, O mighty car-warriors, strike me in the body and displaying your dexterity in handling weapons engage in battle with calmness.",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "द्रौणिं प्रति महाराज जलं जलधरा इव।  तान्निहत्य शरान्द्रौणिर्दश वीरानपोथयत्॥२१॥",
+      "english": "Thus addressed (by Ashvatthama), all of them, O great monarch, began to discharge showers of weapons upon the son of Drona as clouds pour down showers of rain.",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "प्रमुखे पाण्डुपुत्राणां धृष्टद्युम्नस्य च प्रभो।  ते हन्यमानाः समरे पञ्चालाः सोमकास्तथा॥२२॥",
+      "english": "having destroyed those (showers of weapons), the son of Drona, even in the very presence of the sons of Drona, even in the very presence of the sons of Pandu and in that of Dhristadyumna, slew ten (warriors) among them in battle,olord.",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "परित्यज्य रणे द्रौणिं व्यद्रवन्त दिशो दश।  तान्दृष्ट्वा द्रवतः शूरान्पञ्चालान्सहसोमकान्॥२३॥",
+      "english": "Sore oppressed in battle, the Panchalas and the Somakas, abandoning the son of Drona, took to flight in ten directions.",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "धृष्टद्युम्नो महाराज द्रौणिमभ्यद्रवद्रणे।  ततः काञ्चनचित्राणां सजलांबुदनादिनाम्॥२४॥",
+      "english": "Witnessing the flight of those heroes that is, the Panchalas and the Somakas, Dhristadyumna, O great king, rushed against the son of Drona in that battle.",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "वृतः शतेन शूराणां रथानामनिवर्तिनाम्।  पुत्रः पाञ्चालराजस्य धृष्टद्युम्नो महारथः॥२५॥",
+      "english": "Then surrounded by one hundred heroic and unretreating car-warriors riding on cars adorned with gold and the rattle of which resembled the roar of clouds full of rain.",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "द्रौणिमित्यब्रवीद्वाक्यं दृष्ट्वा योधान्निपातितान्। आचार्यपुत्र दुर्बुद्धे किमन्यैर्निहतैस्तव॥२६॥",
+      "english": "That great car-warrior, Dhristadyumna, the son of the king of Panchala, beholding the carnage of his warriors, said these words to the son of Drona.",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "समागच्छ मया सार्धं यदि शूरोऽसि संयुगे।  अहं त्वां निहनिष्यामि तिष्ठेदानीं ममाग्रतः॥२७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "ततस्तमाचार्यसुतं धृष्टद्युम्नः प्रतापवान्। मर्मभिद्भिः शरैस्तीक्ष्णैर्जघान भरतर्षभ॥२८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "ते तु पंक्तीकृता द्रौणिं शरा विविशुराशुगाः।  रुक्मपुङ्खाः प्रसन्नाग्राः सर्वकायावदारणाः॥२९॥",
+      "english": "I will (surely) slay you. Now stay (here) and be quiet.” The puissant Dhristadyumna, the, struck the son of the preceptor with keen and highly dreadful arrows capable of piercing the vital parts. (And) those thick flights of arrows, moving swiftly, furnished with golden wings, having keen points and capable of riving all the parts of the body, pierced (through the body of the son of Drona like maddened black-bees seeking for honey-entering into a flowering tree.",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः",
+      "combined_translation": "29-30"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "मध्वर्थिन इवोद्दामा भ्रमराः पुष्पितं द्रुमम्।  सोऽतिविद्धो भृशं क्रुद्धः पदाक्रान्त इवोरगः॥३०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः",
+      "english_ref": 29,
+      "combined_translation": "29-30"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "मानी द्रौणिरसंभ्रान्तो बाणपाणिरभाषत।  धृष्टद्युम्न स्थिरो भूत्वा मुहूर्तं प्रतिपालय॥३१॥",
+      "english": "The proud and dauntless son of Drona, (thus) deeply pierced (with Dhristdyumna's arrows) became as enraged as a serpent crushed by foot and (then), arrow in hand, thus said",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "यावत्त्वां निशितैर्बाणैः प्रेषयामि यमक्षयम्।  द्रौणिरेवमथाभाष्य पार्षतं परवीरहा॥३२॥",
+      "english": "O Dhristadyumna, wait a moment quietly before I send \"you to the abode of Yama with sharpened darts.\"",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "छादयामास बाणौघैः समन्ताल्लघुहस्तवत्।  स बाध्यमानः समरे द्रौणिना युद्धदुर्मदः॥३३॥",
+      "english": "having thus addressed the son of Prishata, the son of Drona, the slayer of hostile heroes, like one endued with great nimbleness of hand, covered him completely with deluges of arrows.",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "द्रौणिं पाञ्चालतनयो वाग्भिरातर्जयत्तदा। न जानीषे प्रतिज्ञां मे विप्रोत्पत्तिं तथैव च॥३४॥",
+      "english": "Thus covered (with arrows) in that battle by the son of Drona, the son of the Panchala king, invincible in battle, thundered forth these words to the son of Drona.",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "द्रोणं हत्वा किल मया हन्तव्यस्त्वं सुदुर्मते।  ततस्त्वाऽहं न हन्म्यद्य द्रोणे जीवति संयुगे॥३५॥",
+      "english": "O Brahmana, you are neither aware of my promise nor of my of my origin. Of wicked understanding as you are, I will slay you after killing Drona.",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "इमां तु रजनीं प्राप्तामप्रभातां सुदुर्मते। निहत्य पितरं तेऽद्य ततस्त्वामपि संयुगे॥३६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "नेष्यामि प्रेतलोकाय ह्येतन्मे मनसि स्थितम्।  यस्ते पार्थेषु विद्वेषो या भक्तिः कौरवेषु च॥३७॥",
+      "english": "I will (first) slay your father and then send yourself too, in battle, to the abode of the departed spirits, I chariot this (thought) in my mind.",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "तां दर्शय स्थिरो भूत्वा न मे जीवन्विमोक्ष्यसे।  यो हि ब्राह्मण्यमुत्सृज्य क्षत्रधर्मरतो द्विजः॥३८॥",
+      "english": "Now assuming a quiet attitude show all your hatred towards the sons of Pritha and your devotion towards the Kauravas. You will not escape alive (from me).",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "स वध्यः सर्वलोकस्य यथा त्वं पुरुषाधमः। इत्युक्तः परुषं वाक्यं पार्षतेन द्विजोत्तमः॥३९॥",
+      "english": "That twice-born one, who giving up the practices of the Brahmana, gives himself up to the practices of the Kshaytrias, deserves to be slain by all the Kshaytrias like you, O vilest of men.\"",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "क्रोधमाहारयत्तीव्रं तिष्ठ तिष्ठेति चाब्रवीत्।  निर्दहन्निव चक्षुर्भ्यां पार्षतं सोऽभ्यवैक्षत॥४०॥",
+      "english": "That foremost of the twice-born ones (i.e. Ashvatthama), thus addressed in harsh words by the son of Prishata, became terrible excited with wrath and said (to Dhristadyumna) “Wait, wait.\"",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "छादयामास च शरैर्निःश्वसन्पन्नगो यथा।  स च्छाद्यमानः समरे द्रौणिना राजसत्तम॥४१॥",
+      "english": "(And) as if to burn the son of Prishata with his eyes, he gazed at him. Heaving sighs like a snake he covered (Dhristadyumna with arrows) in that battle.",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "सर्वपाञ्चालसेनाभिः संवृतो रथसत्तमः।  नाकंपत महाबाहुः स्ववीर्यं समुपाश्रितः॥४२॥",
+      "english": "Though) that foremost of car-warriors, the son of Prishata, who was surrounded by all the Panchala troops, was (thus) struck with arrows by the son of Drona in that battle,",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "सायकांश्चैव विविधानश्वत्थाम्नि मुमोच ह।  तौ पुनः संन्यवर्तेतां प्राणद्यूतपणे रणे॥४३॥",
+      "english": "(Yet) that mighty-armed one did not tremble; (but) resorting to his own prowess discharged at Ashvatthama numerous arrows.",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "निपीडयन्तौ बाणौघैः परस्परममर्षिणौ।  उत्सृजन्तौ महेष्वासौ शरवृष्टीः समन्ततः॥४४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "द्रौणिपार्षतयोर्युद्धं घोररूपं भयानकम्।  दृष्ट्वा संपूजयामासुः सिद्धचारणवातिकाः॥४५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "शरौघैः पूरयन्तौ तावाकाशं च दिशस्तथा।  अलक्ष्यौ समयुध्येतां महत्कृत्वा शरैस्तमः॥४६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "नृत्यमानाविव रणे मण्डलीकृतकार्मुकौ।  परस्परवधे यत्तौ सर्वभूतभयङ्करौ॥४७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "अयुध्येतां महाबाहू चित्रं लघु च सुष्ठु च।  संपूज्यमानौ समरे योधमुख्यैः सहस्रशः॥४८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "तौ प्रबुद्धौ रणे दृष्ट्वा वने वन्यौ गजाविव।  उभयोः सेनयोर्हर्षस्तुमुलः समपद्यत॥४९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "सिंहनादरवाश्चासन्दध्मुः शङ्खांश्च सैनिकाः।  वादित्राण्यभ्यवाद्यन्त शतशोऽथ सहस्रशः॥५०॥",
+      "english": "Both the armies experienced a great delight. The soldiers emitted forth roars like lions and blew their conches.",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "तस्मिंस्तु तुमुले युद्धे भीरूणां भयवर्धने।  मुहूर्तमपि तद्युद्धं समरूपं तदाऽभवत्॥५१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "ततो द्रौणिर्महाराज पार्षतस्य महात्मनः।  ध्वजं धनुस्तथा छत्रमुभौ च पार्ष्णिसारथी॥५२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "सूतमश्वांश्च चतुरो निहत्याभ्यद्रवद्रणे।  पञ्चालांश्चैव तान्सर्वान्बाणैः सन्नतपर्वभिः॥५३॥",
+      "english": "And that one, of immeasurable soul, began ! to afflict all those Panchalas in hundreds and thousands with his straight coursing arrows. Then the arıny of the Pandavas, beholding that brilliant exploit, resembling that of Vasava, achieved by the son of Drona in battle, became greatly dejected, the most exalted of the Bharatas.",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः",
+      "combined_translation": "53-55"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "व्यद्रावयदमेयात्मा शतशोऽथ सहस्रशः।  ततस्तु विव्यथे सेना पाण्डवी भरतर्षभ॥५४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः",
+      "english_ref": 53,
+      "combined_translation": "53-55"
+    },
+    {
+      "verse": 55,
+      "sanskrit": "दृष्ट्वा द्रौणेर्महत्कर्म वासवस्येव संयुगे।  शतेन च शतं हत्वा पञ्चालानां महारथः॥५५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः",
+      "english_ref": 53,
+      "combined_translation": "53-55"
+    },
+    {
+      "verse": 56,
+      "sanskrit": "त्रिभिश्च निशितैर्बाणैर्हत्वा त्रीन्वै महारथान्।  द्रौणिर्दुपदपुत्रस्य फाल्गुनस्य च पश्यतः॥५६॥",
+      "english": "Destroying one hundred mighty carwarriors of the Panchalas with a hundred arrows and slaying three foremost of (their) men with three sharpened arrows.",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 57,
+      "sanskrit": "नाशयामास पञ्चालान् भूयिष्ठं ये व्यवस्थिताः। ते वध्यमानाः पञ्चालाः समरे सह सृञ्जयैः॥५७॥",
+      "english": "In the very presence of Phalguna and of the son of Drupada, the son of Drona slaughtered all those Panchalas who had confronted him.",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 58,
+      "sanskrit": "अगच्छन्द्रौणिमुत्सृज्य विप्रकीर्णरथध्वजाः। स जित्वा समरे शत्रून्द्रोणपुत्रो महारथः॥५८॥",
+      "english": "Thus slaughtered in battle, the Panchalas together with the Srinjayas fled from the son of Drona, on their cars with their standards cut down.",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 59,
+      "sanskrit": "ननाद सुमहानादं तपान्ते जलदो यथा। स निहत्य बहूञ्छूरानश्वत्थामा व्यरोचत। युगान्ते सर्वभूतानि भस्म कृत्वेव पावकः॥५९॥",
+      "english": "Having destroyed numerous heroes, Ashvatthama shone like the fire at the end of a Yuga after having consumed all the creatures.",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 60,
+      "sanskrit": "संपूज्यमानो युधि कौरवेयैर्निर्जित्य संख्येऽरिगणान्सहस्रशः।  व्यरोचत द्रोणसुतः प्रतापवान् यथा सुरेन्द्रोऽरिगणान्निहत्य वै॥६०॥",
+      "english": "Highly adored by the Kauravas after having vanquished thousands of enemies in battle, the puissant son of Drona shone like the lord of the celestials himself after the destruction of his foes.",
+      "bhavadeepa": null,
+      "chapter": 160,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "घटोत्कचवधपर्व - ६",
+      "adhyaya_name": "षष्ट्यधिकशततमोऽध्यायः"
+    }
+  ]
+}

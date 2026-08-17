@@ -1,0 +1,351 @@
+{
+  "adhyaya_id": "P01_U05_A040",
+  "book": 1,
+  "parva_name": "आदिपर्व",
+  "upaparva_name": "आस्तिकपर्व",
+  "adhyaya_name": "चत्वारिंशोऽध्यायः",
+  "chapter": 40,
+  "verse_count": 32,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "शौनक उवाच।\n              जरत्कारुरिति ख्यातो यस्त्वया सूतनन्दन। इच्छामि तदहं श्रोतुं ऋषेस्तस्य महात्मनः॥१॥",
+      "english": "Shaunaka said : O son of Suta, I desire to know why the illustrious Rishi whom you call Jaratkaru came to be so called. You should tell us the Etymology of the name of Jaratkaru.",
+      "bhavadeepa": "अन्वेषणफलमाह। जगत्कारुरिति॥१४॥",
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः",
+      "combined_translation": "1-2"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "किं कारणं जरत्कारोर्नामैतत्प्रथितं भुवि। जरत्कारुनिरुक्तिं त्वं यथावद्वक्तुमर्हसि॥२॥",
+      "english": null,
+      "bhavadeepa": "चत्वारिंशः अध्यायः जरत्कारुरिति॥१॥",
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः",
+      "english_ref": 1,
+      "combined_translation": "1-2"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "सौतिरुवाच।\n              जरेति क्षयमाहुर्वै दारुणं कारुसंज्ञितम्। शरीरं कारु तस्यासीत्तत्स धीमाञ्च्छनैःशनैः॥३॥",
+      "english": "Sauti said: Jara, means “waste\" Karu means “huge.\" The body of this Rishi was huge, but he reduced it by severe penances. O Brahmana, because he thus reduced his body, he was called Jaratkaru. The sister of Vasuki was called Jaratkaru for the same reason.",
+      "bhavadeepa": null,
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः",
+      "combined_translation": "3-4"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "क्षपयामास तीव्रेण तपसेत्यत उच्यते। जरत्कारुरिति ब्रह्मन्वासुकेर्भगिनी तथा॥४॥",
+      "english": null,
+      "bhavadeepa": "जरत्कारुनाम निर्वक्ति। जरेति। जरच्छब्दः क्षयवाची कारुशब्दो दारुणवाची। तस्यास्तीकपितुः शरीरं कारुकामाद्युद्भवमूलत्वात् दारुणमासीत्। तस्य तेन तपसा क्षेपणं कृतमतोऽसौ जगत्कारुरित्यर्थ॥३॥",
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः",
+      "english_ref": 3,
+      "combined_translation": "3-4"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "एवमुक्तस्तु धर्मात्मा शौनकः प्राहसत्तदा। उग्रश्रवसमामन्त्र्य उपपन्नमिति ब्रुवन्॥५॥",
+      "english": "When the pious Shaunaka heard this, he smiled and addressing Ugrashrava (Sauti) said, “It is true.\"",
+      "bhavadeepa": "वासुकेर्भगिनी तथेति तादृश्येव। अभर्तृकाया युवत्याः शरीरक्षेपणमेव श्रेयस्करमिति भावः॥४॥",
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "शौनक उवाच।\n              उक्तं नाम यथा पूर्वं सर्वं तच्छ्रुतवानहम्। यथा तु जातो ह्यास्तीक एतदिच्छामि वेदितुम्। तच्छ्रुत्वा वचनं तस्य सौतिः प्रोवाच शास्त्रतः॥६॥",
+      "english": "Shaunaka said : I have heard all that you have narrated. Now I wish to hear how Astika was born.",
+      "bhavadeepa": "प्राहसत् अतिजीर्णयोरपि ब्रह्मचर्यविनाशः प्रसक्त इत्याश्चर्ये मत्वेति भावः। आमन्त्र्य हे उग्रश्रव इति संबोध्य। उपपन्नं युक्तम्। यत्तुल्यवयोरुपयोर्विवाह इति भावः॥५॥",
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "सौतिरुवाच।\n              संदिश्य पन्नगान्सर्वान्वासुकिः सुसमाहितः। स्वसारमुद्यम्य तदा जरत्कारुमृषिं प्रति॥७॥",
+      "english": "Sauti said : Vasuki, wishing to bestow his sister on Rishi Jaratkaru, gave the snakes (all necessary) orders.",
+      "bhavadeepa": null,
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "अथ कालस्य महतः स मुनिः संशितव्रतः। तपस्यभिरतो धीमान्स दारान्नाभ्यकाङ्क्षत॥८॥",
+      "english": "Many years rolled away, but the Rishi of rigid vows, deeply engaged in ascetic devotions, did not seek for a wife.",
+      "bhavadeepa": null,
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "स तूर्ध्वरेतास्तपसि प्रसक्तः स्वाध्यायवान्वीतभयः कृतात्मा। चचार सर्वां पृथिवीं महात्मा न चापि दारान्मनसाध्यकाङ्क्षत्॥९॥",
+      "english": "That high-souled Rishi, his sexual passion completely under control, engaged in deep study and devoted to rigid asceticism, fearlessly roamed over the world, having no desire for a wife.",
+      "bhavadeepa": null,
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "ततोऽपरस्मिन्संप्राप्ते काले कस्मिंश्चिदेव तु। परिक्षिन्नाम राजासीद्ब्रह्मन्कौरववंशजः॥१०॥",
+      "english": "O Brahmana, once upon a time there was a king, named Parikshit, born in the race of the Kurus.",
+      "bhavadeepa": null,
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "यथा पाण्डुर्महाबाहुर्धनुर्धरवरो युधि। बभूव मृगयाशीलः पुरास्य प्रपितामहः॥११॥",
+      "english": "He was like his great grandfather, Pandu, mighty in arms, the best of all bow-men in battle and was very fond of hunting.",
+      "bhavadeepa": "सर्पसत्रकारणं वक्तुमाह। तत इत्यादिना। ततो वासुकेराश्वासनानन्तरं अपरस्मिन्पश्चाद्भूते कस्मिंश्चित्काले। अमङ्गलत्वान्नामाप्यवाच्यं कलेस्तदादौ इत्यर्थः॥१०॥",
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "मृगान्विध्यन्वराहांश्च तरक्षून्महिषांस्तथा। अन्यांश्च विविधान्वन्यांश्चचार पृथिवीपतिः॥१२॥",
+      "english": "That king of the world roamed about, hunting deer, wild boars, hyena and buffaloes and various other wild animals.",
+      "bhavadeepa": null,
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "स कदाचिन्मृगं विद्ध्वा बाणेनानतपर्वणा। पृष्ठतो धनुरादाय ससार गहने वने॥१३॥",
+      "english": "One day, having pierced a deer with an arrow, he slang his bow on his back and following it, he entered into a deep forest.",
+      "bhavadeepa": null,
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "यथैव भगवान्रुद्रो विद्ध्वा यज्ञमृगं दिवि। अन्वगच्छद्धनुष्पाणिः पर्यन्वेष्टुमितस्ततः॥१४॥",
+      "english": "He searched for it in the forest here and there, as Rudra did in heaven for the sacrificial deer which was pierced with his arrow.",
+      "bhavadeepa": null,
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "न हि तेन मृगो विद्धो जीवन्गच्छति वै वने। पूर्वरूपं तु तत्तूर्णं सोऽगात्स्वर्गतिं प्रति॥१५॥",
+      "english": "Never had a deer, pierced by Parikshit, escaped in the forest with life. This deer, however, wounded as the others, fled away with speed. It shows the proximity of the king's going to heaven (death).",
+      "bhavadeepa": null,
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "परिक्षितो नरेन्द्रस्य विद्धो यन्नष्टवान्मृगः। दूरं चापहृतस्तेन मृगेण स महीपतिः॥१६॥",
+      "english": "The deer, that the king of men, Parikshit wounded, was soon lost out of his sight and the king went in pursuit it far into the forest.",
+      "bhavadeepa": "पूर्वरुपमिति। परिक्षितः तूर्णं स्वर्गगति प्रति तत् मृगस्यादर्शनं पूर्वरुपं कारणं स राजा अगात्प्राप्तवान् तत एव हि मूढो राजा विप्रावमाननां शापमूलभूतां कृतवानित्यर्थः॥१५॥",
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "परिश्रान्तः पिपासार्त आससाद मुनिं वने। गवां प्रचारेष्वासीनं वत्सानां मुखनिःसृतम्॥१७॥",
+      "english": "Fatigued and thirsty he came upon a Rishi, in the forest, seated in a cow-shed, drinking the froth oozing out of the mouths of the calves sucking the milk of their mothers. Coming to him with all haste, the king asked that Rishi of great austerity, O Brahmana, I am king Parikshit, the son of Abhimanyu.",
+      "bhavadeepa": null,
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः",
+      "combined_translation": "17-19"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "भूयिष्ठमुपयुञ्जानं फेनमापिबतां पयः। तमभिद्रुत्य वेगेन स राजा संशितव्रतम्॥१८॥",
+      "english": null,
+      "bhavadeepa": "प्रचारेषु गोष्ठेषु॥१७॥",
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः",
+      "english_ref": 17,
+      "combined_translation": "17-19"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "अपृच्छद्धनुरुद्यम्य तं मुनिं क्षुच्छ्रमान्वितः। भोभो ब्रह्मन्नहं राजा परीक्षिदभिमन्युजः॥१९॥",
+      "english": null,
+      "bhavadeepa": "उपयुंजानं भक्षयन्तम्॥१८॥",
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः",
+      "english_ref": 17,
+      "combined_translation": "17-19"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "मया विद्धो मृगो नष्टः कच्चित्तं दृष्टवानसि। स मुनिस्तं तु नोवाच किंचिन्मौनव्रते स्थितः॥२०॥",
+      "english": "Have you seen where the deer pierced by me has gone? But the Rishi, observing the vow of silence, did not reply to him.",
+      "bhavadeepa": null,
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "तस्य स्कन्धे मृतं सर्पं क्रुद्धो राजा समासजत्। समुत्क्षिप्य धनुष्कोट्या स चैनं समुपैक्षत॥२१॥",
+      "english": "The king being angry took up a dead snake with the end of his bow and placed it round the neck of the Rishi, but the Rishi did not prevent him from doing it.",
+      "bhavadeepa": null,
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "न स किंचिदुवाचैनं शुभं वा यदि वाऽशुभम्। स राजा क्रोधमुत्सृज्य व्यथितस्तं तथागतम्। दृष्ट्वा जगाम नगरमृषिस्त्वासीत्तथैव सः॥२२॥",
+      "english": "He did not even say a word, either good or bad. Seeing him in that state, the king cast off his anger and became very sorry. He went away to his capital and the Rishi remained as he was. The forgiving great Rishi knowing him, that best of kings,",
+      "bhavadeepa": "समासजत् आरोपयामास धनुष्कोट्या धनुष्प्रान्तेन॥२१॥",
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः",
+      "combined_translation": "22-23"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "न हि तं राजशार्दूलं क्षमाशीलो महामुनिः। स्वधर्मनिरतं भूपं समाक्षिप्तोऽप्यधर्षयत्॥२३॥",
+      "english": null,
+      "bhavadeepa": "स राजेति। तं तथागतं दृढसमाधिं दृष्ट्वा क्रोधमुत्सृज्य व्यथितः सन् जगाम नगरम्। व्यथितेनापि सर्पापसारणं न कृतं दीर्घद्रोहित्वात् क्षत्रस्य किंचित्क्रोधोनुवर्तत एवेति ज्ञेयम्। तथोक्तं पौष्येणः क्षत्रियस्य वाक्सूनृता हृदयं तीक्ष्णधारमिति॥२२॥",
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः",
+      "english_ref": 22,
+      "combined_translation": "22-23"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "न हि तं राजशार्दूलस्तथा धर्मपरायणम्। जानाति भरतश्रेष्ठस्तत एनमधर्षयत्॥२४॥",
+      "english": "To be true to the duties of his order, did not curse him. That best of kings, the best of the Bharata race, also did not know that the Rishi was a virtuous man. It is for this that he thus insulted him. This Rishi had a young, greatly powerful and exceedingly ascetic son,",
+      "bhavadeepa": "तदिदमुक्तम्। स्वधर्मनिरतमिति। स्वधर्मः तीक्ष्णहृदयत्वं तन्निरतम्। जातिस्वभावज्ञो मुनिः समाक्षिप्तोऽपि अधर्षयत्। धृष्टत्वं कोपस्य निग्रहे धैर्यम् अकरोत्॥२३॥",
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः",
+      "combined_translation": "24-25"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "तरुणस्तस्य पुत्रोऽभूत्तिग्मतेजा महातपाः। शृङ्गी नाम महाक्रोधो दुष्पसादो महाव्रतः॥२५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः",
+      "english_ref": 24,
+      "combined_translation": "24-25"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "स देवं परमासीनं सर्वभूतहिते रतम्। ब्रह्माणमुपतस्थे वै काले काले सुंसयतः॥२६॥",
+      "english": "Who was named Shringi. He was full of wrath, severe in his vows and difficult to be appeased. He sometimes worshipped with great attention his (preceptor) Brahma, seated on his seat and ever engaged in doing good to all creatures. Commanded by him, he was coming home one day.",
+      "bhavadeepa": null,
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः",
+      "combined_translation": "26-27"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "स तेन समनुज्ञातो ब्रह्मणा गृहमेयिवान्। सख्योक्तः क्रीडमानेन स तत्र हसता किल॥२७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः",
+      "english_ref": 26,
+      "combined_translation": "26-27"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "संरम्भात्कोपनोऽतीव विषकल्पो मुनेः सुतः। उद्दिश्य पितरं तस्य यच्छ्रुत्वा रोषमाहरत्। ऋषिपुत्रेण धर्मार्थे कृशेन द्विजसत्तम॥२८॥",
+      "english": "When his friend (Krisha) in a playful mood, laughingly spoke to him about his father, the Rishi's son, ever wrathful and like poison itself, hearing what had happened to his father, blazed up in a rage.",
+      "bhavadeepa": null,
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "कृश उवाच।\n              तेजस्विनस्तव पिता तथैव च तपस्विनः। शवं स्कन्धेन वहति मा शृङ्गिन्गर्वितो भव॥२९॥",
+      "english": "Krisha said: O Shringi, do not be proud. Ascetic as you are and possessed of great powers, (go and see) your father who is carrying a dead body (on his shoulder),",
+      "bhavadeepa": "संरंभात् क्रोधावेशात् कोपनस्तीक्ष्णः॥२८॥",
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "व्याहरत्स्वृषिपुत्रेषु मा स्म किंचिद्वचो वद। अस्मद्विधेषु सिद्धेषु ब्रह्मवित्सु तपस्विषु॥३०॥",
+      "english": "Don't speak with the sons of the Rishis like ourselves, who are deep in asceticism, who have knowledge of truth and who have attained Success.",
+      "bhavadeepa": null,
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "क्व ते पुरुषमानित्वं क्व ते वाचस्तथाविधाः। दर्पजाः पितरं द्रष्टा यस्त्वं शवधरं तथा॥३१॥",
+      "english": "Where is your that manliness and where are your those proud words, when you see your father carrying a dead snake?",
+      "bhavadeepa": null,
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "पित्रा च तव तत्कर्म नानुरूपमिवात्मनः। कृतं मुनिजनश्रेष्ठ येनाहं भृशदुःखितः॥३२॥",
+      "english": "O best of Rishis, your father did nothing to meet with this treatment. I am pained as if it has been done to me.",
+      "bhavadeepa": null,
+      "chapter": 40,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "चत्वारिंशोऽध्यायः"
+    }
+  ]
+}

@@ -1,0 +1,553 @@
+{
+  "adhyaya_id": "P01_U06_A062",
+  "book": 1,
+  "parva_name": "आदिपर्व",
+  "upaparva_name": "अंशावतरणपर्व",
+  "adhyaya_name": "द्विषष्टितमोऽध्यायः",
+  "chapter": 62,
+  "verse_count": 53,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "जनमेजय उवाच।\n              कथितं वै समासेन त्वया सर्वं द्विजोत्तम। महाभारतमाख्यानं कुरूणां चरितं महत्॥१॥",
+      "english": "Janamejaya said : O best of Brahmanas, you have told me in brief the history called Mahabharata, containing the great deeds of the Kurus.",
+      "bhavadeepa": "विहतभूयिष्ठं नष्टप्रायम् ॥५३॥",
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "कथां त्वनघ चित्रार्थां कथयस्व तपोधन। विस्तरश्रवणे जातं कौतूहलमतीव मे॥२॥",
+      "english": "O great ascetic, recite now fully this wonderful history. I feel a great curiosity to hear it.",
+      "bhavadeepa": "द्विषष्टितमः अध्यायः कथितमिति ॥१॥",
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "स भवान्विस्तरेणेमां पुनराख्यातुमर्हति। न हि तृप्यामि पूर्वेषां शृण्वानश्चरितं महत्॥३॥",
+      "english": "You should, therefore, recite it in full. I am not satisfied with hearing in the abstract this great history of my ancestors.",
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "न तत्कारणमल्पं वै धर्मज्ञा यत्र पाण्डवाः। अवध्यान्सर्वशो जघ्नुः प्रशस्यन्ते च मानवैः॥४॥",
+      "english": "It could not be a trifling cause for which the virtuous Pandavas killed those whom they should not have killed and for which they are still praised by men.",
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "किमर्थं ते नरव्याघ्राः शक्ताः सन्तो ह्यनागसः। प्रयुज्यमानान्संक्लेशान्क्षान्तवन्तो दुरात्मनाम्॥५॥",
+      "english": "Why did those best of men, (the Pandavas), capable of avenging themselves on enemies, though innocent, quietly suffered the persecutions of the wicked Kurus?",
+      "bhavadeepa": "अवध्यान् भीष्मद्रोणादीन् ॥४॥",
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "कथं नागायुतप्राणो बाहुशाली वृकोदरः। परिक्लिश्यन्नपि क्रोधं धृतवान्वै द्विजोत्तम॥६॥",
+      "english": "O best of Brahmanas, why did the mighty armed Bhima, having the strength of ten thousand elephants, though persecuted, patiently kept his anger down?",
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "कथं सा द्रौपदी कृष्णा क्लिश्यमाना दुरात्मभिः। शक्ता सती धार्तराष्ट्रान्नादहत्क्रोधचक्षुषा॥७॥",
+      "english": "Why did not the chaste Krishnaa, the daughter of Drupada, though persecuted by the wicked (Kurus), burn the sons of Dhritarashtra by her angry eyes, capable as she was to do it?",
+      "bhavadeepa": "बाहुशाली बाहुबलवान् । कथं क्रोधं धृतवान् निरुद्धवान् ॥६॥",
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "कथं व्यसनिनं द्यूते पार्थौ माद्रीसुतौ तदा। अन्वयुस्ते नरव्याघ्रा बाध्यमाना दुरात्मभिः॥८॥",
+      "english": "Why did the two sons of Pritha, (Bhima and Arjuna) and the two sons of Madri (Nakula and Sahadeva) those best of men, though persecuted by the wretches, follow Yudhishthira, who was addicted to the evil habit of gambling?",
+      "bhavadeepa": "शक्ता दग्धुमिति शेषः ॥७॥",
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "कथं धर्मभृतां श्रेष्ठः सुतो धर्मस्य धर्मवित्। अनर्हः परमं क्लेशं सोढवान्स युधिष्ठिरः॥९॥",
+      "english": "Why did Yudhishthira, the best of all virtuous men and the son of Dharma himself, though acquainted with all duties, suffer great afflictions?",
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "कथं च बहुलाः सेनाः पाण्डवः कृष्णसारथिः। अस्यन्नेकोऽनयत्सर्वाः पितृलोकं धनंजयः॥१०॥",
+      "english": "Why did the son of Pandu, Arjuna, Krishna himself being his charioteer and who could by his arrows send to the other world hosts of fighting men, suffer so many persecutions?",
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "एतदाचक्ष्व मे सर्वं यथावृत्तं तपोधन। यद्यच्च कृतवन्तस्ते तत्रतत्र महारथाः॥११॥",
+      "english": "O great, Rishi, tell me all this as they happened. (Tell me) everything that those highly mighty car-warriors did.",
+      "bhavadeepa": "अस्यन् शरान् क्षिपन् । स कथं क्लेशं सोढवानित्यनुषज्यते ॥१०॥",
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "वैशंपायन उवाच।\n              क्षणं कुरु महाराज विपुलोऽयमनुक्रमः। पुण्याख्यानस्य वक्तव्यः कृष्णद्वैपायनेरितः॥१२॥",
+      "english": "Vaishampayana said : O great king, appoint a time (to hear it). This history is very extensive. This is but the beginning. I shall recite the whole of this history, composed by the illustrious Krishna Dvaipayana, the great Rishi, Vyasa of immeasurable mental power, who is adored by all the world.",
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः",
+      "combined_translation": "12-13"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "महर्षेः सर्वलोकेषु पूजितस्य महात्मनः। प्रवक्ष्यामि मतं कृत्स्नं व्यासस्यामिततेजसः॥१३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः",
+      "english_ref": 12,
+      "combined_translation": "12-13"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "इदं शतसहस्रं हि श्लोकानां पुण्यकर्मणाम्। सत्यवत्यात्मजेनेह व्याख्यातममितौजसा॥१४॥",
+      "english": "This (Bharata) contains one lac sacred slokas, composed by the son of Satyavati, Vyasa of immeasurable mental power.",
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "य इदं श्रावयेद्विद्वान्ये चेदं शृणुयुर्नराः। ते ब्रह्मणः स्थानमेत्य प्राप्नुयुर्देवतुल्यताम्॥१५॥",
+      "english": "The learned man who reads it to others and those that hear it read, go to the world of Brahma and become equal to the celestials.",
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "इदं हि वेदैः समितं पवित्रमपि चोत्तमम्। श्राव्याणामुत्तमं चेदं पुराणमृषिसंस्तुतम्॥१६॥",
+      "english": "This (Bharata) is equal to the Vedas; it is holy and excellent; it is the worthiest of all that should be listened to. It is a Purana, adored by the Rishis.",
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "अस्मिन्नर्थश्च कामश्च निखिलेनोपदेक्ष्यते। इतिहासे महापुण्ये बुद्धिश्च परिनैष्ठिकी॥१७॥",
+      "english": "It contains many useful instructions on Artha and Kama. This sacred history makes the heart desire to attain salvation.",
+      "bhavadeepa": "ऋषिभिर्मन्त्रैस्तद्रष्टभिर्वा संस्तुतं समं स्तुतं वा ॥१६॥",
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "अक्षुद्रान्दानशीलांश्च सत्यशीलाननास्तिकान्। कार्ष्णं वेदमिमं विद्वाञ्छ्रावयित्वाऽर्थमश्नुते॥१८॥",
+      "english": "The learned men earn much wealth by reciting this Veda composed by Krishna (Dvaipayana) to those who are noble, liberal, truthful and believing.",
+      "bhavadeepa": "परिनैष्ठिकी परिनिष्ठा मोक्षस्तदुचिता ॥१७॥",
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "भ्रूणहत्याकृतं चापि पापं जह्यादसंशयम्। इतिहासमिमं श्रुत्वा पुरुषोऽपि सुदारुणः॥१९॥",
+      "english": "Even the sin of killing embryo is destroyed of those who read it with reverence at every change of the moon.",
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः",
+      "combined_translation": "19-269"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "मुच्यते सर्वपापेभ्यो राहुणा चन्द्रमा यथा। जयो नामेतिहासोऽयं श्रोतव्यो विजिगीषुणा॥२०॥",
+      "english": "Sins, even of killing embryo, are destroyed by (reading or hearing) it. Even a greatly sinful man, by hearing this history, escapes from all his sins, like the sun from Rahu. This history is called Jaya (victory); it should be heard by those that desire victory.",
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "महीं विजयते राजा शत्रूंश्चापि पराजयेत्। इदं पुंसवनं श्रेष्ठमिदं स्वस्त्ययनं महत्॥२१॥",
+      "english": "Hearing it, a king can bring the whole world under his subjection and defeat all his foes. It is a mighty act of propitiation; it is a great sacrifice, productive of blessed fruits. SO",
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "महिषी युवराजाभ्यां श्रोतव्यं बहुशस्तथा। वीरं जनयते पुत्रं कन्यां वा राज्यभागिनीम्॥२२॥",
+      "english": "It should be heard by the crown-princes with their wives, for then, they would beget a heroic son or a daughter who occupies a throne.",
+      "bhavadeepa": "पुंसवनं पुमांसः सूयन्तेऽस्मिन्निति श्रुतेः ॥२१॥",
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "धर्मशास्त्रमिदं पुण्यमर्थशास्त्रमिदं परम्। मोक्षशास्त्रमिदं प्रोक्तं व्यासेनामितबुद्धिना॥२३॥",
+      "english": "It is the Dharma Shastra, it is also the sacred Artha Shastra, it is also the great Moksha Shastra, said Vyasa of immeasurable intelligence.",
+      "bhavadeepa": "महिषी पट्टराज्ञी ॥२२॥",
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "संप्रत्याचक्षते चेदं तथा श्रोष्यन्ति चापरे। पुत्राः शुश्रूषवः सन्ति प्रेष्याश्च प्रियकारिणः॥२४॥",
+      "english": "It is recited in the present age and will be recited in future ages. He, who hears it, gets sons and survivors, who perform their favourite works.",
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "शरीरेण कृतं पापं वाचा च मनसैव च। सर्वं संत्यजति क्षिप्रं य इदं शृणुयान्नरः॥२५॥",
+      "english": "He who hears it escapes immediately from all his sins that are committed by him in body, word or mind.",
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "भरतानां महज्जन्म शृण्वतामनसूयताम्। नास्ति व्याधिभयं तेषां परलोकभयं कुतः॥२६॥",
+      "english": "He who hears the history of the Bharata race without being fault-finding, can have no fear from diseases, let alone the fear of the other world.",
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "धन्यं यशस्यमायुष्यं पुण्यं स्वर्ग्यं तथैव च। कृष्णद्वैपायनेनेदं कृतं पुण्यचिकीर्षुणा॥२७॥",
+      "english": "In order to extend the fame of the highsouled Pandavas and other Kshatriyas, learned in all branches of knowledge, high-spirited and already famous in the world for their great deeds, Krishna Dvaipayana, moved by the desire of benefiting the world, has composed this excellent, sacred and big work which spreads one's fame and gives one a long life. He who, from the desire of acquiring virtue, causes this history to be heard in this world by holy Brahmanas, gains inexhaustible virtue. He who recites the history of the Kurus, becomes immediately pure and holy.",
+      "bhavadeepa": "अनसूयतां गुणेषु दोषारोपमकुर्वताम् ॥२६॥",
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः",
+      "combined_translation": "27-30"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "कीर्तिं प्रथयता लोके पाण्डवानां महात्मनाम्। अन्येषां क्षत्रियाणां च भूरिद्रविणतेजसाम्॥२८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः",
+      "english_ref": 27,
+      "combined_translation": "27-30"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "सर्वविद्यावदातानां लोके प्रथितकर्मणाम्। य इदं मानवो लोके पुण्यार्थे ब्राह्मणाञ्छुचीन्॥२९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः",
+      "english_ref": 27,
+      "combined_translation": "27-30"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "श्रावयेत महापुण्यं तस्य धर्मः सनातनः। कुरूणां प्रथितं वंशं कीर्तयन्सततं शुचिः॥३०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः",
+      "english_ref": 27,
+      "combined_translation": "27-30"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "वंशमाप्नोति विपुलं लोके पूज्यतमो भवेत्। योऽधीते भारतं पुण्यं ब्राह्मणो नियतव्रतः॥३१॥",
+      "english": "He acquires large family and becomes respected in the world. The Brahmana, who reads the holy Bharata, regularly,",
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "चतुरो वार्षिकान्मासान्सर्वपापैः प्रमुच्यते। विज्ञेयः स च वेदानां पारगो भारतं पठन्॥३२॥",
+      "english": "For the four rainy months of the year, is cleansed of all his sins. He, who has read the Bharata, may be regarded as one who has studied the Vedas.",
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "देवा राजर्षयो ह्यत्र पुण्या ब्रह्मर्षयस्तथा। कीर्त्यन्ते धूतपाप्मानः कीर्त्यते केशवस्तथा॥३३॥",
+      "english": "In it have been described the celestials, the royal sages, the holy and regenerate Rishis, the sinless Keshava (Krishna).",
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "भगवांश्चापि देवेशो यत्र देवी च कीर्त्यते। अनेकजननो यत्र कार्तिकेयस्य संभवः॥३४॥",
+      "english": "The god of gods, (Mahadeva) the goddess Parvati, the birth of Kartikeya, who had many mothers,",
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "ब्राह्मणानां गवां चैव माहात्म्यं यत्र कीर्त्यते। सर्वश्रुतिसमूहोऽयं श्रोतव्यो धर्मबुद्धिभिः॥३५॥",
+      "english": "And the greatness of Brahmanas and kine. It is a collection of all Shrutis and a work worthy to be heard by virtuous-minded men.",
+      "bhavadeepa": "अनेकजननः अनेकेभ्यः षड्भ्यः कृत्तिकाभ्यः जननम् उत्पत्तिरस्मिन्निति तथा ॥३४॥",
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "य इदं श्रावयेद्विद्वान्ब्राह्मणानिह पर्वसु। धूतपाप्मा जितस्वर्गो ब्रह्म गच्छति शाश्वतम्॥३६॥",
+      "english": "The learned man, who recites it to Brahmanas during the sacred Parvas (lunar changes), is cleansed of all his sins and being victorious over heaven (not caring for it) attains to an union with Brahma.",
+      "bhavadeepa": "सर्वश्रुतिसमूहः सर्वासां श्रुतीनां कर्म ब्रह्मपराणां समूह एवायम् ॥३५॥",
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "श्रावयेद्ब्राह्मणाञ्श्राद्धे यश्चेमं पादमन्ततः। अक्षय्यं तस्य तच्छ्राद्धमुपावर्तेत्पितॄनिह॥३७॥",
+      "english": "He who causes even a single line of it to be heard by Brahmanas at a Shraddha, that Shraddha becomes inexhaustible and the Pitris (ancestors) become gratified with food presented to them.",
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "अह्ना यदेनः क्रियते इन्द्रियैर्मनसाऽपि वा। ज्ञानादज्ञानतो वापि प्रकरोति नरश्च यत्॥३८॥",
+      "english": "The sins that are committed daily by our senses and by our mind and those that are committed knowingly or unknowingly by any man.",
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "तन्महाभारताख्यानं श्रुत्वैव प्रविलीयते। भरतानां महज्जन्म महाभारतमुच्यते॥३९॥",
+      "english": "Are all destroyed by hearing the Mahabharata, The history of the great births of the Bharata princes is called Mahabharata.",
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "निरुक्तमस्य यो वेद सर्वपापैः प्रमुच्यते। भरतानां महज्जन्म महाभारतमुच्यते॥४०॥",
+      "english": "It is called Mahabharata from this superiority in substance and gravity of import. He who understands its real meaning, is freed from all sins.",
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः",
+      "combined_translation": "40-274"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "महतो ह्येनसो मर्त्यान्मोचयेदनुकीर्तितः। त्रिभिर्वर्षैर्लब्धकामः कृष्णद्वैपायनो मुनिः॥४१॥",
+      "english": "Therefore, when recited, it purifies men from their sins. The Rishi Krishna Dvaipayana completed it in three years.",
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "नित्योत्थितः शुचिः शक्तो महाभारतमादितः। तपो नियममास्थाय कृतमेतन्महर्षिणा॥४२॥",
+      "english": "Rising daily (in the morning), purifying himself (by ablutions) and performing all his religious (he composed this Mahabharata).",
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "तस्मान्नियमसंयुक्तैः श्रोतव्यं ब्राह्मणैरिदम्। कृष्णप्रोक्तामिमां पुण्यां भारतीमुत्तमां कथाम्॥४३॥",
+      "english": "Therefore, the Brahmanas should hear, with prescribed rules, this holy history, this excellent narration of Bharata, composed by Krishna (Dvaipayana.)",
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "श्रावयिष्यन्ति ये विप्रा ये च श्रोष्यन्ति मानवाः। सर्वथा वर्तमाना वै न ते शोच्याः कृताकृतैः॥४४॥",
+      "english": "The Brahmanas who recite it for others to hear it and those who hear it, in whatever state duties, they may be, can never be affected by the fruits of good or bad deeds.",
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "नरेण धर्मकामेन सर्वः श्रोतव्य इत्यपि। निखिलेनेतिहासोऽयं ततः सिद्धिमवाप्नुयात्॥४५॥",
+      "english": "The man, who is desirous of acquiring virtue, should hear it all. It is equal to all histories in the world and he who hears it acquires purity of heart.",
+      "bhavadeepa": "सर्वथा साधुनाऽसाधुना वा वर्त्मना वर्तमाना अपि कृताकृतैः क्रमेण पापपुण्यैस्तेन शोच्याः । एतच्छ्रवणादेव सर्वप्रत्यवायपरिहारो भवतीति भावः ॥४४॥",
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "न तां स्वर्गगतिं प्राप्य तुष्टिं प्राप्नोति मानवः। यां श्रुत्वैवं महापुण्यमितिहासमुपाश्नुते॥४६॥",
+      "english": "The bliss that one enjoys in attaining heaven is scarcely equal to that which one derives from hearing this greatly holy history.",
+      "bhavadeepa": "सिद्धिर्धर्मफलं चित्तशुद्ध्यादिः ॥४५॥",
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "शृण्वञ्श्राद्धः पुण्यशीलः श्रावयंश्चेदमद्भुतम्। नरः फलमवाप्नोति राजसूयाश्वमेधयोः॥४७॥",
+      "english": "The virtuous man, who hears or causes it to be heard with reverence, obtains the fruits of a Rajasuya and Ashvamedha sacrifice.",
+      "bhavadeepa": "न तामिति । स्वर्गादप्येतच्छ्रवणं सुखकरं मुक्तिहेतुत्वादिति भावः ॥४६॥",
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "यथा समुद्रो भगवान्यथा मेरुर्महागिरिः। उभौ ख्यातौ रत्ननिधी तथा भारतमुच्यते॥४८॥",
+      "english": "This Bharata is said to be a mine of gems, as the illustrious ocean or the great mountain Meru.",
+      "bhavadeepa": "श्राद्धः श्रद्धावान् ॥४७॥",
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "इदं हि वेदैः समितं पवित्रमपि चोत्तमम्। श्रव्यं श्रुतिसुखं चैव पावनं शीलवर्धनम्॥४९॥",
+      "english": "This (Bharata) is sacred and excellent and it equals the Vedas in sanctity. It is worthy of being heard, it is pleasing to the ear, it is sincleansing and virtue-increasing.",
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "य इदं भारतं राजन्वाचकाय प्रयच्छति। तेन सर्वा मही दत्ता भवेत्सागरमेखला॥५०॥",
+      "english": "O king, he who gives a copy of Mahabharata to one who asks for it, does give (not a copy of a book, but) the whole of the earth having a belt of seas.",
+      "bhavadeepa": "श्रन्यम् अर्थतो रम्यं श्रुतिसुखं शब्दतो रम्यम् ॥४९॥",
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "पारिक्षितकथां दिव्यां पुण्याय विजयाय च। कथ्यमानां मया कृत्स्नां शृणु हर्षकरीमिमाम्॥५१॥",
+      "english": "O son of Parikshit, this pleasant and sacred history that secures victory, (to the hearer), I shall now recite to you in full, Listen to it.",
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "त्रिभिर्वर्षैः सदोत्थायी कृष्णद्वैपायनो मुनिः। महाभारतमाख्यानं कृतवानिदमद्भुतम्॥५२॥",
+      "english": "The Rishi Krishna Dvaipayana, regularly rising (every morning) for three years, composed this wonderful history, called Mahabharata.",
+      "bhavadeepa": null,
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "धर्मे चार्थे च कामे च मोक्षे च भरतर्षभ। यदिहास्ति तदन्यत्र यन्नेहास्ति न तत्क्वचित्॥५३॥",
+      "english": "O best of the Bharata race, whatever about Dharma, Artha, Kama and Moksha, that is contained in this Bharata, may be met with elsewhere; but whatever is not in it, is not to be found anywhere.",
+      "bhavadeepa": "सदोत्थायी सदोद्युक्तः ॥५२॥",
+      "chapter": 62,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "अंशावतरणपर्व",
+      "adhyaya_name": "द्विषष्टितमोऽध्यायः"
+    }
+  ]
+}

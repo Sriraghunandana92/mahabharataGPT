@@ -1,0 +1,524 @@
+{
+  "adhyaya_id": "P08_U01_A020",
+  "book": 8,
+  "parva_name": "कर्णपर्व",
+  "upaparva_name": "कर्णपर्व",
+  "adhyaya_name": "विंशोऽध्यायः",
+  "chapter": 20,
+  "verse_count": 51,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "धृतराष्ट्र उवाच।\n              प्रोक्तस्त्वया पूर्वमेव प्रवीरो लोकविश्रुतः। न त्वस्य कर्म संग्रामे त्वया सञ्जय कीर्तितम् ॥१॥",
+      "english": "Dhritarashtra said The name of that foremost of heroes celebrated all over the world, was related by you already; but O Sanjaya, his achievements in battle were not related by you.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "तस्य विस्तरशो ब्रूहि प्रवीरस्याद्य विक्रमम् । शिक्षां प्रभावं वीर्यं च प्रमाणं दर्पमेव च ॥२॥",
+      "english": "Describe to me detail the prowess, learning, spirit, energy, the amount of strength and pride of that best of heroic warriors.",
+      "bhavadeepa": "प्रोक्त इति ॥१॥",
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "सञ्जय उवाच।\n              भीष्म-द्रोण-कृप-द्रौणि-कर्णार्जुन-जनार्दनान् । समाप्तविद्यान्धनुषि श्रेष्ठान्यान्मन्यसे रथान् ॥३॥",
+      "english": "Sanjaya said You raged Bhishma, Drona, Kripa, the son of Drona, Karna, Arjuna and Janardana to be well versed in the knowledge of weapons and also to be the foremost of all bowmen and again, the best of car-warriors.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "यो ह्याक्षिपति वीर्येण सर्वानेतान्महारथान् । न मेने चात्मना तुल्यं कञ्चिदेव नरेश्वरम् ॥४॥",
+      "english": "But he (the chief of the Pandayas) indeed surpasses all those mighty car-warriors in prowess. And he also does not consider any one of the kings to be equal to himself.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "तुल्यतां द्रोणभीष्माभ्यामात्मनो यो न मृष्यते । वासुदेवार्जुनाभ्यां च न्यूनतां नैच्छतात्मनि ॥५॥",
+      "english": "He (Pandya) does not admit that he cqual to either Karna or Bhishma; nor docs he wish that he is inferior to Vasudeva or Arjuna.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "स पाण्ड्यो नृपतिः श्रेष्ठः सर्वशस्त्रभृतां वरः । कर्णस्यानीकमहनत् पराभूत इवान्तकः ॥६॥",
+      "english": "That foremost of kings, Pandaya, who was the most superior to all that are versed in the management of all weapons, slaughtered the army of Karna, even as highly insulted Death destroys all the creatures.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "तदुदीर्णरथाश्वं च पत्तिप्रवरसंकुलम् । कुलालचक्रवद्भ्रान्तं पाण्ड्येनाभ्याहतं बलात् ॥७॥",
+      "english": "That army (of Karna), which teemed with innumerable cars and horses, as also with the most expert of foot-soldiers, having been smitten down by Pandya, circled round like the wheel of the potter.",
+      "bhavadeepa": "पराभूतः प्रकोपितः ॥६॥",
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "व्यश्वसूतध्वजरथान् विप्रविद्धायुधद्विपान् । सम्यगस्तैः शरैः पाण्ड्यो वायुर्मेघानिवाक्षिपत् ॥८॥",
+      "english": "Pandya had, with his excellently-shot arrows, continued to scatter about that force, slaughtering its horses, drivers, standards and cars, as also displacing its weapons and striking down its elephants, even as the wind disperses the masses of clouds.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "द्विरदान् द्विरदारोहान्विपताकायुधध्वजान् । सपादरक्षानहनद्वज्रेणाद्रीनिवाद्रिहा ॥९॥",
+      "english": "He (Pandya) had slaughtered the elephants along with their riders and foot-soldiers guarding them and had split asunder the banners, weapons and standards (with which they were equipt) of that army; even as the breaker of mountains splits as under the mountains with the thunder-bolt.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "सशक्तिप्रासतूणीरानश्वारोहान् हयानपि । पुलिन्द-खस-बाह्लीक-निषादान्ध्रक-कुन्तलान् ॥१०॥",
+      "english": "He had smitten down the horses as well as the horsemen, who were armed with the arrows called Sakti, the lances and quivers. And then had destroyed the lives of the Pulindas, the Khasas, the Balhikas, the Nishadhas, the Andhakas, the Tanganas, the Southerners and the Bhojas, who were all possessed of heroism and very hardly and obstinate in the field of battle, after having deprived them of their weapons and coats of armour, by means of innumerable arrows.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः",
+      "combined_translation": "10-11"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "दाक्षिणात्यांश्च भोजांश्च शूरान् संग्रामकर्कशान् । विशस्त्रकवचान्बाणैः कृत्वा चैवाकरोद्व्यसून् ॥११॥",
+      "english": null,
+      "bhavadeepa": "स पाण्ड्यः व्यसूनकरोदिति द्वयोः सम्बन्धः ॥१०॥",
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः",
+      "english_ref": 10,
+      "combined_translation": "10-11"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "चतुरङ्गं बलं बाणैर्निघ्नन्तं पाण्ड्यमाहवे । दृष्ट्वा द्रौणिरसंभ्रान्तमसंभ्रान्तस्ततोऽभ्ययात् ॥१२॥",
+      "english": "Having seen that Pandya in the field was slaughtering the army consisting of the four principal elements by means of his shafts, then the son of Drona, undaunted with fear, advanced against that fearless warrior.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "आभाष्य चैनं मधुरमभीतं तमभीतवत् । प्राह प्रहरतां श्रेष्ठः स्मितपूर्वं समाह्वयत् ॥१३॥",
+      "english": "Having fearlessly addressed this hero (Pandya) in sweet words, who was then supposed to dance (on his car, in the field of battle) and also having called him to battle with a smiling face, that foremost of smiters (the son",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "राजन् कमलपत्राक्ष विशिष्टाभिजनश्रुत । वज्रसंहननप्रख्य प्रख्यातबलपौरुष ॥१४॥",
+      "english": "“O monarch, O you, who art possessed of eyes like the petals of a louts. O you of high parentage, O you who art versed in all the sciences, O you who do resemble the mightest smiter of the thunder-bolt. (Indra), O you, whose strength and prowess are most noted.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "मुष्टिश्लिष्टायतज्यं च व्यायताभ्यां महद्धनुः । दोर्भ्यां विस्फारयन् भासि महाजलदवद्भृशम् ॥१५॥",
+      "english": "Having caught the long bow-string in your grasp and stretched the bow by your two massive arms and also having pulled it by your hands, you look most handsome like a mass of congregated clouds.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "शरवर्षैर्महावेगैरमित्रानभिवर्षतः । मदन्यं नानुपश्यामि प्रतिवीरं तवाहवे ॥१६॥",
+      "english": "You have continued pouring down showers of arrows, possessed of great impetuosity. I do not find any other hero than myself who can stand against you in the field of battle.",
+      "bhavadeepa": "मुष्टिश्लिष्टायतज्यं मुष्टिदेशे श्लिष्टा च आयता च ज्या यस्य तत्तथा । एकस्मिन्नेव क्षणे यद्धनुर्मण्डलाकारं चिपिटाकारं च दृश्यत इति भावः ॥१५॥",
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "रथ-द्विरद-पत्त्यश्वानेकः प्रमथसे बहून् । मृगसङ्घानिवारण्ये बिभीर्भीमबलो हरिः ॥१७॥",
+      "english": "Being alone, you smite down innumerable cars, elephants, foot-soldiers and horses; even as the fearless lion of undaunted prowess kills a large number of deer in the forest.",
+      "bhavadeepa": "वर्षतः मत् मत्तः ॥१६॥",
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "महता रथघोषेण दिवं भूमिं च नादयन् । वर्षान्ते सस्यहा मेघो भासि ह्रादीव पार्थिव ॥१८॥",
+      "english": "Having made both the firmament and the earth resound with the great rattle of your carwheels, you look look most resplendent, O monarch, like the congregated mass of clouds, that destroys all the crops appearing at the end of the rains and making loud roars.",
+      "bhavadeepa": "प्रमथसे प्रमथ्नासि ॥१७॥",
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "संस्पृशानः शरांस्तीक्ष्णांस्तूणादाशीविषोपमान् । मयैवैकेन युध्यस्व त्र्यम्बकेनान्धको यथा ॥१९॥",
+      "english": "Having taken out your sharp arrows from the quiver, that are like the snakes of virulent poison, do you fight with me alone; even as Andhaka (Asura) fought with the three-eyed deity (Shiva) (in the days of yore).",
+      "bhavadeepa": "सस्यहा अतिवृष्ट्या धान्यहा ह्रादी गर्जन् ॥१८॥",
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "एवमुक्तस्तथेत्युक्त्वा प्रहरेति च ताडितः । कर्णिना द्रोणतनयं विव्याध मलयध्वजः ॥२०॥",
+      "english": "Having been thus addressed by the son of Drona and uttering these words-So be it and also strike, Malayadhvaja was greatly assailed and he (Pandya) himself in return pierced the son of Drona with a barbed arrow.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "मर्मभेदिभिरत्युग्रैर्बाणैरग्निशिखोपमैः । स्मयन्नभ्यहनद्द्रौणिः पाण्ड्यमाचार्यसत्तमः ॥२१॥",
+      "english": "Thereupon the son of Drona, that foremost of preceptors, had smilingly struck down Pandya with numerous arrows, that penetrate even the vitals and also that are possessed of great impetuosity and again, that resemble the flames of fire in splendour.",
+      "bhavadeepa": "ताडितः द्रौणिना मलयवत् कृत्रिमो ध्वजो यस्य मलयध्वज इति प्रवीरस्यैव नामान्तरं वा ॥२०॥",
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "ततोऽपरान्सुतीक्ष्णाग्रान्नाराचान्मर्मभेदिनः । गत्या दशम्या संयुक्तानश्वत्थामाऽप्यवासृजत् ॥२२॥",
+      "english": "Thereafter Ashvatthaman, too, shot (at his enemy) several other broad-headed arrows, that are furnished with sharp points and that are capable of penetrating the very vitals and also that are possessed of ten different motions.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "ताञ्शरानच्छिनत् पाण्ड्यो नवभिर्निशितैः शरैः । चतुर्भिरर्दयच्चाश्वानाशु ते व्यसवोऽभवन् ॥२३॥",
+      "english": "Then Pandya severed those arrows (of his antagonist) by means of his nine keen shafts; and by means of four other arrows he afflicted the horses (four in number), that had immediately been deprived of their lives.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "अथ द्रोणसुतस्येषूंस्ताञ्छित्त्वा निशितैः शरैः । धनुर्ज्यां विततां पाण्ड्यश्चिच्छेदादित्यतेजसः ॥२४॥",
+      "english": "Thereupon, having struck down those arrows of the son of Drona, that had the splendour of the sun, with his own keen shafts, pandya cut-off the stretched bowstring (of his antagonist),",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "दिव्यं धनुरथाधिज्यं कृत्वा द्रौणिरमित्रहा । प्रेक्ष्य चानु रथे युक्तान्नरैरन्यान्हयोत्तमान् ॥२५॥",
+      "english": "Then having stringed his bow, that was without the string and also having behold that his car was immediately yoked to the foremost of horses by his men, that son of Drona, that smiter of enemies.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "ततः शरसहस्राणि प्रेषयामास वै द्विजः । इषुसंबाधमाकाशमकरोद्दिश एव च ॥२६॥",
+      "english": "That twice-born person then sent away thousands of arrows (upon his antagonist); and he thereby filled the entire firmament and the different points of the horizon with his shafts.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "ततस्तानस्यतः सर्वान् द्रौणेर्बाणान्महात्मनः । जानानोऽप्यक्षयान्पाण्ड्योऽशातयत्पुरुषर्षभः ॥२७॥",
+      "english": "Having been conscious of the fact that all those arrows of the high-souled son of Drona shot by himself, were, indeed, inexhaustible, that foremost of persons. Pandya, then cut them all into fragments.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "प्रयुक्तांस्तान्प्रयत्नेन छित्त्वा द्रौणेरिषूनरिः । चक्ररक्षौ रणे तस्य प्राणु‌दन्निशितैः शरैः ॥२८॥",
+      "english": "Then, again the antagonist of the son of Drona, after having severed those arrows shot (by his foe) most carefully, had slain in the battle the two protectors of his (enemy's) carwheels, by means of his own keen shafts.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "अथारेर्लाघवं दृष्ट्वा मण्डलीकृतकार्मुकः । प्रास्यद्द्रोणसुतो बाणान् वृष्टिं पूषानुजो यथा ॥२९॥",
+      "english": "Thereupon having observed the lightness of hand of his antagonist, the son of Drona had stringed his bow into a circle and shot innumerable arrows, even as the mass of clouds pours down the torrents of rain.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "अष्टावष्टगवान्यूहुः शकटानि यदायुधम् । अह्नस्तदष्टभागेन द्रौणिश्चिक्षेप मारिष ॥३०॥",
+      "english": "O sire, the son of Drona shot, within the eighth part of a day, as many weapons as could be conveyed in eight cars drawn by eight bullocks.",
+      "bhavadeepa": "पूषानुजः पर्जन्यः । पूषात्मज इति पाठेऽपि स एवार्थः । वृष्टेः सूर्यप्रभवत्वदर्शनात् ॥२९॥",
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "तमन्तकमिव क्रुद्धमन्तकस्यान्तकोपमम् । ये ये ददृशिरे तत्र विसंज्ञाः प्रायशोऽभवन् ॥३१॥",
+      "english": "Almost all those people, whoever behold him (Ashvatthaman), who then looked like the highly enraged Death himself, who resembled the very destroyer of Death himself, had wholly lost their senses.",
+      "bhavadeepa": "अष्टवृषभवाह्यानि अष्टौ शकटानि यदायुधसंभारम् ऊहुः वहन्ति तत्सर्वम् अह्नोऽष्टमभागेन यामार्धेन क्षीणमित्यर्थः ॥३०॥",
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "पर्जन्य इव घर्मान्ते वृष्ट्या साद्रिद्रुमां महीम् । आचार्यपुत्रस्तां सेनां बाणवृष्ट्या व्यवीवृषत् ॥३२॥",
+      "english": "The son of the preceptor poured froth showers of arrows upon that hostile army, even as the mass of congregated clouds, at the expiration of the summer, drops down showers of rain upon the earth, containing mountains and trees upon her.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "द्रौणिपर्जन्यमुक्तां तां बाणवृष्टिं सुदुःसहाम् । वायव्यास्त्रेण संक्षिप्य सुदा पाण्ड्यानिलोऽनुदत् ॥३३॥",
+      "english": "Then Pandya, who was like the wind, after having checked, with his weapon, called the or Vayavya, that intolerable shower of shafts poured down by the son of Drona, who was like the mass of clouds, roared most loudly with great gratification.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "तस्य नानदतः केतुं चन्दनागुरुरूषितम् । मलयप्रतिमं द्रौणिश्छित्त्वाऽश्वांश्चतुरोऽहनत् ॥३४॥",
+      "english": "The son of Drona, after having cut-off the standards, that was smcared with soft sandal and paste of Agura and also that resembled the Malaya inountain, of that person, who uttered inost loud roars, slaughtered four horses (belonging to him-Pandya).",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "सूतमेकेषुणा हत्वा महाजलद‌निःस्वनम् । धनुश्छित्त्वाऽर्धचन्द्रेण तिलशो व्यधमद्रथम् ॥३५॥",
+      "english": "After having slaughtered his (Pandya's) charioteer with a single arrow and also having severed his bow, that twanged like a vast mass of clouds, with a crescent-shaped arrow, had broken down his car into smallest fragments.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "अस्त्रैरस्राणि संवार्य छित्त्वा सर्वायुधानि च । प्राप्तमप्यहितं द्रौणिर्न जघान रणेप्सया ॥३६॥",
+      "english": "Having restrained the weapons (shot by his antagonist) by the weapons of his own and also having struck down all these weapons, the son of Drona, most desirous of encountering (with his foe), did not slaughter him even on receiving his antagonist (within his reach).",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "एतस्मिन्नन्तरे कर्णो गजानीकमुपाद्रवत् । द्रावयामास स तदा पाण्डवानां महद्बलम् ॥३७॥",
+      "english": "Within a very short time Karna proceeded most rapidly against the clephant-force belonging to the Pandavas, as also then rushed against their vast army.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "विरथान् रथिनश्चक्रे गजानश्वांश्च भारत । गजान्बहुभिरानर्छच्छरैः सन्नतपर्वभिः ॥३८॥",
+      "english": "O descendant of the Bharata race, he then deprived the car-warriors of their cars and with numerous straight arrows, cut-off the elephants, horses and warriors in large nuinbers.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "अथ द्रौणिर्महेष्वासः पाण्ड्यं शत्रुनिबर्हणम् । विरथं रथिनां श्रेष्ठं नाहनद्युद्धकांक्षया ॥३९॥",
+      "english": "Thereupon that mighty bowman, the son of Drona, did not slaughter Pandya, who was the great smiter of his enemies and who again, was the foremost of car-warriors, after having made him carless, for he had the desire of battling with him for some time.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "हतेश्वरो दन्तिवरः सुकल्पितस्त्वराभिसृष्टः प्रतिशब्द‌गो बली । तमाद्रवद्द्रौणिशराहतस्त्वरन् जवेन कृत्वा प्रतिहस्तिगर्जितम् ॥४०॥",
+      "english": "After having roared against another hostile elephant, that foremost of elephants, that was riderless and that was furnished with all his equipments and that was possessed of great activity and that followed the actives (of other hostile elephants) and again, that was endowed with great strength and that was struck with the arrows of the son of Drona and also that had great impetuosity, advanced most rapidly against him (Pandya).",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "तं वारणं वारणयुद्धकोविदो द्विपोत्तमं पर्वतसानुसन्निभम् । समभ्यतिष्ठन्मलयध्वजस्त्वरन्यथाद्रिशृङ्गं हरिरुन्नदंस्तथा ॥४१॥",
+      "english": "That lord of the Malaya mountains, that prince (Pandya) well versed in fighting upon he back of the elephant, ascended, with great activity, that foremost of elephants, resembling the summit of a mountain and also proceeding towards him; even as a lion, roaring most loudly, ascents the peak of a mountain.",
+      "bhavadeepa": "हतेश्वरो यः कश्चित् तं पाण्ड्यम् ॥४०॥",
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "स तोमरं भास्कररश्मिवर्चसं बलास्त्रसर्गोत्तमयत्नमन्युभिः । ससर्ज शीघ्रं परिपीडयन् गजं गुरोः सुतायाद्रिपतीश्वरो नदन् ॥४२॥",
+      "english": "Being highly enraged and most careful in the matter of hurling weapons with great impctuosity, that lord of the prince of mountains, roaring most loudly and afflicting the elephant, had hurled immediately a lance, that had the splendour of the rays of the sun, towards the son of the preceptor.",
+      "bhavadeepa": "मलयध्वजः पाण्ड्यस्तं यदृच्छयागतं वारणं समभ्यतिष्ठत् ॥४१॥",
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "मणिप्रवेकोत्तमवज्रहाटकैरलङ्कृतं चांशुकमाल्यमौक्तिकैः । हतो हतोऽसीत्यसकृन्मुदा नदन् पराहनद्द्रौणिवराङ्गभूषणम् ॥४३॥",
+      "english": "Having shouted with joy, uttering repeatedly-You are slain, you are slain, he (Pandya) broke into pieces the diadem of the son of Drona, that was ornamented with the best sorts of jewels and furnished with the superior kinds of diamonds and again, equipt with first-class gold and excellent cloths and garlands of pearls.",
+      "bhavadeepa": "बलेन अस्त्रसर्गे य उत्तमो यत्नस्तेन मन्युना च तैः परिपीडयन् अङ्कुशेन कोपयन् अद्रिपतिर्मलयस्तस्येश्वरः पाण्ड्यः ॥४२॥",
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "तदर्कचन्द्रग्रहपावकत्विषं भृशातिपातात्पतितं विचूर्णितम् । महेन्द्रवज्राभिहतं महास्वनं यथाद्रिशृङ्गं धरणीतले तथा ॥४४॥",
+      "english": "The diadem, that was resplendent as either the sun, or the moon, or the planets, or the fire, fell down on account of the severe stroke and was broken into minute fragments; even as the summit of a mountain, smitten by the thunder of Indra, falls upon the face of the earth, sending forth a very great noise.",
+      "bhavadeepa": "द्रौणेः वराङ्गभूषणं किरीटं तोमरेण पराहनत् ॥४३॥",
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "ततः प्रजज्वाल परेण मन्युना पादाहतो नागपतिर्यथा तथा । समाददे चान्तकदण्डसन्निभानिषूनमित्रार्तिकरांश्चतुर्दश ॥४५॥",
+      "english": "Thereupon he (the son of Drona), became fiery with great wrath, even as the king of the snakes, being trodden down by the foot, blazes forth with anger. He then took up fourteen shafts, that resembled the rod of Death himself and also that were capable of afflicting the enemies.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "द्विपस्य पादाग्रकरान्स पञ्चभिनृपस्य बाहू च शिरोऽथ च त्रिभिः । जघान शड्भिः षडनुत्तमत्विषः स पाण्ड्यराजाऽनुचरान्महारथान् ॥४६॥",
+      "english": "He then cut-off the (four) feet and trunk of that elephant (belonging to his antagonist) with five arrows, as well as the arms and head of the king with three other shafts; and thereafter he siaughtered the nighty car-warriors, who accompanied king Pandya to the field and who, again, were highly resplendent.",
+      "bhavadeepa": "इषून् समाददे द्रौणिरिति शेषः ॥४५॥",
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "सुदीर्घवृत्तौ वरचन्दनोक्षितौ सुवर्णमुक्तामणिवज्रभूषणौ । भुजौ धरायां पतितौ नृपस्य तौ विचेष्टतुस्तार्क्ष्यहताविवोरगौ ॥४७॥",
+      "english": "Those two arms of the king, that were pretty long and round and that were smeared with excellent sandal past and also that were ornamented with gold, pearls, gems and diamonds, rolled on, falling upon the earth, like two snakes slain by Garuda.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "शिरश्च तत्पूर्णशशिप्रभाननं सरोषताम्रायतनेत्रमुन्नसम् । क्षितावपि भ्राजति तत्सकुण्डलं विशाखयोर्मध्यगतः शशी यथा ॥४८॥",
+      "english": "The head, again, that was furnished with a face resembling the full moon and with eyes, large and red like copper, on account of wrath and that had a prominent nose and also that was adorned with the ear-rings, blazed upon the earth, even as the moon shines between two constellations.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "स तु द्विपः पञ्चभिरुत्तमेषुभिः कृतः षडंशश्चतुरो नृपस्त्रिभिः । कृतो दशांशः कुशलेन युध्यता यथा हविस्तद्दशदैवतं तथा ॥४९॥",
+      "english": "That elephant, indeed, was divided into six pieces with five foremost of arrows and the king was cut into four portions with three others. These ten parts thus divided by the skillful warrior were like the clarified butter portioned out into ten parts offered up to ten different deities.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "स पादशो राक्षसभोजनान्बहून् प्रदाय पाण्ड्योऽश्व-मनुष्य-कुञ्जरान् । स्वधामिवाप्य ज्वलनः पितृप्रियस्ततः प्रशान्तः सलिलप्रवाहतः ॥५०॥",
+      "english": "That king Pandya, after having severed into fragments innumerable horses, men and elephants and also having offered them to the Rakshasas as their food, was himself quieted (by the son of Drona with blazing shafts), even as the cremation fire, after having received the libation of dead body and also having appeased the dead fore-fathers, is itself extinguished by the constant flow of waters.",
+      "bhavadeepa": "चतुरश्चतुरंशः एवं स गजो दशधा भक्तो यथा दशहविष्कायामिष्टौ पिष्टपिण्डो दशधा क्रियते तथेत्यर्थः ॥४९॥",
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "समाप्तविद्यं तु गुरोः सुतं नृपः समाप्तकर्माणमुपेत्य ते सुतः । सुहृद्वृतोऽत्यर्थमपूजयन्मुदा जिते बलौ विष्णुमिवामरेश्वरः ॥५१॥",
+      "english": "Then king, your son, after having advanced towards him, most joyfully worshipped, with enough of reverence, the son of the preceptor, who had finished all learning and who, again, had completed all his tasks, while (the king) was himself surrounded by all his brothers; as the lord of the celestials most cheerfully worshipped Vishnu after the subjugation of Bali (an Asura). even",
+      "bhavadeepa": "पाण्ड्योऽश्वादीन् पादशः प्रदाय खण्डयित्वा प्रशान्तः द्रौणिबाणैरिति शेषः । यथा स्वधां प्रेतशरीररूपं हविः प्राप्य पितृप्रियो ज्वलनः श्मशानाग्निः जलेन शाम्यति तद्वदित्यर्थः ॥५०॥",
+      "chapter": 20,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    }
+  ]
+}

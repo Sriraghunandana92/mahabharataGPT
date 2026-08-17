@@ -1,0 +1,443 @@
+{
+  "adhyaya_id": "P03_U14_A249",
+  "book": 3,
+  "parva_name": "वनपर्व",
+  "upaparva_name": "घोषयात्रापर्व",
+  "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः",
+  "chapter": 249,
+  "verse_count": 41,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "दुर्योधन उवाच।\n              चित्रसेनं समागम्य प्रहसन्नर्जुनस्तदा। इदं वचनमक्लीबमब्रवीत् परवीरहा॥१॥",
+      "english": "Duryodhana said : That slayer of hostile army, Arjuna, then came to Chitrasena and he smilingly spoke these manly words.",
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "भ्रातॄनर्हसि मे वीर मोक्तुं गन्धर्वसत्तम। अनर्हधर्षणा हीमे जीवमानेषु पाण्डुषु॥२॥",
+      "english": "\"O hero, O foremost of the Gandharvas, you should release my brothers. They are not to be insulted so long the Pandavas are alive.\"",
+      "bhavadeepa": "चित्रसेनमिति ॥१॥",
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "एवमुक्तस्तु गन्धर्वः पाण्डवेन महात्मना। उवाच यत् कर्ण वयं मन्त्रयन्तो विनिर्गताः॥३॥",
+      "english": "Having been thus addressed by the illustrious son of Pandu, O Karna, the Gandharva told him of the (secret) counsel with which we came, namely we had gone there for seeing the Pandavas, with their wife in the greatest misery.",
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः",
+      "combined_translation": "3-4"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "द्रष्टारः स्म सुखाद्धीनान् सदारान् पाण्डवानिति। तस्मिन्नुच्चार्यमाणे तु गन्धर्वेण वचस्तथा॥४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः",
+      "english_ref": 3,
+      "combined_translation": "3-4"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "भूमेर्विवरमन्वैच्छं प्रवेष्टुं व्रीडयाऽन्वितः। युधिष्ठिरमथागम्य गन्धर्वाः सह पाण्डवैः॥५॥",
+      "english": "When these counsels of ours were disclosed by the Gandharva, I desired then in great shame to enter the earth.",
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "अस्मद्दुर्मन्त्रितं तस्मै बद्धांश्चास्मान्न्यवेदयन्। स्त्रीसमक्षमहं दीनो बद्धः शत्रुवशं गतः॥६॥",
+      "english": "The Gandharva then accompanied by the Pandavas went to Yudhishthira describing to him our (secret) counsels, bound as we were, he made us over to him.",
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "युधिष्ठिरस्योपहृतः किं नु दुःखमतः परम्। ये मे निराकृता नित्यं रिपुर्येषामहं सदा॥७॥",
+      "english": "Alas, what greater sorrow could be mine than that I should thus be offered as tribute to Yudhishthira in the very sight of our women, myself in chains and in great misery and also under the complete control of our enemies!",
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "तैर्मोक्षितोऽहं दुर्बुद्धिर्दन्तं तैरेव जीवितम्। प्राप्तः स्यां यद्यहं वीर वधं तस्मिन् महारणे॥८॥",
+      "english": "Alas, they that were ever persecuted by me, they that were my everlasting enemies, released me from captivity! Wretch that I am, I am indebted to them for my life!",
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "श्रेयस्तद्भविता मह्यं नैवंभूतस्य जीवितम्। अभूद्यशः पृथिव्यां मे ख्यातं गन्धर्वतो वधात्॥९॥",
+      "english": "O hero, if I had met with my death in that great battle that would have been far better than that I have obtained my life in this way.",
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "प्राप्ताश्च पुण्यलोकाः स्युर्महेन्द्रसदनेऽक्षयाः। यत्त्वद्य मे व्यवसितं तच्छृणुध्वं नरर्षभाः॥१०॥",
+      "english": "If I would have been killed by the Gandharvas, my fame would have spread over the earth. I would have then obtained holy regions of everlasting happiness in the abode of Indra.",
+      "bhavadeepa": "एवम्भूतस्य जीवितं न श्रेयः  इति सम्बन्धः । अभूत् अभविष्यत् ॥९॥",
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "इह प्रायमुपासिष्ये यूयं व्रजत वै गृहान्। भ्रातरश्चैव मे सर्वे यान्त्वद्य स्वपुरं प्रति॥११॥",
+      "english": "O foremost of men, listen to me now as to what I intend to do. I shall stay here fasting, all of you go back home.",
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "कर्णप्रभृतयश्चैव सुहृदो बान्धवाश्च ये। दुःशासनं पुरस्कृत्य प्रयान्त्वद्य पुरं प्रति॥१२॥",
+      "english": "Let all my brothers also go to their own city (Hastinapur). Let all our relatives and friends headed by Dushasana go back to the city.",
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "नह्यहं सम्प्रयास्यामि पुरं शत्रुनिराकृतः। शत्रुमानापहो भूत्वा सुहृदां मानकृत् तथा॥१३॥",
+      "english": "Insulted as I am by the enemy I shall never again return to that city; I was ever respected and feared by my enemy, I who ever enhanced the respect of my friends and relatives,",
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "स सुहृच्छोकदो जातः शत्रूणां हर्षवर्धनः। वारणाह्वयमासाद्य किं वक्ष्यामि जनाधिपम्॥१४॥",
+      "english": "Have now become a source of sorrow to my friends and joy to my enemies. Having gone to Hastinapura, what shall I say to the king (Dhritarashtra)?",
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "भीष्मद्रोणौ कृपद्रौणी विदुरः सञ्जयस्तथा। बाह्लीकः सौमदत्तिश्च ये चान्ये वृद्धसम्मताः॥१५॥",
+      "english": "What will Bhishma, Drona, Kripa, the son of Drona (Ashvathama), Vidura, Sanjaya, the son of Balhika (king), the son of Somadatta and the other revered chiefs and also the chief men of independent professions say to me and what shall I say to them in return?",
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः",
+      "combined_translation": "15-16"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "ब्राह्मणाः श्रेणिमुख्याश्च तथोदासीनवृत्तयः। किं मां वक्ष्यन्ति किञ्चापि प्रतिवक्ष्यामि तानहम्॥१६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः",
+      "english_ref": 15,
+      "combined_translation": "15-16"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "रिपूणां शिरसि स्थित्वा तथा विक्रम्य चोरसि। आत्मदोषात् परिभ्रष्टः कथं वक्ष्यामि तानहम्॥१७॥",
+      "english": "Having hitherto stayed over the heads of my enemies, having hitherto trod upon their breasts, I have been now degraded from my position. What shall I say to them (now)?",
+      "bhavadeepa": "श्रेणिमुख्याः शिल्पिसङ्घातमुख्याः प्रकृतय इत्यर्थः ॥१६॥",
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "दुर्विनीताः श्रियं प्राप्य विद्यामैश्वर्यमेव च। तिष्ठन्ति न चिरं भद्रे यथाहं मदगर्वितः॥१८॥",
+      "english": "Like me who was puffed up with vanity, insolent men, even obtaining prosperity, knowledge and affluence, are never blessed for any length of time.",
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "अहो नार्हमिदं कर्म कष्टं दुश्चरितं कृतम्। स्वयं दुर्बुद्धिना मोहाद्येन प्राप्तोऽस्मि संशयम्॥१९॥",
+      "english": "Alas, led by folly I have done a highly improper and wicked act, for which, fool that I am, I have now fallen into such distress.",
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "तस्मात् प्रायमुपासिष्ये न हि शक्ष्यामि जीवितुम्। चेतयानो हि को जीवेत् कृच्छ्राच्छत्रुभिरुद्धृतः॥२०॥",
+      "english": "I shall therefore die of starvation; I shall not be able to live. Rescued by one's own enemy, what man of manliness could dragon (a miserable) existence?",
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "शत्रुभिश्चावहसितो मानी पौरुषवर्जितः। पाण्डवैर्विक्रमाढ्यैश्च सावमानमवेक्षितः॥२१॥",
+      "english": "Proud as I am, the enemy has laughed at me when they found me deprived of all manliness. The Pandavas, who possessed great prowess (joyously) looked at me who was then in the greatest possible misery.\"",
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "वैशम्पायन उवाच।\n              एवं चिन्तापरिगतो दुःशासनमथाब्रवीत्। दुःशासन निबोधेदं वचनं मम भारत॥२२॥",
+      "english": "Vaishampayana said : When he was thus bewailing, he thus spoke to Dushasana, \"O Dushasana, O descendant of Bharata, hear my words.",
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "प्रतीच्छ त्वं मया दत्तमभिषेकं नृपो भव। प्रशाधि पृथिवीं स्फीतां कर्णसौबलपालिताम्॥२३॥",
+      "english": "Accepting this installation offered by me, becorne king. Rule over the earth protected by Karna and the son of Subala.",
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "भ्रातॄन् पालय विस्रब्धं मरुतो वृत्रहा यथा। बान्धवाश्चोपजीवन्तु देवा इव शतक्रतुम्॥२४॥",
+      "english": "As the slayer of Vritra (Indra) cherishes the arutas, so cherish our brothers in such a way as they may trust you. Let your friends and relatives depend on you as the celestials depend on you as the celestials depend on Shatakratu (Indra).",
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "ब्राह्मणेषु सदा वृत्तिं कुर्वीथाश्चाप्रमादतः। बन्धूनां सुहृदां चैव भवेथास्त्वं गतिः सदा॥२५॥",
+      "english": "Always bestow pensions on Brahmanas; be always the refuge of your friends and relatives.",
+      "bhavadeepa": "विस्रब्धं सविश्वासं यथा स्यात् तथा ॥२४॥",
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "ज्ञातींश्चाप्यनुपश्येथा विष्णुर्देवगणान् यथा। गुरवः पालनीयास्ते गच्छ पालय मेदिनीम्॥२६॥",
+      "english": "As Vishnu looks after the celestials, you should also look after all your poor and helpless relatives. Always cherish your Gurus. Go, rule the earth, gladdening all your friends and chastising all your enemies.\" Clasping his neck he said, “Go.\"",
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः",
+      "combined_translation": "26-27"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "नन्दयन् सुहृदः सर्वान् शात्रवांश्चावभर्त्सयन्। कण्ठे चैनं परिष्वज्य गम्यतामित्युवाच ह॥२७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः",
+      "english_ref": 26,
+      "combined_translation": "26-27"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "तस्य तद्वचनं श्रुत्वा दीनो दुःशासनोऽब्रवीत्। अश्रुकण्ठः सुदुःखार्तः प्राञ्जलिः प्रणिपत्य च॥२८॥",
+      "english": "Having heard his words, Dushasana in great misery and grief said to his eldest brother with joined hands, with bent down head and with voice choked in tears, “Relent.” Saying this, he fell down on the earth in the greatest possible misery. In sorrow and grief that foremost of men shed tears on the feet of his brother and thus spoke to him, “This can never be done.",
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः",
+      "combined_translation": "28-30"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "सगद्गदमिदं वाक्यं भ्रातरं ज्येष्ठमात्मनः। प्रसीदेत्यपतद्भूमौ दूयमानेन चेतसा॥२९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः",
+      "english_ref": 28,
+      "combined_translation": "28-30"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "दुःखितः पादयोस्तस्य नेत्रजं जलमुत्सृजन्। उक्तवांश्च नख्याघ्रो नैतदेवं भविष्यति॥३०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः",
+      "english_ref": 28,
+      "combined_translation": "28-30"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "विदीर्येत् सकला भूमिर्द्यौश्चापि शकली भवेत्। रविरात्मप्रभां जह्यात् सोमः शीतांशुतां त्यजेत्॥३१॥",
+      "english": "The earth may split, the heavens may fall down in pieces, the sun may lose his rays, the moon may abandon her coolness, the wind may forsake its speed, the Himalayas may be moved from its site, the waters of the ocean may dry up and fire may lose its heat; But, ( king, I cannot rule the earth without you.” He again and again said, “Relent,\" \"Relent\".",
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः",
+      "combined_translation": "31-33"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "वायुः शैघ्र्यमथो जह्याद्धिमवांश्च परिव्रजेत्। शुष्येत् तोयं समुद्रेषु वह्निरप्युष्णतां त्यजेत्॥३२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः",
+      "english_ref": 31,
+      "combined_translation": "31-33"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "न चाहं त्वदृते राजन् प्रशासेयं वसुन्धराम्। पुनः पुनः प्रसीदेति वाक्यं चेदमुवाच ह॥३३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः",
+      "english_ref": 31,
+      "combined_translation": "31-33"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "त्वमेव नः कुले राजा भविष्यसि शतं समाः। एवमुक्त्वा स राजानं सुस्वरं प्ररुरोद ह॥३४॥",
+      "english": "“You alone shall be king in our race, for one hundred years.” Having said this, he loudly wept before the king.",
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "पादौ संस्पृश्य मानार्हौ भ्रातुर्ज्येष्ठस्य भारत। तथा तौ दुःखिती दृष्ट्वा दुःशासनसुयोधनौ॥३५॥",
+      "english": "O descendant of Bharata, catching, the feet of his eldest brother who deserved worship from him. Having seen Dushasana in great grief and Duryodhana in greatest possible misery, Karna came to them and said, “O Kuru princes, why do you childishly weep like ordinary people?",
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः",
+      "combined_translation": "35-36"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "अधिगम्य व्यथाविष्टः कर्णस्तौ प्रत्यभाषत। विषीदथः किं कौरव्यौ बालिश्यात् प्राकृताविव॥३६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः",
+      "english_ref": 35,
+      "combined_translation": "35-36"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "न शोकः शोचमानस्य विनिवर्तेत कर्हिचित्। यदा च शोचतः शोको व्यसनं नापकर्षति॥३७॥",
+      "english": "Men can never by weeping drive away their grief. Weeping can never remove one's own grief.",
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "सामर्थ्य किं ततः शोके शोचमानौ प्रपश्यथः। धृतिं गृह्णीतं मा शत्रून् शोचन्तौ नन्दयिष्यथः॥३८॥",
+      "english": "What do you gain by thus giving way to sorrow? Summon patience. Do not grieve and thus give joy to your enemies.",
+      "bhavadeepa": "यदा चेति । यदि शोकेन व्यसनं नश्येत् तर्हि स कर्तव्यः न  तु तत् तथाऽस्ति । अतः शोको न कर्तव्य इत्यर्थः ॥३७॥",
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "कर्तव्यं हि कृतं राजन् पाण्डवैस्तव मोक्षणम्। नित्यमेव प्रियं कार्यं राज्ञो विषयवासिभिः॥३९॥",
+      "english": "O king, the Pandavas did only their duty in rescuing you. Those that reside in the dominions of the king should always do what is agreeable to the king.",
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "पाल्यमानास्त्वया ते हि निवसन्ति गतज्वराः। नार्हस्येवंगते मन्युं कर्तुं प्राकृतवद्यथा॥४०॥",
+      "english": "Under your protection, the Pandavas are residing in your dominion in great happiness. You should not indulge in sorrow like ordinary people.",
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "विषण्णास्तव सोदर्यास्त्वयि प्रायं समास्थिते। उत्तिष्ठ व्रज भद्रं ते समाश्वासय सोदरान्॥४१॥",
+      "english": "'Behold, your brothers are all sad and miserable on seeing you resolved to die by starvation. Be blessed. Rise up and come to your city and console your brothers.'",
+      "bhavadeepa": null,
+      "chapter": 249,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "घोषयात्रापर्व",
+      "adhyaya_name": "ऊनपञ्चाशदधिकद्विशततमोऽध्यायः"
+    }
+  ]
+}

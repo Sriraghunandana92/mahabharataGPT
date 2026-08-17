@@ -1,0 +1,325 @@
+{
+  "adhyaya_id": "P01_U14_A205",
+  "book": 1,
+  "parva_name": "आदिपर्व",
+  "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+  "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः",
+  "chapter": 205,
+  "verse_count": 30,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "विदुर उवाच।\n              राजन्निःसंशयं श्रेयो वाच्यस्त्वमसि बान्धवैः। न त्वशुश्रूषमाणे वै वाक्यं संप्रति तिष्ठति॥१॥",
+      "english": "Vidura said : O king, there is no doubt your friends have spoken to you what is good for you. But as you don't listen to their words, they find no place here,",
+      "bhavadeepa": "अहं यद्ब्रवीमि अतोऽन्यथा ॥२८॥",
+      "chapter": 205,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+      "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "प्रियं हितं च तद्वाक्यमुक्तवान्कुरुसत्तमः। भीष्मः शान्तनवो राजन्प्रतिगृह्णासि तन्न च॥२॥",
+      "english": "O king, the best of Kurus, the son of Shantanu (Bhishma) has said what is for your great good, but you do not accept it (his advice). What has been said by Drona is for your good, but the son of Radha, Karna, does not consider it for your good.",
+      "bhavadeepa": "पञ्चाधिकद्विशततमोऽध्यायः राजन्निति ॥१॥",
+      "chapter": 205,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+      "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः",
+      "combined_translation": "2-3"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "तथा द्रोणेन बहुधा भाषितं हितमुत्तमम्। तच्च राधासुतः कर्णो मन्यते न हितं तव॥३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 205,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+      "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः",
+      "english_ref": 2,
+      "combined_translation": "2-3"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "चिन्तयंश्च न पश्यामि राजंस्तव सुहृत्तमम्। आभ्यां पुरुषसिंहाभ्यां यो वा स्यात्प्रज्ञयाधिकः॥४॥",
+      "english": "O king, after (due) reflection I do not find there is any who is a better friend of your than these two best of men (Bhishma and Drona) or who excels them in wisdom.",
+      "bhavadeepa": null,
+      "chapter": 205,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+      "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "इमौ हि वृद्धौ वयसा प्रज्ञया च श्रुतेन च। समौ च त्वयि राजेन्द्र तथा पाण्डुसुतेषु च॥५॥",
+      "english": "These two are old in age, in wisdom and in Shastras. O king, they look at the sons of Pandu with equal eyes.",
+      "bhavadeepa": "आभ्यां भीष्मद्रोणाभ्याम् । पञ्चम्यन्तमिदम् ॥४॥",
+      "chapter": 205,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+      "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "धर्मे चानवरौ राजन्सत्यतायां च भारत। रामाद्दाशरथेश्चैव गयाच्चैव न संशयः॥६॥",
+      "english": "O descendant of the Bharata, O king they are not certainly inferior to Rama, the son of Dasharatha and Gaya in the virtue and truthfulness.",
+      "bhavadeepa": null,
+      "chapter": 205,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+      "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "न चोक्तवन्तावश्रेयः पुरस्तादपि किंचन। न चाप्यपकृतं किंचिदनयोर्लक्ष्यते त्वयि॥७॥",
+      "english": "It is not seen that they have ever given you evil advice. O king, you too have never injured them. Why should, therefore, these best of men, who are ever truthful, give you wicked advice?",
+      "bhavadeepa": "अनवरौ श्रेष्ठौ ॥६॥",
+      "chapter": 205,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+      "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः",
+      "combined_translation": "7-8"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "तावुभौ पुरुषव्याघ्रावनागसि नृपे त्वयि। न मन्त्रयेतां त्वच्छ्रेयः कथं सत्यपराक्रमौ॥८॥",
+      "english": null,
+      "bhavadeepa": "अनयोः एताभ्यां कर्तरि षष्ठी ॥७॥",
+      "chapter": 205,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+      "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः",
+      "english_ref": 7,
+      "combined_translation": "7-8"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "प्रज्ञावन्तौ नरश्रेष्ठावस्मिँल्लोके नराधिप। त्वन्निमित्तमतो नेमौ किंचिज्जिह्मं वदिष्यतः॥९॥",
+      "english": "O king, these foremost of men are endued with wisdom; they will never give you evil advises or say any thing that is crooked.",
+      "bhavadeepa": null,
+      "chapter": 205,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+      "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "इति मे नैष्ठिकी बुद्धिर्वर्तते कुरुनन्दन। न चार्थहेतोर्धर्मज्ञौ वक्ष्यतः पक्षसंश्रितम्॥१०॥",
+      "english": "O descendant of Kuru, this is my firm conviction that being tempted by wealth these, learned as they are in the precepts of morality, will never utter anything savouring partisanship.",
+      "bhavadeepa": null,
+      "chapter": 205,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+      "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "एतद्धि परमं श्रेयो मन्येऽहं तव भारत। दुर्योधनप्रभृतयः पुत्रा राजन्यथा तव॥११॥",
+      "english": "O descendant of Bharata, I consider what they have said is highly beneficial to you. O king, the Pandavas are certainly your sons as much as Duryodhana and others. Therefore, those ministers who give you any advice that is fraught with evil intentions towards the Pandavas do not really look after your interest. O king, if there is any partiality (for your sons) in your heart, it is certain that they who seek to excite it do you no good.",
+      "bhavadeepa": "पक्षसंश्रितम् अन्यतरस्यैव हितम् ॥१०॥",
+      "chapter": 205,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+      "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः",
+      "combined_translation": "11-13"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "तथैव पाण्डवेयास्ते पुत्रा राजन्न संशयः। तेषु चेदहितं किंचिन्मन्त्रयेयुरतद्विदः॥१२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 205,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+      "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः",
+      "english_ref": 11,
+      "combined_translation": "11-13"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "मन्त्रिणस्ते न च श्रेयः प्रपश्यन्ति विशेषतः। अथ ते हृदये राजन्विशेषः स्वेषु वर्तते। अन्तरस्थं विवृण्वानाः श्रेयः कुर्युर्न ते ध्रुवम्॥१३॥",
+      "english": null,
+      "bhavadeepa": "तेषु पाण्डवेषु ॥१२॥",
+      "chapter": 205,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+      "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः",
+      "english_ref": 11,
+      "combined_translation": "11-13"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "एतदर्थमिमौ राजन्महात्मानौ महाद्युती। नोचतुर्विवृतं किंचिन्न ह्येष तव निश्चयः॥१४॥",
+      "english": "Therefore, O king, I think these illustrious and effulgent persons have not certainly said anything that leads to evil. You however do not understand it.",
+      "bhavadeepa": "ते तव मन्त्रिणस्तवान्तरस्थं विशेषं विवृण्वानास्ते ध्रुवं शाश्वतं हितं न कुर्युः । तव वैषम्यदोषमेव ते प्रकाशयिष्यन्ति न तु कार्यं साधयिष्यन्तीत्यर्थः ॥१३॥",
+      "chapter": 205,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+      "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "यच्चाप्यशक्यतां तेषामाहतुः पुरुषर्षभौ। तत्तथा पुरुषव्याघ्र तव तद्भद्रमस्तु ते॥१५॥",
+      "english": "O best of kings, what these excellent men have said regarding the invincibility of the Pandavas is perfectly true. Do not think otherwise. Be blessed.",
+      "bhavadeepa": "एतदर्थं पाण्डवानां श्रेयोर्थम् । विवृतं विस्पष्टम् । विकृतमिति पाठे परुषम् । एष पाण्डवानां श्रेयो भवत्वित्येवंरूपः । हिशब्देन तत्र तस्यैव प्रतीतिं प्रमाणयति ॥१४॥",
+      "chapter": 205,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+      "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "कथं हि पाण्डवः श्रीमान्सव्यसाची धनञ्जयः। शक्यो विजेतुं संग्रामे राजन्मघवतापि हि॥१६॥",
+      "english": "O king, can the handsome Pandavas Savyasachi Dhananjaya be ever vanquished in battle even by Maghavata (Indra) himself?",
+      "bhavadeepa": "यच्चेति । अशक्यताम् अजय्यताम् तव पुरस्तात् यच्चाहतुरिति सम्बन्धः । तद्भद्रमस्तु ते तत्तेभ्यः पाण्डवेभ्यस्तव भद्रमस्तु । क्रुद्धाः पाण्डवास्तव सर्वान्पुत्रान्मा हिंस्युरिति भावः ॥१५॥",
+      "chapter": 205,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+      "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "भीमसेनो महाबाहुर्नागायुतबलो महान्। कथं स्म युधि शक्येत विजेतुममरैरपि॥१७॥",
+      "english": "Can the powerful Bhimsena of strong arms possessing the might of ten thousand elephants be vanquished in battle even by the immortals?",
+      "bhavadeepa": null,
+      "chapter": 205,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+      "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "तथैव कृतिनौ युद्धे यमौ यमसुताविव। कथं विजेतुं शक्यौ तौ रणे जीवितुमिच्छता॥१८॥",
+      "english": "Who having the desire of living can vanquish in battle the twins (Nakula and Sahadeva), who are like the sons of Yama himself and who are both well-skilled in battle?",
+      "bhavadeepa": null,
+      "chapter": 205,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+      "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "यस्मिन्धृतिरनुक्रोशः क्षमा सत्यं पराक्रमः। नित्यानि पाण्डवे ज्येष्ठे स जीयेत रणे कथम्॥१९॥",
+      "english": "How the eldest Pandavas (Yudhishthira) in whom patience, mercy, can son forgiveness, truth and prowess are always present, be ever vanquished?",
+      "bhavadeepa": null,
+      "chapter": 205,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+      "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "येषां पक्षधरो रामो येषां मन्त्री जनार्दनः। किं नु तैरजितं सङ्ख्ये येषां पक्षे च सात्यकिः॥२०॥",
+      "english": "Is there any whom they have not already vanquished in battle, who who have have Rama (Baladeva) as their ally, Janardana (Krishna) as their counsellor, Satyaki as their supporter.",
+      "bhavadeepa": null,
+      "chapter": 205,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+      "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "द्रुपदः श्वशुरो येषां येषां स्यालाश्च पार्षताः। धृष्टद्युम्नमुखा वीरा भ्रातरो द्रुपदात्मजाः॥२१॥",
+      "english": "Drupada as their father-in-law and the descendant of Prishata, Drupada's Dhrishtadyumna and his other heroic brothers as their brother-in-law? O descendant of Bharata, remembering this and knowing that their claim to the kingdom is even prior to yours, behave virtuous towards them.",
+      "bhavadeepa": null,
+      "chapter": 205,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+      "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः",
+      "combined_translation": "21-22"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "सोऽशक्यतां च विज्ञाय तेषामग्रे च भारत। दायाद्यतां च धर्मेण सम्यक्तेषु समाचर॥२२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 205,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+      "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः",
+      "english_ref": 21,
+      "combined_translation": "21-22"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "इदं निर्दिष्टमयशः पुरोचनकृतं महत्। तेषामनुग्रहेणाद्य राजन्प्रक्षालयात्मनः॥२३॥",
+      "english": "O king, the stain of calumny is on you on account of the act of Purochana. Wash yourself off it by kindly behaving towards them (the Pandavas).",
+      "bhavadeepa": "अग्रे तत्पितुरेव पाण्डोः राज्याभागित्वकाले । दायाद्यतां पितृधनभोजनाईताम् ॥२२॥",
+      "chapter": 205,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+      "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "तेषामनुग्रहश्चायं सर्वेषां चैव नः कुले। जीवितं च परं श्रेयः क्षत्रस्य च विवर्धनम्॥२४॥",
+      "english": "Your kindly behaviour towards them will be for our great good. It will protect the lives of all of us of the Kuru race and it will lead to the growth of the whole Kshatriya race.",
+      "bhavadeepa": null,
+      "chapter": 205,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+      "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "द्रुपदोऽपि महान्राजा कृतवैरश्च नः पुरा। तस्य संग्रहणं राजन्स्वपक्षस्य विवर्धनम्॥२५॥",
+      "english": "O king, we have formerly waged a great war with the king of Drupada; if we can now secure him as an ally, it will strengthen our party.",
+      "bhavadeepa": null,
+      "chapter": 205,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+      "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "बलवन्तश्च दाशार्हा बहवश्च विशांपते। यतः कृष्णस्ततः सर्वे यतः कृष्णस्ततो जयः॥२६॥",
+      "english": "O king, the Dasharahas are numerous and powerful. They will be all there where Krishna will be. Where Krishna is, victory is certainly there.",
+      "bhavadeepa": null,
+      "chapter": 205,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+      "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "यच्च साम्नैव शक्येत कार्यं साधयितुं नृप। को दैवशप्तस्तत्कार्यं विग्रहेण समाचरेत्॥२७॥",
+      "english": "O king, unless cursed by the celestials, who would seek to effect by means of war that which can be effected by conciliation?",
+      "bhavadeepa": null,
+      "chapter": 205,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+      "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "श्रुत्वा च जीवतः पार्थान्पौरजानपदा जनाः। बलवद्दर्शने हृष्टास्तेषां राजन्प्रियं कुरु॥२८॥",
+      "english": "O king, having heard that the sons of Pritha are alive, the men of the city and the country have become exceedingly glad; and they are all eager to see them. Do what will be agreeable to them.",
+      "bhavadeepa": null,
+      "chapter": 205,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+      "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "दुर्योधनश्च कर्णश्च शकुनिश्चापि सौबलः। अधर्मयुक्ता दुष्प्रज्ञा बाला मैषां वचः कृथाः॥२९॥",
+      "english": "Duryodhana, Karna and the son of Subala, Shakuni, are sinful, foolish and young. Do not listen to their words.",
+      "bhavadeepa": "बलवत् अत्यन्तम् ॥२८॥",
+      "chapter": 205,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+      "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "उक्तमेतत्पुरा राजन्मया गुणवतस्तव। दुर्योधनापराधेन प्रजेयं वै विनङ्क्ष्यति॥३०॥",
+      "english": "O king, endued with all accomplishments as you are, I have told you long ago that for the fault of Duryodhana, the subjects of this kingdom will be annihilated.",
+      "bhavadeepa": null,
+      "chapter": 205,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "विदुरागमनराज्यालंभपर्व",
+      "adhyaya_name": "पञ्चाधिकद्विशततमोऽध्यायः"
+    }
+  ]
+}

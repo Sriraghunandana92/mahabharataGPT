@@ -1,0 +1,342 @@
+{
+  "adhyaya_id": "P03_U06_A054",
+  "book": 3,
+  "parva_name": "वनपर्व",
+  "upaparva_name": "नलोपाख्यानपर्व",
+  "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः",
+  "chapter": 54,
+  "verse_count": 31,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "बृहदश्व उवाच। दमयन्ती तु तच्छ्रुत्वा वचो हंसस्य भारत। तदा प्रभृति न स्वस्था नलं प्रति बभूव सा॥१॥",
+      "english": "Brihadashva said: O Bharata hearing the words of the swan, Damayanti thence forth became restless on account of her anxiety for Nala.",
+      "bhavadeepa": null,
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "ततश्चिन्तापरा दीना विवर्णवदना कृशा। बभूव दमयन्ती तु निःश्वासपरमा तदा॥२॥",
+      "english": "For this reason, Damayanti became filled with great anxiety and grief; and sighning heavily became lean and pale-faced.",
+      "bhavadeepa": "दमयन्तीति ॥१॥",
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "ऊर्ध्वदृष्टिर्ध्यानपरा बभूवोन्मत्तदर्शना। पाण्डुवर्णा क्षणेनाथ हृच्छयाविष्टचेतना॥३॥",
+      "english": "She always gazed on high with contemplative turn of mind and looked like a dementate. Possessed by the god of love, she also became pale and slender.",
+      "bhavadeepa": null,
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "न शय्यासनभोगेषु रतिं विन्दति कर्हिचित्। न नक्तं न दिवा शेते हाहेति रुदती पुनः॥४॥",
+      "english": "She had no desire for the enjoyments, either of beds or seats. And she did not lie down either during the day or night and lamented again and again with the exclamations of Ah and Alas.",
+      "bhavadeepa": null,
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "तामस्वस्थां तदाकारां सख्यस्ता जज्ञुरिङ्गितैः। ततो विदर्भपतये दमयन्त्याः सखीजनः॥५॥",
+      "english": "O King, the hand-maids, of Damayanti beholding her that condition and features, represented them to the ruler of Vidharbha. The king Bhima hearing all from the handmaids was set to serious thinking regarding the affair of his daughter; the thought within, himself why was it that his daughter scemed to be so uncasy at present.",
+      "bhavadeepa": null,
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः",
+      "combined_translation": "5-7"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "न्यवेदयत्तामस्वस्थां दमयन्तीं नरेश्वरे। तच्छ्रुत्वा नृपतिर्भीमो दमयन्तीं सखीगणात्॥६॥",
+      "english": null,
+      "bhavadeepa": "जज्ञुः ज्ञातवत्यः । इङ्गितैः अभिप्रायसूचकैश्चेष्टितैः ॥५॥",
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः",
+      "english_ref": 5,
+      "combined_translation": "5-7"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "चिन्तयामास तत्कार्यं सुमहत्स्वां सुतां प्रति। किमर्थं दुहिता मेद्य नातिस्वस्थेव लक्ष्यते॥७॥",
+      "english": null,
+      "bhavadeepa": "नरेश्वरे नलनिमित्तम् ॥६॥",
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः",
+      "english_ref": 5,
+      "combined_translation": "5-7"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "स समीक्ष्य महीपालः स्वां सुतां प्राप्तयौवनाम्। अपश्यदात्मना कार्यं दमयन्त्याः स्वयंवरम्॥८॥",
+      "english": "The king, secing his daughter had attained to puberty, observed in his mind that it was his Own duty to make arrangements for Damayanti's Svayamvara (marriage).",
+      "bhavadeepa": null,
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "स संनिमन्त्रयामास महीपालान्विशांपतिः। अनुभूयतामयं वीराः स्वयंवर इति प्रभो॥९॥",
+      "english": "O exalted one, the king united all the rulers of the earth saying, “O heroes, the Svayamvara ceremony of Damayanti is going to be held.”",
+      "bhavadeepa": null,
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "श्रुत्वा तु पार्थिवाः सर्वे दमयन्त्याः स्वयंवरम्। अभिजग्मुस्ततो भीमं राजानो भीमशासनात्॥१०॥",
+      "english": "Having learnt of Damayanti's Svayamvara (marriage), all the kings, the rulers of the earth, in obedience to the invitation of Bhima, came to him. The earth was filled with the noise caused by the clatter of the cars, the neighing of horses and the roars of elephants; and those high-souled rulers of the earth, who came with their fair-complexioned battalions decked in ornaments and handsome garlands, were received by that heroic Bhima with the most suitable offerings. Thus honoured by a respectful reception, the kings took up their abodes (in the city of Bhima).",
+      "bhavadeepa": "संनिमन्त्रयामास आमन्त्रितवान् अनुभूयतां प्रेक्ष्यतां भवद्भिः ॥९॥",
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः",
+      "combined_translation": "10-12"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "हस्त्यश्वरथघोषेण पूरयन्तो वसुंधराम्। विचित्रमाल्याभरणैर्बलैर्दृश्यैः स्वलंकृतैः॥११॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः",
+      "english_ref": 10,
+      "combined_translation": "10-12"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "तेषां भीमो महाबाहुः पार्थिवानां महात्मनाम्। यथार्हमकरोत्पूजां तेऽवसंस्तत्र पूजिताः॥१२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः",
+      "english_ref": 10,
+      "combined_translation": "10-12"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "एतस्मिन्नेव काले तु सुराणामृषिसत्तमौ। अटमानौ महात्मानाविन्द्रलोकमितो गतौ॥१३॥",
+      "english": "At this juncture, those most exalted of the divine sages, the illustrious, greatly wise and austere Narada and Parvata, having arrived at the regions of Indra, obtained admittance into his palace with a respectful reception.",
+      "bhavadeepa": null,
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः",
+      "combined_translation": "13-14"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "नारदः पर्वतश्चैव महाप्राज्ञौ महाव्रतौ। देवराजस्य भवनं विविशाते सुपूजितौ॥१४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः",
+      "english_ref": 13,
+      "combined_translation": "13-14"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "तावर्चयित्वा मघवा ततः कुशलमव्ययम्। पप्रच्छानामयं चापि तयोः सर्वगतं विभुः॥१५॥",
+      "english": "The illustrious Maghavat (Indra), having offered them proper worship, inquired after their everlasting welfare and peace regarding all matters.",
+      "bhavadeepa": null,
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "नारद उवाच। आवयोः कुशलं देव सर्वत्र गतमीश्वर। लोके च मघवन्कृत्स्ने नृपाः कुशलिनो विभो॥१६॥",
+      "english": "Narada said: O Lord, O God, we enjoy peace as regards all matters; and O Maghavat, O illustrious one, so also the beings of the entire world.",
+      "bhavadeepa": null,
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "बृहदश्व उवाच। नारदस्य वचः श्रुत्वा पप्रच्छ बलवृत्रहा। धर्मज्ञाः पृथिवीपालास्त्यक्तजीवितयोधिनः॥१७॥",
+      "english": "Brihadashva said : Hearing the speeches of Narada the slayer of Bala and Vitra, asked, “Where are those warlike Kshatriyas and why do I not find those princes, coming to me, as they are my most favourite guests? They are the virtuous rulers of the earth, renouncing their life in battle. Your meet death by weapons, when time is come; and never turn their faces away from the battle; their is this world, eternal unto them and bestowing upon them all the objects of enjoyments, even as it does to me. Narada, thus addressed by Shakra, said in reply.",
+      "bhavadeepa": null,
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः",
+      "combined_translation": "17-20"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "शस्त्रेण निधनं काले ये गच्छन्त्यपराङ्मुखाः। अयं लोकोऽक्षयस्तेषां यथैव मम कामधुक्॥१८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः",
+      "english_ref": 17,
+      "combined_translation": "17-20"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "क्व नु ते क्षत्रियाः शूरा न हि पश्यामि तानहम्। आगच्छतो महीपालान्दयितानतिथीन्मम॥१९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः",
+      "english_ref": 17,
+      "combined_translation": "17-20"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "एवमुक्तस्तु शक्रेण नारदः प्रत्यभाषत। शृणु मे मघवन्येन न दृश्यन्ते महीक्षितः॥२०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः",
+      "english_ref": 17,
+      "combined_translation": "17-20"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "विदर्भराज्ञो दुहिता दमयन्तीति विश्रुता। रूपेण समतिक्रान्ता पृथिव्यां सर्वयोषितः॥२१॥",
+      "english": "Narada said : O Maghavat, listen to me, why the rulers of the earth are not being seen by you now. The king of the Vidharbhas has a daughter the famous Damayanti; who, in beauty, surpasses all the women of the earth.",
+      "bhavadeepa": "महीक्षितः पृथ्वीश्वराः ॥२०॥",
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "तस्याः स्वयंवरः शक्र भविता न चिरादिव। तत्र गच्छन्ति राजानो राजपुत्राश्च सर्वशः॥२२॥",
+      "english": "O Shakra, her Svayamvara will shortly take place. There the kings and princes are going from all directions.",
+      "bhavadeepa": null,
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः",
+      "combined_translation": "22-24"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "तां रत्नभूतां लोकस्य प्रार्थयन्तो महीक्षितः। काङ्क्षन्ति स्म विशेषेण बलवृत्रनिषूदन॥२३॥",
+      "english": "O slayer of Bala and Vitra, the kings, desirous of getting that pearl of the earth, all desire to have her most eagerly.",
+      "bhavadeepa": null,
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "एतस्मिन्कथ्यमाने तु लोकपालाश्च साग्निकाः। आजग्मुर्देवराजस्य समीपममरोत्तमाः॥२४॥",
+      "english": "While they were discoursing thus, the most excellent of the immortals, the Lokapalas, (with Agni among them) came before the king of heaven, Indra.",
+      "bhavadeepa": null,
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "ततस्ते शुश्रुवुः सर्वे नारदस्य वचो महत्। श्रुत्वैव चाब्रुवन्हृष्टा गच्छामो वयमप्युत॥२५॥",
+      "english": "They then all heard the speeches of Narada pregnant with lofty ideas and becoming greatly delighted to hear them said that they would also go there.",
+      "bhavadeepa": null,
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "ततः सर्वे महाराज सगणाः सहवाहनाः। विदर्भानभिजग्मुस्ते यतः सर्वे महीक्षितः॥२६॥",
+      "english": "O great king, mounted on their vehicles, accompanied by their attendants, they all betook themselves to the country of the Vidharbhas where all the rulers of the earth had gone.",
+      "bhavadeepa": null,
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "नलोऽपि राजा कौन्तेय श्रुत्वा राज्ञां समागमम्। अभ्यगच्छददीनात्मा दमयन्तीमनुव्रतः॥२७॥",
+      "english": "O son of Kunti, the lofty-minded king, Nala, hearing of the assembly of the kings, set out, thinking of Damayanti.",
+      "bhavadeepa": null,
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "अथ देवाः पथि नलं ददृशुर्भूतले स्थितम्। साक्षादिव स्थितं मूर्त्या मन्मथं रूपसंपदा॥२८॥",
+      "english": "The celestials saw Nala on the way walking on the earth. In beauty he resembled even the god of love himself in his embodied form.",
+      "bhavadeepa": null,
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "तं दृष्ट्वा लोकपालास्ते भ्राजमानं यथा रविम्। तस्थुर्विगतसंकल्पा विस्मिता रूपसंपदा॥२९॥",
+      "english": "The Lokapalas, having seen him resplendent as the sun, were struck with astonishment at his wealth of beauty; and they, therefore, abandoned their idea (of getting her).",
+      "bhavadeepa": null,
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "ततोऽन्तरिक्षे विष्टभ्य विमानानि दिवौकसः। अब्रुवन्नैषधं राजन्नवतीर्य नभस्तलात्॥३०॥",
+      "english": "The celestials, leaving their cars, alighted from heaven and (then) addressed the king of the Nishadhas thus.",
+      "bhavadeepa": "विगतो विनष्टः दमयन्तीं प्राप्स्याम इति संकल्पो येषाम् ॥२९॥",
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "भो भो निषधराजेन्द्र नल सत्यव्रतो भवान्। अस्माकं कुरु साहाय्यं दूतो भव नरोत्तम॥३१॥",
+      "english": "\"O the most exalted of the rulers of the Nishadhas, O Nala, O you who do observe the vow of truth, O the foremost of men, help us; be our messenger.\"",
+      "bhavadeepa": null,
+      "chapter": 54,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "चतुःपञ्चाशत्तमोऽध्यायः"
+    }
+  ]
+}

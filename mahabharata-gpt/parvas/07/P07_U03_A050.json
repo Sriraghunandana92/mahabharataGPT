@@ -1,0 +1,164 @@
+{
+  "adhyaya_id": "P07_U03_A050",
+  "book": 7,
+  "parva_name": "द्रोणपर्व",
+  "upaparva_name": "अभिमन्युवधपर्व - ३",
+  "adhyaya_name": "पञ्चाशत्तमोऽध्यायः",
+  "chapter": 50,
+  "verse_count": 15,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "सञ्जय उवाच।\n              वयं तु प्रवरं हत्वा तेषां तैः शरपीडिताः। निवेशायाभ्युपायामः सायाह्ने रुधिरोक्षिताः॥१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "अभिमन्युवधपर्व - ३",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "निरीक्षमाणास्तु वयं परे चायोधनं शनैः। अपयाता महाराज ग्लानिं प्राप्ता विचेतसः॥२॥",
+      "english": null,
+      "bhavadeepa": "वयं त्विति ॥१॥",
+      "chapter": 50,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "अभिमन्युवधपर्व - ३",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "ततो निशाया दिवसस्य चाशिवः शिवारुतैः सन्धिरवर्तताद्भुतः। कुशेशयापीडनिभे दिवाकरे विलम्बमानेऽस्तमुपेत्य पर्वतम्॥३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "अभिमन्युवधपर्व - ३",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "वरासिशक्त्यृष्टिवरूथचर्मणां विभूषणानां च समाक्षिपन् प्रभाः। दिवं च भूमिं च समानयन्निव प्रियां तनुं भानुरुपैति पावकम्॥४॥",
+      "english": "Then the sun robbed the radiance of our excellent swords, lances, scimitars, car-fences, shields and ornaments; and causing the sky and the earth to assume the self-same hue, he then betook to his favourite shape of fire.",
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "अभिमन्युवधपर्व - ३",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "महाभ्रकूटाचलशृङ्गसन्निभैर्गजैरनेकैरिव वज्रपातितैः। स वैजयन्त्यंकुशवर्मयन्तृभिर्निपातितैर्नष्टगतिश्चिता क्षितिः॥५॥",
+      "english": "The earth was then covered over with motionless carcasses of myriads of elephants, all lifeless, resembling the peaks of cloud-clapt hills cleft open by the bolt of Heaven and with their banners and goads scattered about and their guides dislodged from their backs.",
+      "bhavadeepa": "समाक्षिपन् संहरन् समानयन्नेकतां नयन् ॥४॥",
+      "chapter": 50,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "अभिमन्युवधपर्व - ३",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "हतेश्वरैश्चूर्णितपत्त्युपस्करैर्हताश्वसूतैर्विपताककेतुभिः। महारथैर्भू शुशुभे विचूर्णितैः पुरैरिवामित्रहतैर्नराधिप॥६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "अभिमन्युवधपर्व - ३",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "रथाश्ववृन्दैः सह सादिभिर्हतैः प्रविद्धभाण्डाभरणैः पृथग्विधैः। निरस्तजिह्वादशनान्त्रलोचनैर्धरा बभौ घोरविरूपदर्शना॥७॥",
+      "english": null,
+      "bhavadeepa": "पत्तयः पादरक्षाः उपस्करा उपकरणानि ॥६॥",
+      "chapter": 50,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "अभिमन्युवधपर्व - ३",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "प्रविद्धवर्माभरणाम्बरायुधा विपन्नहस्त्यश्वरथानुगा नराः। महार्हशय्यास्तरणोचितास्तदा क्षितावनाथा इव शेरते हताः॥८॥",
+      "english": "Men adorned with precious armours ornaments and garments and weapons, deprived of life, lay prostrate on the field with slain horses and elephants and shattered chariots, on the naked earth, totally helpless, although quite deserving of precious blankets and beds.",
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "अभिमन्युवधपर्व - ३",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "अतीव हृष्टाः श्वशृगालवायसा बकाः सुपर्णाश्च वृकास्तरक्षवः। वयांस्यसृक्पान्यथ रक्षसां गणाः पिशाचसङ्घाश्च सुदारुणा रणे॥९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "अभिमन्युवधपर्व - ३",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "त्वचो विनिर्भिद्य पिबन् वसामसृक् तथैव मज्जाः पिशितानि चाश्नुवन्। वपां विलुंपन्ति हसन्ति गान्ति च प्रकर्षमाणाः कुणपान्यनेकशः॥१०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "अभिमन्युवधपर्व - ३",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "शरीरसङ्घातवहा ह्यसृग्जला रथोडुपा कुञ्जरशैलसङ्कटा। मनुष्यशीर्षोपलमांसकर्दमाप्रविद्धनानाविधशस्त्रमालिनी॥११॥",
+      "english": "An awful river like the Vaitarani itself difficult of being tided over, was created there by many best of car-warriors. Its waters were formed by the blood of slain creatures. Chariots formed the rafts on which to cross it; elephants constituted its rocks and the heads of men formed its pebbles. It was muddy with the flesh of slain elephants, men and horses. Various kinds of weapons constituted the garlands floating on it. That dreadful current of blood flowed through the middle of the field of battle carrying with it living being to the doleful abodes of Death.",
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "अभिमन्युवधपर्व - ३",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः",
+      "combined_translation": "11-12"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "भयावहा वैतरणीव दुस्तरा प्रवर्तिता योधवरैस्तदा नदी। उवाह मध्येन रणाजिरे भृशं भयावहा जीवमृतप्रवाहिनी॥१२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "अभिमन्युवधपर्व - ३",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः",
+      "english_ref": 11,
+      "combined_translation": "11-12"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "पिबन्ति चाश्नन्ति च यत्र दुर्द्दशाः पिशाचसंघास्तु नदन्ति भैरवाः। सुनन्दिताः प्राणभृतां क्षयङ्कराः समानभक्षाः श्वसृगालपक्षिणः॥१३॥",
+      "english": "Drinking and eating in that stream numerous Pisachas of terrible and repulsive aspect rejoiced. Dogs and jackals and flesh eating birds, all partaking of the same food and striking terror into the hearts of the living creatures held a great feast (on its banks).",
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "अभिमन्युवधपर्व - ३",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "तथा तदायोधनमुग्रदर्शनं निशामुखे पितृपतिराष्ट्रवर्धनम्। निरीक्षमाणाः शनकैर्जहुर्नराः समुत्थिता नृत्तकबन्धसंकुलम्॥१४॥",
+      "english": "Then at the advent of night, looking upon that fierce field of battle that had increased largely the population of Deaths regions and that was infested with dancing headless trunks of soldiers, they slowly went away from it.",
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "अभिमन्युवधपर्व - ३",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "अपेतविध्वस्तमहार्हभूषणं निपातितं शक्रसमं महाबलम्। रणेऽभिमन्युं ददृशुस्तदा जना व्यपोढहव्यं सदसीव पावकम्॥१५॥",
+      "english": "Then as they left if, they saw the mighty car-warrior Abhimanyu, who resembled Indra himself, lying on the field of battle, with precious ornaments displaced and falling off and appearing like a sacrificial fire on the alter no longer fed by oblations of clarified butter.",
+      "bhavadeepa": null,
+      "chapter": 50,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "अभिमन्युवधपर्व - ३",
+      "adhyaya_name": "पञ्चाशत्तमोऽध्यायः"
+    }
+  ]
+}

@@ -1,0 +1,561 @@
+{
+  "adhyaya_id": "P05_U01_A008",
+  "book": 5,
+  "parva_name": "उद्योगपर्व",
+  "upaparva_name": "सेनोद्योगपर्व",
+  "adhyaya_name": "अष्टमोऽध्यायः",
+  "chapter": 8,
+  "verse_count": 54,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वैशम्पायन उवाच।\n              शल्यः श्रुत्वा तु दूतानां सैन्येन महता वृतः। अभ्ययात् पाण्डवान् राजन् सह पुत्रैर्महारथैः ॥१॥",
+      "english": "Vaishampayana said Shalya, having heard the news of hostility between the two parties, went to help the Pandavas, O king, surrounded by a large army and by his friends who were mighty in battle.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "तस्य सेनानिवेशोऽभूदध्यर्धमिव योजनम्। तथा हि विपुलां सेनां बिभर्ति स नरर्षभः ॥२॥",
+      "english": "The encampment of his army occupied one half of a yojana. That foremost among men was the lord of such a large army.",
+      "bhavadeepa": "शल्य इति ॥१॥",
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "अक्षौहिणीपती राजन् महावीर्यपराक्रमः। विचित्रकवचाः शूरा विचित्रध्वजकार्मुकाः ॥३॥",
+      "english": "That man of great prowess and strength was, O king, the lord of an Akshauhini and heroes-best among the Kshatriyas with diverse armours, diverse omaments and all riding cars diverse and animals, with diverse garlands, all putting on diverse dresses the dresses and ornaments of their respective lands, counted by hundreds and thousands ecame the leaders of his army.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः",
+      "combined_translation": "3-5"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "विचित्राभरणाः सर्वे विचित्ररथवाहनाः। विचित्रस्रग्धराः सर्वे विवित्राम्बरभूषणाः ॥४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः",
+      "english_ref": 3,
+      "combined_translation": "3-5"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "स्वदेशवेषाभरणा वीराः शतसहस्रशः। तस्य सेनाप्रणेतारो बभूवुः क्षत्रियर्षभाः ॥५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः",
+      "english_ref": 3,
+      "combined_translation": "3-5"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "व्यथयन्निव भूतानि कम्पयन्निव मेदिनीम्। शनैर्विश्रामयन् सेनां स ययौ येन पाण्डवः ॥६॥",
+      "english": "He went by show marches to the place where the Pandavas were encamped, affording rest to his army and as if causing pain to the beings and shaking the earth.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "ततो दुर्योधनः श्रुत्वा महात्मानं महारथम्। उपायान्तमभिद्रुत्य स्वयमानर्च भरत ॥७॥",
+      "english": "Duryodhana, having, O son of Bharata, heard that the great-minded one, mighty in battle, was coming hastened towards him and welcomed him in person.",
+      "bhavadeepa": "येन यत्र देशे तत्र, ययौ ॥६॥",
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "कारयामास पूजार्थं तस्य दुर्योधनः सभाः। रमणीयेषु देशेषु रत्नचित्राः स्वलङ्कृताः ॥८॥",
+      "english": "And for his accommodation and honour, Duryodhana had palaces erected in charming spots ornamented with gems and well decorated.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "शिल्पिभिर्विविधैश्चैव क्रीडास्तत्र प्रयोजिताः। तत्र माल्यानि मांसानि भक्ष्यं पेयं च सत्कृतम् ॥९॥",
+      "english": "And sent there various artists for the amusement (of Shalya and his men) and provided there all sorts of eatables, drinks, meats and garlands.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "कूपाश्च विविधाकारा मनोहर्षविवर्धनाः। वाप्यश्च विविधाकारा औदकानि गृहाणि च ॥१०॥",
+      "english": "And he (provided) wells of various shapes calculated to increase the cheerfulness of the heart and several sorts of streams, fountains and buildings.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "स ताः सभाः समासाद्य पूज्यमानो यथाऽमरः। दुर्योधनस्य सचिवैर्देशे देशे समन्ततः ॥११॥",
+      "english": "Being welcomed and honoured by the agents of Duryodhana, as he arrived at these palaces in different countries, with the worship due to the gods.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "आजगाम सभामन्यां देवावसथवर्चसम्। स तत्र विषयैर्युक्तः कल्याणैरतिमानुषैः ॥१२॥",
+      "english": "He came to a palace, which would have been suitable even as the resting place for the gods; and being provided with all sorts of things and greeted with honours due to beings superior to man.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "मेनेऽभ्यधिकमात्मानमवमेने पुरन्दरम्। पप्रच्छ स ततः प्रेष्यान् प्रहृष्टः क्षत्रियर्षभः ॥१३॥",
+      "english": "He thought too highly of himself and too little even of Purandara (Indra) and that, best among the Kshatriyas being pleased, asked the servants, sayingयुधिष्ठिरस्य पुरुषाः केऽत्र चक्रुः सभा इमाः।",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "युधिष्ठिरस्य पुरुषाः केऽत्र चक्रुः सभा इमाः। आनीयन्तां सभाकाराः प्रदेयार्हा हि मे मताः ॥१४॥",
+      "english": "Where are the men of Yudhishthira who erected these palaces here? Bring them. In my opinion it is proper for those builders of palaces to be rewarded by me.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "प्रसादमेषां दास्यामि कुन्तीपुत्रोऽनुमन्यताम्। दुर्योधनाय तत् सर्वं कथयन्ति स्म विस्मिताः ॥१५॥",
+      "english": "\"I shall reward them, may it so please the son of Kunti.” They all then, surprised, informed Duryodhana of all this,",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "संप्रहृष्टो यदा शल्यो दिदित्सुरपि जीवितम्। गूढो दुर्योधनस्तत्र दर्शयामास मातुलम् ॥१६॥",
+      "english": "And when Shalya was very highly pleased and did not mind giving away even his life, Duryodhana, who had concealed himself there, appeared before his maternal uncle.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "तं दृष्ट्वा मद्रराजश्च ज्ञात्वा यत्नं च तस्य तम्। परिष्वज्याब्रवीत् प्रीत इष्टोऽर्थो गृह्यतामिति ॥१७॥",
+      "english": "Seeing the king of Madra, he knew that all these attentions came from him and embracing Duryodhana said, accept what you desire.",
+      "bhavadeepa": "दिदित्सुः दद दानेऽस्य रूपम्  ॥१६॥",
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "दुर्योधन उवाच।\n              सत्यवाग्भव कल्याण वरो वै मम दीयताम्। सर्वसेनाप्रणेता वै भवान् भवितुमर्हति ॥१८॥",
+      "english": "Duryodhana said May your word be true. Grant me an auspicious boon. It is fitting that you should be the leader of my army.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "वैशम्पायन उवाच।\n              कृतमित्यब्रवीच्छल्यः किमन्यत्क्रियतामिति। कृतमित्येव गान्धारिः प्रत्युवाच पुनः पुनः ॥१९॥",
+      "english": "Vaishampayana said Said Shalya “It is done. What else do you desire of me?\" and the son of Gandhari kept on repeating, “It is done.\"",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "शल्य उवाच।\n              गच्छ दुर्योधन पुरं स्वकमेव नरर्षभ। अहं गमिष्ये द्रष्टुं वै युधिष्ठिरमरिन्दमम् ॥२०॥",
+      "english": "Shalya said O Duryodhana, O you best among men, go to your own capital, I shall go to see that subduer of his enemies, Yudhishthira.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "दृष्ट्वा युधिष्ठिरं राजन् क्षिप्रमेष्ये नराधिप। अवश्यं चापि द्रष्टव्यः पाण्डवः पुरुषर्षभः ॥२१॥",
+      "english": "Having seen Yudhishthira, I shall come soon, O king. That best among men the son of Pandu, must be seen by me.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "दुर्योधन उवाच।\n              क्षिप्रमागम्यतां राजन् पाण्डवं वीक्ष्य पार्थिव। त्वय्यधीनाः स्म राजेन्द्र वरदानं स्मरस्व नः ॥२२॥",
+      "english": "Duryodhana said O king, O Ruler of the earth, come soon after seeing the son of Pandu. I depend on you. O best among kings, remember the boon you have granted me.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "शल्य उवाच।\n              क्षिप्रमेष्यामि भद्रं ते गच्छस्व स्वपुरं नृप। परिष्वज्य तथाऽन्योन्यं शल्यदुर्योधनावुभौ ॥२३॥",
+      "english": "Shalya said \"Soon shall I return. (In the mean time) I wish you well; O king, go to your own capital.” Then the two, Shalya and Duryodhana, embraced each other.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "स तथा शल्यमामन्त्र्य पुनरायात् स्वकं पुरम्। शल्यो जगाम कौन्तेयानाख्यातुं कर्म तस्य तत् ॥२४॥",
+      "english": "Vaishampayana said And having thus done honour to Shalya, he came back to his own capital while Shalya went to the sons of Kunti to tell them of that act of Duryodhana's.",
+      "bhavadeepa": "गच्छस्व प्राप्नुहि स्वपुरं स्वराज्यम् ॥२३॥",
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "उपप्लव्यं स गत्वा तु स्कन्धावारं प्रविश्य च। पाण्डवानथ तान् सर्वान् शल्यस्तत्र ददर्श ह ॥२५॥",
+      "english": "Having come to Upaplavya and entered the camp, Shalya saw all the sons of Pandu there.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "समेत्य च महाबाहुः शल्यः पाण्डुसुतैस्तदा। पाद्यमर्घ्यं च गां चैव प्रतिगृह्णाद्यथविधि ॥२६॥",
+      "english": "And having come there, he, the long armed one accepted the customary water for washing his feet and other gifts including a cow.",
+      "bhavadeepa": "उपप्लव्यं विराटनगरस्य प्रदेशविशेषम् । स्कन्धावारं सेनानिवेशस्थानम् ॥२५॥",
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "ततः कुशलपूर्वं हि मद्रराजोऽरिसूदनः। प्रीत्या परमया युक्तः समाश्लिष्यद्युधिष्ठिरम्॥२७॥",
+      "english": "And then that slayer of his enemies, the king of the Madras, having asked them about their health, embraced Yudhishthira, with great cheerfulness.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "तथा भीमार्जुनौ कृष्णौ सस्रीयौ च यमावुभौ। आसने चोपविष्टस्तु शल्यः पार्थमुवाच ह॥२८॥",
+      "english": "And having done the same to Bhima and Arjuna and both the twin brothers, the sons of his sister, Shalya, who had seated himself, said to the son of Pritha:",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "कुशलं राजशार्दूल कच्चित्ते कुरुनन्दन। अरण्यवासाद्दिष्ट्याऽसि विमुक्तो जयतां वर ॥२९॥",
+      "english": "O best among kings, O son of Kuru, is it all right with you? O you victorious one! you have now passed the prescribed period of residence in the forest.",
+      "bhavadeepa": "कृष्णाविति । भीमोऽपि कृष्ण एवासीदिति गम्यते । हृष्टाविति पाठः सुगमः ॥२८॥",
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "सुदुष्करं कृतं राजन्निर्जने वसता त्वया। भ्रातृभिः सह राजेन्द्र कृष्णाया चानया सह ॥३०॥",
+      "english": "0 king, great difficulties have been overcome by yourself residing in the forest, in the company, O chief of kings, of your brothers and this lady.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "अज्ञातवासं घोरं च वसता दुष्करं कृतम्। दुःखमेव कुतः सौख्यं भ्रष्टराष्ट्रस्य भारत ॥३१॥",
+      "english": "Residence unknown and unrecognised was another great difficulty overcome by you. O son of Bharata, naught but misery attends him who has lost a kingdom. Where is happiness for him?",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "दुःखस्यैतस्य महतो धार्तराष्ट्रकृतस्य वै। अवाप्स्यसि सुखं राजन् हत्वा शत्रून् परन्तप॥३२॥",
+      "english": "After all this great trouble and misery brought on by the son of Dhritarashtra, O king, you will get happiness after having slain your enemies, O great devotee.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "विदितं ते महाराज लोकतन्त्रं नराधिप। तस्माल्लोभकृतं किञ्चित्तव तात न विद्यते॥३३॥",
+      "english": "The ways and habits of men are known to you, O great king, O lord of men and therefore, O son, never has the slightest avarice been present in you.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "राजर्षिणां पुराणानां मार्गमन्विच्छ भारत। दाने तपसि सत्ये च भव तात युधिष्ठिर ॥३४॥",
+      "english": "O son of Bharata, follow in the path of the great Rishi, king of old and O my son Yudhishthira, be their equal in liberality, devotion and truth,",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "क्षमा दमश्च सत्यं च अहिंसा च युधिष्ठिर। अद्भुतश्च पुनर्लोकस्त्वयि राजन् प्रतिष्ठितः॥३५॥",
+      "english": "O Yudhishthira, forgiveness, power of self-control, truth, absence of desire for harm to anybody and all other virtues, that are rare in this world, are present in you, O king.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "मृदुर्वदान्यो ब्रह्मण्यो दान्तो धर्मपरायणः। धर्मास्ते विदिता राजन् बहवो लोकसाक्षिकाः ॥३६॥",
+      "english": "You are mild, generous, religions, liberal and attached to virtue. O king, all the virtues known among men are also known to you.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "सर्वं जगदिदं तात विदितं ते परन्तप। दिष्ट्या कृच्छ्रमिदं राजन् पारितं भरतर्षभ ॥३७॥",
+      "english": "O son, everything connected with this world is known to you. O king, O you best among the race of Bharata, it is fortunate that this trouble is past.",
+      "bhavadeepa": "वदान्यो मञ्जुलवाक् । ‘वदान्यो वल्गुवागपि’ इत्यमरः ॥३६॥",
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "दिष्ट्या पश्यामि राजेन्द्र धर्मात्मानं सहानुगम्। निस्तीर्णं दुष्करं राजँस्त्वां धर्मनिचयं प्रभो ॥३८॥",
+      "english": "It is fortunate that I see, O king O chief among the kings, O Lord, yourself, the treasury of virtues and large-minded, come out of your difficulties.",
+      "bhavadeepa": "पारितं निस्तीर्णम् ॥३७॥",
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "वैशम्पायन उवाच।\n              ततोऽस्याकथयद्राजा दुर्योधनसमागमम्। तच्च शुश्रूषितं सर्वं वरदानं च भारत ॥३९॥",
+      "english": "Vaishampayana said Then, O descendant of Bharata, did the king (Shalya) tell (the Pandavas) all about his meeting with Duryodhana, his promise and his boon.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "युधिष्ठिर उवाच।\n              सुकृतं ते कृतं राजन् प्रहृष्टेनान्तरात्मना। दुर्योधनस्य यद्वीर त्वया वाचा प्रतिश्रुतम् ॥४०॥",
+      "english": "Yudhishthira said \"O king, a good act has been done by you in that you have fulfilled a promise made when you were well pleased in the recesses of your heart.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "एकं त्विच्छामि भद्रं ते क्रियमाणं महीपते। राजन्नकर्तव्यमपि कर्तुमर्हसि सत्तम ॥४१॥",
+      "english": "But, O lord of earth, I wish you well. I want you to do one thing for me. O king, O you most honest one, though it is improper still must you do it.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "मम त्ववेक्षया वीर शृणु विज्ञापयामि ते। भवानिह महाराज वासुदेवसमो युधि ॥४२॥",
+      "english": "O hero, listen to what I tell you, you are a great king equal to the son of Vasudeva in battle.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "कर्णार्जुनाभ्यां संप्राप्ते द्वैरथे राजसत्तम। कर्णस्य भवता कार्यं सारथ्यं नात्र संशयः ॥४३॥",
+      "english": "O you best among kings, when the two, Karna and Arjuna meet in two chariots (in battle) I have no doubt that the office of charioteer of Karna will be filled by you.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "तत्र पाल्योऽर्जुनो राजन् यदि मत्प्रियमिच्छसि। तेजोवधश्च ते कार्यः सौतेरस्मज्जयावहः ॥४४॥",
+      "english": "O king, if you wish well to me, Arjuna must be protected by you and you should do what kills the energy of the son of Suta and what is calculated to bring him defeat. Though this is improper, yet must you do it, maternal uncle of mine.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "अकर्तव्यमपि ह्येतत् कर्तुमर्हसि मातुल। शल्य उवाच।\n              श्रृणु पाण्डव ते भद्रं यद्ब्रवीषि महात्मनः। तेजोवधनिमित्तं मां सूतपुत्रस्य सङ्गमे ॥४५॥",
+      "english": "Shalya said Hear me, O son of Pandu, I wish you well O noble-minded one, what you are telling me is to kill the energy of the son of Suta, when I am with him.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "अहं तस्य भविष्यामि सङ्ग्रामे सारथिर्ध्रुवम्। वासुदेवेन हि समं नित्यं मां स हि मन्यते ॥४६॥",
+      "english": "I shall most certainly be his charioteer in the battle. He has always regarded me as the equal of the son of Vasudeva.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "तस्याहं कुरुशार्दूल प्रतीपमहितं वचः। ध्रुवं संकथयिष्यामि योद्धुकामस्य संयुगे ॥४७॥",
+      "english": "O you best among the race of Kuru, I shall most certainly, when with him who is desirous of battle, speak what will do him harm and go against him.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "यथा स हृतदर्पश्च हृततेजाश्च पाण्डव। भविष्यति सुखं हन्तुं सत्यमेतद्ब्रवीमि ते ॥४८॥",
+      "english": "(I shall do this) so that his energy will be killed and his pride gone, O son of Pandu and then it will be easy to kill him. I speak with all sincerity.",
+      "bhavadeepa": "प्रतीपं प्रसङ्गप्रतिकूलमहितं परिणामविरुद्धम्  ॥४७॥",
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "एवमेतत् करिष्यामि यथा तात त्वमात्थ माम्। यच्चान्यदपि शक्ष्यामि तत्करिष्यामि ते प्रियम् ॥४९॥",
+      "english": "O son, I shall do what you have told me and I shall do any thing more can I which is for your good.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "यच्च दुःखं त्वया प्राप्तं द्यूते वै कृष्णया सह। परुषाणि च वाक्यानि सूतपुत्रकृतानि वै ॥५०॥",
+      "english": "All the troubles you have encountered with Draupadi after the game of dice and the harsh words you have had, to listen to, through the son of Suta and all the miseries endured, o illustrious one, through the Asura named Jata and Kichaka-all these unhappiness endured by Draupadi as (unhappiness was endured) by Damayanti-all this trouble, O hero, will give rise to happiness. Do not think that all this is through you, this is done by the fate which has greater control over matters.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः",
+      "combined_translation": "50-52"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "जटासुरात् परिक्लेशः कीचकाच्च महाद्युते। द्रौपद्याऽधिगतं सर्वं दमयन्त्या यथाऽशुभम् ॥५१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः",
+      "english_ref": 50,
+      "combined_translation": "50-52"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "सर्वं दुःखमिदं वीर सुखोदर्कं भविष्यति। नात्र मन्युस्त्वया कार्यो विधिर्हि बलवत्तरः ॥५२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः",
+      "english_ref": 50,
+      "combined_translation": "50-52"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "दुःखानि हि महात्मानः प्राप्नुवन्ति युधिष्ठिर। देवैरपि हि दुःखानि प्राप्तानि जगतीपते ॥५३॥",
+      "english": "0 Yudhishthira, great minded persons, meet with difficulties. O Lord of the world, difficulties have been met with by the gods too.",
+      "bhavadeepa": "मन्युर्दैन्यम् ॥५२॥",
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "इन्द्रेण श्रूयते राजन् सभार्येण महात्मना। अनुभूतं महद्दुःखं देवराजेन भारत ॥५४॥",
+      "english": "We are told O king, O son of Bharata that the large minded Indra, the chief among the gods, had to endure great misery with his queen.",
+      "bhavadeepa": null,
+      "chapter": 8,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सेनोद्योगपर्व",
+      "adhyaya_name": "अष्टमोऽध्यायः"
+    }
+  ]
+}

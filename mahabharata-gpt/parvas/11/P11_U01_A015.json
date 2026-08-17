@@ -1,0 +1,449 @@
+{
+  "adhyaya_id": "P11_U01_A015",
+  "book": 11,
+  "parva_name": "स्त्रीपर्व",
+  "upaparva_name": "जलप्रदानिकपर्व",
+  "adhyaya_name": "पञ्चदशोऽध्यायः",
+  "chapter": 15,
+  "verse_count": 43,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वैशम्पायन उवाच।तच्छ्रुत्वा वचनं तस्या भीमसेनोऽथ भीतवत्। गान्धारीं प्रत्युवाचेदं वचः सानुनयं तदा॥१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "अधर्मो यदि वा धर्मस्त्रासात्तत्र मया कृतः। आत्मानं त्रातुकामेन तन्मे त्वं क्षन्तुमर्हसि॥२॥",
+      "english": "Vaishampayana said “Hearing these words of Gandhari, Bhimasena, in fear said these words for solacing her. \"The deed may be fair or unfair, I did it through fear and for the object of protecting my own self! you should, therefore, forgive me now!",
+      "bhavadeepa": "तदिति॥१॥",
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "न हि युद्धेन पुत्रस्ते धर्मेण स महाबलः। न शक्यः केनचिद्धन्तुमतो विषममाचरम्॥३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "अधर्मेण जितः पूर्वं तेन चापि युधिष्ठिरः। निकृताश्च सदैव स्म तो विषममाचरम्॥४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "सैन्यस्यैकोऽवशिष्टोऽयं गदायुद्धेन वीर्यवान्। मां हत्वा न हरेद्राज्यमिति वै तत्कृतं मया॥५॥",
+      "english": "Your son was then the only unslain warrior of his party. In order that brave prince might not kill me in the mace-encounter and once more deprive us of our kingdom, I acted in that way.",
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "राजपुत्रीं च पाञ्चालीमेकवस्त्रां रजस्वलाम्। भवत्या विदितं सर्वमुक्तवान्यत्सुतस्तव॥६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "सुयोधनमसङ्गृह्य न शक्या भूः ससागरा। केवला भोक्तुमस्माभिरतश्चैतत्कृतं मया॥७॥",
+      "english": null,
+      "bhavadeepa": "उक्तवान् न हि ते पतयः सन्तीत्यादि॥६॥",
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "तथाप्यप्रियमस्माकं पुत्रस्ते समुपाचरत्। द्रौपद्या यत्सभामध्ये सव्यमूरुमदर्शयत्॥८॥",
+      "english": "Your son wronged us in many ways. In the court he had shown his left thigh to Draupadi.",
+      "bhavadeepa": "असङ्गृह्य अनुपसंहृत्य॥७॥",
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "तत्रैव वध्यः सोऽस्माकं दुराचारऽश्च ते सुतः। धर्मराजाज्ञया चैव स्थिताः स्म समये पुरा॥९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "वैरमुद्दीपितं राज्ञि पुत्रेण तव तन्महत्। क्लेशिताश्च वने नित्यं तत एतत्कृतं मया॥१०॥",
+      "english": "By this means, O queen, your son excited deadly hostilities with us. We suffered great miseries in the forest. Remembering all this, I acted in that way!",
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "वैरस्यास्य गताः पारं हत्वा दुर्योधनं रणे। राज्यं युधिष्ठिरः प्राप्तो वयं च गतमन्यवः॥११॥",
+      "english": "Having killed Duryodhana in battle, we have terminated our hostilities. Yudhishthira has regained his kingdom, and we also have been freed from anger!'",
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "गान्धार्युवाच।न तस्यैष वधस्तात यत्प्रशंससि मे सुतम्। कृतवांश्चापि तत्सर्वं यदिदं भाषसे मयि॥१२॥",
+      "english": "Hearing these words of Bhima, Gandhari said,– 'As you praise my son thus he did not deserve such a death! He, however, did all that you describe!",
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "हताश्वे नकुले यत्तु वृषसेनेन भारत। अपिबः शोणितं सङ्ख्ये दुःशासनशरीरजम्॥१३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "सद्भिर्विगर्हितं घोरमनार्यजनसेवितम्। क्रूरं कर्माकृथास्तस्मात्तदयुक्तं वृकोदर॥१४॥",
+      "english": "Such an act is cruel and is spoken ill of by the good. It becomes a most disrespectable person. It was a wicked act, O Vrikodara, which you then perpetrated. You should not have done it.",
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "भीमसेन उवाच।अन्यस्यापि न पातव्यं रुधिरं किं पुनः स्वकम्। यथैवात्मा तथा भ्राता विशेषो नास्ति कश्चन॥१५॥",
+      "english": "Bhima replied,-'It is improper to drink the blood of even a stranger, what then need be said about quaffing the blood of one's own self. One's brother, again, is like his own self. There is no difference between them.",
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "रुधिरं न व्यतिक्रामदन्तोष्ठादम्ब मा शुचः। वैवस्वतस्तु तद्वेद हस्तौ मे रुधिरोक्षितौ॥१६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "हताश्वं नकुलं दृष्ट्वा वृषसेनेन संयुगे। भ्रातॄणां सम्प्रहृष्टानां त्रासः सञ्जनितो मया॥१७॥",
+      "english": "Seeing Nakula deprived of his horses by Vrishasena in battle, I caused the rejoicing Kaurava brothers to be filled with fear.",
+      "bhavadeepa": "अन्तोष्ठात् अधरोष्ठात् उपरि न गतमित्यर्थः दन्तोष्ठादित्यपपाठः॥१६॥",
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "केशपक्षपरामर्शे द्रौपद्या द्यूतकारिते। क्रोधाद्यदब्रवं चाहं तच्च मे हृदि वर्तते॥१८॥",
+      "english": null,
+      "bhavadeepa": "वृषसेनेन कर्णपुत्रेण॥१७॥",
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "क्षत्रधर्माच्च्युतो राज्ञि भवेयं शाश्वतीः समाः। प्रतिज्ञां तामनिस्तीर्य ततस्तत्कृतवानहम्॥१९॥",
+      "english": "I would for all years to come, have been regarded to have neglected the duties of a Kshatriya if I had left that promise unfulfilled. It was for this, O queen, that I did that act.",
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "न ममार्हसि कल्याणि दोषेण परिशङ्कितुम्। अनिगृह्य पुरा पुत्रानस्मस्वनपकारिषु। अधुना किं नु दोषेण परिशङ्कितुमर्हसि॥२०॥",
+      "english": "You should not, O Gandhari, attribute any fault to me. Without having checked your sons formerly, should you attribute any fault to our innocent selves.",
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "गान्धार्युवाच।वृद्धस्यास्य शतं पुत्रान्निघ्नंस्त्वमपराजितः। कस्मान्न शेषयेः कञ्चिद्येनाल्पमपराधितम्॥२१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "सन्तानमावयोस्तात वृद्धयोर्हृतराज्ययोः। कथमन्धद्वयस्यास्य यष्टिरेका न वर्जिता॥२२॥",
+      "english": "Why did you not leave even one crutch for this blind couple?",
+      "bhavadeepa": "किञ्चित् कमपि न शेषयेः शेषमेकमपि न रक्षितवानसि॥२१॥",
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "शेषे ह्यवस्थिते तात पुत्राणामन्तके त्वयि। न मे दुःखं भवेदेतद्यदि त्वं धर्ममाचरेः॥२३॥",
+      "english": "O child, although you live unscathed, having killed all my sons, yet I would not have been sorry, if you had followed the path of righteousness in killing them.",
+      "bhavadeepa": "न वर्जिता वधकाले न त्यक्ता॥२२॥",
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "वैशम्पायन उवाच।एवमुक्त्वा तु गान्धारी युधिष्ठिरमपृच्छत। क्व स राजेति सक्रोधा पुत्रपौत्रवधार्दिताः॥२४॥",
+      "english": "Vaishampayana continued Having said so, Gandhari, filled with anger at the slaughter of all her sons and grandsons enquired after Yudhishthira, saying.-'Where is the king?'",
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "तमभ्यगच्छद्राजेन्द्रो वेपमानः कृताञ्जलिः। युधिष्ठिरस्त्विदं तत्र मधुरं वाक्यमब्रवीत्॥२५॥",
+      "english": "After she had said these words, king Yudhishthira, trembling and with joined hands, approached her and said, 'Here is Yudhishthira, O goddess, that cruel destroyer of your sons! I deserve your curses, for I am the root of this universal destruction! Oh curse me!",
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः",
+      "combined_translation": "25-26"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "पुत्रहन्ता नृशंसोऽहं तव देवि युधिष्ठिरः। शापार्हः पृथिवीनाशे हेतुभूतः शपस्व माम्॥२६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः",
+      "english_ref": 25,
+      "combined_translation": "25-26"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "न हि मे जीवितेनार्थो न राज्येन धनेन वा। तादृशान् सुहृदो हत्वा मूढस्यास्य सुहृद्द्रुहः॥२७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "तमेवंवादिनं भीतं  सन्निकर्षगतं तदा। नोवाच किञ्चिद्गान्धारी निःश्वासपरमा भृशम्॥२८॥",
+      "english": "Gandhari, singing heavily, said nothing to Yudhishthira-who spoke such words, who was overcome with fear, and who stood in ner presence.",
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "तस्यावनतदेहस्य पादयोर्निपतिष्यतः। युधिष्ठिरस्य नृपतेर्धर्मज्ञा दीर्घदर्शिनी॥२९॥",
+      "english": "Conversant with the rules of righteousness, the Kuru queen, possessed of great foresight, turned her eyes from within the folds of the cloth that covered them, to the tip of Yudhishthira's toe, as the prince with body bent forwards, was about to fall down at her feet. At this, the king, whose nails had before this been all very beautiful, got a sore nail on his toe.",
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "अङ्गुल्यग्राणि ददृशे देवी पट्टान्तरेण सा। ततः स कुनखीभूतो दर्शनीयनखो नृपः॥३०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "तं दृष्ट्वा चार्जुनोऽगच्छाद्वासुदेवस्य पृष्ठतः। एवं सञ्चेष्टमानांस्तानितश्चेतश्च भारत॥३२॥",
+      "english": "Seeing this, Arjuna went behind Vasudeva, and the other sons of Pandu became restless and moved about from one place to another.",
+      "bhavadeepa": "कुनखीभूतो हस्तदेशः इति शेषः॥३०॥",
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "गान्धारी विगतक्रोधा सान्त्वयामास मातृवत्। तया ते समनुज्ञाता मातरं वीरमातरम्॥३३॥",
+      "english": "Gandhari then, having shaken off her anger, comforted the Pandavas as a inother should,. With her permission those broadchested heroes then proceeded together to present themselves to their mother.",
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "अभ्यगच्छन्त सहिताः पृथां पृथुलवक्षसः। चिरस्य दृष्ट्वा पुत्रान् सा पुत्राधिभिरभिप्लुता॥३४॥",
+      "english": "Having seen her sons after a long time, Kunti who had been filled with anxiety for them covered her face with her cloth and began to weep.",
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "बाष्पमाहारयद्देवी वस्त्रेणावृत्य वै मुखम्। ततो बाष्पं समुत्सृज्य सह पुत्रैस्तदा पृथा॥३५॥",
+      "english": "Having wept for sometime with her children, I'ritha saw the wounds and scars of many weapons of their bodies.",
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः",
+      "combined_translation": "35-36"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "अपश्यदेताञ्शस्त्रौघैर्बहुधा क्षतविक्षतान्। सा तानेकैकशः पुत्रान् संस्पृशन्ती पुनः पुनः॥३६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः",
+      "english_ref": 35,
+      "combined_translation": "35-36"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "अन्वशोचत दुःखार्ता द्रौपदीं च हतात्मजाम्। रुदतीमथ पाञ्चालीं ददर्श पतितां भुवि॥३७॥",
+      "english": "She then repeatedly embraced and patted each of her sons, and stricken with grief wept with Draupadi who had lost all her children and whom she saw lying on the naked Earth, piteously bewailing.",
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "द्रौपद्युवाच।आर्ये पुत्राः क्व ते सर्वे सौभद्रसहिता गताः। न त्वां तोऽस्याभिगच्छन्ति चिरं दृष्ट्वा तपस्विनीम्॥३८॥",
+      "english": "Draupadi said O Venerable lady, were have all your grandsons, with Abhimanyu among them, gone? Seeing you in such distress why are they delaying in coming before you. Deprived as I am of my children, what need have I of kingdom.'",
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "किं नु राज्येन वै कार्यं विहीनायाः सुतैर्मम। तां समाश्वासयामास पृथा पृथुललोचना॥३९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः",
+      "english_ref": 9,
+      "combined_translation": "9-39"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "उत्थाप्य याज्ञसेनीं तु रुदतीं शोककार्षिताम्। तयैव सहिता चापि पुत्रैरनुगता नृप॥४०॥",
+      "english": "Raising the grief-stricken princess of Panchala who was weeping thus, Pritha began to solace that lady having of large eyes.",
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "अभ्यगच्छत गान्धारीमार्तामार्ततरा स्वयम्।\n            वैसम्पायन उवाच।\n\t\t\t\tतामुचावाथ गान्धारी सह वध्वा यशस्विनीम्। मैवं पुत्रीति शोकार्ता पश्य मामपि दुःखिताम्। मन्ये लोकविनाशोऽयं कालपर्यायनोदितः॥४१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "अवश्यभावी सम्प्राप्तं स्वभावाल्लोमहर्षणः। इदं तत्समनुप्राप्तं विदुरस्य वचो महत्॥४२॥",
+      "english": "I think, this universal destruction has been caused by the irresistible course of Time. This dreadful slaughter was inevitable, since it has not been brought about by human agency!",
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "असिद्धानुनये कृष्णे यदुवाच महामतिः। तस्मिन्नपरिहार्येऽर्थे व्यतीते च विशेषतः॥४३॥",
+      "english": "What Vidura of great wisdom foretold, after Krishna's suing in vain for peace, has now come to pass!",
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "मा शुचे न हि शोच्यास्ते सङ्ग्रामे निधनं गताः। यथैवाहं तथैव त्वं को वा माश्वासयिष्यति। ममैव ह्यपराधेन कुलमग्र्यं विनाशितम्॥४४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 15,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "जलप्रदानिकपर्व",
+      "adhyaya_name": "पञ्चदशोऽध्यायः"
+    }
+  ]
+}

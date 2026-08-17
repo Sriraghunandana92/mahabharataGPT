@@ -1,0 +1,651 @@
+{
+  "adhyaya_id": "P09_U01_A012",
+  "book": 9,
+  "parva_name": "शल्यपर्व",
+  "upaparva_name": "शल्यवधपर्व",
+  "adhyaya_name": "द्वादशोऽध्यायः",
+  "chapter": 12,
+  "verse_count": 63,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "सञ्जय उवाच।\n              पतितं प्रेक्ष्य यन्तारं शल्यः सर्वायसीं गदाम्। आदाय तरसा राजंस्तस्थौ गिरिरिवाचलः॥१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "तं दीप्तमिव कालाग्निं पाशहस्तमिवान्तकम्। सशृङ्गमिव कैलासं सवज्रमिव वासवम्॥२॥",
+      "english": "Bhima, however, armed with his mighty mace, rushed impetuously towards Shalya who shone like the blazing Yuga fire or the Destroyer armed with the noose or the Kailasa mountain with his summit or Vasava with this thunder or Mahadeva with his thunder or Mahadeva with his trident or an infuriate elephant in the forest.",
+      "bhavadeepa": "पतितमिति॥१॥",
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः",
+      "combined_translation": "2-3"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "सशूलमिव हर्यक्षं वने मत्तमिव द्विपम्। जवेनाभ्यपतद्भीम: प्रगृह्य महतीं गदाम्॥३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः",
+      "english_ref": 2,
+      "combined_translation": "2-3"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "ततः शङ्खप्रणादश्च तूर्याणां च सहस्रशः। सिंहनादश्च सञ्जज्ञे शूराणां हर्षवर्धनः॥४॥",
+      "english": null,
+      "bhavadeepa": "हर्यक्षं रुद्रम्॥३॥",
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "प्रेक्षन्तः सर्वतस्तौ हि योधा योधमहाद्विपौ। तावकाश्चापरे चैव साधु साध्वित्यपूजयन्॥५॥",
+      "english": "The warriors of both armies, looking at those two foremost of heroes from every side, lauded them both, saying-well done! well done.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः",
+      "combined_translation": "5-13"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "न हि मद्राधिपादन्यो रामाद्वा यदुनन्दनात्। सोढुमुत्सहते वेगं भीमसेनस्य संयुगे॥६॥",
+      "english": "Except the ruler of the Madras or Rama, that delighter of the Yadus, there is none else that can venture to stand the impetuosity of Bhima in battle.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "तथा मद्राधिरपस्यापि गदावेगं महात्मनः। सोढुमुत्सहते नान्यो योधो युधि वृकोदरात्॥७॥",
+      "english": "Similarly except Bhima there is no other warriors that can venture to stand the force of the mace of the illustrious king of the Madras in battle.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "तौ वृषाविव नर्दन्तौ मण्डलानि विचेरतुः। आवर्तितौ गदाहस्तौ मद्रराजवृकोदरौ॥८॥",
+      "english": "Those two varriors Vrikodara and the king of the Madras, roaring the bulls, moved about in circles, frequently leaping up in the air.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "मण्डलावर्तमार्गेषु गदाविहरणेषु च। निर्विशेषमभूद्युद्धं तयोः पुरुषिसंहयोः॥९॥",
+      "english": "In that encounter between those two best of men, no difference was perceptible between them either in their movement or in the manner of their holding the mace.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "तप्तहेममयैः शुभैर्बभूव भयवर्धिनी। अग्निज्वालैरिवाबद्धा पट्टैः शल्यस्य सा गदा॥१०॥",
+      "english": "The mace of Shalya, coated with a shining cloth of gold that looked like a sheet of fire, made the on-lookers afraid.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "तथैव चरतो मार्गन्मण्डलेषु महात्मनः। विद्युदभ्रप्रतीकाशा भीमस्य शुशुभे गदा॥११॥",
+      "english": "The mace of the great Bhima, as he moved about in circles, looked like lighting in the midst of the clouds.",
+      "bhavadeepa": "शुभ्रैर्दीप्तिमद्भिः॥१०॥",
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "ताडिता मद्रराजेन भीमस्य गदया गदा। दह्यमानेव खे राजन्साऽसृजत्पावकार्चिषः॥१२॥",
+      "english": "Struck by the king of Madras with his mace, the mace of Bhima, O king, sent forth scintillations of fire in the sky which was as if on fire.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "तथा भीमेन शल्यस्य ताडिता गदया गदा। अङ्गारवर्षं मुमुचे तदद्भुतमिवाभवत्॥१३॥",
+      "english": "Similarly struck by Bhima with his mace, the mace of Shalya produced a shower of burning coals.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "दन्तैरिव महानागौ शृङ्गैरिव महर्षभौ। तौत्रैरिव तदान्योन्यं गदाग्राभ्यां निजघ्नतुः॥१४॥",
+      "english": "Like two huge elephants striking each other with their tusks or two huge bulls striking each other with their horns, those two heroes began to strike each other with their maces, like a pair of heroes striking each other with iron clubs.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "तौ गदाभिहतैर्गात्रैः क्षणेन रुधिरोक्षितौ। प्रेक्षणीयतरावास्तां पुष्पिताविव किंशुकौ॥१५॥",
+      "english": "On being struck with each other's mace, they soon became bathed in blood and looked more beautiful like two blossoming Kinshukas.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "गदया मद्रराजस्य सव्यदक्षिणमाहतः। भीमसेनो महाबाहुन् चचालाचलो तथा॥१६॥",
+      "english": "Struck by the king of the Madras on both his left and right, the mighty-armed Bhimasena stood firın like a mountain.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "तथा भीमगदावेगैस्ताड्यमानो मुहुर्मुहुः। शल्यो न विव्यथे राजन्दन्तिनेव महागिरिः॥१७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "शुश्रुवे दिक्षु सर्वासु तयोः पुरुषसिंहयोः। गदानिपातसंह्रादो वज्रयोरिव निःस्वनः॥१८॥",
+      "english": "The sound caused by the strokes of the maces of those two best of men was heard on all sides like peals of thunder.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "निवृत्य तु महावीर्यौ समुच्छ्रितमहागदौ। पुनरन्तरमार्गस्थौ मण्डलानि विचेरतुः॥१९॥",
+      "english": "Having stopped for a moment those two energetic warriors once more, with uplifted maces, closed each other.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "अथाभ्येत्य पदान्यष्टौ सन्निपातोऽभवत्तयोः। उद्यम्य लोहदण्डाभ्यामतिमानुषकर्मणोः॥२०॥",
+      "english": "Again an encounter took place between those two warriors of superhuman power, each having advanced towards the other by eight steps and each, striking the other with his uplifted iron club.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "पोथयन्तौ तदान्योन्यं मण्डलानि विचेरतुः। क्रियाविशेषं कृतिनौ दर्शयामासतुस्तदा॥२१॥",
+      "english": "Then desiring to reach each other, they once more moved about in circles. Both the expert warriors began to display their superiority of skill.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "अथोद्यम्य गदे घोरे सशृङ्गाविव पर्वतौ। तावाजघ्नतुरन्योन्यं मण्डलानि विचेरतुः॥२२॥",
+      "english": "Uplifting their terrible weapons, they again strucks each other like mountains striking each other with their summits at the time of an earthquake.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "क्रियाविशेषकृतिनौ रणभूमितलेऽचलौ। तौ परस्परसंरम्भाद्गदाभ्यां सुभृशसातौ॥२३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "युगपत्पेततुर्वीरावुभाविन्द्राध्वजाविव। उभयोः सेनयोर्वीरास्तदा हाहाकृतोऽभवन्॥२४॥",
+      "english": "Struck heavily with each other's mace, both of them dropped down simultaneously like a couple of poles set up for Indra's worship.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "भृशं मर्माण्यभिहतावुभावास्तां सुविह्वलौ। ततः स्वरथमारोप्य मद्राणामृषभं रणे॥२५॥",
+      "english": "Threat the brave warriors of both armies, cried Oh and Alas. Cut to the quick, both of them had become exceedingly agitated.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "अपोवाह कृपः शल्यं तूर्णमायोधनादथ। क्षीबवद्विह्वलत्वात्तु निमेषात्पुनरुत्थितः॥२६॥",
+      "english": "Then the powerful Kripa, taking up Shalya, that king of the Madras, on his own car, quickly took him away from the battle field.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "भीमसेनो गदापाणिः समाह्वयत मद्रपम्। ततस्तु तावकाः शूरा नानाशस्त्रसमायुताः॥२७॥",
+      "english": "Bhimasena, rising up, however, within the twinkling of an eye and still reeling as if drunk, challenged, with an uplifted mace, the king of the Madras.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "नानावादित्रशब्देन पाण्डुसेनामयोधयन्। भुजावुच्छ्रित्य शस्त्रं च शब्देन महता ततः॥२८॥",
+      "english": "Raising up arms, taking weapons and making a loud noise, O king, your warriors, led by Duryodhana, rushed against the army of the Pandavas.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः",
+      "combined_translation": "28-29"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "अभ्यद्रवन्महाराज दुर्योधनपुरोगमाः। तदनीकमभिप्रेक्ष्य ततस्ते पाण्डुनन्दनाः॥२९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः",
+      "english_ref": 28,
+      "combined_translation": "28-29"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "प्रययुः सिंहनादेन दुर्योधनपुरोगमान्। तेषामापततां तूर्णं पुत्रस्ते भरतर्षभ॥३०॥",
+      "english": "Beholding the Kauravas the sons of Pandu, sending up leonine shouts, rushed against those Warriors led by Duryodhana.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "प्रासेन चेकितानं वै विव्याध हृदयं भृशम्। स पपात रथोपस्थे तव पुत्रेण ताडितः॥३१॥",
+      "english": "Thus struck by our son, Chekitana dropped in a faint down on his car, bathed in blood.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः",
+      "combined_translation": "31-32"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "रुधिरौघपरिस्किन्नः प्रविश्य विपुलं तमः। चेकितानं हतं दृष्ट्वा पाण्डवेया महारथाः॥३२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः",
+      "english_ref": 31,
+      "combined_translation": "31-32"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "असक्तमभ्यवर्षन्त शरवर्षाणि भागशः। तावकानामनीकेषु पाण्डवा जितकाशिनः॥३३॥",
+      "english": "Seeing Chekitana slain, the great carwarriors among the Pandavas continually showered arrows (upon the Kauravas).",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "व्यचरन्त महाराज प्रेक्षणीयाः समन्ततः। कृपश्च कृतवर्मा च सौबलश्च महारथः॥३४॥",
+      "english": "Indeed, the Pandavas, filled with the desire of victory, O king, moved about on all sides amongst your soldiers.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "अयोधयन्धर्मराजं मद्रराजपुरस्कृताः। भारद्वाजस्य हन्तारं भूरिवीर्यपराक्रमम्॥३५॥",
+      "english": "Kripa and Kritavarman and the powerful son of Subala, placing the king of the Madras before them, fought with king Yudhishthira.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "दुर्योधनो महाराज धृष्टद्युम्नमयोधयत्। त्रिसाहस्रास्तथा राजंस्तव पुत्रेण चोदिताः॥३६॥",
+      "english": "Duryodhana, O king, fought with heroic and powerful Dhrishtadyumna, the slayer of Bharadvaja's son.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "अयोधयन्त विजयं द्रोणपुत्रपुरस्कृताः। विजये धृतसङ्कल्पाः समरे त्यक्तजीविताः॥३७॥",
+      "english": "Three thousand cars, O king, dispatched by your son and headed by Drona's son, fought with Vijaya.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "प्राविशंस्तावका राजन् हंसा इव महत्सरः। ततो युद्धमभूद्घोरं परस्परवधैषिणाम्॥३८॥",
+      "english": "All those warriors, O king, were bent upon winning victory even at the sacrifice of their lives. Indeed, O king, your warriors entered into the midst of the Pandava army like swans into a large lake.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "अन्योन्यवधसंयुक्तमन्योन्यप्रीतिवर्धनम्। तस्मिन्प्रवृत्ते सङ्ग्रामे राजन्वीरवरक्षये॥३९॥",
+      "english": "A fierce encounter then took place between the Kurus and the Pandavas, the combatants being worked up with the desire of killing one another and deriving great pleasure from giving and receiving blows.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "अनिलेनेरितं घोरमुत्तस्थौ पार्थिवं रजः। श्रवणान्नामधेयानां पाण्डवानां च कीर्तनात्॥४०॥",
+      "english": "During the progress, O king, of that battle in which great heroes were killed a terrible dust was raised by the wind.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "परस्परं विजानीमो यदयुद्ध्यन्नभीतवत्। तद्रजः पुरुषव्याघ्र शोणितेन प्रशामितम्॥४१॥",
+      "english": "From only the names we heard of the Pandava warriors) that were uttered during that battle and from those of the Kuru warriors) that were uttered by the Pandavas, we knew the heroes that fought with one another fearlessly.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "दिशश्च विमला जातास्तस्मिंस्तमसि नाशिते। तथा प्रवृत्ते सङ्ग्रामे घोररूपे भयानके॥४२॥",
+      "english": "That dust, however, O foremost of men, was soon dispelled by the blood that was shed and all the points of the horizon became once more clear.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "तावकानां परेषां च नासीत्कश्चित्पराङ्मुखः। ब्रह्मलोकपरा भूत्वा प्रार्थयन्तो जयं युधि॥४३॥",
+      "english": "Indeed, during that terrible and awful battle, no one, among either your warriors or those of the foc, took to his heels.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "सुयुद्धेन पराक्रान्ता नराः स्वर्गमभीप्स्वः। भर्तृपिण्डविमोक्षार्थं भर्तृकार्यविनिश्चिताः॥४४॥",
+      "english": "Desirous of going to the regions of Brahman and longing for victory by fair fight, the warriors displayed their prowess worked up with the hope of heaven.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "स्वर्गसंसक्तमनसो योधा युयुधिरे तदा। नानारूपाणि शस्त्राणि विसृजन्तो महारथाः॥४५॥",
+      "english": "For paying off the debt they owed to their masters on account of the maintenance received or bent upon achieving the objects of their friends and allies, the warriors, desirous of going to heaven, fought with one another.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "अन्योन्यमभिगर्जन्तः प्रहरन्तः परस्परम्। हत विध्यत गृह्णीत प्रहरध्वं निकृन्तत॥४६॥",
+      "english": "Discharging various weapons, great carwarriors roared at the struck one another.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "इति स्म वाचः श्रूयन्ते तव तेषां च वै बले। ततः शल्यो महाराज धर्मपुत्रं युधिष्ठिरम्॥४७॥",
+      "english": "Slay, seize, strike, cut off-these were the words that were heard in that battle, ultered by your people and those of the enemy.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "विव्याध निशितैर्बाणैर्हन्तुकामो महारथम्। तस्य पार्थो महाराज नाराचान्वै चतुर्दश॥४८॥",
+      "english": "Then Shalya, O king, desirous of killing him, struck king Yudhishthira, a mighty carwarrior, with many sharp arrows.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "मर्माण्युद्दिश्य मर्मज्ञो निचखान हसन्निव। आवार्य पाण्डवं बाणैर्हन्तुकामो महाबलः॥४९॥",
+      "english": "Acquainted with the vital parts of the body, the son of Pritha, however, O king, struck the king of the Madras with fourteen cloth-yard shafts, aiming at the latter's vital parts.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "विव्याध समरे क्रुद्धो बहुभिः कङ्कपत्रिभिः। अथ भूयो महाराज शरेणानतपर्वणा॥५०॥",
+      "english": "Resisting the son of Pandu with his arrows the illustrious Shalya, filled with ire and desirous of killing his antagonist, struck hiin in that battle with innumerable Kanka-feathered arrows.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "युधिष्ठिरं समाजघ्ने सर्वसैन्यस्य पश्यतः। धर्मराजोऽपि सङ्क्रुद्धो मद्रराजं महायशाः॥५१॥",
+      "english": "Again, O king, he struck Yudhishthura with a straight shaft in the very presences of all the troops.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "विव्याध निशितैर्बाणैः कङ्कबर्हिणवाजितैः। चन्द्रसेनं च सप्तात्या सूतं च नवभिः शरैः॥५२॥",
+      "english": "King Yudhishthira, possessed of great renown and filled with range, cut the ruler of the Madras with many keen Kanka and peacock feathered arrows.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "द्रुमसेनं चतुःषष्ट्या निजघान महारथः। चक्ररथे हते शल्यः पाण्डवेन महात्मना॥५३॥",
+      "english": "That nighty car-warrior then pierced Chandrasena with seventy arrows and Shalya's driver with nine and Drumasena with sixty four.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "निजघान ततो राजंश्चेदीन्वै पञ्चविंशतिम्। सात्यकिं पञ्चविंशत्या भीमसेनं च पञ्चभिः॥५४॥",
+      "english": "When the two protectors of his car-wheels were (thus) killed by the great son of Pandu, Shalya, O king, slew twenty five warriors among the Chedis.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 55,
+      "sanskrit": "माद्रीपुत्रौ शतेनाजौ विव्याध निशितैः शरैः। एवं विचरतस्तस्य सङ्ग्रामे राजसत्तम॥५५॥",
+      "english": "And he struck Satyaki with twenty five keen arrows and Bhimasena with seven and the two sons of Madri with a hundred, in the battle.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 56,
+      "sanskrit": "सम्प्रैषयच्छितान्पार्थः शरानाशीविषोपमान्। ध्वजाग्रं चास्य समरे कुन्तीपुत्रो युधिष्ठिरः॥५६॥",
+      "english": "While Shalya was thus fighting in that battle, that best of kings, the son of Pritha, shot at him many arrows that resembled snakes of virulent poison.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 57,
+      "sanskrit": "प्रमुखे वर्तमानस्य भल्लेनापाहरद्रथात्। पाण्डुपुत्रेण वै तस्य केतुं छिन्नं महात्मना॥५७॥",
+      "english": "With a broad-headed arrow, Yudhishthira, the son of Kunti, then cut off from his car the standard of his antagonist as the latter stood before him.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 58,
+      "sanskrit": "निपतन्तमपश्याम गिरिशृङ्गमिवाहतम्। ध्वजं निपतितं दृष्ट्वा पाण्डवं च व्यवस्थितम्॥५८॥",
+      "english": "We saw the standard of Shalya, which was thus cut off by the son of Pandu in that great battle, drop down like a mountain summit.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 59,
+      "sanskrit": "सङ्क्रुद्धो मद्रराजोऽभूच्छरवर्षं मुमोच ह। शल्यः सायकवर्षेण पर्जन्य इव वृष्टिमान्॥५९॥",
+      "english": "Seeing his standard fallen and observing the son of Pandu standing before him, the king of the Madras, worked up with range, shot a number of shafts.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 60,
+      "sanskrit": "अभ्यवर्षदमेयात्मा क्षत्रियान् क्षत्रियर्षभः। सात्यकिं भीमसेनं च माद्रीपुत्रौ च पाण्डवौ॥६०॥",
+      "english": "That foremost of Kshatriyas, viz., Shalya of great energy poured over the Kshatriyas in that battle dense. showers of arrows like Indra pouring torrents of rain.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 61,
+      "sanskrit": "एकैकं पञ्चभिर्विध्वा युधिष्ठिरमपीडयत्। ततो बाणमयं जालं विततं पाण्डवोरसि॥६१॥",
+      "english": "Piercing Satyaki and Bhimasena and the twin sons of Madri by Pandu, each with five arrows, he assailed Yudhishthira greatly.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 62,
+      "sanskrit": "अपश्याम महाराज मेघजालमिवोद्गतम्। तस्य शल्यो रणे क्रुद्धः शरैः सन्नतपर्वभिः॥६२॥",
+      "english": "We then, O king, beheld a net of arrows spread before the chest of Pandu's son like a mass of risen clouds.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    },
+    {
+      "verse": 63,
+      "sanskrit": "दिशः सञ्छादयामास प्रदिशश्च महारथः। ततो युधिष्ठिरो राजा बाणजालेन पीडितः। बभूवाद्भुतविक्रान्तो जम्भो वृत्रहणा यथा॥६३॥",
+      "english": "At this, king Yudhishthira, afflicted with those arrows, felt himself deprived of his prowess, even as the Asura Jambha had become before the killer of Vritra.",
+      "bhavadeepa": null,
+      "chapter": 12,
+      "parva_name": "शल्यपर्व",
+      "upaparva_name": "शल्यवधपर्व",
+      "adhyaya_name": "द्वादशोऽध्यायः"
+    }
+  ]
+}

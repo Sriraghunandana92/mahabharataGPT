@@ -1,0 +1,439 @@
+{
+  "adhyaya_id": "P01_U07_A071",
+  "book": 1,
+  "parva_name": "आदिपर्व",
+  "upaparva_name": "सम्भवपर्व",
+  "adhyaya_name": "एकसप्ततितमोऽध्यायः",
+  "chapter": 71,
+  "verse_count": 42,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वैशंपायन उवाच।\n              ततो गच्छन्महाबाहुरेकोऽमात्यान्विसृज्य तान्। नापश्यच्चाश्रमे तस्मिंस्तमृषिं संशितव्रतम्॥१॥",
+      "english": "Virata said If this be the king of Kurus, Yudhishthira, the son of Kunti, who, amongst those is his brother Arjuna and who the powerful Bhima?",
+      "bhavadeepa": null,
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "सोऽपश्यमानस्तमृषिं शून्यं दृष्ट्वा तथाऽऽश्रमम्। उवाच क इहेत्युच्चैर्वनं सन्नादयन्निव॥२॥",
+      "english": "Which of them is Nakula, who Sahadeva and where is the illustrious Draupadi? From the time of their defeat at dice, the sons of Pritha have not been known by any.",
+      "bhavadeepa": "एकसप्ततितमोऽध्यायः तत इति॥१॥",
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "श्रुत्वाऽथ तस्य तं शब्दं कन्या श्रीरिव रूपिणी। निश्चक्रामाश्रमात्तस्मात्तापसीवेषधारिणी॥३॥",
+      "english": "Arjuna said This one, O king, your cook, known as Ballava, is Bhima of dreadful prowess and energy.",
+      "bhavadeepa": null,
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "सा तं दृष्ट्वैव राजानं दुष्यन्तमसितेक्षणा। स्वागतं त इति क्षिप्रमुवाच प्रतिपूज्य च॥४॥",
+      "english": "It was he who, having killed the angry Rakshasas on the Gandhamadana mountain, secured for Draupadi fragrant celestials flowers.",
+      "bhavadeepa": null,
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "आसनेनार्चयित्वा च पाद्येनार्घ्येण चैव हि। पप्रच्छानामयं राजन्कुशलं च नराधिपम्॥५॥",
+      "english": "He is the Gandharva who killed the wicked-souled Kichaka's, and it was he who slew the tigers, bears, and boars in your inner apartment.",
+      "bhavadeepa": null,
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "यथावदर्चयित्वाऽथ पृष्ट्वा चानामयं तदा। उवाच स्मयमानेव किं कार्यं क्रियतामिति॥६॥",
+      "english": "He, who is the keeper of your horses is Nakula, the slayer of horses. The one, in charge of your kine, is Sahadeva. Both the sons of Madri are great car-warriors.",
+      "bhavadeepa": "अनामयं आरोग्यम्। कुशलं राष्ट्रादिक्षेमम्॥५॥",
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "तामब्रवीत्ततो राजा कन्यां मधुरभाषिणीम्। दृष्ट्वा सर्वानवद्याङ्गीं यथावत्प्रतिपूजितः॥७॥",
+      "english": "Adorned with beautiful ornaments and robes, and illustrious, these two foremost of Bharatas are capable of withstanding a thousand car-warrior.",
+      "bhavadeepa": null,
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "आगतोऽहं महाभागमृषिं कण्वमुपासितुम्। क्व गतो भगवान्भद्रे गन्ममाचक्ष्व शोभने॥८॥",
+      "english": "This lotus-eyed, beautiful, waited Sairandhri, of sweet smiles, is Draupadi, O king, for whom the Kichakas were slain.",
+      "bhavadeepa": null,
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "शकुन्तलोवाच। गतः पिता मे भगवान्फलान्याहर्तुमाश्रमात्। मुहूर्तं संप्रतीक्षस्व द्रष्टास्येनमुपागतम्॥९॥",
+      "english": "I am Arjuna, Oking. You might have heard that I am the son of Pritha, the younger brother of Bhima and the elder brother of the twins.",
+      "bhavadeepa": null,
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "वैशंपायन उवाच।\n              अपश्यमानस्तमृषिं तथा चोक्तस्तया च सः। तां दृष्ट्वा च वरारोहां श्रीमतीं चारुहासिनीम्॥१०॥",
+      "english": "We have spend happily the period of our exile, undiscovered, in your house, like creatures living in the womb.",
+      "bhavadeepa": "द्रष्टासि द्रक्ष्यसि॥९॥",
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः",
+      "combined_translation": "10-11"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "विभ्राजमानां वपुषा तपसा च दमेन च। रूपयौवनसंपन्नामित्युवाच महीपतिः॥११॥",
+      "english": null,
+      "bhavadeepa": "अपश्यमान इति। तथा च स्वागतादिप्रकारेण विजने संलापरूपाभ्यां स तया मोहित इत्यर्थः॥१०॥",
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः",
+      "english_ref": 10,
+      "combined_translation": "10-11"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "का त्वं कस्यासि सुश्रोणि किमर्थं चागता वनम्। एवंरूपगुणोपेता कुतस्त्वमसि शोभने॥१२॥",
+      "english": "Vaishampayana said After Arjuna had spoken of the five heroic sons of Pandu, the son of Virata then described his prowess. Uttara, too, again identified the sons of Pritha. (He said):",
+      "bhavadeepa": null,
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "दर्शनादेव हि शुभे त्वया मेऽपहृतं मनः। इच्छामि त्वामहं ज्ञातुं तन्ममाचक्ष्व शोभने॥१३॥",
+      "english": "The one, whose complexion is like pure gold, who is of developed proportions like a huge lion, whose eyes are expansive and coppery, whose nose is high, is the king of the Kurus.",
+      "bhavadeepa": null,
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "एवमुक्ता तु सा कन्या तेन राज्ञा तमाश्रमे। उवाच हसती वाक्यमिदं सुमधुराक्षरम्॥१४॥",
+      "english": "He, who courses like an infuriated elephant, whose complexion is bright like burning gold, whose shoulders are expansive, whose arms are long and heavy, is Vrikodara.",
+      "bhavadeepa": "दर्शनादेवेति। शुभे कल्याणावहे। एतेन स्वस्य तत्परिग्रहाधिकारोऽस्तीति दर्शितम्। तत्र प्रमाणं स्वचेतसः प्रवृत्तिरेव। यथोक्तमभियुक्तैः। ’असंशयं क्षत्रपरिग्रहक्षमा यदार्यमस्यामभिलाषि मे मनः। सतां हि सन्देहपदेषु वस्तुषु प्रमाणमन्तःकरणस्य वृत्तयः॥’इति॥१३॥",
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "कण्वस्याहं भगवतो दुष्यन्त दुहिता मता। तपस्विनो धृतिमतो धर्मज्ञस्य महात्मनः॥१५॥",
+      "english": "And that youthful hero, of dark blue colour, O great bowman, who stands by him, who is like an elephant-chief, who is high like a lion and courses like an elephant, and has lotus-eyes, is Arjuna.",
+      "bhavadeepa": "हसती हसन्ती॥१४॥",
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "दुष्यन्त उवाच।\n              ऊर्ध्वरेता महाभागे भगवाँल्लोकपूजितः। चलेद्धि वृत्ताद्धर्मोपि न चलेत्संशितव्रतः॥१६॥",
+      "english": "Those two foremost of men, who are near the king, are the twins. They are equal to Vishnu and Mahendra. In this world, there is none equal to them in beauty, strength and accomplishments.",
+      "bhavadeepa": null,
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "कथं त्वं तस्य दुहिता संभूता वरवर्णिनी। संशयो मे महानत्र तन्मे छेत्तुमिहार्हसि॥१७॥",
+      "english": "Near them is Draupadi, having the hue of gold. Her complexion is an embodiment of brightness, her eyes are like dark-blue lotuses, and she is like the very goddess of prosperity (Lakshmi).",
+      "bhavadeepa": null,
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "शकुन्तलोवाच। यथाऽयमागमो मह्यं यथा चेदमभूत्पुरा। शृणु राजन्यथातत्त्वं यथाऽस्मि दुहिता मुनेः॥१८॥",
+      "english": "Having thus pointed out those five sons of Pandu and Pritha to the king, the son of Virata, then began to describe the prowess of Arjuna.",
+      "bhavadeepa": null,
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "ऋषिः कश्चिदिहागम्य मम जन्माभ्यचोदयत्। तस्मै प्रोवाच भगवान्यथा तच्छृणु पार्थिवा॥१९॥",
+      "english": "It was he who slew the enemies, like a lion killing the deer. He moved about on the cars, killing the car-warriors.",
+      "bhavadeepa": "आगमो गुरपदेशः। इदं मज्जन्मादि पुरा यथाभूत्तया शृणु इत्युत्तरेणान्वयः॥१८॥",
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "कण्व उवाच।\n              तप्यमानः किल पुरा विश्वामित्रो महत्तपः। सुभृशं तापयामास शक्रं सुरगणेश्वरम्॥२०॥",
+      "english": "A huge elephant was pierced with a shaft and killed by him. That one of huge tusks, and bedecked with gold, fell down on earth.",
+      "bhavadeepa": "अभ्यचोदयत्पृष्टवान्॥१९॥",
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "तपसा दीप्तवीर्योऽयं स्थानान्मां च्यावयेदिति। भीतः पुरन्दरस्तस्मान्मेनकामिदमब्रवीत्॥२१॥",
+      "english": "By him the kine have been rescued, the Kurus vanquished; and, by the sound of his conch, my ears were deafened.",
+      "bhavadeepa": null,
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "गुणैरप्सरसां दिव्यैर्मेनके त्वं विशिष्यसे। श्रेयो मे कुरु कल्याणि यत्त्वां वक्ष्यामि तच्छृणु॥२२॥",
+      "english": "Hearing the words of Uttara, the powerful king of of Matsya's, who had insulted Yudhishthira, said to him.",
+      "bhavadeepa": null,
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "असावादित्यशङ्काशो विश्वामित्रो महातपाः। तप्यमानस्तपो घोरं मम कम्पयते मनः॥२३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः",
+      "english_ref": 5,
+      "combined_translation": "5-23"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "मेनके तव भारोऽयं विश्वामित्रः सुमध्यमे। शंसितात्मा सुदुर्धर्ष उग्रे तपसि वर्तते॥२४॥",
+      "english": "Methinks, the time has come to propitiate the Pandavas. If you like I shall confer Uttara (my daughter) upon Arjuna.",
+      "bhavadeepa": null,
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "स मां न च्यावयेत्स्थानात्तं वै गत्वा प्रलोभय। चर तस्य तपोविघ्नं कुरु मेऽविघ्नमुत्तमम्॥२५॥",
+      "english": "Uttara said Methinks, the time has come for honoring the illustrious sons of Pandu, who are worthy of honour, respect and adoration.”",
+      "bhavadeepa": null,
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "रूपयौवनमाधुर्यचेष्टितस्मितभाषणैः। लोभयित्वा वरारोहे तपसस्तं निवर्तय॥२६॥",
+      "english": "Virata said When I passed into the hands of the enemies in battle, it was Bhimasena who saved me and rescued the kine.",
+      "bhavadeepa": "मे अविघ्नमितिच्छेदः॥२५॥",
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "मेनकोवाच। महातेजाः स भगवांस्तथैव च महातपाः। कोपनश्च तथा ह्येनं जानाति भगवानपि॥२७॥",
+      "english": "By their prowess, we have won victory in battle. Along with our ministers, we shall propitiate the son of Kunti, Yudhishthira, the foremost of Pandavas, together with his younger brothers. (He then said to him): \"May good betide you. O king, If I we have unwittingly given you any offence, you should forgive me for all that. The son of Pandu is virtuous-souled.",
+      "bhavadeepa": null,
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "तेजस्तपसश्चैव कोपस्य च महात्मनः। त्वमप्युद्विजसे यस्य नोद्विजेयमहं कथम्॥२८॥",
+      "english": "Vaishampayana said Then noble Virata, made an alliance wit the king and offered him the entire kingdom together with his scepter, treasury and city.",
+      "bhavadeepa": null,
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "महाभागं वसिष्ठं यः पुत्रैरिष्टैर्व्ययोजयत्। क्षत्रजातश्च यः पूर्वमभवद्ब्राह्मणो बलात्॥२९॥",
+      "english": "Then addressing all the Pandavas and particularly Dhananjaya, the king of Matsya's, again and again, said \"Oh good fortune.\"",
+      "bhavadeepa": null,
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः",
+      "combined_translation": "29-30"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "शौचार्थं यो नदीं चक्रे दुर्गमां बहुभिर्जलैः। यां तां पुण्यतमां लोके कौशिकीति विदुर्जनाः॥३०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः",
+      "english_ref": 29,
+      "combined_translation": "29-30"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "बभार यत्रास्य पुरा काले दुर्गे महात्मनः। दारान्मतङ्गो धर्मात्मा राजर्षिर्व्याधतां गतः॥३१॥",
+      "english": "Then, having repeatedly embraced and smelt the heads of Yudhishthira, Bhima and the two sons of Madri,",
+      "bhavadeepa": null,
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "अतीतकाले दुर्भिक्षे अभ्येत्य पुनराक्षमम्। मुनिः पारेति नद्या वै नाम चक्रे तदा प्रभुः॥३२॥",
+      "english": "Virata, the lord of armies, was not satiated with seeing them. He, then delightedly, said to the king Yudhishthira.",
+      "bhavadeepa": "बभार पोषितवान्। मतङ्गः त्रिशङ्कुः व्याधतां गतः। विवाहविघ्नदोषदर्शिनः पितुः कोपादितिशेषः॥३१॥",
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "मतङ्गं याजयाञ्चक्रे यत्र प्रीतमनाः स्वयम्। त्वं च सोमं भयाद्यस्य गतः पातुं सुरेश्वर॥३३॥",
+      "english": "\"By good luck, I have got you, all safe from the forest. And by good luck, it is that you spent the period of exile, undiscovered by these wicked ones.",
+      "bhavadeepa": "आश्रमम् अभ्येत्य तपस्तप्त्वेतिशेषः। नद्याः कौशिक्याः॥३२॥",
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "चकारान्यं च लोकं वै क्रुद्धो नक्षत्रसंपदा। प्रतिश्रवणपूर्वाणि नक्षत्राणि चकार यः। गुरुशापहतस्यापि त्रिशङ्कोः शरणं ददौ॥३४॥",
+      "english": "I make a gift of this my kingdom and what else I have, to the sons of Pritha. May they accept it without any hesitation.",
+      "bhavadeepa": null,
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "एतानि यस्य कर्माणि तस्याहं भृशमुद्विजे। यथाऽसौ न दहेत्क्रुद्धस्तथाऽऽज्ञापय मां विभो॥३५॥",
+      "english": "Let Savyasachin, Dhananjaya, accept Uttara (my daughter). That foremost of men is her becoming husband.\"",
+      "bhavadeepa": "शरणं त्राणं त्रिशङ्कोः। त्रीणि पितुः कोपो वसिष्ठधेनोर्वधो वृथा गोमांसभक्षणं चेति शङ्कुनिशङ्कुतुल्यानि पापानि यस्य स त्रिशङ्कुस्तस्य यथोक्तं हरिवंशे त्रिशङ्कुं प्रति वसिष्ठेन। ’पितुश्च परिरोषेण गुरोदोग्ध्रीवधेन च। अप्रोक्षितोपयोगाच्च त्रिविधस्ते व्यतिक्रमः’ इति॥३४॥",
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "तेजसा निर्दहेल्लोकान्कम्पयेद्धरणीं पदा। संक्षिपेच्च महामेरुं तूर्णमावर्तयेद्दिशः॥३६॥",
+      "english": "Thus addressed, the pious king Yudhishthira looked towards Dhananjaya. And looked at by his brother, Arjuna said to the king of Matsya's.",
+      "bhavadeepa": "तस्य तस्मात् ॥३५॥",
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "तादृशं तपसा युक्तं प्रदीप्तमिव पावकम्। कथमस्मद्विधा नारी जितेन्द्रियमभिस्पृशेत्॥३७॥",
+      "english": "Oking, I shall accept your daughter as my daughter-in-law. Such an alliance between the Matsya's and Bharatas is indeed proper..",
+      "bhavadeepa": "आवर्तयेदेकीकुर्यात्॥३६॥",
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "हुताशनमुखं दीप्तं सूर्यचन्द्राक्षितारकम्। कालजिह्वं सुरश्रेष्ठ कथमस्मद्विधा स्पृशेत्॥३८॥",
+      "english": "His mouth is as blazing as the fire, the pupils of his eyes are like the sun and the moon and his tongue is like Yama himself. O best of the celestials, how can women like ourselves touch him?",
+      "bhavadeepa": null,
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "यमश्च सोमश्च महर्षयश्च\n              साध्या विश्वे वालस्विल्याश्च सर्वे। एतेऽपि यस्योद्विजन्ते प्रभावा-\n              त्तस्मात्कस्मान्मादृशी नोद्विजेत॥३९॥",
+      "english": "Yama, Soma, great Rishis, the Sadhyas, the Vishvedevas, the Valakhilyas, all are alarmed at the thought of his prowess. Why should not a woman (like myself) be afraid of him?",
+      "bhavadeepa": "सूर्यचन्द्रावेव अक्ष्णोः संबन्धिनी तारके यस्य तावपि भ्रूभङ्गमात्रेण स्रष्टुं समर्थ इत्यर्थः॥३८॥",
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "त्वयैवमुक्ता च कथं समीप-\n              मृषेर्न गच्छेयमहं सुरेन्द्र। रक्षां तु मे चिन्तय देवराज\n              यथा त्वदर्थं रक्षिताऽहं चरेयम्॥४०॥",
+      "english": "O king of the celestials, commanded by you somehow or other I must go to that Rishi. But, O king of the celestials, devise some means by which, under your protection, I can safely inove about him.",
+      "bhavadeepa": null,
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "कामं तु मे मारुतस्तत्र वासः\n              प्रक्रीडिताया विवृणोतु देव। भवेच्च मे मथस्तत्र कार्ये\n              सहायभूतस्तु तव प्रसादात्॥४१॥",
+      "english": "Ocelestial ! when I shall be near the Rishi, Maruta (wind) should be there and rob me of my cloth. Manmatha (the god of love) should at your command help me in my this work.",
+      "bhavadeepa": null,
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "वनाच्च वायुः सुरभिः प्रवायात्तस्मिन्काले तमृषिं लोभयन्त्याः। तथेत्युक्त्वा विहिते चैव तस्मिंस्ततो ययौ साश्रमं कौशिकस्य॥४२॥",
+      "english": "Let the wind carry sweet fragrance from the wood to tempt the Rishi. Having said this and having seen that all that she wanted had been duly provided, she went to the hermitage of the great Kaushika, (Vishvamitra).",
+      "bhavadeepa": "प्रक्रीडितायाः प्रकृष्टं क्रीडितं यस्याः। विवृणोतु अपसारयतु॥४१॥",
+      "chapter": 71,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "एकसप्ततितमोऽध्यायः"
+    }
+  ]
+}

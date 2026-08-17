@@ -1,0 +1,232 @@
+{
+  "adhyaya_id": "P04_U03_A017",
+  "book": 4,
+  "parva_name": "विराटपर्व",
+  "upaparva_name": "कीचकवधपर्व",
+  "adhyaya_name": "सप्तदशोऽध्यायः",
+  "chapter": 17,
+  "verse_count": 21,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वैशम्पायन उवाच । सा हता सूतपुत्रेण राजपत्नी यशस्विनी । वधं कृष्णा परीप्सन्ती सेनावाहस्य भामिनी ॥१॥",
+      "english": "Vaishampayana said Thus outraged by the Suta's son that illustrious princess Krishna of exceeding beauty, brooding over the destruction of the leader of Virata's forces, repaired to her own apartments.",
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "कीचकवधपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "जगामावासमेवाथ सा तदा द्रुपदात्मजा । कृत्वा शौचं यथान्यायं कृष्णा सा तनुमध्यमा ॥२॥",
+      "english": "Having duly washed her body and clothes with water the slender-waisted Krishna, the daughter of Drupada, began to ponder weepingly on the means of discarding her grief.",
+      "bhavadeepa": "सेति । सेनावाहस्य सेनापतेः कीचकस्य ॥१॥",
+      "chapter": 17,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "कीचकवधपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः",
+      "combined_translation": "2-3"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "गात्राणि वाससी चैव प्रक्षाल्य सलिलेन सा । चिन्तयामास रुदती तस्य दुःखस्य निर्णयम् ॥३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "कीचकवधपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः",
+      "english_ref": 2,
+      "combined_translation": "2-3"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "किं करोमि क्व गच्छामि कथं कार्यं भवेन्मम । इत्येवं चिन्तयित्वा सा भीमं वै मनसाऽगमत् ॥४॥",
+      "english": "What shall I do? Whither shall I go? How can my desire be accomplished? while she was thinking thus she thought of Bhima.",
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "कीचकवधपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "नान्यः कर्ता ऋते भीमान्ममाद्य मनसः प्रियम् । तत उत्थाय रात्रौ सा विहाय शयनं स्वकम् ॥५॥",
+      "english": "Save and except Bhima there is none else that can do this very day what is agreeable to me. Then afflicted with great woe that largeeyed Krishna of spacious breast and approved chastity, with mighty lords as her protectors, rose up at night, left her own bed and repaired speedily to the abode of Bhimasena, desirous of accosting her lord.",
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "कीचकवधपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः",
+      "combined_translation": "5-7"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "प्राद्रवन्नाथमिच्छन्ती कृष्णा नाथवती सती । भवनं भीमसेनस्य क्षिप्रमायतलोचना ॥६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "कीचकवधपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः",
+      "english_ref": 5,
+      "combined_translation": "5-7"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "दुःखेन महता युक्ता मानसेन मनस्विनी । सैरन्ध्युवाच । तस्मिन् जीवति पापिष्ठे सेनावाह मम द्विषि ॥७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "कीचकवधपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः",
+      "english_ref": 5,
+      "combined_translation": "5-7"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "तत् कर्म कृतवानद्य कथं निद्रां निषेवसे । वैशम्पायन उवाच । एवमुक्त्वाऽथ तां शालां प्रविवेश मनस्विनी ॥८॥",
+      "english": "Sairandhri said How can you enjoy the sweets of sleep while that foe of mine, the wretched commander of Virata's forces, lives still, having perpetrated that foul deed today?",
+      "bhavadeepa": "यः तत्कर्म पदाहतिरूपं कृतवान् तस्मिन् जीवति ॥७॥",
+      "chapter": 17,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "कीचकवधपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "यस्यां भीमस्तथा शेते मृगराज इव श्वसन् । तस्या रूपेण सा शाला भीमस्य च महात्मनः ॥९॥",
+      "english": "Vaishampayana said Having said this the high-minded Draupadi entered the chamber where Bhima lay asleep snoring like a lion.",
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "कीचकवधपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "संमूर्छितेव कौरव्य प्रजज्वाल च तेजसा । सा वै महानसं प्राप्य भीमसेनं शुचिस्मिता ॥१०॥",
+      "english": "O son of Kuru! Bhima's kitchen got grandeur and glamour as it was illumined with the divine touch of Draupadi's complexion and her presence. Draupadi with her innocent smile, accessed to great Bhima with her entrance in kitchen like (she) her on born in water (gradually access to heron, ox and elephant), parthiva cow of three years age and she elephant.",
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "कीचकवधपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः",
+      "combined_translation": "10-11"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "सर्वश्वेतेव माहेयी वने जाता त्रिहायणी । उपातिष्ठत पाञ्चाली वासितेव वरर्षभम् ॥११॥",
+      "english": null,
+      "bhavadeepa": "संमूर्छितेव वृद्धिं शोभारूपां प्राप्तेव प्रजज्वाल अशोभत ॥१०॥",
+      "chapter": 17,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "कीचकवधपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः",
+      "english_ref": 10,
+      "combined_translation": "10-11"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "सा लतेव महाशालं फुल्लं गोमतितीरजम् । परिष्वजत पाञ्चाली मध्यमं पाण्डुनन्दनम् ॥१२॥",
+      "english": "The daughter of Panchala embraced the second son of Pandu even as a creeper embraces a vigorous and huge Sala tree on the banks of the Gomati.",
+      "bhavadeepa": "सर्वश्वेतेवेति । पाञ्चाली द्रौपदी वरर्षभं वरणीयं पतिं श्रेष्ठं भीमसेनमुपलक्ष्य वासितेव पुष्पिणीत्वेन कामातुरेव उपातिष्ठत समीपे स्थितवती । वस्तुतो न कामातुरा किं तु द्वेषातुरैवेति भावः । तत्र दृष्टान्तद्वयम् । इव शब्दः काकाक्षिवदुभयत्र सम्बध्यते सर्वश्वेतेव माहेयीव चेति । सर्वश्वेता बकी यथा कामातुरा वरर्षभं पतिमिति एकः । तस्याः कामातुरत्वे हेतुः वने जातेति । जले जात  तन जलसामीप्ये लब्धाहारत्वेन उन्मत्तत्वं सूच्यते । तथा माहेयी गौः साऽपि वासिता सती वरर्षभं साण्डं बलीवर्दम् । तस्या अपि वासितात्वे विशेषणं त्रिहायणीति । त्रिवर्षा हि गौर्यौवनारूढा कामातुरा च भवति । * अन्ये तु ‘श्वेतः सिते राजहंसे कैलासे द्विपभूपयोः’ इति कोशमुदाहृत्य सर्वश्वेता हंसीति व्याचक्षते । तत्र सर्वपदं व्यर्थं हंसस्य लोहितलोचनास्यचरणत्वात् प्रतिकूलं च । यद्यपि ‘त्रिहायणी त्रिवर्षा गौः’ इति च कोशात् त्रिहायणीपदेनैव गौर्लभ्यते तथापि तत्कामातुरत्वज्ञापनार्थमुपक्षीणं सद्विशेष्यसमर्पकं पदान्तरमपेक्षत एवेति न व्यर्थविशेषणत्वम् । अन्ये व्याख्यानप्रकाराः सर्वेऽनेनैव दोषेण ग्रस्ता इत्युपेक्षिताः ॥११॥",
+      "chapter": 17,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "कीचकवधपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "बाहुभ्यां परिरभ्यैनं प्राबोधयदनिन्दिता । सिंहं सुप्तं वने दुर्गे मृगराजवधूरिव ॥१३॥",
+      "english": "Having clasped him with her arms that faultless one roused him from his bed just as lioness awakes a sleeping lion in a solitary forest.",
+      "bhavadeepa": "मध्यमं पाण्डुनन्दनं भीमसेनम् । यमयोः सहजातत्वेन पौर्वापर्याभावात्तौ कनिष्ठावेव । युधिष्ठिरो ज्येष्ठ एव । मध्यमत्वं भीमार्जुनयोरेव विश्रान्तं तत्रापि अत्र प्रकरणात् अर्जुनस्य संप्रति पुंस्त्वाभावाच्च मध्यमत्वं भीमसेने एव मुख्यमित्याशयेनैवैतदुक्तम् । परिष्वजत पर्यष्वजत आलिङ्गितवती ॥१२॥",
+      "chapter": 17,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "कीचकवधपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "भीमसेनमुपाश्लिष्यद्धस्तिनीव महागजम् । वीणेव मधुरालापा गान्धारं साधु मूर्छती । अभ्यभाषत पाञ्चाली भीमसेनमनिन्दिता ॥१४॥",
+      "english": "Having embraced Bhimasena as a sheelephant embraces her mighty mate, that faultless daughter of Panchala, possessed of a voice sweet as the sound of a Vina, sounding out clearly the Gandharva tune addressed Bhimasena thus.",
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "कीचकवधपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "उत्तिष्ठोत्तिष्ठ किं शेषे भीमसेन यथा मृतः । नामृतस्य हि पापीयान् भार्यामालभ्य जीवति ॥१५॥",
+      "english": "O Bhimasena, rise up, why do you sleep like a dead one? For a sinful wretch cannot live after insulting the wife of one that is not dead.",
+      "bhavadeepa": "गान्धारं स्वरविशेषं मूर्छती मूर्छयन्ती ॥१४॥",
+      "chapter": 17,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "कीचकवधपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "स संप्रहाय शयनं राजपुत्र्या प्रबोधितः । उपातिष्ठत मेघाभः पर्यङ्के सोपसंग्रहे ॥१६॥",
+      "english": "Being awakened by the princess he, having complexion like that of the clouds, left his bed and sat on the couch furnished with pillows.",
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "कीचकवधपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "अथाब्रवीद्राजपुत्रीं कौरव्यो महिषीं प्रियाम् । केनास्यथन संप्राप्ता त्वरितेव ममान्तिकम् ॥१७॥",
+      "english": "Then the son of Kunti addressed his beloved consort saying \"For what purpose have you come hither so speedily to me?",
+      "bhavadeepa": "सोपसङ्ग्रहे सतूलिके ॥१६॥",
+      "chapter": 17,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "कीचकवधपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "न ते प्रकृतिमान् वर्णः कृशा पाण्डुश्च लक्ष्यसे । आचक्ष्व परिषेशेण सर्वं विद्यामहं यथा ॥१८॥",
+      "english": "Your complexion seems to have lost its natural hue; you appear lean and pale, tell me all in detail that I may know every thing.",
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "कीचकवधपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "सुखं वा यदि वा दुःखं द्वेष्यं वा यदि वा प्रियम् । यथावत् सर्वमाचक्ष्व श्रुत्वा ज्ञास्यामि यत् क्षमम् ॥१९॥",
+      "english": "Tell me everything clearly whether it be pleasurable; having heard all I shall do what lies in my power.",
+      "bhavadeepa": "विद्यां जानीयाम् ॥१८॥",
+      "chapter": 17,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "कीचकवधपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "अहमेव हि ते कृष्णे विश्वास्यः सर्वकर्मसु । अहमापत्सु चापि त्वां मोक्षयामि पुनः पुनः ॥२०॥",
+      "english": "In all works of yours, O Krishna, I am your confident, for I alone deliver you from danger again and again.",
+      "bhavadeepa": "ज्ञास्यामि उपायं चिन्तयिष्यामि क्षमं योग्यम् ॥१९॥",
+      "chapter": 17,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "कीचकवधपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "शीघ्रमुक्त्वा यथाकामं यत्ते कार्यं विवक्षितम् । गच्छ वै शयनायैव पुरा नान्येन बुध्यते ॥२१॥",
+      "english": "Telling me quickly what is your wish and what you purpose to do, repair to your bed before others are up.",
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "कीचकवधपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    }
+  ]
+}

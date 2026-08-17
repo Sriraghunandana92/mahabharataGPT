@@ -1,0 +1,866 @@
+{
+  "adhyaya_id": "P07_U07_A192",
+  "book": 7,
+  "parva_name": "द्रोणपर्व",
+  "upaparva_name": "द्रोणवधपर्व - ७",
+  "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः",
+  "chapter": 192,
+  "verse_count": 84,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "सञ्जय उवाच।\n              सात्वतस्य तु तत्कर्म दृष्ट्वा दुर्योधनादयः।  शैनेयं सर्वतः क्रुद्धा वारयामासुरञ्जसा॥१॥",
+      "english": "Sanjaya said Then beholding those feats of that one of the Satvata race, Duryodhana and others, filled with rage, quickly encompassed the grandson of Shini on all sides.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "कृपकर्णौ च समरे पुत्राश्च तव मारिष।  शैनेयं त्वरयाऽभ्येत्य विनिघ्नन्निशितैः शरैः॥२॥",
+      "english": null,
+      "bhavadeepa": "सात्वतस्येति ॥१॥",
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "युधिष्ठिरस्ततो राजा माद्रीपुत्रौ च पाण्डवौ।  भीमसेनश्च बलवान्सात्यकिं पर्यवारयन्॥३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "कर्णश्च शरवर्षेण गौतमश्च महारथः।  दुर्योधनादयस्ते च शैनेयं पर्यवारयन्॥४॥",
+      "english": "Karna and the son of Gotama, that mighty car-warrior and Duryodhana and others, then covered Shini's grandson with their shafts.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "तां वृष्टिं सहसा राजन्नुत्थितां घोररूपिणीम्।  वारयामास शैनेयो योधयंस्तान्महारथान्॥५॥",
+      "english": "Then fighting, O king, (fearlessly) on with those warriors, that scion of Shini's race checked that awful shower of pouring arrows which had been begun so suddenly.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "तेषामस्त्राणि दिव्यानि संहितानि महात्मनाम्। वारयामास विधिवद्दिव्यैरस्त्रैर्महामृधे॥६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "क्रूरमायोधनं जज्ञे तस्मिन् राजसमागमे।  रुद्रस्येव हि क्रुद्धस्य निघ्नतस्तान्पशून्पुरा॥७॥",
+      "english": "The field of battle looked dreadful during the progress of that encounter between royal con batants and if resembled the scene of of the field where in days of yore Rudra, filled with rage, had slaughtered all creatures.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "हस्तानामुत्तमाङ्गानां कार्मुकाणां च भारत।  छत्राणां चापविद्धानां चामराणां च सञ्चयैः॥८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "राशयः स्म व्यदृश्यन्त तत्र तत्र रणाजिरे।  भग्नचक्रै रथैश्चापि पातितैश्च महाध्वजैः॥९॥",
+      "english": "Where seen in heaps on that field of battle. With broken-wheeled cars, with fallen arms.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "सादिभिश्च हतैः शूरैः संकीर्णा वसुधाऽभवत्।  बाणपातनिकृत्तास्तु योधास्ते कुरुसत्तम॥१०॥",
+      "english": "And with heroic horsemen lying slain, the earth became impassable. O foremost of the Kurus, the warriors lacerated with the falling shafts.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "चेष्टंतो विविधाश्चेष्टा व्यदृश्यन्त महाहवे। वर्तमाने तथा युद्धे घोरे देवासुरोपमे॥११॥",
+      "english": "Were seen to roll in various movements on the ground in that great battle. During the progress of that terrible battle resembling that between the Gods and the Asuras in days of yore.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "अब्रवीत्क्षत्रियांस्तत्र धर्मराजो युधिष्ठिरः।  अभिद्रवत संयत्ताः कुंभयोनिं महारथाः॥१२॥",
+      "english": "The very virtuous king Yudhishthira addressing the Kshatriyas said-\"You mighty car-warriors, rush unitedly upon the pot-born Drona.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "एषो हि पार्षतो वीरो भारद्वाजेन सङ्गतः।  घटते च यथाशक्ति भारद्वाजस्य नाशने॥१३॥",
+      "english": "Yonder is the heroic son of Prisata engaged with the son of Bharadvaja; he is trying to the best of his endeavours to encompass the death of Drona.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "यादृशानि हि रूपाणि दृश्यन्तेऽस्य महारणे।  अद्य द्रोणं रणे क्रुद्धो घातयिष्यति पार्षतः॥१४॥",
+      "english": "Judging from the appearances of his mighty battle, it may be inferred that filled with rage the son of Prisata will today over-throw in battle the son of Bharadvaja.",
+      "bhavadeepa": "एषो हीति सन्धिरार्षः ॥१३॥",
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "ते यूयं सहिता भूत्वा युध्यध्वं कुंभसंभवम्।  युधिष्ठिरसमाज्ञप्ताः सृञ्जयानां महारथाः॥१५॥",
+      "english": "Therefore do you unitedly rush upon the pot-born Drona. Thus commanded by Yudhishthira, the mighty car-warriors of the Srinjayas.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "अभ्यद्रवन्त संयत्ता भारद्वाजजिघांसवः।  तान्समापततः सर्वान् भारद्वाजो महारथः॥१६॥",
+      "english": "Impelled by a desire for slaying the son of Bharadvaja, assailed him. The mighty carwarrior the son of Bharadvaja, then received those advancing hosts in fury, knowing death to be inevitable. When Drona of unfailing aim thus advanced, the earth began to tremble.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः",
+      "combined_translation": "16-17"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "अभ्यवर्तत वेगेन मर्तव्यमिति निश्चितः।  प्रयाते सत्यसन्धे तु समकम्पत मेदिनी॥१७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः",
+      "english_ref": 16,
+      "combined_translation": "16-17"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "ववुर्वाताः सनिर्घातास्त्रासयाना वरूथिनीम्।  पपात महती चोल्का आदित्यान्निश्चरन्त्युत॥१८॥",
+      "english": "Fierce winds began to blow filling the troops of the enemy with fear. Mighty meteors began to drop down, seeming to issue out of the solar disc.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "दीपयन्ती उभे सेने शंसन्तीव महद्भयम्।  जज्वलुश्चैव शस्त्राणि भारद्वाजस्य मारिष॥१९॥",
+      "english": "In their fall they illumined the welkin and foreboded great danger. O sire, the weapons of Bharadvaja's son began to blaze forth.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "रथाः स्वनन्ति चात्यर्थं हयाश्चाश्रूण्यवासृजन्। हतौजा इव चाप्यासीद्भारद्वाजो महारथः॥२०॥",
+      "english": "Cars emitted loud clatters and horses began to shed tears. The mighty car-warrior Drona the son of Bhardvaja, appeared to be devoid of his energy.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "प्रास्फुरन्नयनं चास्य वामबाहुस्तथैव च। विमनाश्चाभवद्युद्धे दृष्ट्वा पार्पतमग्रतः॥२१॥",
+      "english": "His eyes and his left arms began to tremble. And beholding Prishata's son before him, he became cheerless.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "ऋषीणां ब्रह्मवादानां स्वर्गस्य गमनं प्रति। सुयुद्धेन ततः प्राणानुत्स्त्रष्टुमुपचक्रमे॥२२॥",
+      "english": "Coincide to this a memory to take a departure in the abode of Brahma as stated by Rishis, well-known to Brahman, decided to abandon leave their lives through fighting in the battle field with chivalry.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "ततश्चतुर्दिशं सैन्यैर्द्रुपदस्याभिसंवृतः।  निर्दहन् क्षत्रियव्रातान्द्रोणः पर्यचरद्रणे॥२३॥",
+      "english": "Then desirous of the compass were covered with the troops of Drupada's son. Consuming hosts of Kshatriyas Drona then careered on the field of battle. care",
+      "bhavadeepa": "ब्रह्मवादानां वेदतुल्यानां वचनानाम् । द्वितीयार्थे षष्ठी श्रुत्वेति शेषः ॥२२॥",
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "हत्वा विंशतिसाहस्त्रान् क्षत्रियानरिमर्दनः।  दशायुतानि करिणामवधीद्विशिखैः शितैः॥२४॥",
+      "english": "Then that crusher of foes having slain twenty thousand Kshatriyas, slew another hundred thousands with whetted shafts of keen points.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "सोऽतिष्ठदाहवे यत्तो विधूमोऽग्निरिव ज्वलन्।  क्षत्रियाणामभावाय ब्राह्ममस्त्रं समास्थितः॥२५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "पाञ्चाल्यं विरथं भीमो हतसर्वायुधं बली।  सुविषण्णं महात्मानं त्वरमाणः समभ्ययात्॥२६॥",
+      "english": "Then the self-controlled Bhima beholding the prince of the Panchalas carless and weaponless, quickly rushed to the rescue of that high-souled warrior.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "ततः स्वरथमारोप्य पाञ्चाल्यमरिमर्दनः।  अब्रवीदभिसंप्रेक्ष्य द्रोणमस्यन्तमन्तिकात्॥२७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "न त्वदन्य इहाचार्यं योद्धुमुत्सहते पुमान्।  त्वरस्व प्राग्वधायैव त्वयि भारः समाहितः॥२८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "स तथोक्तो महाबाहुः सर्वभारसहं धनुः।  अभिपत्याददे क्षिप्रमायुधप्रवरं दृढम्॥२९॥",
+      "english": "Thus spoken to by Bhima, the mightyarmed Dhristadyumna, quickly took up a strong and new bow of very superior make and capable of bearing a great strain.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "संरब्धश्च शरानस्यन्द्रोणं दुर्वारणं रणे।  विवारयिषुराचार्यं शरवर्षैरवाकिरत्॥३०॥",
+      "english": "Worked up with rage and discharging his arrows in that battle at the indomitable Drona, Dhristadyumna covered the preceptor with arrows with a desire to withstand him.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "तौ न्यवारयतां श्रेष्ठौ संरब्धौ रणशोभिनौ।  उदीरयेतां ब्राह्माणि दिव्यान्यस्त्राण्यनेकशः॥३१॥",
+      "english": "Those two ornaments of battle, those two superior warriors, filled with rage, then resisted one another and invoked into existence many celestial and Brahma weapons.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "स महास्त्रैर्महाराज द्रोणमाच्छादयद्रणे।  निहत्य सर्वाण्यस्त्राणि भारद्वाजस्य पार्षतः॥३२॥",
+      "english": "Then, O mighty monarch, Dhristadyumna covered Drona in that battle with many weapons. Destroying all those weapons of Bharadvaja's son, the prince of the Panchalas.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "सवसातीञ्शिबींश्चैव बाल्हीकान्कौरवानपि।  रक्षिष्यमाणान्संग्रामे द्रोणं व्यधमदच्युतः॥३३॥",
+      "english": "That warrior of unfading renown, began to consume the Vasatis, the Shinis, the Valhikas and the Kurus who were then engaged in protecting Drona.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "धृष्टद्युम्नस्तथा राजन् गभस्तिभिरिवांशुमान्।  बभौ प्रच्छादयन्नाशाः शरजालैः समन्ततः॥३४॥",
+      "english": "O king, discharging numerous shafts on all sides, Dhristadyumna at that time appeared beautiful like the sun of myriad rays.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "तस्य द्रोणो धनुश्छित्त्वा विद्ध्वा चैनं शिलीमुखैः।  मर्माण्यभ्यहनद्भूयः स व्यथां परमामगात्॥३५॥",
+      "english": "Drona however once more cut-off the prince's bow and pierced the vitals of the prince himself with large number of shafts. Thus wounded the prince was greatly pained.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "ततो भीमो दृढक्रोधो द्रोणस्याश्लिष्य तं रथम्।  शनकैरिव राजेन्द्र द्रोणं वचनमब्रवीत्॥३६॥",
+      "english": "Thereupon Bhima of great fury holding the chariot of Drona, distinctly spoke those words to him",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "यदि नाम न युध्येरञ्शिक्षिता ब्रह्मबन्धवः।  स्वकर्मभिरसन्तुष्टा न स्म क्षत्रं क्षयं व्रजेत्॥३७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "अहिंसां सर्वभूतेषु धर्मं ज्यायस्तरं विदुः।  तस्य च ब्राह्मणो मूलं भवांश्च ब्रह्मवित्तमः॥३८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "श्वपाकवन्म्लेच्छगणान् हत्वा चान्यान्पृथग्विधान्।  अज्ञानान्मूढवद्ब्रह्मन्पुत्र-दार-धनेप्सया॥३९॥",
+      "english": "Like Chandala, slaying numerous Mlechchas and diverse other warriors, who however are all engaged in performing the duties of their order, moved to the deed by folly and ignorance, O Brahmana and by the desire of benefiting your family and son, indeed for the sake of your only son indeed slaying all like one ignorant of his duties and disregarding your own avocation why do you not feel ashamed?",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "एकस्यार्थे बहून्हत्वा पुत्रस्याधर्मविद्यया।  स्वकर्मस्थान्विकर्मस्थो न व्यपत्रपसे कथम्॥४०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "यस्यार्थे शस्त्रमादाय यमपेक्ष्य च जीवसि।  स चाद्य पतितः शेते पृष्ठेनावेदितस्तव॥४१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "धर्मराजस्य तद्वाक्यं नाभिशङ्कितुमर्हसि।  एवमुक्तस्ततो द्रोणो भीमेनोत्सृज्य तद्धनुः॥४२॥",
+      "english": "It behoves you not to doubt the words the very virtuous king Yudhishthira has told you, Thus addressed by Bhima, Drona, laid his bow aside.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "सर्वाण्यस्त्राणि धर्मात्मा हातुकामोऽभ्यभाषत।  कर्ण कर्ण महेष्वास कृप दुर्योधनेति च॥४३॥",
+      "english": "Then desirous of laying all his weapons aside, Bharadvaja's son of illustrious soul, said aloud-\"O Karna, O Karna, Ogreat bowman, O Kripa, O Duryodhana.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "संग्रामे क्रियतां यत्नो ब्रवीम्येष पुनः पुनः।  पाण्डवेभ्यः शिवं वोऽस्तु शस्त्रमभ्युत्सृजाम्यहम्॥४४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "इति तत्र महाराज प्राक्रोशद्द्रौणिमेव च।  उत्सृज्य च रणे शस्त्रं रथोपस्थे निविश्य च॥४५॥",
+      "english": "Having spoken thus, O mighty monarch, Drona began to cry out the name of Ashvatthaman at the top of his voice; and laying aside his weapons, he then sat down on the terrace of his car.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "अभयं सर्वभूतानां प्रददौ योगमीयिवान्।  तस्य तच्छिद्रमाज्ञाय धृष्टद्युम्नः प्रतापवान्॥४६॥",
+      "english": "Then betaking to yoga, he assuredly gave safety to creature. Taking advantage of that opportunity. Dhristadyumna collected all his energies.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "सशरं तद्धनुर्घोरं संन्यस्याथ रथे ततः।  खड्गी रथादवप्लुत्य सहसा द्रोणमभ्ययात्॥४७॥",
+      "english": "Then placing his dreadful bow with arrows fixed on its string on his car, he jumped down from it armed with a sword and then rushed furiously upon Drona.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "हाहाकृतानि भूतानि मानुषाणीतराणि च। द्रोणं तथागतं दृष्ट्वा धृष्टद्युम्नवशं गतम्॥४८॥",
+      "english": "Then men and other creatures beholding Drona on the point of falling a victim to Dhristadyumna, began to utter loud cries of Oh and Alas.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "हाहाकारं भृशं चक्रुरहो धिगिति चाब्रुवन्।  द्रोणोऽपि शस्त्राण्युत्सृज्य परमं साङ्ख्यमास्थितः॥४९॥",
+      "english": "They bewailed piteously and they cried alas and oh and said fie. Meanwhile Drona, having laid aside his weapons, was peacefully seated on his car.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "तथोक्त्वा योगमास्थाय ज्योतिर्भूतो महातपाः। पुराणं पुरुषं विष्णुं जगाम मनसा परम्॥५०॥",
+      "english": "Having spoken as before, Drona, had betaken to yoga. Endued with great splendour and possessed of ascetic merit, he had set his heart on that ancient and paramount being viz., Vishnu.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "मुखं किञ्चित्समुन्नाम्य विष्टभ्य उरमग्रतः।  निमीलिताक्षः सत्त्वस्थो निक्षिप्य हृदि धारणाम् ॥५१॥",
+      "english": "Slightly bending down his face and throwing his breast forward and shutting his eyes and reposing on the quality of goodness and directing his mind on meditation.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "ओमित्येकाक्षरं ब्रह्म ज्योतिर्भूतो महातपाः।  स्मरित्वा देवदेवेशमक्षरं परमं प्रभुम्॥५२॥",
+      "english": "And thinking on the monosyllabic Om representing Brahma and recollecting the mighty, paramount and indestructible god of gods and effulgent Drona of great ascetic merit.",
+      "bhavadeepa": "मुखमिति उरम् उरः अग्रतः अधरहनोरग्रेण विष्टभ्य हृदि धारणं विषयाणां स्मरणं निक्षिप्य निरस्य अत एव सत्त्वस्थः रजस्तमोमलशून्ये शुद्धे सत्त्वे स्फटिककल्पे स्थितः । तत्र स्थितो भूत्वा ओमित्यनेन प्रतीकेन एकाक्षरं वासुदेवाख्यं ब्रह्म स्मरित्वा स्मृत्वा तद्बलेनाचार्यो दिवमाक्रामदिति सार्धद्वयोः संबन्धः ॥५१॥",
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "दिवमाक्रामदाचार्यः साक्षात्सद्भिर्दुराक्रमाम्।  द्वौ सूर्याविति नो बुद्धिरासीत्तस्मिंस्तथागते॥५३॥",
+      "english": "The preceptor of the Kurus and the Pandavas, went to heaven, which is so difficult of being attained even by the virtuous. Indeed when Drona proceeded to heaven, it appeared to us that there were two suns in the sky.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "एकाग्रमिव चासीच्च ज्योतिर्भिः पूरितं नभः।  समपद्यत चार्काभे भारद्वाजदिवाकरे॥५४॥",
+      "english": "The whole welkin was ablaze and appeared to be one vast sheet of equal light when the sun-like Bharadvaja, of solar splendour, proceeded towards heaven.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 55,
+      "sanskrit": "निमेषमात्रेण च तत् ज्योतिरन्तरधीयत।  आसीत्किलकिलाशब्दः प्रहृष्टानां दिवौकसाम्॥५५॥",
+      "english": "But within an wink of time however, that light disappeared and then tumultuous noise of the delighted celestials were heard there,",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 56,
+      "sanskrit": "ब्रह्मलोकगते द्रोणे धृष्टद्युम्ने च मोहिते।  वयमेव तदाऽद्राक्ष्म पञ्च मानुषयोनयः॥५६॥",
+      "english": "When Drona thus ascended to heaven, Dhristadyumna was standing beside him stupefied; only we five amongst mortal creatures beheld.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 57,
+      "sanskrit": "योगयुक्तं महात्मानं गच्छन्तं परमां गतिम्।  अहं धनञ्जयः पार्थो भारद्वाजस्य चात्मजः॥५७॥",
+      "english": "The illustrious Drona, lost in yoga and meditation, ascend to the highest regions of blessedness. These five were, myself, Pritha's son Dhananjaya, Ashvatthaman, the son of Drona.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 58,
+      "sanskrit": "वासुदेवश्च वार्ष्णेयो धर्मपुत्रश्च पाण्डवः।  अन्ये तु सर्वे नापश्यन्भारद्वाजस्य धीमतः॥५८॥",
+      "english": "Vasudeva of the Vrisni race and king Yudhishthira the virtuous son of Pandu, All else could not seen the halo of glory that surrounded the intelligent son of Bharadvaja as he ascended, rapt up in yoga, to the Brahma regions, which are mysterious even to the gods and which is the highest of all celestial regions.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः",
+      "combined_translation": "58-59"
+    },
+    {
+      "verse": 59,
+      "sanskrit": "महिमानं महाराज योगयुक्तस्य गच्छतः।  ब्रह्मलोकं महद्दिव्यं देवगुह्यं हि तत्परम्॥५९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः",
+      "english_ref": 58,
+      "combined_translation": "58-59"
+    },
+    {
+      "verse": 60,
+      "sanskrit": "गतिं परमिकां प्राप्तमजानन्तो नृयोनयः।  नापश्यन्गच्छमानं हि तं सार्धमृषिपुङ्गवैः॥६०॥",
+      "english": "In fact all human beings were then unaware of the fact that Drona had attained to the highest mode of existence. None of them could then descry the preceptor, that subduer of foes, ascend to the region of Brahma, devoted to yoga, in company with the best of sages, his body mangled with arrows and steeped in blood after he had set aside his weapons.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः",
+      "combined_translation": "60-61"
+    },
+    {
+      "verse": 61,
+      "sanskrit": "आचार्यं योगमास्थाय ब्रह्मलोकमरिन्दमम्।  वितुन्नाङ्गं शरव्रातैर्न्यस्तायुधमसृक्क्षरम्॥६१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः",
+      "english_ref": 60,
+      "combined_translation": "60-61"
+    },
+    {
+      "verse": 62,
+      "sanskrit": "धिक्कृतः पार्षतस्तं तु सर्वभूतैः परामृशत्।  तस्य मूर्धानमालम्ब्य गतसत्त्वस्य देहिनः॥६२॥",
+      "english": "Prisata's meanwhile, though all creatures cried fie on him, yet casting his eyes on the lifeless Drona's head, began to drag it (by the hair.)",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 63,
+      "sanskrit": "किञ्चिदब्रुवतः कायाद्विचकर्तासिना शिरः।  हर्षेण महता युक्तो भारद्वाजे निपातिते॥६३॥",
+      "english": "Then with his sword he lopped that head off the trunk of his foe who remained silent all the while. Then upon the slaughter of Bharadvaja's son he was filled with delight.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 64,
+      "sanskrit": "सिंहनादरवं चक्रे भ्रामयन्खड्गमाहवे।  आकर्णपलितश्यामो ‘वयसाऽशीतिपञ्चकः’॥६४॥",
+      "english": "Dhristadyumna began to send up loud warcries whirling his sword all the while in the air. son With his hoary locks flowing down his ears, of a dark complexion that old man of eighty-five years.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 65,
+      "sanskrit": "त्वत्कृते व्यचरत्सङ्ख्ये स तु षोडशवर्षवत्।  उक्तवांश्च महाबाहुः कुन्तीपुत्रो धनञ्जयः॥६५॥",
+      "english": "For your sake used to career on the field of battle, like a boy of sixteen. The mighty-armed Dhananjaya, that son of Kunti, had said (before",
+      "bhavadeepa": "अशीतीनां पञ्चकमस्यास्तीति विग्रहः । चतुःशतवार्षिक इत्यर्थः । यद्वा तत्तत्कालोचितस्य पुरुषायुषस्य विंशत्या भक्तस्य भागत्रयोनवयस्क इत्यर्थः ॥६४॥",
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 66,
+      "sanskrit": "जीवन्तमानयाचार्यं मा वधीर्द्रुपदात्मज।  न हन्तव्यो न हन्तव्य इति ते सैनिकाश्च ह॥६६॥",
+      "english": "\"O son of Drupada, bring the preceptor alive. Do not slay him. He should not be slain, he should not be slain.” Even thus did you troops also.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 67,
+      "sanskrit": "उत्क्रोशन्नर्जुनश्चैव सानुक्रोशस्तमाव्रजत्।  क्रोशमानेऽर्जुने चैव पार्थिवेषु च सर्वशः॥६७॥",
+      "english": "Cry out; especially Arjuna had exclaimed aloud melting with compassion for his preceptor. But unmindful of the cries of Arjuna and those of other rulers of the earth.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 68,
+      "sanskrit": "धृष्टद्युम्नोऽवधीद्द्रोणं रथतल्पे नरर्षभम्।  शोणितेन परिक्लिन्नो रथाद्भूमिमथापतत्॥६८॥",
+      "english": "O foremost of men, Dhristadyumna slew Drona in the terrace of his own car. Then that indomitable subduer of foes, his body stained with blood, jumped down from the car on the earth, looking red like the (newly-risen) solar disc. Thus the soldiers behold Drona slain in the battle.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः",
+      "combined_translation": "68-69"
+    },
+    {
+      "verse": 69,
+      "sanskrit": "लोहिताङ्ग इवादित्यो दुर्धर्षः समपद्यत।  एवं तं निहतं सङ्ख्ये ददृशे सैनिको जनः॥६९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः",
+      "english_ref": 68,
+      "combined_translation": "68-69"
+    },
+    {
+      "verse": 70,
+      "sanskrit": "धृष्टद्युम्नस्तु तद्राजन्भारद्वाजशिरोऽहरत्।  तावकानां महेष्वासः प्रमुखे तत्समाक्षिपत्॥७०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 71,
+      "sanskrit": "ते तु दृष्ट्वा शिरो राजन्भारद्वाजस्य तावकाः।  पलायनकृतोत्साहा दुद्रुवुः सर्वतोदिशम्॥७१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 72,
+      "sanskrit": "द्रोणस्तु दिवमास्थाय नक्षत्रपथमाविशत्।  अहमेव तदाऽद्राक्षं द्रोणस्य निधनं नृप॥७२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 73,
+      "sanskrit": "ऋषेः प्रसादात्कृष्णस्य सत्यवत्याः सुतस्य च।  विधूमामिह संयान्तीमुल्कां प्रज्वलितामिव॥७३॥",
+      "english": "Through the grace of the sage KrishnaDvaipayana, the son of Satyavati. I then beheld that effulgent one proceeding, after his ascension to the sky, like a blazing flame-beam free from even a curl of smoke flying through the welkin. Upon the slaughter of Drona, the Kurus, the Pandavas and the Srinjayas, all became depressed.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः",
+      "combined_translation": "73-74"
+    },
+    {
+      "verse": 74,
+      "sanskrit": "अपश्याम दिवं स्तब्ध्वा गच्छन्तं तं महाद्युतिम्।  हते द्रोणे निरुत्साहाः कुरुपाण्डवसृञ्जयाः॥७४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः",
+      "english_ref": 73,
+      "combined_translation": "73-74"
+    },
+    {
+      "verse": 75,
+      "sanskrit": "अभ्यद्रवन्महावेगास्ततः सैन्यं व्यदीर्यत।  निहता हतभूयिष्ठाः संग्रामे निशितैः शरैः॥७५॥",
+      "english": "And every body fled in great haste. The army then broke away. Many had been slain and many wounded with keen arrows.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 76,
+      "sanskrit": "तावका निहते द्रोणे गतासव इवाभवन्।  पराजयमथावाप्य परत्र च महद्भयम्॥७६॥",
+      "english": "Upon the death of Drona, your troops appeared to be senseless. Having suffered a defeat and being inspired with fear about the future.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 77,
+      "sanskrit": "उभयेनैव ते हीना नाविन्दन् धृतिमात्मनः।  अन्विच्छन्तः शरीरं तु भारद्वाजस्य पार्थिवाः॥७७॥",
+      "english": "The Kurus lost the benefit of this as well as of the next world. Really they lost all selfcontrol. The rulers of earth then searching for the body of Bharadvaja's son.",
+      "bhavadeepa": "परत्र च महद्भयमिति पलायनस्य परलोकविरुद्धत्वात् ॥७६॥",
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 78,
+      "sanskrit": "नान्वगच्छन्महाराज कबन्धायुतसंकुले।  पाण्डवास्तु जयं लब्ध्वा परत्र च महद्यशः॥७८॥",
+      "english": "Could not find it out in consequence of the field being covered over with numerous headless trunks. The Pandavas on the other hand, having obtained victory here and prospects of fame in the future.",
+      "bhavadeepa": "उभयेन लोकद्वयेन हीना रहिताः ॥७७॥",
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 79,
+      "sanskrit": "बाणशंखरवांश्चक्रुः सिंहनादांश्च पुष्कलान्। भीमसेनस्ततो राजन् धृष्टद्युम्नश्च पार्षतः॥७९॥",
+      "english": "Began to make loud sounds with their arrows and conches conches and they uttered tremendous war-cries. Then Bhimasena and Prisata's son Dhristadyumna.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 80,
+      "sanskrit": "वरूथिन्यामनृत्येतां परिष्वज्य परस्परम्।  अब्रवीच्च तदा भीमः पार्षतं शत्रुतापनम्॥८०॥",
+      "english": "Embraced each other in the midst of the Pandava host which looked upon them both. Then that afflicter of foes Bhima addressing Prisata's son said",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 81,
+      "sanskrit": "भूयोऽहं त्वां विजयिनं परिष्वज्यामि पार्षत।  सूतपुत्रे हते पापे धार्तराष्ट्रे च संयुगे॥८१॥",
+      "english": "\"O son of Prisata, I will again embrace your victorious self, when the sinful sons of Suta and Dhritarashtra will be slain in the battle.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 82,
+      "sanskrit": "एतावदुक्त्वा भीमस्तु हर्षेण महता युतः।  बाहुशब्देन पृथिवीं कम्पयामास पाण्डवः॥८२॥",
+      "english": "Having spoken thus much and filled with joy, Pandu's son Bhima, caused the earth to tremble with the sound of his arm-strokes.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 83,
+      "sanskrit": "तस्य शब्देन वित्रस्ताः प्राद्रवंस्तावका युधि।  क्षत्रधर्मं समुत्सृज्य पलायनपरायणाः॥८३॥",
+      "english": "At that sound your troops, panic stricken, began to fly away; and disregarding the duties of Kshatriyas they exerted themselves in flying away.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 84,
+      "sanskrit": "पाण्डवास्तु जयं लब्ध्वा हृष्टा ह्यासन्विशांपते।  अरिक्षयं च संग्रामे तेन ते सुखमाप्नुवन्॥८४॥",
+      "english": "The Pandavas, having obtained victory were transported with joy, O ruler of men; and great was their happiness at the destruction of their foes in battle.",
+      "bhavadeepa": null,
+      "chapter": 192,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणवधपर्व - ७",
+      "adhyaya_name": "द्विनवत्यधिकशततमोऽध्यायः"
+    }
+  ]
+}

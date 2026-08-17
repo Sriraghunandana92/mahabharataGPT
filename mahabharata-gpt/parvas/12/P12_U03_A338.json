@@ -1,0 +1,44 @@
+{
+  "adhyaya_id": "P12_U03_A338",
+  "book": 12,
+  "parva_name": "शान्तिपर्व",
+  "upaparva_name": "मोक्षधर्मपर्व",
+  "adhyaya_name": "अष्टत्रिंशदधिकत्रिशततमोऽध्यायः",
+  "chapter": 338,
+  "verse_count": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "भीष्म उवाच।\n              प्राप्य श्वेतं महाद्वीपं नारदो भगवानृषिः। ददर्श तानेव नरान्श्वेतांश्चन्द्रसमप्रभान्॥१॥",
+      "english": "Bhishma said \"Arrived at the spacious kingdom called White Island, the illustrious Rishi saw those same white men effulgent like the sun.",
+      "bhavadeepa": null,
+      "chapter": 338,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "मोक्षधर्मपर्व",
+      "adhyaya_name": "अष्टत्रिंशदधिकत्रिशततमोऽध्यायः",
+      "combined_translation": "1-2"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "पूजयामास शिरसा मनसा तैश्च पूजितः। दिदृक्षुर्जप्यपरमः सर्वकृच्छ्रगतः स्थितः॥२॥",
+      "english": "Adored by them, the Rishi worshipped them in return by bending his head and respecting them in his mind. Desirous of seeing Narayana, he began to live there, attentively engaged in the silent recitation of Mantras sacred to him, and practising the most difficult VOWS.",
+      "bhavadeepa": null,
+      "chapter": 338,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "मोक्षधर्मपर्व",
+      "adhyaya_name": "अष्टत्रिंशदधिकत्रिशततमोऽध्यायः",
+      "combined_translation": "2-3"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "भूत्वैकाग्रमना विप्र उर्ध्वबाहुः समाहितः। स्तोत्रं जगौ स विश्वाय निर्गुणाय गुणात्मने॥३॥",
+      "english": "With rapt mind, the twice-born Rishi, with arms upraised, stood in Yoga, and then sang the following hymn to the Lord of the universe, Him, viz., who is at once the soul of attributes and divested of ali attributes.",
+      "bhavadeepa": null,
+      "chapter": 338,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "मोक्षधर्मपर्व",
+      "adhyaya_name": "अष्टत्रिंशदधिकत्रिशततमोऽध्यायः",
+      "combined_translation": "3-4"
+    }
+  ]
+}

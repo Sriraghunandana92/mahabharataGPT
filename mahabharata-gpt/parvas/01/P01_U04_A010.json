@@ -1,0 +1,91 @@
+{
+  "adhyaya_id": "P01_U04_A010",
+  "book": 1,
+  "parva_name": "आदिपर्व",
+  "upaparva_name": "पौलोमपर्व।",
+  "adhyaya_name": "दशमोऽध्यायः",
+  "chapter": 10,
+  "verse_count": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "रुरुरुवाच।\n              मम प्राणसमाभार्या दष्टासीद्भुजगेन ह। तत्र मे समयो घोर आत्मनोरग वै कृतः॥१॥",
+      "english": "Ruru said : My wife, who was as dear to me as my life, was bitten by a snake; on which I took, O snake, a fearful vow;",
+      "bhavadeepa": "सरम्भादावेशात् ॥२३॥",
+      "chapter": 10,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "पौलोमपर्व।",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "भुजंगं वै सदा हन्यां यं यं पश्येयमित्युत। ततोऽहं त्वां जिघांसामि जीवितेनाद्य मोक्ष्यसे॥२॥",
+      "english": "Namely that I would kill every snake that I might meet with. Therefore I shall strike you and you shall be deprived of your life.",
+      "bhavadeepa": "दशमः अध्यायः ममेति॥१॥",
+      "chapter": 10,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "पौलोमपर्व।",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "डुण्डुभ उवाच।\n              अन्ये ते भुजगा ब्रह्मन्ये दशन्तीह मानवान्। डुण्डुभानहिगन्धेन न त्वं हिंसितुमर्हसि॥३॥",
+      "english": "The Dundubha said: O Brahmana, there are other snakes which bite man. The Dundubhas are only snakes in name. Therefore, you should not kill the Dundubhas.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "पौलोमपर्व।",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "एकानर्थान्पृथगर्थानेकदुःखान्पृथक्सुखान्। डुण्डुभान्धर्मविद्भूत्वा न त्वं हिंसितुमर्हसि॥४॥",
+      "english": "Subject to the same calamity but not sharing the same good fortune, being same in woe, but different in joy, you should not kill the Dundubhas, being a knower of right and wrong.",
+      "bhavadeepa": "अहिगन्धेन सर्पसादृश्यमात्रेण ॥३॥",
+      "chapter": 10,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "पौलोमपर्व।",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "सौतिरुवाच।\n              इति श्रुत्वा वचस्तस्य भुजगस्य रुरुस्तदा। नावधीद्भयसंविग्नमृषिं मत्त्वाऽथ डुण्डुभम्॥५॥",
+      "english": "Sauti said: Hearing those words of the snake and seeing that the snake was really of the Dundubha kind and that it was terribly frightened. Ruru did not kill it, thinking that it is a Rishi.",
+      "bhavadeepa": "अत्राध्याये विधेयांशमाह । एकानर्थानिति । अनर्थो हानिः । अर्थो लाभः । तत्रार्थः सुखं च कर्तुर्भोक्तुश्च भवति । अनर्थो दुःखं चैकस्यापराधेन सर्वेषां तत्सजार्तायानां भवतीत्यर्थः । धर्मवित् यस्यापराधः स एव दण्ड्यो नान्य इति धर्मस्तज्ज्ञः ॥४॥",
+      "chapter": 10,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "पौलोमपर्व।",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "उवाच चैनं भगवान् रुरुः संशमयन्निव। केमं मां भुजग ब्रूहि कोऽसीमां विक्रियां गतः॥६॥",
+      "english": "Then Ruru, the possessor of six attributes, cheering up the snake, said to it, “Who are you, tell me, O snake, that have been thus metamorphosed?”",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "पौलोमपर्व।",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "डुण्डुभ उवाच।\n              अहं पुरा रुरो नाम्ना ऋषिरासं सहस्रपात्। सोऽहं शापेन विप्रस्य भुजगत्वमुपागतः॥७॥",
+      "english": "The Dundubha said: O Ruru, I was formerly a Rishi, named Shahasrapat. It is by the curse of a Brahmana that I have become a snake.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "पौलोमपर्व।",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "रुरुरुवाच।\n              किमर्थं शप्तवान्कुद्धो द्विजस्त्वां भुजगोत्तम। कियन्तं चैव कालं ते वपुरेतद्भविष्यसि॥८॥",
+      "english": "Ruru said : O best of snakes, why were you cursed by an angry Brahmana? And how long will your this body continue?",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "पौलोमपर्व।",
+      "adhyaya_name": "दशमोऽध्यायः"
+    }
+  ]
+}

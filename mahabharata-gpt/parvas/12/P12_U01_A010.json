@@ -1,0 +1,307 @@
+{
+  "adhyaya_id": "P12_U01_A010",
+  "book": 12,
+  "parva_name": "शान्तिपर्व",
+  "upaparva_name": "राजधर्मानुशासनपर्व",
+  "adhyaya_name": "दशमोध्यायः",
+  "chapter": 10,
+  "verse_count": 28,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "भीम उवाच । श्रोत्रियस्येव ते राजन् मन्दकस्याविपश्चितः । अनुवाकहता बुद्धिर्नैषा तत्त्वार्थदर्शिनी ॥१॥",
+      "english": "Bharadwaja said-Tell me, O best of Brahmans, how the powerful Brahman, living within Meru, created these various kinds of objects.",
+      "bhavadeepa": "संस्थापयिष्यामि समापयिष्यामि ॥३७॥",
+      "chapter": 10,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "दशमोध्यायः",
+      "combined_translation": "1-1"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "आलस्ये कृतचित्तस्य राजधर्मानसूयतः । विनाशे धार्तराष्ट्राणां किं फलं भरतर्षभ ॥२॥",
+      "english": "Bhrigu said The great Manasa (in his form of Brahman) created the various objects by his Will. For the protection of all creatures, he first created water.",
+      "bhavadeepa": "श्रोत्रियस्य वेदपाठकस्य मन्दत्वादेवाविपश्चितः अर्थज्ञानशून्यस्य अनुवाकेन नित्यपाठेन हता नष्टा ॥१॥",
+      "chapter": 10,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "दशमोध्यायः",
+      "combined_translation": "2-2"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "क्षमानुकम्पा कारुण्यमानृशंस्यं न विद्यते । क्षात्रमाचरतो मार्गमपि बन्धोस्त्वदन्तरे ॥३॥",
+      "english": "Water is the life of all creatures, and it helps their growth. If there be no water, all creatures would die. The cntire universe is pervaded by water.",
+      "bhavadeepa": "आलस्य एव न तु परमार्थे कृतचित्तस्य तव ॥२॥",
+      "chapter": 10,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "दशमोध्यायः",
+      "combined_translation": "3-3"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "यदीमां भवतो बुद्धिं विद्याम वयमीदृशीम् । शस्त्रं नैव ग्रहीष्यामो न वधिष्याम कञ्चन ॥४॥",
+      "english": "Earth, mountains, clouds, and all things which have form, are all as transformations of water. They have all been produced by water being solidified.",
+      "bhavadeepa": "त्वदन्तरे त्वत्तोऽन्यत्र ॥३॥",
+      "chapter": 10,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "दशमोध्यायः",
+      "combined_translation": "4-4"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "भैक्ष्यमेवाचरिष्याम शरीरस्याविमोक्षणात् । न चेदं दारुणं युद्धमभविष्यन्महीक्षिताम् ॥५॥",
+      "english": "Bharadwaja said, How did water originate? How fire and Wind? How also was the Earth created? I have great doubts about it.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "दशमोध्यायः",
+      "combined_translation": "5-5"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "प्राणस्यान्नमिदं सर्वमिति वै कवयो विदुः। स्थावरं जङ्गमं चैव सर्वं प्राणस्य भोजनम् ॥६॥",
+      "english": "O twice-born one, in very ancient times called the Brahma-Kalpa, great Rishis, when they assembled together, felt this very doubt about the creation of the universe.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "दशमोध्यायः",
+      "combined_translation": "6-6"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "आददानस्य चेद्राज्यं ये केचित्परिपन्थिनः । हन्तव्यास्त इति प्राज्ञाः क्षत्रधर्मविदो विदुः ॥७॥",
+      "english": "Governing speech, they remained immovable, engaged in contemplation. Having abstained from food, they lived upon air alone, and remained thus for a thousand divine years.",
+      "bhavadeepa": "प्राणस्य प्राणवतो बलिष्टस्य इदं सर्वम् अन्नमिवान्नं भोग्यम्- ‘वीरभोग्या वसुंधरा’ इति स्मृतेः । अत एव तस्यैव भोजनं भुज्यते पाल्यते इति व्युत्पत्त्या पालनीयमिदं यद्यप्येतत्प्राणोपासनाप्रकरणे श्रुतं तथापि सर्वस्यात्मार्थत्वमित्यंशेन साम्यादुदाहृतम् ॥६॥",
+      "chapter": 10,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "दशमोध्यायः",
+      "combined_translation": "7-7"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "ते सदोषा हतास्माभी राज्यस्य परिपन्थिनः । तान्‌ हत्वा भुंक्ष्व धर्मेण युधिष्ठिर महीमिमाम् ॥८॥",
+      "english": "At the end of that time, certain words as sacred as those of the Vedas simultaneously reached the ears of all. Indeed, this celestial voice was heard in the sky to say—",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "दशमोध्यायः",
+      "combined_translation": "8-8"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "यथा हि पुरुषः खात्वा कूपमप्राप्य चोदकम्  । पङ्कदिग्धो निवर्तेत कर्मेदं नस्तथोपमम् ॥९॥",
+      "english": "Formerly there was only infinite Space, motionless and immovable. Without sun, moon, stars, and wind, it seemed to be asleep.",
+      "bhavadeepa": "हताऽस्माभिरिति सन्धिरार्षः । तान् धर्मेण हत्वा निघ्नन् त्वं राज्यं भुङ्क्ष्व हन्तेरन्येभ्योऽपि दृश्यत इति क्वनिप् अनुनासिकलोपः ह्रस्वस्येति तुक् ॥८॥",
+      "chapter": 10,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "दशमोध्यायः",
+      "combined_translation": "9-9"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "यथाऽऽरुह्य महावृक्षमपहृत्य ततो मधु । अप्राश्य निधनं गच्छेत्कर्मेदं नस्तथोपमम् ॥१०॥",
+      "english": "Then water originated like something darker within darkness. Then from the pressure of water sprang wing.",
+      "bhavadeepa": "तथा तेन प्रकारेण उपमीयत इति तथोपमम् ॥९॥",
+      "chapter": 10,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "दशमोध्यायः",
+      "combined_translation": "10-10"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "यथा महान्तमध्वानमाशया पुरुषः पतन् । स निराशो निवर्तेत कर्मैतन्नस्तयोपमम् ॥११॥",
+      "english": "As an empty vessel having no hole appears at first to have no sound, but when filled with water, air appears and makes a great noise, so when infinite Space was filled with water, the wind arose with a great noise, passing through the water.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "दशमोध्यायः",
+      "combined_translation": "11-12"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "यथा शत्रून् घातयित्वा पुरुषः कुरुनन्दन । आत्मानं घातयेत्पश्चात्कर्मेदं नस्तयोपमम् ॥१२॥",
+      "english": "Generated by the pressure of the ocean of water, that wind still passes on. Occupying empty space, its motion is never stoppcd.",
+      "bhavadeepa": "पतन् गच्छन् ॥११॥",
+      "chapter": 10,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "दशमोध्यायः",
+      "combined_translation": "12-13"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "यथान्नं क्षुधितो लब्ध्वा न भुञ्जीयाद्यदृच्छया । कामीव कामिनीं लब्ध्वा कर्मेदं नस्तथोपमम् ॥१३॥",
+      "english": "Then on account of the friction of wind and water, fire endued with great power and burning energy, came into being, with flames directed upwards. That fire dissipated the darkness that had covered Space.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "दशमोध्यायः",
+      "combined_translation": "13-14"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "वयमेवात्र गर्ह्या हि यद्वयं मन्दचेतसम् । त्वां राजन्ननुगच्छामो ज्येष्ठोऽयमिति भारत ॥१४॥",
+      "english": "Helped by the wind, fore combined Space and Water. In fact, combining with the wind, fire became solidified.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "दशमोध्यायः",
+      "combined_translation": "14-15"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "वयं हि बाहुबलिनः कृतविद्या मनखिनः । क्लीबस्य वाक्ये तिष्ठामो यथैवाशक्तयस्तथा ॥१५॥",
+      "english": "While dropping from the sky, the liquid portion of fire being solidified again became what is known as the Earth.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "दशमोध्यायः",
+      "combined_translation": "15-16"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "अगतीकगतीनस्मान्नष्टार्थानर्थसिद्धये । कथं वै नानुपश्येयुर्जनाः पश्यत यादृशम् ॥१६॥",
+      "english": "The Earth or land, in which everything is born, is the root of all sorts of taste, of all sorts of scent, of all sorts of liquids, and of all kinds of animals,",
+      "bhavadeepa": "अशक्तयः शक्तिहीनाः ॥१५॥",
+      "chapter": 10,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "दशमोध्यायः",
+      "combined_translation": "16-17"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "आपत्काले हि संन्यासः कर्तव्य इति शिष्यते । जरयाऽभिपरीतेन शत्रुभिर्व्यंसितेन वा ॥१७॥",
+      "english": "It has been laid down that (a life of) Renunciation should be adopted, only in times of difficulty, by kings attacked with decrepitude or defeated by, enemies!",
+      "bhavadeepa": "अगतीकगतीननाथरक्षकान् । दैर्घ्यमार्षम् । ईदृशानपि नष्टार्थान् दृष्ट्वा जना इतरेऽपि अर्थसिद्धये कथं नानुपश्येयुरपि तु आलोचयेयुरेव । एतत् यादृशं मम वचनं तादृशं पश्यत युक्तमयुक्तं वेति परीक्षयेत्यर्थः । समर्थैः स्वार्थसिद्ध्यर्थं यतितव्यमेवेति भावः ॥१६॥",
+      "chapter": 10,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "दशमोध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "तस्मादिह कृतप्रज्ञास्त्यागं न परिचक्षते । धर्मव्यतिक्रमं चैव मन्यन्ते सूक्ष्मद‌र्शिनः ॥१८॥",
+      "english": "Wise men, therefore, do not praise Renunciation as the duty of a Kshatriya. On the other hand, the clear-sighted think that the adoption of such a life (by a Kshatriya) involves even the loss of virtue.",
+      "bhavadeepa": "ननु संन्यास एव नः श्रेयानित्युक्तं तत आह- आपदिति । व्यंसितेन दुर्गतिं प्रापितेन ॥१७॥",
+      "chapter": 10,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "दशमोध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "कथं तस्मात्समुत्पन्नास्तन्निष्ठास्तदुपाश्रयाः । तदेव निन्दां भाषेयुर्धाता तत्र न गर्ह्यते ॥१९॥",
+      "english": "How can those who are born in that order, who follow the practices of that order, and that have their refuse in them, censure those duties? If indeed those duties be censurable, then why should not the Supreme Ordainer be blamed?",
+      "bhavadeepa": "इह क्षत्रयोनौ त्यागं चरन् भैक्ष्यं मुनिर्मुण्ड इत्युक्तविधं संन्यासं न परिचक्षते न प्रशंसन्ति । तत्र हेतुः- धर्मेति ।  ‘मुखजानामयं धर्मो वैष्णवं लिङ्गधारणम् ।   बाहुजातोरुजातानां नायं धर्मो विधीयते’ ॥ इत्ति स्मृतेः क्षत्रियस्य मौण्ड्यादिकं निषिद्धं तस्याचरणे धर्मव्यतिक्रमोऽस्त्येवेति भावः ॥१८॥",
+      "chapter": 10,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "दशमोध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "श्रिया विहीनैरधनैर्नास्तिकैः सम्प्रवर्तितम् । वेदवादस्य विज्ञानं सत्याभासमिवानृतम् ॥२०॥",
+      "english": "The persons who are shorn of prosperity and wealth and who are unbelievers, have laid down this precept of the Vedas as the truth. In reality, however, it is never, proper for a Kshatriya to do so.",
+      "bhavadeepa": "ननु हिंस्रोऽयं क्षात्रधर्मो निन्द्य एवेत्याशङ्क्याह- कथमिति । हिंसार्थमुत्पन्नाः हिंस्रयोनौ जाताः हिंसैकजीवनास्तदेव तस्यैव हिंस्रधर्मस्य निन्दां कथं भाषेयुः । कथं वा तत्र धाता तस्य धर्मस्य स्रष्टा न गर्ह्यते न निन्द्यते । धातृविहितत्वात्सहजत्वाच्च नासौ धर्मो निन्द्य इत्यर्थः । यदाह भगवान्- ‘सदोषमपि कौन्तेय सहजं कर्म न त्यजेत्’ इति ॥१९॥",
+      "chapter": 10,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "दशमोध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "शक्यं तु मौनमास्थाय बिभ्रताऽऽत्मानमात्मना । धर्मच्छद्म समास्थाय च्यवितुं न तु जीवितुम् ॥२१॥",
+      "english": "He who can support life by prowess, he who can support himself by his own exertions, does note live, but really deviates from his duty, by following the life of Renunciation.",
+      "bhavadeepa": "कथं तर्हि जाबालोपनिषदि- ‘अथ परिव्राट् मुण्डो विवर्णवासा इत्युपक्रम्य भरतरैवतकप्रभृतयोऽनुन्मत्ता उन्मत्तवदाचरन्ते’ इति भरतादीनां क्षत्रियाणां मौण्ड्यमुन्मत्तचर्या च श्रूयते इत्याशङ्क्याह- श्रियेति । ‘ऋचः सामानि यजूषि । सा हि श्रीरमृता सताम्’ इति श्रुतेः । श्रिया त्रय्या विद्यया विहीनैः अधनैर्लक्ष्म्या च हीनैः इदमनृतं संप्रवर्तितं वेदयतीति वेदो विधिस्तस्य वादोऽर्थवादस्तत्सबन्धि विज्ञानं संन्यासविधिस्तुत्यर्थं भरतादिकीर्तनं प्रजापतिवपोत्खननवदर्थवादो न तु तावता मौण्ड्ये क्षत्रियस्याधिकारः सिध्यतीति भावः ॥२०॥",
+      "chapter": 10,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "दशमोध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "शक्यं पुनररण्येषु सुखमेकेन जीवितुम् । अबिभ्राता पुत्रपौत्रान्देवर्षीनतिथीन्पितॄन् ॥२२॥",
+      "english": "That man only is capable of leading a solitary life of happiness in the forest who cannot support sons and grandsons and the deities and Rishis and guests and Pitris.",
+      "bhavadeepa": "यत्तु ऋजुः प्रणिहितो गच्छन्नित्यत्याश्रम उक्तस्तं दूषयति- शक्यं त्विति । आत्मानं देहमात्मना स्वेनैव बिभ्रता निश्चलं स्थापयता धर्मच्छद्म कपटयोगे आस्थाय च्यवितुं मर्तुमेव शक्यं न जीवितुं केवलं प्रणिधानेन शरीरनाशो भवेदित्यर्थः ॥२१॥",
+      "chapter": 10,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "दशमोध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "नेमे मृगाः स्वर्गजितो न वराहा न पक्षिणः । अथान्येन प्रकारेण पुण्यमाहुर्न तं जनाः ॥२३॥",
+      "english": "As the deer and boars and birds cannot attain to heaven, even so those Kshatriyas who are not shorn of prowess cannot attain to heaven by leading only a forest life. They should acquire religious merit by other means.",
+      "bhavadeepa": "यत्तु स्वभावस्तु व्रजत्यग्रे इति सुप्तबालकस्तनपानवद्देहयात्रासिद्धिरुका तां दूषयति द्वाभ्यां- शक्यं पुनरिति । पुत्राद्यभरणेन पशुसाम्येन च तत्रापि दोषोऽस्तीत्यर्थः ॥२२॥",
+      "chapter": 10,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "दशमोध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "यदि संन्यासतः सिद्धिं राजा कश्चि‌दवाप्नुयात् । पर्वताश्च द्रुमाश्चैव क्षिप्रं सिद्धिमवाप्नुयुः ॥२४॥",
+      "english": "If, O king, anybody could secure success from Renunciation, then mountains and trees would surely obtain it.",
+      "bhavadeepa": "अथेत्यतः शब्दार्थे तमेकचरमेन्येन प्रकारेण एकचर्यां विना न पुण्यं श्रेयांसमाहुः, सा च मृगेऽप्यस्तीति न तयोर्विशेष इति भावः ॥२३॥",
+      "chapter": 10,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "दशमोध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "एते हि नित्यसंन्यासा दृश्यन्ते निरुपद्रवाः। अपरिग्रहवन्तश्च सततं ब्रह्मचारिणः ॥२५॥",
+      "english": "These latter always lead lives of Renunciation. They do not harın any one. They do not lead a life of worldliness and are all Brahmacharins.",
+      "bhavadeepa": "संन्यासयुक्तमेकाकित्वमपि निरस्यति द्वाभ्यां- यदीति ॥२४॥",
+      "chapter": 10,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "दशमोध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "अथ चेदात्मभाग्येषु नान्येषां सिद्धिमश्नुते । तस्मात्कर्मैव कर्तव्यं नास्ति सिद्धिरकर्मणः ॥२६॥",
+      "english": "If it be the truth that a person's success depends upon his own torture in life and not upon that of others, then you should take to action. He that is shorn of action can never attain success.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "दशमोध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "औद‌काः सृष्टयश्चैव जन्तवः सिद्धिमाप्नुयुः। तेषामात्मैव भर्तव्यो नान्यः कश्चन विद्यते ॥२७॥",
+      "english": "If they who fill only their own stomachs could achieve success, then all aquatic creatures would get it, for these have none else to support save their own selves.",
+      "bhavadeepa": "ननु पश्वादयः कर्मयोनयो न भवन्ति, किं तु पूर्वकृतमेव ते भुञ्जते; अहं तु कर्माधिकृतः स्वप्रयत्नेन ध्रुवं पदं प्राप्स्यामीति चेत्तत्राह-अथ चेदिति । आत्मभाग्येषु स्वसंपत्सु अन्येषां सिद्धिं परकर्मार्जितं फलं नाप्नुते किं तु स्वकर्मार्जितमेवाप्नुते तर्हि कर्मैव कुर्वित्यर्थः । सिद्धिर्मोक्षः ॥२६॥",
+      "chapter": 10,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "दशमोध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "अवेक्षस्व यथा स्वैः स्वैः कर्मभिर्व्यापृतं जगत् । तस्मात्कर्मैव कर्तव्यं नास्ति सिद्धिरकर्मणः ॥२८॥",
+      "english": "Behold, the world moves on, with every creature on it acting according to its nature, therefore, one should act. The man shorn of action can never attain success.",
+      "bhavadeepa": "ननु मुमुक्षूणां देहभरणव्यतिरिक्तं कर्म नापेक्षितमित्यत आह- औदका इति । उदके भवाः मीनादयः सृष्टयः स्थावरास्तेषामपि आत्मैव देह एव भर्तव्यो नान्य इति तेऽपि मुच्येरन् ॥२७॥",
+      "chapter": 10,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "दशमोध्यायः"
+    }
+  ]
+}

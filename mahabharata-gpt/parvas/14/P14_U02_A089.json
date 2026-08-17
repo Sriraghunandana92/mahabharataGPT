@@ -1,0 +1,465 @@
+{
+  "adhyaya_id": "P14_U02_A089",
+  "book": 14,
+  "parva_name": "आश्वमेधिकपर्व",
+  "upaparva_name": "अथानुगीतपर्व - २",
+  "adhyaya_name": "एकोननवतितमोऽध्यायः",
+  "chapter": 89,
+  "verse_count": 44,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वैशम्पायन उवाच।\n              श्रपयित्वा पशूनन्यान्विधिवद्द्विजसत्तमाः। तं तुरङ्गं यथाशास्त्रमालभन्त द्विजातयः॥१॥",
+      "english": "Vaishampayana said Having cooked, according to due rites, the other excellent animals which were sacrificed, the priests then sacrificed, according to the injunctions of the scriptures, that horse (which had wandered over the whole world).",
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "ततः संश्रप्य तुरगं विधिवद्याजकास्तदा। उपसंवेशयन्राजंस्ततस्तां दुपदात्मजाम्॥२॥",
+      "english": "After cutting that horse into pieces, according to scriptural directions, they caused Draupadi of great intelligence, who was possessed of the three requisites of Mantras, things, and devotion, to sit near the divided animal.",
+      "bhavadeepa": "श्रपयित्वेति॥१॥",
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "कलाभिस्तिसृभी राजन् यथाविधि मनस्विनीम्। उद्धृत्य तु वपा तस्य यथाशास्त्रं द्विजातयः॥३॥",
+      "english": "The Brahmanas then, with cool minds, taking up the marrow of that horse, cooked it duly, O chief of Bharata's race.",
+      "bhavadeepa": "संज्ञाप्येति पाठे हिंसित्वा तुरगं तस्य समीपे तिसृभिः कलाभिः कलनाभिः मन्त्रद्रव्यश्रद्धाख्याभिरुपेता द्रौपदीम् उपसवेशयन्। सार्धः श्लोकः॥२॥",
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः",
+      "combined_translation": "3-4"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "श्रपयामासुरव्यग्रा विधिवद्भरतर्षभ। तं वपाधूमगन्धं तु धर्मराजः सहानुजैः॥४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः",
+      "english_ref": 3,
+      "combined_translation": "3-4"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "उपजिघ्रद्यथाशास्त्रं सर्वपापापहं तदा। शिष्टान्यङ्गानि यान्यासं स्तस्याश्वस्य नराधिप॥५॥",
+      "english": "King Yudhishthira the just, with all his younger brothers, then smelled, according to the scriptures, the smoke, capable of purging one from every sin, of the marrow that was thus cooked.",
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "तान्यग्नौ जुहवुर्धीराः समस्ताः षोडशार्विजः। संस्थाप्यैवं तस्य राज्ञस्तं यज्ञं शक्रतेजसः॥६॥",
+      "english": "The remaining limbs, O king, of that horse, were poured into the fire by the sixteen sacrificial priests possessed of great wisdom.",
+      "bhavadeepa": "अङ्गानि हृदयजिह्वावक्ष आदीनि॥५॥",
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "व्यासः सशिष्यो भगवान्वर्धयामास तं नृपम्। ततो युधिष्ठिरः प्रादाद्ब्राह्मणेभ्यो यथाविधि॥७॥",
+      "english": "Having thus completed the sacrifice of that monarch who was gifted with the energy of Shakra himself, the illustrious Vyasa with his disciples eulogised the king greatly.",
+      "bhavadeepa": "संस्थाप्य समाप्य॥६॥",
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "कोटीः सहस्रं निष्काणां व्यासाय तु वसुन्धराम्। प्रतिगृह्य धरां राजन् व्यास: सत्यवतीसुतः॥८॥",
+      "english": "Then Yudhishthira gave away to the Brahmanas a thousand crores of golden nishkas, and to Vyasa he gave away the whole Earth.",
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "अब्रवीद्भरतश्रेष्ठं धर्मराज युधिष्ठिरम्। वसुधा भवतस्त्वेषा संन्यस्ता राजसत्तम॥९॥",
+      "english": "Satyavati's son Vyasa, having accepted the Earth, addressed that foremost one of Bharata's race, viz., king Yudhishthira the just, and said, O best of kings, the Earth which you have given me I return to you! Do you give me the purchasing value, for Brahmanas are desirous of wealth.",
+      "bhavadeepa": "तुशब्दार्थो ऋत्विगन्तरं समुच्चिनोति तेन सर्वेभ्यो वसुन्धरां दधावित्यर्थः॥८॥",
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः",
+      "combined_translation": "9-10"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "निष्क्रयो दीयतां मह्यं ब्राह्मणा हि धनार्थिनः। युधिष्ठिरस्तु तान्विप्रान्प्रत्युवाच महामनाः॥१०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः",
+      "english_ref": 9,
+      "combined_translation": "9-10"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "भ्रातृभिः सहितो धीमान् मध्ये राज्ञां महात्मनाम्। अश्वमेधे महायज्ञे पृथिवी दक्षिणा स्मृता॥११॥",
+      "english": "The great Yudhishthria of great intelligence staying with his brothers in the midst of the kings invited to his sacrifice, said to those Brahmanas:",
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "अर्जुनेन जिता चेयमृत्विग्भ्यः प्रापिता मया। वनं प्रवेक्ष्ये विप्राग्र्या विभजध्वं महीमिमाम्॥१२॥",
+      "english": "The Dakshina ordained in the scriptures for the great Horse-Sacrifice is the Earth, Hence, I have given away to the sacrificial priests the Earth conquered by Arjuna.",
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "चतुर्धा पृथिवीं कृत्वा चातुर्होत्रप्रमाणतः। नाहमादातुमिच्छामि ब्रह्मस्वं द्विजसत्तमाः॥१३॥",
+      "english": "You foremost of Brahmanas, I shall enter the forest. Do you divide the Earth among yourselves! Indeed, do you divide the Earth into four parts according to what is done in the Chaturhotra-Sacrifice.",
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "इदं नित्यं मनो विप्रा भ्रातॄणां चैव मे सदा। इत्युक्तवति तस्मिंस्तु भ्रातरो द्रौपदी च सा॥१४॥",
+      "english": "You best of twice-born ones, I do not wish to appropriate what now belongs to the Brahmanas. This, you learned Brahmanas, has been the intention of myself and my brothers. When the king said these words, his brothers and Draupadi also said, Yes, it is even so. Grcat was the sensation created by this announcement.",
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "एवमेतदिति प्राहुस्तदभूल्लोमहर्षणम्। ततोऽन्तरिक्षो वागासीत्साधु साध्विति भारत॥१५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः",
+      "english_ref": 2,
+      "combined_translation": "2-15"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "तथैव द्विजसङ्घानां शंसतां विबभौ स्वनः। द्वैपायनस्तथा कृष्णः पुनरेव युधिष्ठिरम्॥१६॥",
+      "english": "Then, O Bharata, an invisible voice was heard in the sky, saying, 'Excellent, Excellent!' The murmurs, also, of crowd of Brahmanas as they spoke, arose.",
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "प्रोवाच मध्ये विप्राणामिदं सम्पूजयन्मुनिः। दत्तैषां भवता मह्यं तां ते प्रतिददाम्यहम्॥१७॥",
+      "english": "The Island-born Krishna, highly applauding him, once more addressed Yudhishthira, before the Brahmanas, saying, \"The Earth has been given by you to me!' I, however, give her back to you! Do you give to these Brahmanas gold. Let the Earth be yours!'",
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः",
+      "combined_translation": "17-18"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "हिरण्यं दीयतामेभ्यो ब्राह्मणेभ्यो धरास्तु ते। ततोऽब्रवीद्वासुदेवो धर्मराजं युधिष्ठिरम्॥१८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः",
+      "english_ref": 17,
+      "combined_translation": "17-18"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "यथाऽऽह भगवान्व्यासस्तथा त्वं कर्तुमर्हसि। इत्युक्तः स कुरुश्रेष्ठः प्रीतात्मा भ्रातृभिः सह॥१९॥",
+      "english": "Then Vasudeva, addressing king Yudhishthira the just, said, You should do as you are ordered by the illustrious Vyasa.'",
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "कोटिकोटिकृतां प्रादाद्दक्षिणां त्रिगुणां क्रतोः। न करिष्यति तल्लोके कश्चिदन्यो नराधिपः॥२०॥",
+      "english": "Thus addressed, that foremost one of Kuru's race, along with all his brothers, became pleased and gave away millions of golden coins, in fact, trebling the Dakshina ordained for the Horse-Sacrifice,",
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "यत्कृतं कुरुराजेन मरुत्तस्यानुकुर्वता। प्रतिगृह्य तु तद्रत्नं कृष्णद्वैपायनो मुनिः॥२१॥",
+      "english": "No other king will be able to accomplish what the Kuru king did on that occasion like Marutta.",
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "ऋत्विग्भ्यः प्रददौ विद्वांश्चतुर्धा व्यभजंश्च ते। धरण्या निष्क्रयं दत्वा तद्धिरण्यं युधिष्ठिरः॥२२॥",
+      "english": "Accepting that wealth, the Island-born sage, Krishna, of great learning, gave it to the sacrificial priests, dividing it into four parts.",
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "धूतपापो जितस्वर्गो मुमुदे भ्रातृभिः सह। ऋत्विजस्तमपर्यन्तं सुवर्णनिचयं तथा॥२३॥",
+      "english": "Having paid that wealth as the price of the Earth, Yudhishthira, purged of his sins and assured of Heaven, rejoiced with his brothers.",
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "व्यभजन्त द्विजातिभ्यो यथोत्साहं यथासुखम्। यज्ञवाटे च यत्किञ्चिद्धिरण्यं सविभूषणम्॥२४॥",
+      "english": "The sacrificial priests, having got that unlimited quantity of riches, distributed it among the Brahmanas gladly and according to the desire of each recipient.",
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "तोरणानि च यूपांश्च घटान्पात्रीस्तथेष्टकाः। युधिष्ठिराभ्यनुज्ञाताः सर्वं तद्व्यभजन् द्विजाः॥२५॥",
+      "english": "The Brahmanas, also divided amongst themselves, according to Yudhishthira's permission, the various ornaments of gold which were in the sacrificial compound, including the triumphal arches, the stakes, the jars, and various kinds of vessels.",
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "अनन्तरं द्विजातिभ्यः क्षत्रिया जह्रिरे वसु। तथा विट्शूद्रसङ्घाश्च तथान्ये म्लेच्छजातयः॥२६॥",
+      "english": "After the Brahmanas had taken as much as they wished, the wealth that remained was taken away by Kshatriyas and Vaishyas and Shudras and various tribes of Mlecchas.",
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "ततस्ते ब्राह्मणाः सर्वे मुदिता जग्मुरालयान्। तर्पिता वसुना तेन धर्मराजेन धीमता॥२७॥",
+      "english": null,
+      "bhavadeepa": "अनन्तरं द्विजातिभ्यः विप्रेषु गृहीत्वा निवृत्तेषु शिष्टात् क्षत्रियादयो गृहीतवन्तः इत्यर्थः॥२६॥",
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "स्वमंशं भगवान्व्यासः कुन्त्यै साक्षाद्धि मानतः। प्रददौ तस्य महतो हिरण्यस्य महाद्युतिः॥२८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "श्वशुरात्प्रीतिदायं तं प्राप्य सा प्रीतमानसा। चकार पुण्यकं तेन सुमहत्सङ्घशः पृथा॥२९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "गत्वा त्ववभृथं राजा विपाप्मा भ्रातृभिः सह। सभाज्यमानः शुशुभे महेन्द्रस्त्रिदशैरिव॥३०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "पाण्डवाश्च महीपालैः समेतैरभिसंवृताः। अशोभन्त महाराज ग्रहास्तारागणैरिव॥३१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "राजभ्योऽपि ततः प्रादाद्रत्नानि विविधानि च। गजानश्वानलङ्कारान् स्त्रियो वासांसि काञ्चनम्॥३२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "तद्धनौघमपर्यन्तं पार्थः पार्थिवमण्डले। विसृजन् शुशुभे राजन् यथा वैश्रवणस्तथा॥३३॥",
+      "english": "Indeed, Prithas son, by distributing that untold riches among the invited kings, shone, O king, like Vaishravana, the lord of riches.",
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "आनीय च तथा वीरं राजानं बभ्रुवाहनम्। प्रदाय विपुलं वित्तं गृहान्प्रास्थापयत्तदा॥३४॥",
+      "english": "Summoning next the heroic king Babhruvahana, Yudhishthira, gave to him various kinds of wealth in profusion and gave him permission to return home.",
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "दुःशलायाश्च तं पौत्रं बालकं भरतर्षभ। स्वराज्येऽथ पितुर्धीमान् स्वसुः प्रीत्या न्यवेशयत्॥३५॥",
+      "english": "The son of Pandu, for pleasing his sister Dushala, established her infant grandson in his paternal kingdom.",
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "नृपतींश्चैव तान्सर्वान्सुविभक्तान्सुपूजितान्। प्रस्थापयामास वशी कुरुराजो युधिष्ठिरः॥३६॥",
+      "english": "The Kuru king Yudhishthira, having a full mastery over his senses, than dismissed the assembled kings all of whom had been properly classed and honoured by him.",
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "गोविन्दं च महात्मानं बलदेवं महाबलम्। तथान्यान्वृष्णिवीरांश्च प्रद्युम्नाद्यान्सहस्रशः॥३७॥",
+      "english": "The illustrious son of Pandu, that chastiser of foes, then duly adored the great Govinda and Baladeva of great power and the thousands of other Vrishni heroes having Pradyumna for their first. Assisted by his brothers, he then dismissed them for returning to Dwraka.",
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः",
+      "combined_translation": "37-38"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "पूजयित्वा महाराज यथाविधि महाद्युतिः। भ्रातृभिः सहितो राजा प्रास्थापयदरिन्दमः॥३८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः",
+      "english_ref": 37,
+      "combined_translation": "37-38"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "एवं बभूव यज्ञः स धर्मराजस्य धीमतः। बह्वन्नधनरत्नौघः सुरामैरेयसागरः॥३९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "सर्पिःपङ्का ह्रदा यत्र बभूवुश्चान्नपर्वताः। रसालाकर्दमा नद्यो बभूवुर्भरतर्षभ॥४०॥",
+      "english": "There were lakes whose mire consisted of clarified butter and mountains of food. There were, also, O chief of Bharata's race, miry rivers made of drinks having the six kinds of taste.",
+      "bhavadeepa": "मैरेयं वृक्षजं मद्यम्॥३९॥",
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "भक्ष्यखाण्डवरागाणां क्रियतां भुज्यतां तथा। पशूनां बध्यतां चैव नान्तं ददृशिरे जनाः॥४१॥",
+      "english": "Of men employed in making and eating the sweetmeats called Khandavaragas, and of animals killed for food, there was no end.",
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "मत्तप्रमत्तमुदितं सुप्रीतयुवतीजनम्। मृदङ्गशङ्खनादैश्च मनोरममभूत् तदा॥४२॥",
+      "english": "The vast compound was filled with men inebriated with wine, and with young ladies filled with joy. The extensive grounds constantly echocd with the sounds of drums and the blare of conchs. With all these, the sacrifice became highly delightful.",
+      "bhavadeepa": "खाण्डवरागः पिप्पलीशुण्ठीयुक्तो मुद्गयूषः खाण्डवः स एव शर्करायुक्तो रागः खाण्डवः॥४१॥",
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "दीयतां भुज्यतां चेष्टं दिवारात्रमवारितम्। तं महोत्सवसङ्काशं हृष्टपुष्टजनाकुलम्॥४३॥",
+      "english": "'Let agreeable things be given away,' 'Let agreeable food be eaten.' These were the sounds which were repeatedly heard day and night in that sacrifice. It was like a great festival, full of rejoicing and contented men. People of various kingdoms speak of that sacrifice to this day.",
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "कथयन्ति स्म पुरुषा नानादेशनिवासिनः। वर्षित्वा धनधाराभिः कामै रत्नै रसैस्तथा। विपाप्मा भरतश्रेष्ठः कृतार्थः प्राविशत्पुरम्॥४४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 89,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोननवतितमोऽध्यायः"
+    }
+  ]
+}

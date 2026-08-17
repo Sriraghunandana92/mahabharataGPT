@@ -1,0 +1,364 @@
+{
+  "adhyaya_id": "P01_U08_A145",
+  "book": 1,
+  "parva_name": "आदिपर्व",
+  "upaparva_name": "जतुगृहपर्व ।",
+  "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः",
+  "chapter": 145,
+  "verse_count": 34,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वैशंपायन उवाच।\n              पाण्डवास्तु रथान्युङ्क्त्वा सदश्वैरनिलोपमैः। आरोहमाणा भीष्मस्य पादौ जगृहुरार्तवत्॥१॥",
+      "english": "Vaishampayana said : The Pandavas got on their cars yoked with fine horses having the speed like that of the wind, When ascending (the car), they touched in grief the feet of Bhishma, of the king Dhritarashtra, of the high-souled Drona, Kripa and Vidura and of all the other old men. Thus duly saluting all the elders of the Kuru race, embracing the equals, being saluted by even the boys.",
+      "bhavadeepa": null,
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः",
+      "combined_translation": "1-3"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "राज्ञश्च धृतराष्ट्रस्य द्रोणस्य च महात्मनः। अन्येषां चैव वृद्धानां कृपस्य विदुरस्य च॥२॥",
+      "english": null,
+      "bhavadeepa": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः पाण्डवा इति ॥१॥",
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः",
+      "english_ref": 1,
+      "combined_translation": "1-3"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "एवं सर्वान्कुरून्वृद्धानभिवाद्य यतव्रताः। समालिङ्ग्य समानान्वै बालैश्चाप्यभिवादिताः॥३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः",
+      "english_ref": 1,
+      "combined_translation": "1-3"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "सर्वा मातॄस्तथाऽऽपृच्छ्य कृत्वा चैव प्रदक्षिणम्। सर्वाः प्रकृतयश्चैव प्रययुर्वारणावतम्॥४॥",
+      "english": "Taking leave of all the mothers (elderly ladies), walking round them respectfully and bidding farewell to the citizens, they (the Pandavas) started for Varanavata.",
+      "bhavadeepa": null,
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "विदुरश्च महाप्राज्ञस्तथाऽन्ये कुरुपुङ्गवाः। पौराश्च पुरुषव्याघ्रानन्वीयुः शोककर्शिताः॥५॥",
+      "english": "The greatly intelligent Vidura and other best of the Kurus and also the citizens followed these best of men (for some distance) in sorrow. Seeing the sons of Pandu affected with sorrow and in grief, some of the men of the city spoke thus-",
+      "bhavadeepa": "प्रकृतयः प्रकृतीः ॥४ ॥",
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः",
+      "combined_translation": "5-6"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "तत्र केचिद्ब्रुवन्ति स्म ब्राह्मणा निर्भयास्तदा। दीनान्दृष्ट्वा पाण्डुसुतानतीव भृशदुःखिताः॥६॥",
+      "english": null,
+      "bhavadeepa": "अन्वीयुः अनुजग्मुः ॥५॥",
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः",
+      "english_ref": 5,
+      "combined_translation": "5-6"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "विषमं पश्यते राजा सर्वथा स सुमन्दधीः। कौरव्यो धृतराष्ट्रस्तु न च धर्मं प्रपश्यति॥७॥",
+      "english": "“The king (Dhritarashtra) sees not things with an equal eye. He is always wickedminded. The Kuru Dhritarashtra dose not cast his eye on virtue.",
+      "bhavadeepa": null,
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "न हि पापमपापात्मा रोचयिष्यति पाण्डवः। भीमो वा बलिनां श्रेष्ठः कौन्तेयो वा धनञ्जयः॥८॥",
+      "english": "The Pandava (Yudhisthira), the best of all strong men Bhima, or Dhananjaya (Arjuna) will never commit the sin of rebellion.",
+      "bhavadeepa": null,
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "कुत एव महात्मानो माद्रीपुत्रौ करिष्यतः। तान्राज्यं पितृतः प्राप्तान्धृतराष्ट्रो न मृष्यते॥९॥",
+      "english": "What these illustrious (princes) would do, the two sons of Madri will also do. They have inherited the kingdom from their father, but Dhritarashtra can not beat them.",
+      "bhavadeepa": null,
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "अधर्म्यमिदमत्यन्तं कथं भीष्मोऽनुमन्यते। विवास्यमाना न स्थाने नगरे योऽभिमन्यते॥१०॥",
+      "english": "How could Bhishma sanction such an act of great sin? How could he sanction their exile to that wretched city?",
+      "bhavadeepa": null,
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "पितेव हि नृपोऽस्माकमभूच्छान्तनवः पुरा। विचित्रवीर्यो राजर्षिः पाण्डुश्च कुरुनन्दनः॥११॥",
+      "english": "The son of Shantanu, Vichitravirya and the descendant of Kuru, the royal sage Pandu, were to us like our fathers.",
+      "bhavadeepa": "अस्थाने अयुक्तम् ॥१०॥",
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "स तस्मिन्पुरुषव्याघ्रे देवभावं गते सति। राजपुत्रानिमान्बालान्धृतराष्ट्रो न मृष्यति॥१२॥",
+      "english": "Now that best of men (Pandu), having gone to heaven, Dhritarashtra can not bear these princes, his sons.",
+      "bhavadeepa": null,
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "वयमेतदनिच्छन्तः सर्व एव पुरोत्तमात्। गृहान्विहाय गच्छामो यत्र गन्ता युधिष्ठिरः॥१३॥",
+      "english": "We can not sanction this. Therefore leaving this excellent city and our houses, we shall go to the place where Yudhisthira is going.",
+      "bhavadeepa": null,
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "तांस्तथा वादिनः पौरान्दुःकितान्दुःखकर्शितः। उवाच मनसा ध्यात्वा धर्मराजो युधिष्ठिरः॥१४॥",
+      "english": "The king of virtue, Yudhisthira reflected for some time and then addressed in sorrow the citizens who were talking thus in grief.",
+      "bhavadeepa": "गन्ता गमिष्यति ॥१३॥",
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "पिता मान्यो गुरुः श्रेष्ठो यदाह पृथिवीपतिः। अशङ्कमानैस्तत्कार्यमस्माभिरिति नो व्रतम्॥१५॥",
+      "english": "“The king of the world (Dhritarashtra) is our father, (he is) worthy of our regard, (he is) our preceptor and our superior. It is our duty, to accomplish with auspicious mind whatever he commands.",
+      "bhavadeepa": null,
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "भवन्तः सुहृदोऽस्माकमस्मान्कृत्वा प्रदक्षिणम्। प्रतिनन्द्य तथाशीर्भिर्निवर्तध्वं यथा गृहम्॥१६॥",
+      "english": "\"You are our friends; walking round us and making us happy with your blessings, return to your homes. When the time comes for anything to be done for us by you, then accomplish all that is agreeable and beneficial to us.\"",
+      "bhavadeepa": null,
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः",
+      "combined_translation": "16-17"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "यदा तु कार्यमस्माकं भवद्भिरुपपत्स्यते। तदा करिष्यथास्माकं प्रियाणि च हितानि च॥१७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः",
+      "english_ref": 16,
+      "combined_translation": "16-17"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "एवमुक्तास्तदा पौराः कृत्वा चापि प्रदक्षिणम्। आशीर्भिश्चाभिनन्द्यैताञ्जग्मुर्नगरमेव हि॥१८॥",
+      "english": "Having been thus addressed, the citizens walked round the Pandavas and offered them their blessings. They then returned to the city.",
+      "bhavadeepa": null,
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "पौरेषु विनिवृत्तेषु विदुरः सत्यधर्मवित्। बोधयन्पाण्डवश्रेष्ठमिदंवचनमब्रवीत्॥१९॥",
+      "english": "When the citizens had left (the Pandavas), Vidura, learned in all the precepts of virtue, thus spoke to the eldest Pandava in order to want him (of his danger.)",
+      "bhavadeepa": null,
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "प्राज्ञः प्राज्ञप्रलापज्ञः प्रलापज्ञमिदं वचः। प्राज्ञं प्राज्ञः प्रलापज्ञः प्रलापज्ञं वचोब्रवीत्॥२०॥",
+      "english": "The learned man (Vidura) conversant with the (Mlecha) Jargon, spoke thus to the learned man (Yudhisthira), also conversant with the (Mlecha) jargon (in that Mlecha jargon).\"",
+      "bhavadeepa": "पौरेष्विति । पाण्डवश्रेष्ठं युधिष्ठिरं बोधयन् । अज्ञातं दुर्योधनकृतं कपटं ज्ञापयन् । इदं वक्ष्यमाणं वचनं अब्रवीत् ॥१९॥",
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "यो जानाति परप्रज्ञां नीतिशास्त्रानुसारिणीम्। विज्ञायेह तथा कुर्यादापदं निस्तरेद्यथा॥२१॥",
+      "english": "He who knows the schemes of others (enemies) according to the dictates of political science, knowing it, should act in such a way as to avoid all dangers.",
+      "bhavadeepa": "न केवलं पौरेभ्य एव तद्वचनं गोपनीयमपि तु समीपस्थैरपि युधिष्ठिरादन्यैर्न ज्ञातुं शक्यमित्याह । प्राज्ञ इति । प्राज्ञो बुद्धिमाननेकभाषाभिज्ञत्वात् । प्राज्ञत्वमेवाह । प्राज्ञप्रलापज्ञ इति । प्रकर्षेणाज्ञानां पशुप्रायाणां वेदविरोधिनां म्लेच्छानां प्रलापोनर्थकम् सम्यक्प्रकृतिप्रत्ययविभागेनानिष्पन्नत्वादर्थानवबोधकं वचनं देशभाषारूपं लुप्तवर्णम् अधिकवर्णं विकृतवर्णं च पदजातं यत्र तादृशभाषाभिज्ञ इत्यर्थः । तत्र लुप्तवर्णं काण्वशतपथे इन्द्रेणासुरान्प्रति भवतामग्नौ इमां चित्राख्यां मदीयाम् इष्टकामुपधास्ये इति पृष्टे उपहीत्यसुखचनम् । तथा आदास्ये इत्युक्ते आहीति प्रतिवचनम् । तत्र उपधेहि आदेहीति वक्तव्ये वर्णलोपः । अधिकवर्नं तु गौरिति वक्तव्ये गावी गोणी गोता गोपोतलिकेति प्रयुञ्जते । तथा विकृतवर्णे ते सुरा हेलयो  हेलय इति वदन्तः परावभूवुरिति । अरय इत्यपेक्षिते रेफस्थाने लकारः प्रयुज्यते वेदेपि असुरभाषानुवादे तेनेयं शङ्काप्यपास्ता । यद्यपि युधिष्ठिरं प्रति विदुरेण म्लेच्छभाषया उक्तं तथापि व्यासेन तत्संस्कृतेनैवोपनिबद्धमिति । आदिपर्वणि नानादेशभाषाश्चात्र ग्रथ्यन्त इति प्रतिज्ञानात् । स एवं प्राज्ञः प्राज्ञप्रलापज्ञश्च विदुरो युधिष्ठिरं प्रलापज्ञं म्लेच्छभाषाभिज्ञम् इदं वक्ष्यमाणं वचो म्लेच्छभाषारूपं प्राज्ञः प्रकर्षेणाजानतः । प्राज्ञं प्रकर्षेण अर्थतो ज्ञातुमशक्यम् अज्ञापकम् अर्थानामनवबोधकं वा । कथं तर्हि तेन वचनेनास्यापि बोधो भविष्यतीत्याशङ्क्याह । प्रलापज्ञः प्रलापज्ञमिति प्रलापं जानतः । प्रलापज्ञापकं  प्रलापज्ञमिति पूर्वार्धे शब्दतो म्लेच्छभाषाभिज्ञत्वमुक्तम् । इह त्वर्थतस्तदभिज्ञत्वमित्यपौनरुक्त्यम् । प्राज्ञ इति प्रलापज्ञ इति च उत्तरार्धे क्विबन्तस्य षष्ठ्यन्तस्य रूपे । प्राज्ञं प्रलापज्ञमिति तु अन्तर्भावितण्यर्थात् ज्ञाधातोः कप्रत्ययान्तस्य रूपे । वचो वचनीयमवश्यं वक्तव्यमित्यर्थः । अत एवाब्रवीत् अत्रोत्तरार्धं गौडपाठ एव दृश्यते । तदभावे तु पूर्वार्धादेवायमर्थः प्रत्येतव्यः । सर्वथापि म्लेच्छभाषयोक्तोर्थो म्लेच्छभाषयैव संगृह्यत इति तात्पर्यम् । अन्यथा अलोहमित्याद्यपि व्यासो नावक्ष्यत् । यथाश्रुतं जातुषमेव गृहं भवद्दाहार्थे तत्र कृतमिति म्लेच्छभाषया विदुरेण युधिष्ठिरो बोधित इत्येव तेनोक्तं स्यात् ॥२०॥",
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "अलोहं निशितं शस्त्रं शरीपरिकर्तनम्। यो वेत्ति न तु तं घ्नन्ति प्रतिघातविदं द्विषः॥२२॥",
+      "english": "He, who knows that there are sharp weapons capable of cutting the body though not made of iron and understands also the means of warding them off, can never be injured by the enemy.",
+      "bhavadeepa": "तदेव वचनं श्रावयितुं युधिष्ठिरमभिमुखीकरोति । योजानातीति । परस्य शत्रोः प्रज्ञां नीतिशास्त्रं कपटेन विश्वासमुत्पाद्यापि शत्रुर्हन्तव्य इति कणिकवचनरूपं तदनुसारिणीं यो जानाति स पुमानिह यथा शत्रुकल्पिताम् आपदं निस्तरेत्तथा कुर्याद्यत्नमिति शेषः ॥२१॥",
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "कक्षघ्नः शिशिरघ्नश्च महाकक्षे बिलौकसः। न दहेदिति चात्मानं यो रक्षेति स जीवति॥२३॥",
+      "english": null,
+      "bhavadeepa": "तामेवापदमाह । अलोहमित्यादिना । तं शत्रुणा कृतं वारणावतस्थम् । शस्त्रं सस्ति शेते अस्मिन्निति व्युत्पत्त्या प्रासादम् । यो वेत्ति तं द्विषो न घ्नन्तीति सम्बन्धः । शस्त्रमिति दन्त्यसकारस्थाने तालव्यशकारो म्लेच्छभाषात्वात् । हेलय इतिवत् वर्णविकारः । षसस्वापे इत्यदादेस्रन्प्रत्ययान्तस्य रूपम् । तमेव विशिनष्टि । अलोहमिति । अलो अनलोग्निः । आहिम् उपहीतिवद्वर्णलोपः तेन आग्नेयानि द्रव्याणि जतुशणसर्जरसादीनि लक्ष्यन्ते । तेषाम् ऊहः समूहो यस्मिन् । आग्नेयैर्दाहकैर्द्वव्यैरुपेतमित्यर्थः । तर्हि किं तानि ज्ञातुमशक्यानि न वेत्यत आह । शरीरपरिवर्तनमिति । शरीरं स्वरूपम् । म्लेच्छभाषात्वादविभक्तिकमिदं पदम् । परि परिलुष्य अच्छाद्य । वर्णद्वयलोपः । परिवर्जनार्थो वा । कर्तनं हिंसकम् । तस्मिन् गृहेन्तर्हितान्येवाग्नेयानि द्रव्याणि भित्त्यादौ वर्तन्ते न स्वरूपेण दृश्यन्ते अतस्तं शरीरपरिवर्तनं प्रासादं परित्याज्यं यो वेत्ति । कर्तनमिति हिंसार्थस्य कृणत्ते रूपं न छेदनार्थस्य कृन्ततेरिति ज्ञेयम् । कर्तन कालमाह । निशीति अत्र निशितं कर्तनमिति पदत्रयव्यतिरेकेण पूर्वार्धं म्लेच्छभाषयैवोक्तम् । एवमग्रेपि श्लोके कतिपयपदान्येव म्लेच्छभाषा भवति न सर्वः श्लोक इति ज्ञेयम् । यो वेत्ति तं प्रतिघातविदं तस्य शस्त्रस्य प्रतिघातः प्रतीकारः । तद्विदं द्विषः शत्रवो न घ्नन्ति हन्तुं न शक्नुवन्तीत्यर्थः ॥२२॥",
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः",
+      "english_ref": 7,
+      "combined_translation": "7-23"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "नाचक्षुर्वेत्ति पन्थानं नाचक्षुर्विन्दते दिशः। नाधृतिर्भूतिमाप्नोति बुध्यस्वैवं प्रबोधितः॥२४॥",
+      "english": "The blind man sees not his way, (for) the blind man has no knowledge of direction. He who has no firmness never acquires prosperity. Knowing this, keep yourself always alert.",
+      "bhavadeepa": "कस्तर्हि साहसी तस्मिन् गृहे वसतोस्मान् भस्मीकर्तुं यतिष्यतीत्यत आह । कक्षघ्न इति । कक्षः कुक्षिः पार्श्व इति यावत् । तत्र हन्ति गच्छतीति कक्षघ्नः पार्श्वचरः पुरोचन एव । अत्र स्वरस्यैव प्रथमे पदे व्यत्ययो हन्तेरप्रसिद्धं गत्यर्थत्वं च म्लेच्छभाषात्वात् । कक्षघ्न एव शिशिरः । शृणाति हिनस्तीति शिशिरोऽग्निः ।शृ हिंसायामित्यस्य रूपम् । तेन हन्तीतिशिशिघ्नः गावी गोणीतिवद्वर्णाधिक्यं शिकारद्वयरूपम् । अयमेव पार्श्ववर्ती युष्मानग्निना हन्तुमायातीत्यर्थः । एवं तर्ह्ययमेवहन्तव्य उत वारणावते तद्गृहं वा न प्रवेष्टव्यमुत वारणावतमगत्वैव हास्तिनपुरं प्रत्येवागन्तव्यमित्याशंक्याह । महाकक्ष इति । महतिकं सुखं क्षिणोतौति कक्षयः शत्रुर्वर्णलोपेन कक्षे महति शत्रौ सति एतत्त्रयं कर्तुमशक्यम् । ज्ञातकपटो हि बलवान् शत्रुः प्रत्यक्षमेव प्रहरेदिति भावः । कस्तर्ह्यत्र उपाय इत्यत आह । बिलौकसः बिलान्तः प्रविष्टान्युष्मान्स पुरोचनो न दहेत् । तत्र दाहसंभावना नास्ति । तत्र गृहान्तर्बिलं कर्तव्यमित्यर्थः । इत्यनेन प्रकारेणात्मानं यो रक्षति स जीवति । तस्मात्त्वयाप्येवं ज्ञात्वा उपायेनात्मा संरक्षणीय इत्यर्थः ॥२३॥",
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "अनाप्तैर्दत्तमादत्ते नरः शस्त्रमलोहजम्। श्वाविच्छरणमासाद्य प्रमुच्येत हुताशनात्॥२५॥",
+      "english": "The man, who takes a weapon (which is) not made of iron (and which is) given him by his enemy, can escape from fire by making his house like hole of a jackal.",
+      "bhavadeepa": "ननु बिलेप्रविष्टानामस्माकं बिलमुखे प्रदीप्ते न वह्निना अन्तरूष्मणा नाशः कर्तव्य इत्याशङ्क्य विवेकं विना मार्गज्ञानं दिग्ज्ञानं च न भवति धैर्यं विना ऐश्वर्यं च न प्राप्यत इति विवेकं धैर्यं चाश्रयस्वेत्याह । नाचक्षुरिति । चष्टे पश्यत्यनेनेति चक्षुर्विवेकः । संस्कृत एवायं श्लोको नीतिप्रदर्शनार्थः ॥२४॥",
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "चरन्मार्गान्विजानाति नक्षत्रैर्विन्दते दिशः। आत्मना चात्मनः पञ्च पीडयन्नानुपीड्यते॥२६॥",
+      "english": "By travelling a man may know the ways and by the star he can ascertain the direction. He that keeps his five (senses) under control can never be oppressed by his enemy.\"",
+      "bhavadeepa": "तत्र मार्गविवेकं तावदाह । अनाप्तैरिति । अनाप्तैः शत्रुभिर्दत्तं स्वीकारितं शस्त्रं गृहम् अलोहजं पूर्ववत् आग्नेयद्रव्यसमूहजं आदत्ते स्वीकरोति चेन्नरस्तर्हि श्वावित् शललस्तस्य शरणं गृहं तद्वत् । तस्य हि बिलमुभयतो मुखं भवति तादृशं बिलमासाद्य प्राप्य हुताशनात् प्रमुच्येत आत्मानं मोचयेत् । तेन बिलप्रवेशेन मार्गान्तरेण सद्य एव बिलाद्बहिर्निःसरतां युष्माकं नान्तरूष्मणा मरणं भविष्यतीत्युक्तम् ॥२५॥",
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "एवमुक्तः प्रत्युवाच धर्मराजो युधिष्ठिरः। विदुरं विदुषां श्रेष्ठं ज्ञातमित्येव पाण्डवः॥२७॥",
+      "english": "Having been thus addressed, the king of virtue, the son of Pandu, Yudhishthira, thus replied to that foremost of learned men, the illustrious Vidura. \"I have understood you.\"",
+      "bhavadeepa": "बिलान्निःसृतानामपि मार्गज्ञानं कथं भवेदित्याशङ्क्य मृगयाव्याजेन सर्वे मार्गा ज्ञातव्या इत्याशयेनाह । चरन्मार्गान्विजानातीति । एवं ज्ञातेष्वपि मार्गेषु हास्तिनपुरं प्रति नागन्तव्यमित्याशयेनाह । नक्षत्रैर्विन्दते दिश इति ननु कथमस्माभिर्लोकानामविदितं बिलं कारयितुं शक्यं कथं वा विदेशे बन्धूंश्च त्यक्त्वा स्थातव्यमित्याशङ्क्याह आत्मनेति । आत्मनः अहं धर्मांशस्त्वं च धर्मपुत्रः । अतोहं तव आत्मा तस्य मम आत्मेवात्मा सखा कश्चिन्मया नियोक्तव्यस्तेन सहायेन बिलादिसंपादयता हेतुना । पञ्च इन्द्रियाणि विदेशवासात् इष्टविषयासमर्पणेन पीडयन् । हेतौ शतृप्रत्ययः । मत्प्रहितेन भृत्येन स्वधैर्येणेति यावत् । एताभ्यां द्वाभ्यामुपेतो नानुतप्यते । मयाऽकृत्यं कृतम् इति पश्चात्तापं न प्राप्नोति । मदीय आप्तः सुरङ्गं कृत्वा दास्यति तेन मार्गेण देशान्तरे एव गतव्यं न तु हास्तिनपुरे प्रवेष्टव्यम् । ज्ञातकपटो हि प्रबलः शत्रुः प्रत्यक्षमेव प्रहरेदिति प्रागुक्त एवाशयः । धैर्ये सति पुनर्लक्ष्मीप्राप्तिर्भविष्यतीति भावः ॥२६॥",
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "अनुशिक्ष्यानुगम्यैतान्कृत्वा चैव प्रदक्षिणम्। पाण्डवानभ्यनुज्ञाय विदुरः प्रययौ गृहान्॥२८॥",
+      "english": "Vidura, thus having instructed the Pandavas, walked round them and bidding them farewell, returned to his house.",
+      "bhavadeepa": null,
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "निवृत्ते विदुरे चापि भीष्मे पौरजने तथा। अजातशत्रुमासाद्य कुन्ती वचनमब्रवीत्॥२९॥",
+      "english": "Vidura, Bhishma and citizens having gone back, Kunti came to Ajatashatru (Yudhisthira) and spoke thus-",
+      "bhavadeepa": null,
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "क्षत्ता यदब्रवीद्वाक्यं जनमध्येऽब्रुवन्निव। त्वया च स तथेत्युक्तो जानीमो न च तद्वयम्॥३०॥",
+      "english": "\"What Khattwa (Vidura) said to you in the midst of many people, so indistinctly as if he said nothing and what you said similarly (in reply) is not understood by us.",
+      "bhavadeepa": null,
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "यदीदं शक्यमस्माभिर्ज्ञातुं नैव च सदोषवत्। श्रोतुमिच्छामि तत्सर्वं संवादं तव तस्य च॥३१॥",
+      "english": "\"If it is not improper for us to know it, I desire to hear all that passed between you and him.\"",
+      "bhavadeepa": "अब्रुवन्निव व्यक्तां वाचमकुर्वन्निव ॥३०॥",
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "युधिष्ठिर उवाच।\n              गृहादग्निश्च बोद्धव्य इति मां विदुरोऽब्रवीत्। पन्थाश्च वो नाविदितः कश्चित्स्यादिति धर्मधीः॥३२॥",
+      "english": "Yudhisthira said : The virtuous Vidura said to me that I must know that the house (at Varanavata) is made of inflammable materials. (He further said) the way of escape will also be known to you.\"",
+      "bhavadeepa": null,
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "जितेन्द्रियश्च वसुधां प्राप्स्यतीति च मेऽब्रवीत्। विज्ञातमिति तत्सर्वं प्रत्युक्तो विदुरो मया॥३३॥",
+      "english": "He told me \"The man who is self controlled wins (the sovereignty) of the whole world.\" I replied to Vidura. “I have understood you.\"",
+      "bhavadeepa": null,
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "वैशंपायन उवाच।\n              अष्टमेऽहनि रोहिण्यां प्रयाताः फाल्गुनस्य ते। वारणावतमासाद्य ददृशुर्नागरं जनम्॥३४॥",
+      "english": "Vaishampayana said : The Pandavas stared for Varanavata on the eighth day of the month of Falguni when the star Rohini was ascendant; and arriving there they saw the town and its people.",
+      "bhavadeepa": null,
+      "chapter": 145,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "जतुगृहपर्व ।",
+      "adhyaya_name": "पञ्चचत्वारिंशदधिकशततमोऽध्यायः"
+    }
+  ]
+}

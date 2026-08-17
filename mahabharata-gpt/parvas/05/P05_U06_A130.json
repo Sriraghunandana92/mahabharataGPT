@@ -1,0 +1,541 @@
+{
+  "adhyaya_id": "P05_U06_A130",
+  "book": 5,
+  "parva_name": "उद्योगपर्व",
+  "upaparva_name": "भगवद्यानपर्व",
+  "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः",
+  "chapter": 130,
+  "verse_count": 53,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वैशम्पायन उवाच।\n              तत्तु वाक्यमनादृत्य सोऽर्थवन्मातृभाषितम्। पुनः प्रतस्थे संरम्भात् सकाशमकृतात्मनाम् ॥१॥",
+      "english": "Vaishampayana said Treating with contempt those words spoken by his mother which were pregnant with good sense, the one, of unsubdued soul, again went to his own place fired with wrath.",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "ततः सभाया निर्गम्य मन्त्रयामास कौरवः। सौबलेन मताक्षेण राज्ञा शकुनिना सह ॥२॥",
+      "english": "Then having issued out of the assemblyhall did that son of Kuru consult with the son of Subala, king Shakuni experienced in the game of dice.",
+      "bhavadeepa": "तत्त्विति ॥१॥",
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "दुर्योधनस्य कर्णस्य शकुनेः सौबलस्य च। दुःशासनचतुर्थानामिदमासीद्विचेष्टितम् ॥३॥",
+      "english": "Such was the resolution of four, namely Duryodhana, Karna, Shakuni, the son of Subala and Dushasana.",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "पुराऽयमस्मान् गृह्णाति क्षिप्रकारी जनार्दनः। सहितो धृतराष्ट्रेण राज्ञा शान्तनवेन च ॥४॥",
+      "english": "\"Janardana, who does everything speedily, wants to capture us first in consultation with Dhritarashtra and the royal son of Shantanu.",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "वयमेव हृषीकेशं निगृह्णीम बलादिव। प्रसह्य पुरुषव्याघ्रमिन्द्रो वैरोचनिं यथा ॥५॥",
+      "english": "But we shall capture that best among men, Hrishikesha, by force like Indra seizing the son of Virochana (Vali).",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "श्रुत्वा गृहीतं वार्ष्णेयं पाण्डवा हतचेतसः। निरुत्साहा भविष्यन्ति भग्नदंष्ट्रा इवोरगाः ॥६॥",
+      "english": "Hearing that the scion of the Vrishni race has been captured, the sons of Pandu will lose heart and will became deprived of their energy like serpents whose fangs have been broken.",
+      "bhavadeepa": "वैरोचनिं बलिम् ॥५॥",
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "अयं ह्येषां महाबाहुः सर्वेषां शर्म वर्म च। अस्मिन् गृहीते वरदे ऋषभे सर्वसात्वताम् ॥७॥",
+      "english": "This one of long arms is the refuge and protection of all; and this best among the Satvatas, this giver of boons being captured,",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "निरुद्यमा भविष्यन्ति पाण्डवाः सोमकैः सह। तस्माद्वयमिहैवैनं केशवं क्षिप्रकारिणम् ॥८॥",
+      "english": "All the son of Pandu, along with the Somakas will be deprived of their energy; therefore now and here should we capture this Keshava of quick action,",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "क्रोशतो धृतराष्ट्रस्य बद्ध्वा योत्स्यामहे रिपून्। तेषां पापमभिप्रायं पापानां दुष्टचेतसाम् ॥९॥",
+      "english": "In the face of the ravings of Dhritarashtra, and then fight the enemies>” This wicked intention of those wicked-souled wretches,",
+      "bhavadeepa": "केशवं बद्ध्वा रिपून्योत्स्यामह इत्युत्तरश्लोकेनान्वयः ॥८॥",
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "इङ्गितज्ञः कविः क्षिप्रमन्वबुद्ध्यत सात्यकिः। तदर्थमभिनिष्क्रम्य हार्दिक्येन सहास्थितः ॥१०॥",
+      "english": "The wise Satyaki, who could understand the sings, quickly came to Know of; and in consequence of that knowledge he came out with the son of Hridika (Kritavarman).",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "अब्रवीत् कृतवर्माणं क्षिप्रं योजय वाहिनीम्। व्यूढानीकः सभाद्वारमुपतिष्ठस्व दंशितः ॥११॥",
+      "english": "And he said to Kritavarman \"Quickly prepare the army for action and with the division there of ready for action and clad in amours, wait at the gate of the council chamber.",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "यावदाख्याम्यहं चैतत् कृष्णायाक्लिष्टकारिणे। स प्रविश्य सभां वीरः सिंहो गिरिगुहामिव ॥१२॥",
+      "english": "In the meantime, I shall communicate all this to Krishna who performs action without exertion. Then that hero, having entered the council like a lion entering the caverns of a mountain,",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "आचष्ट तमभिप्रायं केशवाय महात्मने। धृतराष्ट्रं ततश्चैव विदुरं चान्वभाषत ॥१३॥",
+      "english": "Communicated that intention (of those Kurus) to the great should Keshava and then to Dhritarashtra and then to Vidura also.",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "तेषामेतमभिप्रायमाचचक्षे स्मयन्निव। धर्मादार्थाच्च कामाच्च कर्म साधुविगर्हितम् ॥१४॥",
+      "english": "They heard this proposal of theirs with laughter and ridicule for this (proposed) deed was against virtue, worldly benefit and desire as also against the principles of an honest man.",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "मन्दाः कर्तुमिहेच्छन्ति न चावाप्यं कथञ्चन। पुरा विकुर्वते मूढाः पापात्मानः समागताः ॥१५॥",
+      "english": "(Satyaki continued). “In this instance the fools seek to do an act which is by no means capable of being performed; these fools of wicked souls are united to gather to pick a quarrel.",
+      "bhavadeepa": "कर्म दूतनिग्रहाख्यम् ॥१४॥",
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "धर्षिताः काममन्युभ्यां क्रोधलोभवशानुगाः। इमं हि पुण्डरीकाक्षं जिघृक्षन्त्यल्पचेतसः ॥१६॥",
+      "english": "Being overpowered by desire and wrath and being subjected to the influence of anger and avarice, these men, of mean heart, seek to slay the one with lotus eyes,",
+      "bhavadeepa": "विकुर्वते विकारं कलहाख्यं कुर्वते ॥१५॥",
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "पटेनाग्निं प्रज्वलितं यथा बाला यथा जडाः। सात्यकेस्तद्वचः श्रुत्वा विदुरो दीर्घदर्शिवान् ॥१७॥",
+      "english": "As children and idiots attempt to seize blazing fire by means of their cloths.” Hearing those words of Satyaki Vidura, endued with great foresight,",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "धृतराष्ट्रं महाबाहुमब्रवीत् कुरुसंसदि। राजन् परीतकालास्ते पुत्राः सर्वे परंतप ॥१८॥",
+      "english": "Said to Dhritarashtra of long arms in that assembly of the Kurus \"O king, the time of all of your sons is come, O chastiser of foes.",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "अशक्यमयशस्यं च कर्तुं कर्म समुद्यताः। इमं हि पुण्डरीकाक्षमभिभूय प्रसह्य च ॥१९॥",
+      "english": "They are prepared to do an act which is incapable of being done and which, if done would be discreditable; having overpowered and vanquished this one with lotus eyes,",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "निग्रहीतुं किलेच्छन्ति सहिता वासवानुजम्। इमं पुरुषशार्दूलमप्रधृष्यं दुरासदम् ॥२०॥",
+      "english": "They desire to capture along with the younger brother of Vasava-this best among men, who is incapable of being vanquished, and in fact hard to stand against.",
+      "bhavadeepa": "अशक्यं न च कर्तुं शक्यम् ॥१९॥",
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "आसाद्य न भविष्यन्ति पतङ्गा इव पावकम्। अयमिच्छन् हि तान् सर्वान् युध्यमानान् जनार्दनः ॥२१॥",
+      "english": "Having stood against they will cease to exist as worms in contact with fire. This Janardana, desiring the good of all when lighting, never",
+      "bhavadeepa": "वासवानुजं विष्णुं त्रिविक्रममित्यर्थः ॥२०॥",
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "सिंहो नागानिव क्रुद्धो गमयेद्यमसादनम्। न त्वयं निन्दितं कर्म कुर्यात् पापं कथञ्चन ॥२२॥",
+      "english": "And rendered angry, will send them to the abode of Yama like a lion routing a heard of elephants; but this mighty blamable act of wickedness will never be perpetrated.",
+      "bhavadeepa": "न भविष्यन्ति मरिष्यन्ति ॥२१॥",
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "न च धर्मादपक्रामेदच्युतः पुरुषोत्तमः। विदुरेणैवमुक्ते तु केशवो वाक्यमब्रवीत् ॥२३॥",
+      "english": "Achyuta, the best among men swerves from the Path of rectitude.\" Vidura having said this, Keshava said these words,",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "धृतराष्ट्रमभिप्रेक्ष्य सुहृदां शृण्वतां मिथः। राजन्नेते यदि क्रुद्धा मां निगृह्णीयुरोजसा ॥२४॥",
+      "english": "Looking on Dhritarashtra and in the hearing of his well-wishers \"O king, if being angry they can by their might capture me,",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "एते वा मामहं वैनाननुजानीहि पार्थिव। एतान् हि सर्वान् संरब्धान्नियन्तुमहमुत्सहे ॥२५॥",
+      "english": "Let them do it, for I know, O ruler of the earth, the might of these and I can venture to cure all of them of their anger.",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "न त्वहं निन्दितं कर्म कुर्यां पापं कथञ्चन। पाण्डवार्थे हि लुभ्यन्तः स्वार्थान् हास्यन्ति ते सुताः ॥२६॥",
+      "english": "But I shall never do an act which is blamable and wicked; these sons of yours will lose their own wealth by coveting the wealth of the Pandavas.",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "एते चेदेवमिच्छन्ति कृतकार्यो युधिष्ठिरः। अद्यैव ह्यहमेनांश्च ये चैनाननु भारत ॥२७॥",
+      "english": "Since they desire to act so wickedly Yudhishthira has all the greater chances of success; for I can at this very moment, capture these and those that follow them,",
+      "bhavadeepa": "पाण्डवार्थे पाण्डवधने लुभ्यन्तः लोभं कुर्वन्तः ॥२६॥",
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "निगृह्य राजन् पार्थेभ्यो दद्यां किं दुष्कृतं भवेत्। इदं तु न प्रवर्तेयं निन्दितं कर्म भारत ॥२८॥",
+      "english": "0 king, and make ever to the son of Pritha which will not be a hard thing to do; but I am not inched to do such a blamable deed, o Bharata.",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "सन्निधौ ते महाराज क्रोधजं पापबुद्धिजम्। एष दुर्योधनो राजन् यथेच्छति तथाऽस्तु तत् ॥२९॥",
+      "english": "What this Duryodhana, O king, wishes to do in your presence, in consequence of wrath and sinful heart, O great king, let him do.",
+      "bhavadeepa": "इदं तु कर्म कर्तुमिति शेषः ॥२८॥",
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "अहं तु सर्वास्तनयाननुजानामि ते नृप। एतच्छ्रुत्वा तु विदुरं धृतराष्ट्रोऽभ्यभाषत। क्षिप्रमानय तं पापं राज्यलुब्धं सुयोधनम् ॥३०॥",
+      "english": "I too allow all your sons, O ruler of men.\" Hearing this Dhritarashtra said to Vidura “Bring that wicked Suyodhana covetous of the kingdom soon,",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "सहमित्रं सहामात्यं ससोदर्यं सहानुगम्। शक्नुयां यदि पन्थानमवतारयितुं पुनः ॥३१॥",
+      "english": "Along with his friends, with his ministers, with his brothers and with his followers. I shall see again if can get him along the right path.\"",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "ततो दुर्योधनं क्षत्ता पुनः प्रावेशयत् सभाम्। अकामं भ्रातृभिः सार्धं राजभिः परिवारितम् ॥३२॥",
+      "english": "Then did Kshattri again cause Duryodhana to enter the council chamber, unwilling as he was along with his brothers, and surrounded by the kings.",
+      "bhavadeepa": "पन्थानमवतारयितुं सत्पथे निवेशयितुम् ॥३१॥",
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "अथ दुर्योधनं राजा धृतराष्ट्रोऽभ्यभाषत। कर्णदुःशासनाभ्यां च राजभिश्चापि संवृतम् ॥३३॥",
+      "english": "Then did the Dhritarashtra to Duryodhana and Karna and Dushasana and the kings who surrounded them.",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "नृशंस पापभूषिष्ठ क्षुद्रकर्मसहायवान्। पापैः सहायैः संहत्य पापं कर्म चिकीर्षसि ॥३४॥",
+      "english": "\"O you of inhuman, of exceeding sinfulness, having for your supporters only men of small deeds, united with wicked men, you want to perpetrate a wicked deed.",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "अशक्यमयशस्यं च सद्भिश्चापि विगर्हितम्। यथा त्वादृशको मूढो व्यवस्येत् कुलपांसनः ॥३५॥",
+      "english": "This intended act of yours is incapable of being performed, tending to infamy and disapproved by the honest in fact this is a thing which a fool and the cause of infamy to the race like you would attempt.",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "त्वमिमं पुण्डरीकाक्षमप्रधृष्यं दुरासदम्। पापैः सहायैः संहत्य निग्रहीतुं किलेच्छसि ॥३६॥",
+      "english": "This one with lotus eyes, who can not be vanquished, in fact who is hard to stand save against, you want to capture, being united with your wicked supporters.",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "यो न शक्यो बलात्कर्तुं देवैरपि सवासवैः। तं त्वं प्रार्थयसे मन्द बालश्चन्द्रमसं यथा ॥३७॥",
+      "english": "Him who cannot be forcibly seized even by the gods under the leadership of Vasava, you want to capture to like a child desiring to grasp the moon.",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "देवैर्मनुष्यैर्गन्धर्वैरसुरैरुरगैश्च यः। न सोढुं समरे शक्यस्तं न बुद्ध्यसि केशवम् ॥३८॥",
+      "english": "You do not know that Keshava is incapable of being fought with in battle by the gods, the human beings, the Gandharvas, the Asuras and the Nagas.",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "दुर्ग्राह्यः पाणिना वायुर्दुस्पर्शः पाणिना शशी। दुर्धरा पृथिवी मूर्ध्ना दुर्ग्राह्यः केशवो बलात्॥३९॥",
+      "english": "Keshava is hard to capture by force even as air is incapable of being captured by living beings, as moon is incapable of being grasped by living beings and as the earth held on the head.\"",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "इत्युक्ते धृतराष्ट्रेण क्षत्ताऽपि विदुरोऽब्रवीत्। दुर्योधनमभिप्रेत्य धार्तराष्ट्रममर्षणम् ॥४०॥",
+      "english": "This being said Dhritarashtra the Kshatta Vidura too said, with his eyes on the wrathful son of Dhritarashtra, Duryodhana.",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "विदुर उवाच।\n              दुर्योधन निबोधेदं वचनं मम साम्प्रतम्। सौभद्वारे वानरेन्द्रो द्विविदो नाम नामतः। शिलावर्षेण महता छादयामास केशवम् ॥४१॥",
+      "english": "Vidura said “O Duryodhana, listen now to these words of mine At the gates of Saubha did the chief of monkeys, Dvivida by name, covered Keshava with a heavy down pour of stones.",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "ग्रहीतुकामो विक्रम्य सर्वयत्नेन माधवम्। गृहीतुं नाशकच्चैनं तं त्वं प्रार्थयसे बलात् ॥४२॥",
+      "english": "Being desirous of capturing Madhava by force, he made every effort to do it to capture him by force.",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "प्राग्ज्योतिषगतं शौरिं नरकः सह दानवैः। ग्रहीतुं नाशकत्तत्र तं त्वं प्रार्थयसे बलात् ॥४३॥",
+      "english": "Naraka, along with all the Danavas, could not capture Shouri who had gone to Pragjyotisha and you want to capture him by force.",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "अनेकयुगवर्षायुर्निहत्य नरकं मृधे। नीत्वा कन्यासहस्राणि उपयेमे यथाविधि ॥४४॥",
+      "english": "Slaying in battle Naraka who had lived for many thousands of years he brought away his thousand daughters and married them with the usual rites.",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "निर्मोचने षट्सहस्राः पाशैर्बद्धा महासुराः। गृहीतुं नाशकंश्चैनं तं त्वं प्रार्थयसे बलात् ॥४५॥",
+      "english": "In the city if Nirmochana sixty thousand great Asuras could not capture him with their nooses and you want to capture him by force.",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "अनेन हि हता बाल्ये पूतना शकुनी तथा। गोवर्धनो धारितश्च गवार्थे भरतर्षभ ॥४६॥",
+      "english": "When he was but a child, Putana and Shakuni were slain by him and the Govardhana mountain was held up by him for the protection of the cows, O best among the Bharatas.",
+      "bhavadeepa": "निर्मोचने नगरविशेषे ॥४५॥",
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "अरिष्टो धेनुकश्चैव चाणूरश्च महाबलः। अश्वराजश्च निहतः कंसश्चारिष्टमाचरन् ॥४७॥",
+      "english": "Arishta and Dhenuka as also Chanura of Great; strength and Ashvaraja were slain by him.",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "जरासन्धश्च वक्त्रश्च शिशुपालश्च वीर्यवान्। बाणश्च निहतः सङ्ख्ये राजानश्च निषूदिताः ॥४८॥",
+      "english": "Jarasandha, and Vakra and Shishupala of great heroism and Vana were slain by him in battle as also several other kings.",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "वरुणो निर्जितो राजा पावकश्चामितौजसा। पारिजातं च हरता जितः साक्षाच्छचीपतिः॥४९॥",
+      "english": "The Varuna too was defeated as also fire of immeasurable energy and even the lord of Sachi himself was overpowered when robbing the Parijat flower.",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "एकार्णवे च स्वपता निहतौ मधुकैटभौ। जन्मान्तरमुपागम्य हयग्रीवस्तथा हतः ॥५०॥",
+      "english": "White lying asleep on the all spreading ocean by were Madhu and Kaitabha slain and in another birth was Hayagriva slain.",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "अयं कर्ता न क्रियते कारणं चापि पौरुषे। यद्यदिच्छेदयं शौरिस्तत्तत् कुर्यादयत्नतः ॥५१॥",
+      "english": "He is the doer of everything but himself is not created and he is the cause of all power. This Shouri can perform without any effort whatever he wishes",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "तं न बुद्ध्यसि गोविन्दं घोरविक्रममच्युतम्। आशीविषमिव क्रुद्धं तेजोराशिमनिन्दितम् ॥५२॥",
+      "english": "You do not know and fully understand this Achyuta, this Govinda of Fierce prowess; he is endued with unblamable energy like an angry serpent.",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "प्रधर्षयन्महाबाहुं कृष्णमक्लिष्टकारिणम्। पतङ्गोऽग्निमिवासाद्य सामात्यो न भविष्यसि ॥५३॥",
+      "english": "In your a tempt to vanquish Krishna of long arms and of unwearied actions you will with your ministers be reduced to the condition of worms perishing by meeting with fire. A...nrn",
+      "bhavadeepa": null,
+      "chapter": 130,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "त्रिंशदधिकशततमोऽध्यायः"
+    }
+  ]
+}

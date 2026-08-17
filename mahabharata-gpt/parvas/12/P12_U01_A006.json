@@ -1,0 +1,163 @@
+{
+  "adhyaya_id": "P12_U01_A006",
+  "book": 12,
+  "parva_name": "शान्तिपर्व",
+  "upaparva_name": "राजधर्मानुशासनपर्व",
+  "adhyaya_name": "षष्ठोध्यायः",
+  "chapter": 6,
+  "verse_count": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वैशम्पायन उवाच।\n              एतावदुक्त्वा देवर्षिर्विरराम स नारदः । युधिष्ठिरस्तु राजर्षिर्दध्यौ शोकपरिप्लुतः ॥१॥",
+      "english": "Yudhishthira said O you who are an adept in the mystery a human conduct, tell me what course of person should pursue to succeed in this world, freed from grief. And how should he behave himself to gain his end?",
+      "bhavadeepa": null,
+      "chapter": 6,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "षष्ठोध्यायः",
+      "combined_translation": "1-1"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "तं दीनमनसं वीरं शोकोपहतमातुरम् । निःश्वसन्तं यथा नागं पर्यश्रुनयनं तथा ॥२॥",
+      "english": "Bhishma said Regarding it is cited the old story of the discourse between Prahlada and the sage Ajagara.",
+      "bhavadeepa": "एतावदुक्त्वेति । दध्यौ भ्रातृवधजं दोषं चिन्तितवान् ॥१॥",
+      "chapter": 6,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "षष्ठोध्यायः",
+      "combined_translation": "2-3"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "कुन्ती शोकपरीताङ्गी दुःखोपहतचेतना । अब्रवीन्मधुराभाषा काले वचनमर्थवत् ॥३॥",
+      "english": null,
+      "bhavadeepa": "पर्यश्रुनयनं परितोऽश्रुव्याप्तनयनम् ॥२॥",
+      "chapter": 6,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "षष्ठोध्यायः",
+      "english_ref": 2,
+      "combined_translation": "2-3"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "युधिष्ठिर महाबाहो नैनं शोचितुमर्हसि । जहि शोकं महाप्राज्ञ शृणु चेदं वचो मम ॥४॥",
+      "english": null,
+      "bhavadeepa": "मधुरा आभाषा भाषणं यस्याः सा तथा ॥३॥",
+      "chapter": 6,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "षष्ठोध्यायः",
+      "english_ref": 3,
+      "combined_translation": "3-4"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "यातितः स मया पूर्वं भ्रात्र्यं ज्ञापयितुं तव । भास्करेण च देवेन पित्रा धर्मभृतां वरः ॥५॥",
+      "english": null,
+      "bhavadeepa": "एनं कर्णम् ॥४॥",
+      "chapter": 6,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "षष्ठोध्यायः",
+      "english_ref": 4,
+      "combined_translation": "4-5"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "यद्वाच्यं हितकामेन सुहृदा हितमिच्छता । तथा दिवाकरेणोक्तः स्वप्नान्ते मम चाग्रतः ॥६॥",
+      "english": null,
+      "bhavadeepa": "यातितः प्रवर्तितः तव तुभ्यं भ्रात्र्यं भ्रातुः कर्म कनिष्ठानां परिपालनं ज्ञापयितुं त्वया सौभ्रांत्र युधिष्ठिरादिभ्यः प्रदर्शनीयमित्यभ्यर्थित इति ॥५॥",
+      "chapter": 6,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "षष्ठोध्यायः",
+      "english_ref": 5,
+      "combined_translation": "5-6"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "न चैनमशकद्भानुरहं वा स्नेहकारणैः । पुरा प्रत्यनुनेतुं वा नेतुं वाऽप्येकतां त्वया ॥७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 6,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "षष्ठोध्यायः",
+      "english_ref": 6,
+      "combined_translation": "6-7"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "ततः कालपरीतः स वैरस्योद्धरणे रतः । प्रतीपकारी युष्माकमिति चोपेक्षितो मया ॥८॥",
+      "english": null,
+      "bhavadeepa": "प्रत्यनुनेतुं शमयितुम् ॥७॥",
+      "chapter": 6,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "षष्ठोध्यायः",
+      "english_ref": 7,
+      "combined_translation": "7-8"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "इत्युक्तो धर्मराजस्तु मात्रा बाष्पाकुलेक्षणः ॥९॥",
+      "english": null,
+      "bhavadeepa": "कालपरीतः मृत्युग्रस्तः उद्धरणे शत्रूणां निःशेषनाशेनोन्मूलने ॥८॥",
+      "chapter": 6,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "षष्ठोध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "उवाच वाक्यं धर्मात्मा शोकव्याकुलितेन्द्रियः । भवत्या गूढमन्त्रत्वात्पीडितोऽस्मीत्युवाच ताम् ॥१०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 6,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "षष्ठोध्यायः",
+      "english_ref": 8,
+      "combined_translation": "8-10"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "शशाप च महातेजाः सर्वलोकेषु योषितः । न गुह्यं धारयिष्यन्तीत्येवं दुःखसमन्वितः ॥११॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 6,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "षष्ठोध्यायः",
+      "english_ref": 9,
+      "combined_translation": "9-11"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "स राजा पुत्रपौत्राणां संबंधिसुहृदां तदा । स्मरन्नुद्विग्नहृदयो बभूवोद्विग्नचेतनः ॥१२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 6,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "षष्ठोध्यायः",
+      "english_ref": 10,
+      "combined_translation": "10-12"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "ततः शोकपरीतात्मा सधूम इव पावकः । निर्वेद‌मगमद्धीमान् राजा सन्तापपीडितः ॥१३॥",
+      "english": null,
+      "bhavadeepa": "सराजेति । कर्मणि षष्ठ्यौ उद्विग्नहृदयः उद्विग्नचेतनो बभूव । ध्यायतीव लेलायतीवेति श्रुतेर्बुद्धौ ध्यायन्त्यां चेतनोऽपि ध्यायतीवेत्यादिरर्थः ॥१२॥",
+      "chapter": 6,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "षष्ठोध्यायः",
+      "english_ref": 11,
+      "combined_translation": "11-13"
+    }
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "adhyaya_id": "P10_U01_A003",
+  "book": 10,
+  "parva_name": "सौप्तिकपर्व",
+  "upaparva_name": "सौप्तिकपर्व",
+  "adhyaya_name": "तृतीयोऽध्यायः",
+  "chapter": 3,
+  "verse_count": 36,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "सञ्जय उवाच।\n              कृपस्य वचनं श्रुत्वा धर्मार्थसहितं शुभम्। अश्वत्थामा महाराज दुःखशोकसमन्वितः॥१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "दह्यमानस्तु शोकेन प्रदीप्तेनाग्निना यथा। क्रूरं मनस्ततः कृत्वा तावुभौ प्रत्यभाषत॥२॥",
+      "english": "Burning with grief, as if with fire, he formed a wicked resolution and then addressed them both, saying, understanding is different in different men. Each man, however, is pleased with his own understanding,",
+      "bhavadeepa": "कृपस्येति॥१॥",
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः",
+      "combined_translation": "2-3"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "पुरुषे पुरुषे बुद्धिर्या या भवति शोभना। तुष्यन्ति च पृथक् सर्वे प्रज्ञया ते स्वया स्वया॥३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः",
+      "english_ref": 2,
+      "combined_translation": "2-3"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "सर्वो हि मन्यते लोक आत्मानं बुद्धिमत्तरम्। सर्वस्यात्मा बहुमतः सर्वात्मानं प्रशंसति॥४॥",
+      "english": "Every man considers himself more intelligent than others. Every one respects and praises his own understanding.",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "सर्वस्य हि स्वका प्रज्ञा साधुवादे प्रतिष्ठिता। परबुद्धिं च निन्दन्ति स्वां प्रशंसन्ति चासकृत्॥५॥",
+      "english": "Every one praises his own wisdom. Every one speaks ill of the wisdom of others, and well of his own, in all cases.",
+      "bhavadeepa": "सर्वात्मानमित्यत्र सर्वः आत्मानमिति च्छेदः। सन्धिरार्षः॥४॥",
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "कारणान्तरयोगेन योगे येषां समागतिः। अन्योन्येन च तुष्यन्ति बहु मन्यन्ति चासकृत्॥६॥",
+      "english": "Men whose opinions agree with regard to any that is not achieved, become gratified with and praise one another.",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "तस्यैव तु मनुष्यस्य सा सा बुद्धिस्तदा तदा। कालयोगे विपर्यासं प्राप्यान्योन्यं विपद्यते॥७॥",
+      "english": "Again the opinions of the same persons, overwhelmed with reverses bought on by the influence of time, become opposed to another.",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "विचित्रत्वात्तु चित्तानां मनुष्याणां विशेषतः। चित्तवैक्लव्यमासाद्य सा सा बुद्धिः प्रजायते॥८॥",
+      "english": "On account of the diversity of human intellects, judgments necessarily differ.",
+      "bhavadeepa": "योगे समुदाये॥७॥",
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "यथा हि वैद्यः कुशलो ज्ञात्वा व्याधिं यथाविधि। भैषज्यं कुरुते योगात्प्रशमार्थमिति प्रभो॥९॥",
+      "english": "As a skillful physician, having duly diagnosed a disease, prescribes a medicine by his intelligence for effecting a cure, so men, for the accomplishment of their works, use their intelligence, helped by their own wisdom. What they do is not approved by others.",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः",
+      "combined_translation": "9-10"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "एवं कार्यस्य योगार्थं बुद्धिं कुर्वन्ति मानवाः। प्रज्ञया हि स्वया युक्तास्तां च निदन्ति मानवाः॥१०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः",
+      "english_ref": 9,
+      "combined_translation": "9-10"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "अन्यया यौवने मर्त्यो बुद्ध्या भवति मोहितः। मध्येऽन्यया जरायां तु सोऽन्यां रोचयते मतिम्॥११॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "व्यसनं वा महाघोरं समृद्धिं चापि तादृशीम्। अवाप्य पुरुषो भोज कुरुते बुद्धिवैकृतम्॥१२॥",
+      "english": "When fallen into terrible misfortune or when enjoying great prosperity, the understanding of a person, chief of the Bhojas, undergoes changes. In one and the same person, want of wisdom, the understanding becomes different at different times. Understanding which at one time is good becomes quite the opposite at another time.",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः",
+      "combined_translation": "12-13"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "एकस्मिन्नेव पुरुषे सा सा बुद्धिस्तदा तदा। भवत्यकृतधर्मत्वात्सा तस्यैव न रोचते॥१३॥",
+      "english": null,
+      "bhavadeepa": "हे भोज हे कृतवर्मन् एकमेव सम्बोधयन् कृपस्य मनसि अनादरं सूचयति॥१२॥",
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः",
+      "english_ref": 12,
+      "combined_translation": "12-13"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "निश्चित्य तु यथाप्रज्ञं यां मतिं साधु पश्यति। तया प्रकुरुते भावं सा तस्योद्योगकारिका॥१४॥",
+      "english": null,
+      "bhavadeepa": "अकृतधर्मत्वात् अवसरानुरोधात् इदानीं मम शान्तिबुद्धिर्न रोचते इत्यर्थः॥१३॥",
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "सर्वो हि पुरुषो भोज साध्वेतादति निश्चितः। कर्तुमारभते प्रीतो मरणादिषु कर्मसु॥१५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "सर्वे हि बुद्धिमाज्ञाय प्रज्ञां वापि स्वकां नराः। चेष्टन्ते विविधां चेष्टां हितमित्येव जानते॥१६॥",
+      "english": "All men, relying on their own judgment and wisdom, try to accomplish various objects, knowing them to be beneficial.",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "उपजाता व्यसनजा येयमद्य मतिर्मम। युवयोस्तां प्रवक्ष्यामि मम शोकविनाशिनीम्॥१७॥",
+      "english": "The resolution that I have formed in my mind to-day for of great calamity and which will despell my grief, I will now disclose to both of you.",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "प्रजापतिः प्रजाः सृष्ट्वा कर्मतासु विधाय च। वर्णे वर्णे समाधत्ते ह्येकैकं गुणभाग्गुणम्॥१८॥",
+      "english": "Having created his creatures, the Creator assigned to each his occupation. As regards the different castes he gave to each a portion of excellence.",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "ब्राह्मणे वेदमग्र्यं तु क्षत्रिये तेज उत्तमम्। दाक्ष्यं वैश्ये च शूद्रे च सर्ववर्णानुकूलताम्॥१९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "अदान्तो ब्राह्मणोऽसाधुर्निस्तेजाः क्षत्रियोऽधमः। अदक्षो निन्द्यते वैश्यः शूद्रश्च प्रतिकूलवान्॥२०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "सोऽस्मि जातः कुले श्रेष्ठे ब्राह्मणानां सुपूजिते। मन्दभाग्यतयाऽस्म्येतं क्षत्रधर्ममनुष्ठितः॥२१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "क्षत्रधर्मं विदित्वाहं यदि ब्राह्मण्यमाश्रितः। प्रकुर्यां सुमहत्कर्म न मे तत्साधुसम्मतम्॥२२॥",
+      "english": "If, conversant as I am with Kshatriya duties, I revert now to the order of a Brahmana and achieve a great object (by assuming selfrestraint under such injuries), that course would not be compatible.",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "धारयंश्च धनुर्दिव्यं दिव्यान्यस्त्राणि चाहवे। पितरं निहतं दृष्ट्वा किं नु वक्ष्यामि संसदि॥२३॥",
+      "english": "I hold an excellent bow and excellent weapons in battle. If I do not avenge the death of my father, how shall I be able to speak in the assembly of men?",
+      "bhavadeepa": "विदित्वा आश्रित्य यदि ब्राह्मण्यं संश्रितः सन् शमादिरूपं सुमहत्कर्म प्रकुर्यां तन्मे साधु सम्मतं न अवलम्बितस्य च क्षत्रधर्मनिर्वाहोऽवश्यं कर्तव्य इत्यर्थः॥२२॥",
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "सोऽहमद्य यथाकामं क्षत्रधर्ममुपास्यतम्। गन्ताऽस्मि पदवीं राज्ञः पितुश्चापि महात्मनः॥२४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "अद्य स्वप्स्यन्ति पाञ्चाला विश्वस्ता जितकाशिनः। विमुक्तयुग्यकवचा हर्षेण च समन्विताः॥२५॥",
+      "english": null,
+      "bhavadeepa": "गन्तास्मि गमिष्यामि पदवीमानृण्यम्॥२४॥",
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "जयं मत्वाऽऽत्मनश्चैव श्रान्ता व्यायामकर्षिताः। तेषां निशि प्रसुप्तानां सुस्थानां शिबिरे स्वके॥२६॥",
+      "english": "While sleeping easily during the night within their own camp, I shall make a great and terrible assault upon their camp.",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "अवस्कन्दं करिष्यामि शिबिरस्याद्य दुष्करम्। तानवस्कन्द्य शिबिरे प्रेतभूतविचेतसः॥२७॥",
+      "english": "Like Indra killing the Danavas, I shall, attacking them while dead in sleep in their camp, kill them all, by my power.",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "सूदयिष्यामि विक्रम्य मघवानिव दानवान्। अद्य तान्सहितान्सर्वान् धृष्टद्युम्नपुरोगमान्॥२८॥",
+      "english": "Like a burning fire consuming a heap of dry grass, I shall kill all of them collected in one place with their leader Dhrishtadyumna. Having killed the Panchalas, I shall obtain peace of mind, O best of men.",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः",
+      "combined_translation": "28-29"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "सूदयिष्यामि विक्रम्य कक्षं दीप्त इवानलः। निहत्य चैव पाञ्चालान् शान्तिं लब्धाऽस्मि सत्तम॥२९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः",
+      "english_ref": 28,
+      "combined_translation": "28-29"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "पाञ्चालेषु भविष्यामि सूदयन्नद्य संयुगे। पिनाकपाणिः सङ्क्रुद्धः स्वयं रुद्रः पशुष्विव॥३०॥",
+      "english": "While engaged in the act of destruction I shall move about in their midst like the holder of Pinaka, viz., the angry Rudra himself, among living creatures!",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "अद्याहं सर्वपाञ्चालान्निहत्य च निकृष्य च। अर्दयिष्यामि संहृष्टो रणे पाण्डुसुतांस्तथा॥३१॥",
+      "english": "Having cut off and killed all the Panahalas to-day, I shall then, in joy, assail the sons of Pandu in battle!",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "अद्याहं सर्वपञ्चालैः कृत्वा भूमिं शरीरिणीम्। प्रहृत्यैकैकशस्तेषु भविष्याम्यनृणः पितुः॥३२॥",
+      "english": "Taking their lives one after another and causing the Earth to be covered with the bodies of all the Panchalas, I shall satisfy the debt I owe to my father!",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "दुर्योधनस्य कर्णस्य भीष्मसैन्धवयोरपि। गमयिष्यामि पाञ्चालान्पदवीमद्य दुर्गमाम्॥३३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "अद्य पाञ्चालराजस्य धृष्टद्युम्नस्य वै निशि। न चिरात्प्रमथिष्यामि पशोरिव शिरोबलात्॥३४॥",
+      "english": "Displaying my power, I shall tonight grind the head, like that any animal, of Dhrishtadyumna the king of the Panchalas.",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "अद्य पाञ्चालपाण्डूनां शयितानात्मजान्निशि। खड्गेन निशितेनाजौ प्रमथिष्यामि गौतम॥३५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "अद्य पाञ्चालसेनां तां निहत्य निशि सौप्तिके। कृतकृत्यः सुखी चैव भविष्यामि महामते॥३६॥",
+      "english": "Having rooted out the Panchala army tonight while asleep, I shall, enjoy great happiness and consider myself to have done my duty!",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "सौप्तिकपर्व",
+      "upaparva_name": "सौप्तिकपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    }
+  ]
+}

@@ -1,0 +1,561 @@
+{
+  "adhyaya_id": "P15_U02_A036",
+  "book": 15,
+  "parva_name": "आश्रमवासिकपर्व",
+  "upaparva_name": "पुत्रदर्शनपर्व - २",
+  "adhyaya_name": "षड्त्रिंशोऽध्यायः",
+  "chapter": 36,
+  "verse_count": 53,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "जनमेजय उवाच।\n              दृष्ट्वा पुत्रांस्तथा पौत्रान् सानुबन्धान्जनाधिपः। धृतराष्ट्रः किमकरोद्राजा चैव युधिष्ठिरः॥१॥",
+      "english": "Having seen his sons and grandsons with all their friends and followers, what, indeed, did that king, viz., Dhritarashtra, and king Yudhishthira also, do?",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "वैशम्पायन उवाच।\n              तद्दृष्ट्वा महदाश्चर्यं पुत्राणां दर्शनं नृप। वीतशोकः स राजर्षिः पुनराश्रममागमत्॥२॥",
+      "english": "Vaishampayana said Seeing that highly wonderful spectacle, : viz., the re-appearance of his children, the royal sage, Dhritarashtra renounced his grief and returned to his hermitage.",
+      "bhavadeepa": "दृष्ट्वेति॥१॥",
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "इतरस्तु जनः सर्वस्ते चैव परमर्षयः। प्रतिजग्मुर्यथाकामं धृतराष्ट्राभ्यनुज्ञया॥३॥",
+      "english": "The common people and all the great Rishis, sent away by Dhritarashtra, came back to the places they respectively wished.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "पाण्डवास्तु महात्मानो लघुभूयिष्ठसैनिकाः। पुनर्जग्मुर्महात्मानं सदारास्तं महीपतिम्॥४॥",
+      "english": "The great Pandavas accompanied by their wives, and with a small retinue, went to the hermitage of the great monarch.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "तत्राश्रमपदं धीमान् ब्रह्मर्षिर्लोकपूजितः। मुनिः सत्यवतीपुत्रो धृतराष्ट्रमभाषत॥५॥",
+      "english": "Then Satyavati's son, who was honoured by twice-born Rishis and all other person, arrived at the hermitage addressed Dhritarashtra, saying, 'O mighty-armed Dhritarashtra, O son of Kuru's race, listen to what I say! You have heard various discourses from Rishis of great knowledge and sacred deeds, having penances for wealth and excellence of blood, knowledge of the Vedas and their branches, of piety and years, and of great eloquence.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः",
+      "combined_translation": "5-7"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "धृतराष्ट्र महाबाहो शृणु कौरवनन्दन। श्रुतं ते ज्ञानवृद्धानामृषीणां पुण्यकर्मणाम्॥६॥",
+      "english": null,
+      "bhavadeepa": "आश्रमपदम् आश्रमं प्राप्तम्॥५॥",
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः",
+      "english_ref": 5,
+      "combined_translation": "5-7"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "श्रद्धाभिजनवृद्धानां वेदवेदाङ्गवेदिनाम्। धर्मज्ञानां पुराणानां वदतां विविधाः कथाः॥७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः",
+      "english_ref": 5,
+      "combined_translation": "5-7"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "मा स्म शोके मनः कार्षीर्दिष्टेन व्यथते बुधः। श्रुतं देवरहस्यं ते नारदाद्देवदर्शनात्॥८॥",
+      "english": "Do not set your mind again on sorrow. He who is wise is never moved at ill luck. You have also heard the mysteries of the deities from Narada of celestial form.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "गतास्ते क्षत्रधर्मेण शस्त्रपूतां गतिं शुभाम्। यथा दृष्टास्त्वया पुत्रास्तथा कामविहारिणः॥९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "युधिष्ठिरः स्वयं धीमान् भवन्तमनुरुध्यते। सहितो भ्रातृभिः सर्वैः सदारः ससुहृज्जनः॥१०॥",
+      "english": "This Yudhishthira of great intelligence is awaiting your permission with all his brothers and wives and kinsmen.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "विसर्जयैनं यात्वेष स्वराज्यमनुशासताम्। मासः समधिकस्तेषामतीतो वसतां वने॥११॥",
+      "english": "Do you send him away. Let him return to his kingdom and rule it! They have passed more then a month in thus living in the forest.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "एतद्धि नित्यं यत्नेन पदं रक्ष्यं नराधिप। बहुप्रत्यर्थिकं ह्येतद्राज्यं नाम कुरुद्वह॥१२॥",
+      "english": "The station of sovereignty should always be well-guarded, o king! O you of Kuru's race, kingdom has many enemies.'",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "इत्युक्तः कौरवो राजा व्यासेनातुलतेजसा। युधिष्ठिरमथाहूय वाग्मी वचनमब्रवीत्॥१३॥",
+      "english": "Thus addressed by Vyasa of incomparable energy, the Kuru king, well versed in words summoned Yudhishthira and said to him, 'O you having no enemies, blessing on you! Do you listen to me, with all your brothers! Through your grace, O king, grief no longer stands in my way.",
+      "bhavadeepa": "बहवः प्रत्यर्थिनः प्रार्थयानां शत्रवो यत्र तत्॥१२॥",
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः",
+      "combined_translation": "13-14"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "अजातशत्रो भद्रं ते शृणु मे भ्रातृभिः सह। त्वत्प्रसादान्महीपाल शोको नास्मान्प्रबाधते॥१४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः",
+      "english_ref": 13,
+      "combined_translation": "13-14"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "रमे चाहं त्वया पुत्र पुरेव गजसाह्वये। नाथेनानुगतो विद्वन्प्रियेषु परिवर्तिना॥१५॥",
+      "english": "I am living as happily, O son, with you here as if I were in the city of Hastinapur. With you as my protector, O learned one, I am enjoying all agreeable objects.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "प्राप्तं पुत्रफलं त्वत्तः प्रीतिर्मे परमा त्वयि। न मे मन्युर्महाबाहो गम्यतां पुत्र मा चिरम्॥१६॥",
+      "english": "I have obtained from you all those services which a son renders to his sire. I am highly pleased with you. I have not the least dissatisfaction with you. O mighty-armed one. Go now, O son, without waiting here any longer.",
+      "bhavadeepa": "नाथेन त्वया॥१५॥",
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "भवन्तं चेह सम्प्रेक्ष्य तपो मे परिहीयते। तपोयुक्तं शरीरं च त्वां दृष्ट्वा धारितं पुनः॥१७॥",
+      "english": "Meeting with you, my penances are being slackened. This my body, gifted with penances. I have been able to sustain only on account of my meeting with you.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "मातरौ ते तथैवेमे शीर्णपर्णकृताशने। मम तुल्यव्रते पुत्र न चिरं वर्तयिष्यतः॥१८॥",
+      "english": "These two mothers of yours, living now upon fallen leaves of trees, and observing vows similar to mine, will not live long.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "दुर्योधनप्रभृतयो दृष्टा लोकान्तरं गताः। व्यासस्य तपसो वीर्याद्भवतश्च समागमात्॥१९॥",
+      "english": "We have seen Duryodhana and others who have become dwellers of the other world, through the power of Vyasa's penances and through the merit of this my meeting with you.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "प्रयोजनं च निर्वृत्तं जीवितस्य ममानघ। उग्रं तपः समास्थास्ये त्वमनुज्ञातुमर्हसि॥२०॥",
+      "english": "O sinless one, I have gained the object of my life. I now wish to practice the austerest of penances. You should grant me permission.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "त्वय्यद्य पिण्डः कीर्तिश्च कुलं चेदं प्रतिष्ठितम्। श्वो वाद्य वा महाबाहो गम्यतां पुत्र मा चिरम्॥२१॥",
+      "english": "The obsequial cake, the fame and achievements, and the family of our ancestors, now depend upon you entirely. O mightyarmed one, do you then go either to-morrow or this very day. Do not tarry. O son.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "राजनीतिः सुबहुशः श्रुता ते भरतर्षभ। सन्देष्टव्यं ने पश्यामि कृतं मे भवता विभो॥२२॥",
+      "english": "O chief of Bharata's race, you have repeatedly heard what the duties are of kings. I do not see what more I can say to you. I have no longer any necessity with you, O you of great power.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "वैशम्पायन उवाच।\n              इत्युक्तवचनं तं तु नृपो राजानमब्रवीत्। न मामर्हसि धर्मज्ञ परित्यक्तुमनागसम्॥२३॥",
+      "english": "Vaishampayana continued : King Yudhishthira replied to the (old) king who said so, saying, 'O you who know every rules of virtue, you should not cast me off in this way. I am guilty of not fault.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "कामं गच्छन्तु मे सर्वे भ्रातरोऽनुचरास्तथा। भवन्तमहमन्विष्ये मातरौ च यतव्रतः॥२४॥",
+      "english": "Let all my brothers and followers go as they like. With steadfast vows I shall wait upon you and upon these two mothers of mine.'",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "तमुवाचाथ गान्धारी मैवं पुत्र शृणुष्व च। त्वय्यधीनं कुरुकुलं पिण्डश्च श्वशुरस्य मे॥२५॥",
+      "english": "Gandhari then said to him. 'O son, let it not be so. Listen, the family of Kuru is now dependent on you. The obsequial cake also of my father-in-law depends on you Depart then, O son.",
+      "bhavadeepa": "अन्विष्ये सेविष्ये॥२४॥",
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "गम्यतां पुत्र पर्याप्तमेतावत्पूजिता वयम्। राजा यदाह तत्कार्यं त्वया पुत्र पितुर्वचः॥२६॥",
+      "english": "We have been sufficiently honoured and served by you. You should do what the king says. Indeed, O son, you should obey the command of your sire.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "वैशम्पायन उवाच।\n              इत्युक्तः स तु गान्धार्या कुन्तीमिदमभाषत। स्नेहबाष्पाकुले नेत्रे प्रमृज्य रुदतीं वचः॥२७॥",
+      "english": "Vaishampayana continued : Thus addressed by Gandhari, king Yudhishthira, rubbing his eyes which were bathed in tears of affection, said these words bewailingly.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "विसर्जयति मां राजा गान्धारी च यशस्विनी। भवत्यां बद्धचित्तस्तु कथं यास्यामि दुःखितः॥२८॥",
+      "english": "The king is renouncing me, a also the illustrious Gandhari. My heart, however, is bound to you. How shall I, stricken as I am with sorrow, leave you.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "न चोत्सहे तपोविघ्नं कर्तुं ते धर्मचारिणि। तपसो हि परं नास्ति तपसा विन्दते महत्॥२९॥",
+      "english": "I do not, however, at the same time, venture to obstruct your penances, O rights our lady! There is nothing higher than penances. It is by penances that one act quires the Supreme.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "ममापि न तथा राज्ञि राज्ये बुद्धिर्यथा पुरा। तपस्येवानुरक्तं मे मनः सर्वात्मना तथा॥३०॥",
+      "english": "O queen, my heart not longer as of old towards kingdom. My mind is wholly set upon penances now.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "शून्येयं च मही कृत्स्ना न मे प्रीतिकरी शुभे। बान्धवा नः परिक्षीणा बलं नो न यथा पुरा॥३१॥",
+      "english": "The entire Earth is empty now. O auspicious lady, she does not please me any longer! Our kinsmen have been reduced in number. Our strength is no longer what it was before.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "पञ्चालाः सुभृशं क्षीणाः कथामात्रावशेषिताः। न तेषां कुलकर्तारं कञ्चित्पश्याम्यहं शुभे॥३२॥",
+      "english": "The Panchalas have been wholly rooted out. Only nominally they exist. O auspicious lady, I do not see any one who may assist at their reestablishment and growth.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "सर्वे हि भस्मसान्नीतास्ते द्रोणेन रणाजिरे। अवशिष्टाश्च निहता द्रोणपुत्रेण वै निशि॥३३॥",
+      "english": "All of them have been reduced to ashes by Drona on the field of battle. The remnant were killed by Drona's son at night.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "चेदयश्चैव मत्स्याश्च दृष्टपूर्वास्तथैव नः। केवलं वृष्णिचक्रं च वासुदेवपरिग्रहात्॥३४॥",
+      "english": "The Chedis and the Matsyas, who were our friends, no longer exist. Only the tribes of the Vrishnis are all that remain, Vasudeva having kept them up.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "यद्दृष्ट्वा स्थातुमिच्छामि धर्मार्थं नार्थहेतुतः। शिवेन पश्य नः सर्वान् दुर्लभं तव दर्शनम्॥३५॥",
+      "english": "Seeing only the Vrishnis I wish to live. My desire of life, however, is due to my wish of acquiring merit and not riches or enjoyment. Do you cast auspicious looks upon us all. It will be difficult for us to see you.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "अविषह्यं च राजा हि तीव्रं चारप्स्यते तपः। एतच्छ्रुत्वा महाबाहुः सहदेवो युधां पतिः॥३६॥",
+      "english": "The king will commence to practice the most austere and unbearable of penances!' Hearing these words, that king of battle, the mighty-armed Shadeva with eyes bathed in tears, addressed Yudhishthira, saying, 'O chief of Bharata race, I dare not leave my mother.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः",
+      "combined_translation": "36-37"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "युधिष्ठिरमुवाचेदं बाष्पव्याकुललोचनः। नोत्सहेऽहं परित्यक्तुं मातरं भरतर्षभ॥३७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः",
+      "english_ref": 36,
+      "combined_translation": "36-37"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "प्रतियातु भवान् क्षिप्रं तपस्तप्स्याम्यहं विभो। इहैव शोषयिष्यामि तपसेदं कलेवरम्॥३८॥",
+      "english": "Do you return to the capital soon. I shall practice penances, O powerful one! Even here I shall reduce my body by penances, engaged in serving the feet of the king and of these my mothers!' To Kunti, after embracing that mighty armed here, addressed him thus, Depart, O son! Do not say so.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः",
+      "combined_translation": "38-39"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "पादशुश्रूषणे रक्तो राज्ञो मात्रोस्तथानयोः। तमुवाच ततः कुन्ती परिष्वज्य महाभुजम्॥३९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः",
+      "english_ref": 38,
+      "combined_translation": "38-39"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "गम्मतां पुत्र मैवं त्वं वोचः कुरुः वचो मम। आगमा वः शिवाः सन्तु स्वस्था भवत पुत्रकाः॥४०॥",
+      "english": "Obey my behest! Do all of you go hence. Let peace by yours! You sons, let happiness be yours!",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "उपरोधो भवेदेवमस्माकं तपसः कृते। त्वत्स्नेहपाशबद्धा च हीयेयं तपसः परात्॥४१॥",
+      "english": "By your stay here, our penances will be impeded. Fettered by the ties of my affection for you. I shall fall off from my high penance's.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "तस्मात्पुत्रक गच्छ त्वं शिष्टमल्पं च नः प्रभो। एवं संस्तम्भितं वाक्यैः कुन्त्या बहुविधैर्मनः॥४२॥",
+      "english": "Therefore, O son, leave us. Short is the period of our existence, O you of great power. By these and various other speeches of Kunti, the minds of Sahadeva and king Yudhishthira were composed. Those foremost ones of Kuru's race, having received the permission of their mother as also of the (old) monarch, saluted the latter and began to take his leave.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः",
+      "combined_translation": "42-43"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "सहदेवस्य राजेन्द्र राज्ञश्चैव विशेषतः। ते मात्रा समनुज्ञाता राज्ञा च कुरुपुङ्गवाः॥४३॥",
+      "english": null,
+      "bhavadeepa": "शिष्टमायुरिति शेषः॥४२॥",
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः",
+      "english_ref": 42,
+      "combined_translation": "42-43"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "अभिवाद्य कुरुश्रेष्ठमामन्त्रयितुमारभन्।\n              युधिष्ठिर उवाच।\n              राज्यं प्रतिगमिष्यामः शिवेन प्रतिनन्दिताः॥४४॥",
+      "english": "Yudhishthira said Delighted by auspicious blessings, we shall return to the capital. Indeed, O king having received your permission, we shall leave this hermitage freed from every sin.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः",
+      "combined_translation": "44-45"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "अनुज्ञातास्त्वया राजन् गमिष्यामो विकल्मषाः। एवमुक्तः स राजर्षिर्धर्मराज्ञा महात्मना॥४५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः",
+      "english_ref": 44,
+      "combined_translation": "44-45"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "अनुजज्ञे स कौरव्यमभिनन्द्य युधिष्ठिरम्। भीमं च बलिनां श्रेष्ठं सन्त्वयामास पार्थिवः॥४६॥",
+      "english": "Thus addressed by the great king Yudhishthira the just, that royal sage, viz., Dhritarashtra, blessed Yudhishthira and gave him permission.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "स चास्य सम्यङ्मेधावी प्रत्यपद्यत वीर्यवान्। अर्जुनं च समाश्लिष्य यमौ च पुरुषर्षभौ॥४७॥",
+      "english": "The king comforted Bhima, that foremost of all persons gifted with great strength. Gifted with great energy and great intelligence, Bhima showed his sub-missiveness to the king.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "अनुजज्ञे स कौरव्यः परिष्वज्याभिनन्द्य च। गान्धार्या चाभ्यनुज्ञाताः कृतपादाभिवादनाः॥४८॥",
+      "english": "Embracing Arjuna and clasping those foremost of men, viz., the twins also, and blessing them repeatedly, the Kuru king gave them permission to go.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "जनन्या समुपाघ्राताः परिष्वक्ताश्च ते नृपम्। चक्रुः प्रदक्षिणं सर्वे वत्सा इव निवारणे॥४९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "पुनः पुनर्निरीक्षन्तः प्रचक्रुस्ते प्रदक्षिणम्। द्रौपदीप्रमुखाश्चैव सर्वाः कौरवयोषितः॥५०॥",
+      "english": "They adored the feet of Gandhari and received her blessings also. Their mother Kunti then smelt their heads, and dismissed them. They then went round the king like calves, when prevented from sucking, their dams, Indeed, they repeatedly walked round him, loO king steadfastly at him.",
+      "bhavadeepa": "नृपं प्रदक्षिणं चक्रुः। निवारणे स्तनपानादिति शेषः॥४९॥",
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "न्यायतः श्वशुरे वृत्तिं प्रयुज्य प्रययुस्ततः। श्वश्रूभ्यां समनुज्ञाताः परिष्वज्याभिनन्दिताः॥५१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "सन्दिष्टाश्चेति कर्तव्यं प्रययुर्भर्तृभिः सह। ततः प्रजज्ञे निनदः सूतानां युज्यतामिति॥५२॥",
+      "english": "Gandhari and Kunti embraced each of hem, and blessing them bade them go. Their mothers-in-law instructed them as to how they should behave themselves. Getting leave, they then departed, with their husband.",
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "उष्ट्राणां क्रोशतां चापि हयानां हेषतामपि। ततो युधिष्ठिरो राजा सदारः सहसैनिकः। नगरं हास्तिनपुरं पुनरायात्सबान्धवः॥५३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 36,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "पुत्रदर्शनपर्व - २",
+      "adhyaya_name": "षड्त्रिंशोऽध्यायः"
+    }
+  ]
+}

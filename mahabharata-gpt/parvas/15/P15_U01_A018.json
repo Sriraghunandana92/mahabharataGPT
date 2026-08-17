@@ -1,0 +1,269 @@
+{
+  "adhyaya_id": "P15_U01_A018",
+  "book": 15,
+  "parva_name": "आश्रमवासिकपर्व",
+  "upaparva_name": "आश्रमवासपर्व - १",
+  "adhyaya_name": "अष्टदशोऽध्यायः",
+  "chapter": 18,
+  "verse_count": 25,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वैशम्पायन उवाच।\n              कुन्त्यास्तु वचनं श्रुत्वा पाण्डवा राजसत्तम। व्रीडिताः संन्यवर्तन्त पाञ्चाल्या सहिताऽनघाः॥१॥",
+      "english": "Hearing these words of Kunti, the sinless Pandavas, O best of kings, became ashamed. They, therefore, desisted, along with the princess of Panchala, from following her.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "ततः शब्दो महानेव सर्वेषामभवत्तदा। अन्तःपुराणां रुदतां दृष्ट्वा कुन्ती तथागताम्॥२॥",
+      "english": "Seeing Kunti determined upon going into the forest, the ladies of the Pandava family uttered loud lamentations.",
+      "bhavadeepa": "कुन्त्या इति॥१॥",
+      "chapter": 18,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "प्रदक्षिणमथावृत्य राजानं पाण्डवास्तदा। अभिवाद्य न्यवर्तन्त पृथां तामनिवर्त्य वै॥३॥",
+      "english": "The Pandavas then went round the king and saluted him duly. They ccased to follow further, having failed to persuade Pritha to return.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "ततोऽब्रवीन्महातेजा धृतराष्ट्रोऽम्बिकासुतः। गान्धारी विदुरं चैव समाभाष्यावगृह्य च॥४॥",
+      "english": "Then Ambika's energetic son, viz., Dhritarashtra, addressing Gandhari and Vidura and supporting himself on them, said, Let the royal mother of Yudhishthira cease to go with us! What Yudhishthira has said, is all very true.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "अष्टदशोऽध्यायः",
+      "combined_translation": "4-21"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "युधिष्ठिरस्य जननी देवी साधु निवर्त्यताम्। यथा युधिष्ठिरः प्राह तत्सर्वं सत्यमेव हि॥५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "अष्टदशोऽध्यायः",
+      "english_ref": 4,
+      "combined_translation": "4-21"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "पुत्रैश्वर्यं महदिदमपास्य च महाफलम्। का नु गच्छेद्वनं दुर्गं पुत्रानुत्सृज्य मूढवत्॥६॥",
+      "english": "Renouncing this high prosperity of her sons, abandoning those high fruits that may be hers, why should she go into the inaccessible forest, leaving her children like a person of little intelligence?",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "राज्यस्थया तपस्तप्तुं कर्तुं दानव्रतं महत्। अनया शक्यमेवाद्य श्रूयतां च वचो मम॥७॥",
+      "english": "Living in the enjoyment of sovereignty, she is capable of practicing penances and observing the great vow of gifts. Let her, therefore, listen to my words.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "गान्धारि परितुष्टोऽस्मि वध्वाः शुश्रूषणेन वै। तस्मात्त्वमेनां धर्मज्ञे समनुज्ञातुमर्हसि॥८॥",
+      "english": "O Gandhari, I have been much pleased with the services rendered to me by this daughter-inlaw of mine. Conversant as you are with all duties, you should command her to return.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "इत्युक्ता सौबलेयी तु राज्ञा कुन्तीमुवाच ह। तत्सर्वं राजवचनं स्वं च वाक्यं विशेषवत्॥९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "न च सा वनवासाय देवी कृतमतिं तदा। शक्नोत्युपावर्तयितुं कुन्ती धर्मपरां सतीम्॥१०॥",
+      "english": "She, however, could not make Kunti to desist inasmuch as that chaste lady, devoted to virtue, had determined upon living in the forest.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "तस्यास्तां तु स्थितिं ज्ञात्वा व्यवसायं कुरुस्त्रियः। निवृत्तांश्च कुरुश्रेष्ठान् दृष्ट्वा प्ररुरुदुस्तदा॥११॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "उपावृत्तेषु पार्थेषु सर्वास्वेव वधूषु च। ययौ राजा महाप्राज्ञो धृतराष्ट्रो वनं तदा॥१२॥",
+      "english": "After all the sons of Pritha and all the ladies had returned homewards, the highly wise king Yudhishthira his journey to the forest.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "पाण्डवाश्चातिदीनास्ते दुःखशोकपरायणाः। यानैः स्त्रीसहिताः सर्वे पुरं प्रविविशुस्तदा॥१३॥",
+      "english": "The Pandavas, exceedingly cheerless and stricken with grief and sorrow accompanied by their wives, returned to the city, on their cars.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "तदहृष्टमनानन्दं गतोत्सवमिवाभवत्। नगरं हास्तिनपुरं सस्त्रीवृद्धकुमारकम्॥१४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "सर्वे चासन्निरुत्साहाः पाण्डवा जातमन्यवः। कुन्त्या हीनाः सुदुःखार्ता वत्सा इव विनाकृताः॥१५॥",
+      "english": "Afflicted with grief, the Pandavas were shorn of energy. Abandoned by Kunti, they were deeply afflicted with grief, like calves destitute of their dais.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "धृतराष्ट्रस्तु तेनाला गत्वा सुमहदन्तरम्। ततो भागीरथीतीरे निवासमकरोत्प्रभुः॥१६॥",
+      "english": "Dhritarashtra reached that day a place far distant from the city. The powerful king arrived at last on the banks of the Bhagirathi and took rest there for the night.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "प्रादुष्कृता यथान्यायमग्नयो वेदपारगैः। व्यराजन्त द्विजश्रेष्ठैस्तत्र तत्र तपोवने॥१७॥",
+      "english": "Brahmanas knowing the Vedas duly ignited their sacred fires in that retreat of ascetics. Surrounded by those foremost of Brahmanas, those sacred fires shonc forth in beauty. The sacred fire of the old king was also lighted up.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "अष्टदशोऽध्यायः",
+      "combined_translation": "17-18"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "प्रादुष्कृताग्निरभवत्स च वृद्धो नराधिपः। स राजाग्नीन्पर्युपास्य हुत्वा च विधिवत्तदा॥१८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "अष्टदशोऽध्यायः",
+      "english_ref": 17,
+      "combined_translation": "17-18"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "सन्ध्यागतं सहस्रांशुमुपातिष्ठत भारत। विदुरः सञ्जयश्चैव राज्ञः शय्यां कुशैस्ततः॥१९॥",
+      "english": "Sitting near his own fire, he poured libations on it according to due rites, and then adored the thousand-raycd sun as he was on the point of setting.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "चक्रतुः कुरुवीरस्य गान्धार्याश्चाविदूरतः। गान्धार्याः सन्निकर्षे तु निषसाद कुशे सुखम्॥२०॥",
+      "english": "Then Vidura and Sanjaya made a bed for the king by spreading some blades of Kusha grass. Near the bed of that Kuru hero they made another for Gandhari.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "युधिष्ठिरस्य जननी कुन्ती साधुव्रते स्थिता। तेषां संश्रवणे चापि निषेदुर्विदुरादयः॥२१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "अष्टदशोऽध्यायः",
+      "english_ref": 4,
+      "combined_translation": "4-21"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "याजकाश्च यथोद्देशं द्विजा ये चानुयायिनः। प्राधीतद्विजमुख्या सा सम्प्रज्वलितपावका॥२२॥",
+      "english": "Within bearing-distance of those three, slept Vidura and others. The Yajaka Brahmanas and other followers of the king laid slept on their respective beds.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "बभूव तेषां रजनी ब्राह्मीव प्रीतिवर्धिनी। ततो रात्र्यां व्यतीतायां कृतपुर्वाह्निकक्रियाः॥२३॥",
+      "english": "The foremost of Brahmanas, who were there, chanted aloud many sacred hymns. The sacrificial fires blazed forth all around. That night, therefore, seemed as delightful to them as a Brahmi night.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "हुत्वाग्निं विधिवत्सर्वे प्रययुस्ते यथाक्रमम्। उदङ्मुखा निरीक्षन्त उपवासपरायणाः॥२४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "स तेषामतिदुःखोऽभून्निवासः प्रथमेऽहनि। शोचतां शोचमानानां पौरजानपदैर्जनैः॥२५॥",
+      "english": "Their first days' expe:\"ence of the forest proved very painful to them of grieving hearts, them who were grieved by the inhabitants of both the city and the provinces of the Kuru kingdom.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "आश्रमवासिकपर्व",
+      "upaparva_name": "आश्रमवासपर्व - १",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    }
+  ]
+}

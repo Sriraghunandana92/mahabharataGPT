@@ -1,0 +1,243 @@
+{
+  "adhyaya_id": "P12_U03_A238",
+  "book": 12,
+  "parva_name": "शान्तिपर्व",
+  "upaparva_name": "मोक्षधर्मपर्व",
+  "adhyaya_name": "अष्टात्रिंशदधिकद्विशततमोऽध्यायः",
+  "chapter": 238,
+  "verse_count": 21,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "व्यास उवाच । एषा पूर्वतरा वृत्तिाह्मणस्य विधीयते । ज्ञानवानेव कर्माणि कुर्वन् सर्वत्र सिद्ध्यति ॥१॥",
+      "english": "Vyasa said These then are the obligatory acts laid down for Brahmanas. One gifted with knowledge, always attains to success by going through (the prescribed acts).",
+      "bhavadeepa": null,
+      "chapter": 238,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "मोक्षधर्मपर्व",
+      "adhyaya_name": "अष्टात्रिंशदधिकद्विशततमोऽध्यायः",
+      "combined_translation": "1-1"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "तत्र चेन्न भवेदेवं संशयः कर्मसिद्धये । कि तु कर्म स्वभावोऽयं ज्ञानं कर्मेति वा पुनः ॥२॥",
+      "english": "If no doubt is entertained about acts, then acis done are sure to lead to success. The doubt we speak of is whether acts are obligatory or optional.",
+      "bhavadeepa": null,
+      "chapter": 238,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "मोक्षधर्मपर्व",
+      "adhyaya_name": "अष्टात्रिंशदधिकद्विशततमोऽध्यायः",
+      "combined_translation": "2-2"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "तत्र वेदविधिः स स्याज्ज्ञानं चेत्पुरुषं प्रति । उपपत्त्युपलब्धिभ्यां वर्णयिष्यामि तच्छृणु ॥३॥",
+      "english": "About this if acts, are ordained for man for gaining knowledge, they should be considered as obligatory. I shall now describe them by the light of inferences and experience. Here me. some",
+      "bhavadeepa": null,
+      "chapter": 238,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "मोक्षधर्मपर्व",
+      "adhyaya_name": "अष्टात्रिंशदधिकद्विशततमोऽध्यायः",
+      "combined_translation": "3-4"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "पौरुषं कारणं केचिदाहुः कर्मसु मानवाः । दैवमेके प्रशंसन्ति स्वभावमपरे जनाः ॥४॥",
+      "english": "Regarding acts men hold that Exertion is their root. Others say that Necessity is their cause. Others, again, hold that Nature is the cause.",
+      "bhavadeepa": null,
+      "chapter": 238,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "मोक्षधर्मपर्व",
+      "adhyaya_name": "अष्टात्रिंशदधिकद्विशततमोऽध्यायः",
+      "combined_translation": "4-6"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "पौरुषं कर्म दैवं च कालवृत्तिस्वभावतः । त्रयमेतत्पृथग्भूतमविवेकं तु केचन ॥५॥",
+      "english": "Some hold that acts are the outcome of both Exertion and Necessity. Some hold that acts originate from Time, Exertion, and Nature. Some hold that of the three, one only is the cause. Some hold that all three combined are the cause.",
+      "bhavadeepa": null,
+      "chapter": 238,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "मोक्षधर्मपर्व",
+      "adhyaya_name": "अष्टात्रिंशदधिकद्विशततमोऽध्यायः",
+      "combined_translation": "5-7"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "एतदेवं च नैवं च न चोभे नानुभे तथा । कर्मस्था विषयं ब्रूयुः सत्त्वस्थाः समदर्शिनः ॥६॥",
+      "english": "Some persons who perform acts say, with respect to all objects that they exist, that they do not exist, that they cannot be said to exist, that they cannot be said not to exist, that it is not that they cannot be said to exist, and lastly, that it is not that they cannot be said not to exist. These then are the diverse views entertained by men. The Yogins, however, see Brahma as the universal cause.",
+      "bhavadeepa": null,
+      "chapter": 238,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "मोक्षधर्मपर्व",
+      "adhyaya_name": "अष्टात्रिंशदधिकद्विशततमोऽध्यायः",
+      "combined_translation": "6-8"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "त्रेतायां द्वापरे चैव कलिजाश्च ससंशयाः । तपस्विनः प्रशान्ताश्च सत्त्वस्थाश्च कृते युगे ॥७॥",
+      "english": "The men of the Treta, the Dvapara, and the Kali Yugas, are filled with doubts. The men, however, the Krita Yuga, are given to penances, endued with tranquil souls, and observant of righteousness,",
+      "bhavadeepa": null,
+      "chapter": 238,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "मोक्षधर्मपर्व",
+      "adhyaya_name": "अष्टात्रिंशदधिकद्विशततमोऽध्यायः",
+      "combined_translation": "7-9"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "अपृथग्दर्शनाः सर्वे ऋक्सामसु यजुःषु च । कामद्वेषौ पृथक् कृत्वा तपः कृत उपासते ॥८॥",
+      "english": "In that age all men consider the Richs, the Samans, and the Yajushes as Identical, despite their seeming diversity. Analysing desire and hatred, they adore only penance.",
+      "bhavadeepa": null,
+      "chapter": 238,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "मोक्षधर्मपर्व",
+      "adhyaya_name": "अष्टात्रिंशदधिकद्विशततमोऽध्यायः",
+      "combined_translation": "8-10"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "तपोधर्मेण संयुक्तस्तपोनित्यः सुसंशितः । तेन सर्वानवाप्नोति कामान्यान्मनसेच्छति ॥९॥",
+      "english": "Given to the practice of penances, firm in them, and rigid in their observance, one acquires the fruition of all desires by penances alone.",
+      "bhavadeepa": null,
+      "chapter": 238,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "मोक्षधर्मपर्व",
+      "adhyaya_name": "अष्टात्रिंशदधिकद्विशततमोऽध्यायः",
+      "combined_translation": "9-11"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "तपसा तदवाप्नोति यद्भूत्वा सृजते जगत् । तद्भूतश्च ततः सर्वभूतानां भवति प्रभुः ॥१०॥",
+      "english": "By penance one acquires to that portion, by becoming which one creates the universe. By penance one becomes that by which one becomes the powerful master of all things.",
+      "bhavadeepa": null,
+      "chapter": 238,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "मोक्षधर्मपर्व",
+      "adhyaya_name": "अष्टात्रिंशदधिकद्विशततमोऽध्यायः",
+      "combined_translation": "10-12"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "तदुक्तं वेदवादेषु गहनं वेददर्शिभिः । वेदान्तेषु पुनर्व्यक्तं कर्मयोगेन लक्ष्यते ॥११॥",
+      "english": "That Brahma has been expounded in the injunctions of the Vedas. For all that, Brahma cannot be conceived by even those who are conversant with those declarations. Once more has Brahma been described in the Vedanta. Brahına, however, cannot be seen by means of acts.",
+      "bhavadeepa": null,
+      "chapter": 238,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "मोक्षधर्मपर्व",
+      "adhyaya_name": "अष्टात्रिंशदधिकद्विशततमोऽध्यायः",
+      "combined_translation": "11-15"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "आलम्भयज्ञाः क्षत्राश्च हविर्यज्ञा विशः स्मृताः । परिचारयज्ञाः शूद्राश्च जपयज्ञा द्विजातयः ॥१२॥",
+      "english": "The sacrifices ordained for Brahmanas consist in recitation, that for Kshatriyas consists in the destruction of (clean) animals for the satisfaction of the gods; that for Vaishyas consists in the rearing of crops and the kecp of domestic animals and that for Shudras in menial service of the three other castes.",
+      "bhavadeepa": null,
+      "chapter": 238,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "मोक्षधर्मपर्व",
+      "adhyaya_name": "अष्टात्रिंशदधिकद्विशततमोऽध्यायः",
+      "combined_translation": "12-16"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "परिनिष्ठितकार्यो हि स्वाध्यायेन द्विजो भवेत् । कुर्यादन्यन्न वा कुर्यान्मैत्रो ब्राह्मण उच्यते ॥१३॥",
+      "english": "By observing the duties sanctioned for him, and by studying the Vedas and other scriptures, one becomes a twice-born one whether one does any other deed or not, he becomes a Brahmana by becoming the friend of all creatures.",
+      "bhavadeepa": null,
+      "chapter": 238,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "मोक्षधर्मपर्व",
+      "adhyaya_name": "अष्टात्रिंशदधिकद्विशततमोऽध्यायः",
+      "combined_translation": "13-17"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "त्रेतादौ केवला वेदा यज्ञा वर्णाश्रमास्तथा । संरोधादायुषस्त्वेते व्यस्यन्ते द्वापरे युगे ॥१४॥",
+      "english": "In the beginning of Treta, the Vedas and sacrifices and the distribution of caste and the several modes of life existed in full. On account of the duration of life being decreased in Dvapara, those suffer decline.",
+      "bhavadeepa": null,
+      "chapter": 238,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "मोक्षधर्मपर्व",
+      "adhyaya_name": "अष्टात्रिंशदधिकद्विशततमोऽध्यायः",
+      "combined_translation": "14-18"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "द्वापरे विप्लवं यान्ति वेदाः कलियुगे तथा । दृश्यन्ते नापि दृश्यन्ते कलेरन्ते पुनः किल ॥१५॥",
+      "english": "In Dvapara age as also in the Kali, the Vedas become of doubtful interpretation. Towards the close of Kali again, it is doubtful if they ever can be seen by the eye.",
+      "bhavadeepa": null,
+      "chapter": 238,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "मोक्षधर्मपर्व",
+      "adhyaya_name": "अष्टात्रिंशदधिकद्विशततमोऽध्यायः",
+      "combined_translation": "15-19"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "उत्सीदन्ति स्वधर्माश्च तत्राधर्मेण पीडिताः । गवां भूमेश्च ये चापामोषधीनां च ये रसाः ॥१६॥",
+      "english": "In that age, the duties of the respective castes disappear, and men become possessed by sin, the juicy attributes of kine, of the earth, of water, and of herbs, disappear.",
+      "bhavadeepa": null,
+      "chapter": 238,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "मोक्षधर्मपर्व",
+      "adhyaya_name": "अष्टात्रिंशदधिकद्विशततमोऽध्यायः",
+      "combined_translation": "16-21"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "अधर्मान्तर्हिता वेदा वेदधर्मास्तथाऽऽश्रमाः । विक्रियन्ते स्वधर्मस्थाः स्थावराणि चराणि च ॥१७॥",
+      "english": "Through (universal) sin the Vedas disappear, and with them all the duties laid down in them, as also the duties of the four imodes of life. They who follow the duties, of their own order become afflicted, and all mobile and immobile objects suffer a change for the worse.",
+      "bhavadeepa": null,
+      "chapter": 238,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "मोक्षधर्मपर्व",
+      "adhyaya_name": "अष्टात्रिंशदधिकद्विशततमोऽध्यायः",
+      "combined_translation": "17-22"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "यथा सर्वाणि भूतानि वृष्टिर्भौमानि वर्षति । सृजते सर्वतोऽङ्गानि तथा वेदा युगे युगे ॥१८॥",
+      "english": "As the rain from the sky causes all products of the Earth to grow, likewise the Veda develops all its auxilliaries.",
+      "bhavadeepa": null,
+      "chapter": 238,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "मोक्षधर्मपर्व",
+      "adhyaya_name": "अष्टात्रिंशदधिकद्विशततमोऽध्यायः",
+      "combined_translation": "18-23"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "निश्चितं कालनानात्वमनादिनिधनं च यत् । कीर्तितं यत्पुरस्तान्मे सूते यच्चात्ति च प्रजाः ॥१९॥",
+      "english": "Forsooth, Time assumes various shapes. It has neither beginning nor end. It is Time which creates all creatures and again devours them. I have already spoken of it to you.",
+      "bhavadeepa": null,
+      "chapter": 238,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "मोक्षधर्मपर्व",
+      "adhyaya_name": "अष्टात्रिंशदधिकद्विशततमोऽध्यायः",
+      "combined_translation": "19-24"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "यच्चेदं प्रभवः स्थानं भूतानां संयमो यमः । स्वभावेनैव वर्तन्ते द्वन्द्वसृष्टानि भूरिशः ॥२०॥",
+      "english": "Time is the origin of all creatures; it is Time which makes them grow; Time is their destroyer; and lastly it is Time which is their ruler. Subject to pairs of opposites, innumerable sorts of creatures rest on Time, according to their own natures.",
+      "bhavadeepa": null,
+      "chapter": 238,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "मोक्षधर्मपर्व",
+      "adhyaya_name": "अष्टात्रिंशदधिकद्विशततमोऽध्यायः",
+      "combined_translation": "20-25"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "सर्गः कालो धृतिर्वेदाः कर्ता कार्यं क्रियाफलम् । एतत्ते कथितं तात यन्मां त्वं परिपृच्छसि ॥२१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 238,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "मोक्षधर्मपर्व",
+      "adhyaya_name": "अष्टात्रिंशदधिकद्विशततमोऽध्यायः",
+      "english_ref": 20,
+      "combined_translation": "20-25"
+    }
+  ]
+}

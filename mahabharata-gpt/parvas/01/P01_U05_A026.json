@@ -1,0 +1,97 @@
+{
+  "adhyaya_id": "P01_U05_A026",
+  "book": 1,
+  "parva_name": "आदिपर्व",
+  "upaparva_name": "आस्तिकपर्व",
+  "adhyaya_name": "षड्विंशोऽध्यायः",
+  "chapter": 26,
+  "verse_count": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "सौतिरुवाच।\n              एवं स्तुतस्तदा कद्र्वा भगवान्हरिवाहनः। नीलजीमूतसंघातैः सर्वमम्बरमावृणोत्॥१॥",
+      "english": "Sauti said: Having been thus adored by Kadru, the God, having the best horses to ride, covered all the sky with blue clouds.",
+      "bhavadeepa": "यज्ञफलदोऽपि त्वमेवेत्याह । त्वं विप्रैरिति । त्वद्धेतोस्त्वत्प्राप्तये । विविदिषन्ति यज्ञेनेत्यादिश्रुतेः । वेदाङ्गानि षट् यज्ञसागुण्यार्थम् । तत्र शिक्षां पाठशुध्यर्थं कल्पः प्रयोगज्ञानार्थं व्याकरणमूहादिसिद्ध्यर्थम् । छन्दो गायत्र्यो याज्यानुवाक्या भवन्तीति विध्यपेक्षितगायत्र्यादिज्ञानार्थम् । निरुक्तं वेदार्थज्ञानार्थम् । ज्योतिषं कर्मकालज्ञानार्थमिति । एतान्येव वेदाङ्गानि ॥१७॥",
+      "chapter": 26,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "षड्विंशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "मेघानाज्ञापयामास वर्षध्वममृतं शुभम्। ते मेघा मुमुचुस्तोयं प्रभूतं विद्युदुज्ज्वलाः॥२॥",
+      "english": "He commanded the clouds saying. “Pour down your life-giving and beneficial showers.\" Those clouds, luminous with lightning, then poured abundant water.",
+      "bhavadeepa": "षड्विंशतितमः अध्यायः एवमिति । हरयोऽश्वाः वाहने रथे यस्य स हरिवाहनः ॥१॥",
+      "chapter": 26,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "षड्विंशोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "परस्परमिवात्यर्थं गर्जन्तः सततं दिवि। संवर्तितमिवाकाशं जलदैः सुमहाद्भुतैः॥३॥",
+      "english": "On account of the wonderful and terribly roaring clouds, that incessantly begot water, the sky looked as if the end of the Yuga had come. And in consequence of myriads of waves, caused in the falling torrents, of the deep roars of the clouds, the flashing of lightnings, the violence of the wind and the general agitation, the sky looked, as if it was dancing in madness.",
+      "bhavadeepa": null,
+      "chapter": 26,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "षड्विंशोऽध्यायः",
+      "combined_translation": "3-4"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "सृजद्भिरतुलं तोयमजस्रं सुमहारवैः। संप्रनृत्तमिवाकाशं धारोर्मिभिरनेकशः॥४॥",
+      "english": null,
+      "bhavadeepa": "संवर्तितं संवर्तः कल्पान्तः सञ्जातोऽस्मिन्निति संवर्तितमिव ॥३॥",
+      "chapter": 26,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "षड्विंशोऽध्यायः",
+      "english_ref": 3,
+      "combined_translation": "3-4"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "मेघस्तनितनिर्घोषौर्विद्युत्पवनकम्पितैः। तैर्मेघैः सततासारं वर्षद्भिरनिशं तदा॥५॥",
+      "english": "The sky thus became dark, the rays of the sun and the moon disappeared on account of the incessant downpour. And upon Indra's causing this downpour, the Nagas became exceedingly delighted.",
+      "bhavadeepa": null,
+      "chapter": 26,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "षड्विंशोऽध्यायः",
+      "combined_translation": "5-6"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "नष्टचन्द्रार्ककिरणमम्बरं समपद्यत। नागानामुत्तमो हर्षस्तथा वर्षति वासवे॥६॥",
+      "english": null,
+      "bhavadeepa": "सततासारम् अनवच्छिन्नधारासंपातं यथा स्यात्तथा ॥५॥",
+      "chapter": 26,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "षड्विंशोऽध्यायः",
+      "english_ref": 5,
+      "combined_translation": "5-6"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "आपूर्यत मही चापि सलिलेन समन्ततः। रसातलमनुप्राप्तं शीतलं विमलं जलम्॥७॥",
+      "english": "The world became full of water; the cool and clear water reached even the nether regions.",
+      "bhavadeepa": null,
+      "chapter": 26,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "षड्विंशोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "तदा भूरभवच्छन्ना जलोर्मिभिरनेकशः। रामणीयकमागच्छन्मात्रा सह भुजंगमाः॥८॥",
+      "english": "When there became countless watery waves, the snakes with their mother reached the island called Ramaniyaka.",
+      "bhavadeepa": null,
+      "chapter": 26,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "षड्विंशोऽध्यायः"
+    }
+  ]
+}

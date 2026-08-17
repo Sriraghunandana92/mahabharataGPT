@@ -1,0 +1,334 @@
+{
+  "adhyaya_id": "P14_U02_A077",
+  "book": 14,
+  "parva_name": "आश्वमेधिकपर्व",
+  "upaparva_name": "अथानुगीतपर्व - २",
+  "adhyaya_name": "सप्तसप्ततितमोऽध्यायः",
+  "chapter": 77,
+  "verse_count": 32,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वैशम्पायन उवाच।\n              सैन्धवैरभवद्युद्धं ततस्तस्य किरीटिनः। हतशेषैर्महाराज हतानां च सुतैरपि॥१॥",
+      "english": "There took place a great battle between the diadem decked Arjuna and the hundreds of Saindhavas who still lived after the destruction of their clan.",
+      "bhavadeepa": null,
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "तेऽवतीर्णमुपश्रुत्य विषयं श्वेतवाहनम्। प्रत्युद्ययुरमृष्यन्तो राजानः पाण्डवर्षभम्॥२॥",
+      "english": "Hearing that he of white horses had entered their territories, those Kshatriyas came out against him, unable to bear that foremost one of Pandu's race.",
+      "bhavadeepa": "सैन्धवैरिति॥१॥",
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "अश्वं च तं परामृश्य विषयान्ते विषोपमाः। न भयं चक्रिरे पार्थाद्भीमसेनादनन्तरात्॥३॥",
+      "english": "Those warriors who were as terrible as dreadful poison, finding the horse within their dominion, seized it without being filled with any fear of Partha who was the younger brother of Bhimasena.",
+      "bhavadeepa": null,
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "तेऽविदूराद्धनुष्पाणिं यज्ञियस्य हयस्य च। बीभत्सुं प्रत्यपद्यन्त पदातिनमवस्थितम्॥४॥",
+      "english": "Advancing against Bibhatsu who waited on foot, armed with his bow, upon the sacrificial horse, they attacked him from a near point.",
+      "bhavadeepa": null,
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "ततस्ते तं महावीर्या राजानः पर्यवारयन्। जिगीषन्तो नरव्याघ्रं पूर्वं विनिकृता युधि॥५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "ते नामान्यपि गोत्राणि कर्माणि विविधानि च। कीर्तयन्तस्तदा पार्थं शरवर्षैरवाकिरन्॥६॥",
+      "english": "Proclaiming their names and families and their various feats, they showered their arrows on Partha.",
+      "bhavadeepa": null,
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "ते किरन्तः शरव्रातान्वारणप्रतिवारणान्। रणे जयमभीप्सन्तः कौन्तेयं पर्यवारयन्॥७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "ते समीक्ष्य च तं कृष्णमुग्रकर्माणमाहवे। सर्वे युयुधिरे वीरा रथस्थास्तं पदातिनम्॥८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "ते तमाजघ्निरे वीरं निवातकवचान्तकम्। संशप्तकनिहन्तारं हन्तारं सैन्धवस्य च॥९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "ततो रथसहस्रेण हयानामयुतेन च। कोष्ठकीकृत्य बीभत्सुं प्रहृष्टमनसोऽभवन्॥१०॥",
+      "english": "Surrounding him on all sides as within a cage by means of a thousand cars and ten thousand horse, those brave warriors expressed their joy.",
+      "bhavadeepa": null,
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "तं स्मरन्तो वधं वीराः सिन्धुराजस्य चाहवे। जयद्रथस्य कौरव्य समरे सव्यसाचिना॥११॥",
+      "english": "Recollecting the destruction by Dhananjaya of Jayadratha in battle, O you of Kuru's race, they poured heavy showers of arrows on that hero like a mass of clouds showering a heavy downpour. Overwhelmed with that arrow shower, Arjuna looked like the sun covered by a cloud.",
+      "bhavadeepa": null,
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः",
+      "combined_translation": "11-12"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "ततः पर्जन्यवत्सर्वे शरवृष्टीरवासृजन्। तैः कीर्णः शुशुभे पार्थो रविर्मेघान्तरे यथा॥१२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः",
+      "english_ref": 11,
+      "combined_translation": "11-12"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "स शरैः समवच्छन्नश्चकाशे पाण्डवर्षभः। पञ्जरान्तरसञ्चारी शकुन्त इव भारत॥१३॥",
+      "english": "That foremost son of Pandu, in the midst of that cloud of arrows, resembled a bird in the midst of an iron cage, O Bharata.",
+      "bhavadeepa": null,
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "ततो हाहाकृतं सर्वं कौन्तेये शरपीडिते। त्रैलोक्यमभवद्राजन् रविरासीच्च निष्प्रभः॥१४॥",
+      "english": "Seeing the son of Kunti thus afflicted with arrows, cries of oh and alas were uticred by the three worlds, and the Sun himself became shorn of his splendour.",
+      "bhavadeepa": null,
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "ततो ववौ महाराज मारुतो लोमहर्षणः। राहुरग्रसदादित्यं युगपत्सोममेव च॥१५॥",
+      "english": "Then, O king, a terrible wind began to blow, and Rahu swallowed up both the Sun and the Moon simultaneously.",
+      "bhavadeepa": null,
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "उल्काश्च जघ्निरे सूर्यं विकीर्यन्त्यः समन्ततः। वेपथुश्चाभवद्राजन्कैलासस्य महागिरेः॥१६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "मुमुचुः श्वासमत्युष्णं दुःखशोकसमन्विताः। सप्तर्षयो जातभयास्तथा देवर्षयोऽपि च॥१७॥",
+      "english": "The seven (celestial) Rishis, as also the other Rishis of Heaven, stricken with fear, and afflicted with grief and sorrow, breathed hot sights.",
+      "bhavadeepa": "विकीर्यन्त्य उल्काः सूर्यम जघ्निरे ताभिश्च विकीर्यमाणाभिः कैलासादीनां वेपथुः सप्तर्ष्यादीनां श्वासश्चाभवत् ता एव शशं चन्द्रस्थं विनिर्भिद्य शशिनो मण्डलं प्रति परित अपतन्निति त्रयाणां सम्बन्धः॥१६॥",
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "शशं चाशु विनिर्भिद्य मण्डलं शशिनोऽपतत्। विपरीता दिशश्चापि सर्वा धूमाकुलास्तथा॥१८॥",
+      "english": "Piercing through the sky, those meteors fell on the Lunar disc as well. All the points of the compass became filled with smoke and assumed a strange aspect.",
+      "bhavadeepa": null,
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "रासभारुणसङ्काशा धनुष्मन्तः सविद्युतः। आवृत्य गगनं मेघा मुमुचुर्मांसशोणितम्॥१९॥",
+      "english": null,
+      "bhavadeepa": "ततः खात्तु इति पाठे चन्द्रमण्डलादूर्ध्वदेशात्पतिता उल्का तत् भित्वाधोपतदित्यर्थः॥१८॥",
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "एवमासीत्तदा वीरे शरवर्षेण संवृते। फाल्गुने भरतश्रेष्ठ तदद्भुतमिवाभवत्॥२०॥",
+      "english": "Such was the aspect which all nature assumed when that hero was overwhelmed with showers of arrows. Indeed, when Phalguna, that foremost one among the Bharatas, was thus afflicted, those marvels were witnessed.",
+      "bhavadeepa": "रासभवर्णश्चारुणश्च तयोर्मिश्रीभावो रासभारुणो वर्णचिशेषः॥१९॥",
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "तस्य तेनावकीर्णस्य शरजालेन सर्वतः। मोहात्पपात गाण्डीवमावापश्च करादपि॥२१॥",
+      "english": "Overwhelmed by that dense cloud of arrows, Arjuna became stupefied. The bow, Gandiva, fell down from his relaxed grip and his leathern hence also dropped down.",
+      "bhavadeepa": null,
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "तस्मिन्मोहमनुप्राप्ते शरजालं महत्तदा। सैन्धवा मुमुचुस्तूर्णं गतसत्त्वे महारथे॥२२॥",
+      "english": "When Dhananjaya became stupefied, the Saindhava warriors once more shot forthwith at that senseless warrior, numberless other arrOWS.",
+      "bhavadeepa": "आवापो हस्तावापः॥२१॥",
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "ततो मोहसमापन्नं ज्ञात्वा पार्थं दिवौकसः। सर्वे वित्रस्तमनसस्तस्य शान्तिकृतोऽभवन्॥२३॥",
+      "english": "Understanding that the son of Pritha was insensible, the celestials, with hearts stricken with fear, began to seek his well-being by uttering various benedictions.",
+      "bhavadeepa": null,
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "ततो देवर्षयः सर्वे तथा सप्तर्षयोऽपि च। ब्रह्मर्षयश्च विजयं जेपुः पार्थस्य धीमतः॥२४॥",
+      "english": "Then the celestial Rishis, the seven Rishis, and the twice-born Rishis, became engaged in silent recitations from desire of giving victory to the highly intelligent son of Pritha's.",
+      "bhavadeepa": null,
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "ततः प्रदीपिते देवैः पार्थतेजसि पार्थिव। तस्थावचलवद्धीमान् सङ्ग्रामे परमास्त्रवित्॥२५॥",
+      "english": "When at last the energy of Partha blazed forth through those deeds of the dwellers of the celestial region, that hero, who was conversant with celestial weapons of great efficacy, stood immovable like a hill.",
+      "bhavadeepa": null,
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "विचकर्ष धनुर्दिव्यं ततः कौरवनन्दनः। यन्त्रस्येवेह शब्दोऽभून्महांस्तस्य पुनः पुनः॥२६॥",
+      "english": "The delighter of the Kurus then drew his celestial bow. And as he repeatedly stretched the bowstring, the twang that followed resembled the loud sound of some strong machine.",
+      "bhavadeepa": null,
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "ततः स शरवर्षाणि प्रत्यमित्रान्प्रति प्रभुः। ववर्ष धनुषा पार्थो वर्षाणीव पुरन्दरः॥२७॥",
+      "english": "Like Purandara pouring rain, the powerful Arjuna then, with that bow of his, poured incessant showers of arrows on his enemies.",
+      "bhavadeepa": null,
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "ततस्ते सैन्धवा योधाः सर्व एव सराजकाः। नादृश्यन्त शरैः कीर्णाः शलभैरिव पादपाः॥२८॥",
+      "english": "Pierced by those arrows, the Saindava warriors with their cuels became invisible like trees covered with locusts.",
+      "bhavadeepa": null,
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "तस्य शब्देन वित्रेसुर्भयार्ताश्च विदुद्रुवुः। मुमुचुश्चाश्रु शोकार्ताः शुशुचुश्चापि सैन्धवाः॥२९॥",
+      "english": "Terror-stricken at the very sound of Gandiva and filled with consternation they fled away. In grief of hear they shed tears and cried aloud.",
+      "bhavadeepa": null,
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "तांस्तु सर्वान्नरव्याघ्रः सैन्धवान्व्यचरत् बली। अलातचक्रवद्राजशरजालैः समार्पयत्॥३०॥",
+      "english": "The powerful warrior moved a midst that host of enemies with the celerity of a fiery wheel, all the time piercing those warriors with his arrows.",
+      "bhavadeepa": null,
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "तदिन्द्रजालप्रतिमं बाणजालममित्रहा। विसृज्य दिक्षु सर्वासु महेन्द्र इव वज्रभृत्॥३१॥",
+      "english": "Like the great Indra, the holder of the thunder-bolt, that destroyer of enemies viz., Arjuna, shot from his bow in every direction that shower of arrows which resembled a sight produced by magic.",
+      "bhavadeepa": null,
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "मेघजालनिभं सैन्यं विदार्य शरवृष्टिभिः। विबभौ कौरवश्रेष्ठः शरदीव दिवाकरः॥३२॥",
+      "english": "The Kaurava hero, piercing the hostile army with showers of arrows looked resplendent like the autumnal Sun when he disperses the clouds with his powerful rays. once",
+      "bhavadeepa": null,
+      "chapter": 77,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "सप्तसप्ततितमोऽध्यायः"
+    }
+  ]
+}

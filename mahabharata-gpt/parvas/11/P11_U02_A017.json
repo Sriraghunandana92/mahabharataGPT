@@ -1,0 +1,334 @@
+{
+  "adhyaya_id": "P11_U02_A017",
+  "book": 11,
+  "parva_name": "स्त्रीपर्व",
+  "upaparva_name": "स्त्रीविलापपर्व",
+  "adhyaya_name": "सप्तदशोऽध्यायः",
+  "chapter": 17,
+  "verse_count": 32,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वैशम्पायन उवाच।दुर्योधनं हतं दृष्ट्वा गान्धारी शोककर्शिता। सहसा न्यपतद्भूमौ छिन्नेव कदली वने॥१॥",
+      "english": "Vaishampayana said Secing Duryodhana, Gandhari, deprived of her senses by grief, suddenly dropped down on the Earth like an uprooted plantain tree.",
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "सा तु लब्ध्वा पुनः संज्ञां विक्रुश्य च विलप्य च। दुर्योधनमभिप्रेक्ष्य शयानं रुधिरोक्षितम्॥२॥",
+      "english": "Having regained her consciousness soon, she began to weep and lament seeing her son lying on the bare ground, bathed in blood.",
+      "bhavadeepa": "दुर्योधनमिति॥१॥",
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "परिष्वज्य च गान्धारी कृपणं पर्यदेवयत्। हाहा पुत्रेति शोकार्ता विललापाकुलेन्द्रिया॥३॥",
+      "english": "Embracing her son, Gandhari bewailed piteously. Stricken with grief, and growing unconscious, the Kuru queen exclaimed, 'Alas, O son!' 'Alas, O son.'",
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "सुगूढजत्रुविपुलं हारनिष्कविभूषितम्। वारिणा नेत्रजेनोरः सिञ्चन्ती शोकतापिता॥४॥",
+      "english": "Burning with grief, the queen wetted with her tears the body of her son, possessed of massive and broad shoulders, and adorned with garlands and collar. Addressing Hrishikesha, who stood by her, she said,-'On the eve on this battie, O powerful one, that had exterminated this race, this foremost of kings, O Vrishny hero, said to me,-In this civil battle, O mother, wish me success!-When he said these words, myself, knowing that a great calamity had befallen us, told him, O foremost of men, Victory is there where righteousness is.",
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः",
+      "combined_translation": "4-5"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "समीपस्थं हृषीकेशमिदं वचनमब्रवीत्। उपस्थितेऽस्मिन्सङ्ग्रामे ज्ञातीनां संक्षये विभो॥५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः",
+      "english_ref": 4,
+      "combined_translation": "4-5"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "मामयं प्राह वार्ष्णेय प्राञ्जलिर्नृपसत्तमः। अस्मिञ्ज्ञातिसमुद्धर्षे जयमम्बा ब्रवीतु मे॥६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "इत्युक्ते जानती सर्वमहं स्वव्यसनागमम्। अब्रुवं पुरुषव्याघ्र यतो धर्मस्ततो जयः॥७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "तथा च युध्यमानस्त्वं न वै मुह्यति पुत्रक। ध्रुवं शस्त्रजिताँल्लोकान्प्राप्स्यस्यमरवत्प्रभो॥८॥",
+      "english": "And since, O son, you are bent upon fighting a battle. you will, forsooth, obtain those regions that can be gained by weapons and sport there like a celestial.",
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "इत्येवमब्रुवं पूर्वं नैवं शोचामि वै प्रभो। धृतराष्ट्रं तु शोचामि कृपणं हतबान्धवम्॥९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "अमर्षणं युधां श्रेष्ठं कृतास्त्रं युद्धदुर्मदम्। शयानं वीरशयने पश्य माधव मे सुतम्॥१०॥",
+      "english": "Look, O Madhava, at my son, that best of warriors, wrathful, expert in weapons, and irresistible in battle, sleeping on the bed of heroes.",
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "योऽयं मूर्धावसिक्तानामग्रे याति परन्तपः। सोऽयं पांसुषु शेतेऽद्य पश्य कालस्य पर्ययम्॥११॥",
+      "english": "See the reverses brought about by Time, this subduer of enemies that used forinerly to walk at the head of all kings now sleeps on thc dust.",
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "ध्रुवं दुर्योधनो वीरो गतिं न सुलभां गतः। तथा ह्यभिमुखः शेते शयने वीरसेविते॥१२॥",
+      "english": "Forsooth, the heroic Duryodhana, when he sleeps on that bed of the heroes, has attain to the best end.",
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "यं पुरा पर्युपासीना रमयन्ति वरस्त्रियः। सं वीरशयने सुप्तं रमयन्त्यशिवाः शिवाः॥१३॥",
+      "english": "Inauspicious jackals are now pleasing that prince sleeping on the hero's bed, who was formerly counted by the fairest of ladies sitting round him.",
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "यं पुरा पर्युपासीना रमयन्ति महीक्षितः। महीतलस्थं निहतं गृध्रास्तं पर्युपासते॥१४॥",
+      "english": "He who was formerly encircled by kings who competed with one another to give him pleasure, alas, is now slain and lying on the ground, encircled by vultures.",
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "यं पुरा व्यजनै रम्यैरुपवीजन्ति योषितः। तमद्य पक्षव्यजनैरुपवीजन्ति पक्षिणः॥१५॥",
+      "english": "He who was formerly fanned with beautiful fans by fair damsels, is now fanned by (carnivorous) birds with flaps of their wings.",
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "एष शेते महाबाहुर्बलवान्सत्यविक्रमः। सिंहेनेव द्विपः सङ्ख्ये भीमसेनेन पातितः॥१६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "पश्य दुर्योधनं कृष्ण शयानं रुधिरोक्षितम्। निहतं भीमसेनेन गदां सम्मृज्य भारत॥१७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "अक्षौहिणीर्महाबाहुर्दश चैकां च केशव। आनयद्यः पुरा सङ्ख्ये सोऽनयान्निधनं गतः॥१८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "एष दुर्योधनः शेते महेष्वासो महाबलः। शार्दूल इव सिंहेन भीमसेनेन पातितः॥१९॥",
+      "english": "Alas, there that great bowman and powerful car-warrior sleeps, killed by Bhimasena, like a tiger killed by a lion,",
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "विदुरं ह्यवमत्यैष पितरं चैव मन्दभाक्। बालो वृद्धावमानेन मन्दो मृत्युवशं गतः॥२०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "निःसपत्ना मही यस्य त्रयोदश समाः स्थिता। स शेते निहतो भूमौ पुत्रो मे पृथिवीपतिः॥२१॥",
+      "english": "He who had unrivaled away over the Earth, for thirteen years, alas, that prince, that son of mine, sleeps to-day on the naked Earth, killed by his foes.",
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "अपश्यं कृष्ण पृथिवीं धार्तराष्ट्रानुशासिताम्। पूर्णां हस्तिगवाश्वैश्च वार्ष्णेय न तु तच्चिरम्॥२२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "तामेवाद्य महाबाहो पश्याम्यन्यानुशासिताम्। हीनां हस्तिगवाश्वेन किन्नु जीवामि माधव॥२३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "इदं कष्टतरं पश्य पुत्रस्यापि वधान्मम। यदिमाः पर्युपासन्ते हताञ्शूरान्रणे स्त्रियः॥२४॥",
+      "english": "Again, look at this sight, of these fair ladies weeping by the side of the killed heroes, that is more painful than the death of my son.",
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "प्रकीर्णकेशां सुश्रोणीं दुर्योधनशुभङ्कगाम्। रुक्मवेदिनिभां पश्य कृष्ण लक्ष्मणमातरम्॥२५॥",
+      "english": "Behold, O Krishna, the mother of Lakshmana, that lady having large hips, with her hairs disheveled, that dear wife of Duryodhana, resembling a golden sacrificial altar.",
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "नूनमेषा पुरा बाला जीवमाने महाभुजे। भुजावाश्रित्य रमते सुभुजस्य मनस्विनी॥२६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "कथं तु शतधा नेदं हृदयं मम दीर्यते। पश्यन्त्या निहतं पुत्रं पुत्रेण सहितं रणे॥२७॥",
+      "english": "Why, indeed, does not my heart break into a hundred pieces seeing my son and grandson killed in battle.",
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "पुत्रं रुधिरसंसिक्तमुपजिघ्रत्यनिन्दिता। दुर्योधनं तु वामोरूः पाणिना परिमार्जती॥२८॥",
+      "english": "Alas, that innocent lady now smells her son covered with blood. Again, that lady having beautiful thighs is gently rubbing Duryodhana's body with her fair hand.",
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "किन्नु शोचति भर्तारं पुत्रं चैषा मनस्विनी। तथा ह्यवस्थिता भाति पुत्रं चाप्यभिवीक्ष्य सा॥२९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "स्वशिरः पञ्चशाखाभ्यामभिहत्यायतेक्षणा। पतत्युरसि वीरस्य कुरुराजस्य माधव॥३०॥",
+      "english": "See, O Madhava, striking her head with her hands, she falls upon the breast of her heroic husband, the king of the Kurus.",
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "पुण्डरीकनिभा भाति पुण्डरीकान्तरप्रभा। मुखं विमृज्य पुत्रस्य भर्तुश्चैव तपस्विनी॥३१॥",
+      "english": "Having a complexion like that of the filaments of the lotus, she looks beautiful like a lotus. The hapless princess, now rubs the face of her son, and again that of her husband.",
+      "bhavadeepa": "पञ्चशाखाभ्यां पञ्चाङ्गुलिभ्यां पाणिभ्याम्॥३०॥",
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "यदि सत्यागमाः सन्ति यदि वै श्रुतयस्तथा। ध्रुवं लोकानवाप्तोऽयं नृपो बाहुबलार्जितान्॥३२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 17,
+      "parva_name": "स्त्रीपर्व",
+      "upaparva_name": "स्त्रीविलापपर्व",
+      "adhyaya_name": "सप्तदशोऽध्यायः"
+    }
+  ]
+}

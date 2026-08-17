@@ -1,0 +1,467 @@
+{
+  "adhyaya_id": "P08_U01_A037",
+  "book": 8,
+  "parva_name": "कर्णपर्व",
+  "upaparva_name": "कर्णपर्व",
+  "adhyaya_name": "सप्तत्रिंशोऽध्यायः",
+  "chapter": 37,
+  "verse_count": 45,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "सञ्जय उवाच।\n              दृष्ट्वा कर्णं महेष्वासं युयुत्सुं समवस्थितम् । चुक्रुशुः कुरवः सर्वे हृष्टरूपाः समन्ततः ॥१॥",
+      "english": "Sanjaya said Beholding the great bowmen bowmen Karna stationed for battle all the Kurus began to utter loud cries of joy from all sides.",
+      "bhavadeepa": null,
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "ततो दुन्दुभिनिर्घोषैर्भेरीणां निनदेन च । बाणशब्दैश्च विविधैर्गर्जितैश्च तरस्विनाम् ॥२॥",
+      "english": "Thereupon with the beatings of cymbals and drums, the sound of all sorts of weapons and the war-cries of the greatly active heroes all your soldiers proceeded to the battle-field, making death the final point of stoppage.",
+      "bhavadeepa": "दृष्ट्वेति ॥१॥",
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः",
+      "combined_translation": "2-3"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "निर्ययुस्तावका युद्धे मृत्युं कृत्वा निवर्तनम् । प्रयाते तु ततः कर्णे योधेषु मुदितेषु च ॥३॥",
+      "english": null,
+      "bhavadeepa": "तरस्विनाम् अश्वादीनाम् ॥२॥",
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः",
+      "english_ref": 2,
+      "combined_translation": "2-3"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "चचाल पृथिवी राजन् ववाश च सुविस्तरम् । निःसरन्तो व्यदृश्यन्त सूर्यात्सप्त महाग्रहाः ॥४॥",
+      "english": "When Karna went all the soldiers, were filled with joy. The earth, O king, trembled and created a loud noise.",
+      "bhavadeepa": null,
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "उल्कापाताश्च संजज्ञुर्दिशां दाहास्तथैव च । शुष्काशन्यश्च संपेतुर्ववुर्वाताश्च भैरवाः॥५॥",
+      "english": "All the great planets including the sun seemed moving about. And the meteors were seen blazing up all the quarters. Cloudless thunders fell and fierce winds blew.",
+      "bhavadeepa": "ववाश शब्दं चकार । ररासेतिपाठेऽपि स एवार्थः । निःसरन्तो युद्धार्थमिति शेषः । सूर्यात्सूर्यमारभ्य' सूर्यादयोऽन्योन्यं युध्यन्तीत्यर्थः ॥४॥",
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "मृगपक्षिगणाश्चैव पृतनां बहुशस्तव । अपसव्यं तदा चक्रुर्वेदयन्तो महाभयम् ॥६॥",
+      "english": "A large number of animals and birds, kept to the right of your army and emitted noise foreboding a dreadful calamity.",
+      "bhavadeepa": null,
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "प्रथितस्य च कर्णस्य निपेतुस्तुरगा भुवि । अस्थिवर्षं च पतितमन्तरिक्षाद्भयानकम् ॥७॥",
+      "english": "After the departure of Karna his horses trembled down on earth. And a dreadful shower of bones fell from the sky.",
+      "bhavadeepa": null,
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "जज्वलुश्चैव शस्त्राणि ध्वजाश्चैव चकम्पिरे । अश्रूणि च व्यमुञ्चन्त वाहनानि विशांपते ॥८॥",
+      "english": "O king, their weapons were as if burning and the flags were trembling. And the horses shed tears.",
+      "bhavadeepa": null,
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "एते चान्ये च बहव उत्पातास्तत्र दारुणाः । समुत्पेतुर्विनाशाय कौरवाणां सुदारुणाः ॥९॥",
+      "english": "Those and other dreadful portends appeared there presaging the destruction of the Kauravas. Stupefied by Destiny they paid no attention of them.",
+      "bhavadeepa": null,
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "न च तान् गणयामासुः सर्वे दैवेन मोहिताः । प्रस्थितं सूतपुत्रं च जयेत्यूचुर्नराधिपाः । निर्जितान्पाण्डवांश्चैव मेनिरे तत्र कौरवाः ॥१०॥",
+      "english": "Seeing the departure of the charioteer's son all the king cried out victory. The Kauravas then thought that the Pandavas had been defeated.",
+      "bhavadeepa": null,
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "ततो रथस्थः परवीरहन्ता भीष्म-द्रोणावतिवीर्यौ समीक्ष्य । समुज्ज्वलन् भास्करपावकाभो वैकर्तनोऽसौ रथकुञ्जरो नृप ॥११॥",
+      "english": "The king Vikartana, the subduer of hostile heroes and the foremost of car-warriors, stood on the car, thinking of the death of Bhishma and Drona. He shone there like the sun of fire.",
+      "bhavadeepa": null,
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "स शल्यमाभाष्य जगाद वाक्यं पार्थस्य कर्मातिशयं विचिन्त्य । मानेन दर्पण विदह्यमानः क्रोधेन दीप्यन्निव निःश्वसंश्च ॥१२॥",
+      "english": "Thinking of the powerful feats of Arjuna, elated with self conceit and pride, worked up with anger and breathing hot and hard, said to Shalya-",
+      "bhavadeepa": "भीष्मद्रोणौ अतिक्रान्तं वीर्यं ययोस्तावतिवीर्यौ समीक्ष्य स्वकृत्यमालोच्य जगादेत्युत्तरेणान्वयः ॥११॥",
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "नाहं महेन्द्रादपि वज्रपाणेः क्रुद्धाद्बिभेम्यायुधवान्रथस्थः । दृष्ट्वा हि भीष्मप्रमुखान् शयानानतीव मां ह्यस्थिरता जहाति ॥१३॥",
+      "english": "When I am with my bow I do not fear even the angry Mahendra with thunder-bolt in his hand. Beholding Bhishma and other leading heroes lying on the battle field I do not feel the least anxiety.",
+      "bhavadeepa": "आभाष्य भो शल्य इति सम्बोध्य ॥१२॥",
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "महेन्द्र-विष्णुप्रतिमावनिन्दितौ रथाश्व-नागप्रवरप्रमाथिनौ । अवध्यकल्पौ निहतौ यदा परैस्ततो न मेऽप्यस्ति रणेऽद्य साध्वसम् ॥१४॥",
+      "english": "Seeing the immaculate Bhishma and Drona equal to Indra and Vishnu, the grinders of the best of cars, elephants and horses and who are not to be killed by any, slain by the enemy I do not feel any fear in battle today.",
+      "bhavadeepa": "अस्थिरता जहातीत्यचञ्चलोऽस्मीत्यर्थः ॥१३॥",
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "समीक्ष्य संख्येऽतिबलान्नराधिपान् ससूत-मातङ्ग-रथान्परैर्हतान् । कथं न सर्वानहितान्रणेऽवधीन्महास्त्रविद्ब्राह्मणपुङ्गवो गुरुः ॥१५॥",
+      "english": "Well-versed in the use of powerful weapons and himself the foremost of Brahmanas why did not the preceptor kill in battle all the enemies who killed the most powerful of our hero with their drivers, elephants and chariots?",
+      "bhavadeepa": "ततोऽपि मेऽद्य साध्वसं भयं नास्तीति योजना ॥१४॥",
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "स संस्मरन् द्रोणमहं महाहवे ब्रवीमि सत्यं कुरवो निबोधत । न वा मदन्यः प्रसहेद्रणेऽर्जुनं समागतं मृत्युमिवोग्ररूपिणम् ॥१६॥",
+      "english": "Listen to me, O Karna, I tell you the truth, thinking of this Drona in battle that there is none amongst you excepting myself who can withstand the advancing Arjuna the heroes who resembled the most dreadful Regent of Death.",
+      "bhavadeepa": null,
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "शिक्षा प्रसादश्च बलं धृतिश्च द्रोणे महास्त्राणि च संनतिश्च । स चेदगान्मृत्युवशं महात्मा सर्वानन्यानातुरानद्य मन्ये ॥१७॥",
+      "english": "In Drona were skill, practice, strength, patience, the greatest of weapons and policy. While that high-souled one has come by death I think all others, shorn of strength, on the point of death.",
+      "bhavadeepa": null,
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "नेह ध्रुवं किञ्चिदपि प्रचिन्तयन् विद्यां लोके कर्मणो दैवयोगात् । सूर्योदये को हि विमुक्तसंशयो भावं कुर्वीताद्य गुरौ निपातिते ॥१८॥",
+      "english": "Even on reflection I do not find any thing perinanent in this world on account of the eternal connection of acts. When the preceptor himself is no more who can expect that he will surely live till even today's sun-rise.",
+      "bhavadeepa": "आतुरान् आसन्नमृत्यून् ॥१७॥",
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "न नूनमस्त्राणि बलं पराक्रमः क्रियाः सुनीतं परमायुधानि वा । अलं मनुष्यस्य सुखाय वर्तितुं तथा हि युद्धे निहतः परैर्गुरुः ॥१९॥",
+      "english": "While preceptor has been slain in battle by the enemies, weapons, strength, prowess, actions and wise policy cannot forsooth conduce to the happiness of a man.",
+      "bhavadeepa": "विद्यां जानीयां भावं श्वोऽहं स्थास्यामीति निश्चयम् ॥१८॥",
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "हुताशनादित्यसमानतेजसं पराक्रमे विष्णु-पुरन्दरोपमम् । नये बृहस्पत्युशनोः सदा समं न चैनमस्त्रं तदुपास्त दुःसहम् ॥२०॥",
+      "english": "In energy Drona equaled the sun or firc; in prowess he was like Vishnu or Indra, in policy he was like Vrihaspati or Ushanas; invincible though he was even weapons could not protect him.",
+      "bhavadeepa": "अस्त्रादीनि मनुष्यस्य सुखाय वर्तितुं नालमिति सम्बन्धः ॥१९॥",
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "संप्राक्रुष्टे रुदितस्त्री-कुमारे पराभूते पौरुषे धार्तराष्ट्रे । मया कृत्यमिति जानामि शल्य प्रयाहि तस्माद्द्विषतामनीकम् ॥२१॥",
+      "english": "Our women and children are weeping and bewailing, the manliness of the sons of Dhritarashtra has been defeated. I know therefore, O Shalya, that it is I who am to fight; proceed therefore against the array of our enemies.",
+      "bhavadeepa": "उशनोः उशनसोः उपास्त उपातिष्ठत त्रातुमिति शेषः । अस्त्रम् अस्त्रादि ॥२०॥",
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "यत्र राजा पाण्डवः सत्यसन्धो व्यवस्थितो भीमसेनार्जुनौ च । वासुदेवः सात्यकिः सृञ्जयाश्च यमौ च कस्तान् विषहेन्मदन्यः ॥२२॥",
+      "english": "Save me who can withstand the army in the midst of which in the truthful Pandavas king Bhimasena, Arjuna, Vasudeva, Satyaki, Srinjaya and the twins.",
+      "bhavadeepa": "संप्राक्रुष्टे सम्यगाक्रोशवति पराभूते निरस्ते धार्तराष्ट्रे धृतराष्ट्रपुत्रसम्बन्धिनि पौरुषे यत्ने ॥२१॥",
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "तस्मात्क्षिप्रं मद्रपते प्रयाहि रणे पञ्चालान्पाडवान्सृञ्जयांश्च । तान्वा हनिष्यामि समेत्य संख्ये यास्यामि वा द्रोणपथा यमाय ॥२३॥",
+      "english": "Therefore, O king of Madra, move on quickly in this battle towards the Panchalas, Pandavas and Srinjayas. Encountering them either I will kill them or will myself go to the abode of death by the road followed by Drona.",
+      "bhavadeepa": null,
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "नन्वेवाहं न गमिष्यामि मध्ये तेषां शूराणामिति मां शल्य विद्धि । मित्रद्रोहो मर्षणीयो न मेऽयं त्यक्त्वा प्राणाननुयास्यामि द्रोणम् ॥२४॥",
+      "english": "Do not think, O Shalya, that I will not enter into the heart of their army. I cannot tolerate such dissension's amongst the kith and kin. I will even follow Drona, renouncing my life.",
+      "bhavadeepa": "द्रोणपथा द्रोणपथेन ॥२३॥",
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "प्राज्ञस्य मूढस्य च जीवितान्ते नास्ति प्रमोक्षोऽन्तकसत्कृतस्य । अतो विद्वन्नभियास्यामि पार्थान् दिष्टं न शक्यं व्यतिवर्तितुं वै ॥२५॥",
+      "english": "A wise man or an ignorant person, none can escape death, when the lease of his life expires. Therefore, O learned one. I shall proceed against Partha. I cannot transgress my destiny.",
+      "bhavadeepa": "वैयाघ्रचर्माणं व्याघ्रचर्मपरिवृतम् ॥२७॥",
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "कल्याणवृत्तः सततं हि राजा वैचित्रवीर्यस्य सुतो ममासीत् । तस्यार्थसिद्ध्यर्थमहं त्यजामि प्रियान् भोगान् दुस्त्यजं जीवितं च ॥२६॥",
+      "english": "O king, the son of Chitravirya's son always does me good. For the accomplishment of his object I will give up this dear life which it is very difficult to renounce.",
+      "bhavadeepa": null,
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "वैयाघ्रचर्माणमकूजनाक्षं हैमं त्रिकोशं रजतत्रिवेणुम् । रथप्रबर्हं तुरगप्रबर्हैर्युक्तं प्रादान्मह्यमिमं हि रामः ॥२७॥",
+      "english": "Rama conferred upon me this best of cars covered with tiger-skins, with axle producing no sound, equipped with a golden seat, having trivenu made of silver and drawn by best of horses.",
+      "bhavadeepa": null,
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "धनूंषि चित्राणि निरीक्ष्य शल्य ध्वजान् गदाः सायकांश्चोग्ररूपान् । असिं च दीप्तं परमायुधं च शङ्खं च शुभ्रं स्वनवन्तमुग्रम् ॥२८॥",
+      "english": "Behold, O Shalya, these beautiful bows, these, flags, these maces, these dreadful arrows, this shinning sword, this powerful weapon this white conch of dreadful and loud blare.",
+      "bhavadeepa": "वैयाघ्रचर्माणं व्याघ्रचर्मपरिवृतम् ॥२७॥",
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "पताकिनं वज्रनिपातनिःस्वनं सिताश्वयुक्तं शुभतूणशोभितम् । इमं समास्थाय रथं रथर्षभं रणे हनिष्याम्यहमर्जुनं बलात् ॥२९॥",
+      "english": "Mounted upon this chariot with banners, its wheels producing a sound like that of a thunderbolt drawn by white horses and adorned with beautiful quivers I shall, with all my mighty, destroy that best of car-warriors, Arjuna.",
+      "bhavadeepa": null,
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "तं चेन्मृत्युः सर्वहरोऽभिरक्षेत् सदाऽप्रमत्तः समरे पाण्डुपुत्रम् । तं वा हनिष्यामि रणे समेत्य यास्यामि वा भीष्ममुखो यमाय ॥३०॥",
+      "english": "Even if death himself the destroyer of all, protects vigilantly the son of Pandu, in battle I will either kill him or go myself to the abode of death following Bhishma.",
+      "bhavadeepa": null,
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "यम-वरुण-कुबेर-वासवा वा यदि युगपत्सगणा महाहवे । जुगुपिषव इहाद्य पाण्डवं किमु बहुना सह तैर्जयामि तम् ॥३१॥",
+      "english": "If Yama, Varuna, Kubera and Vasava with all their followers come here and unitedly protect the son of Pandu in battle, I will even then defeat himn with them all. What is the use of speaking more?",
+      "bhavadeepa": "अप्रमत्त इति च्छेदः । भीष्ममुखः भीष्माभिमुखः ॥३०॥",
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "सञ्जय उवाच।\n              इति रणरभसस्य कत्थतस्तदुत निशम्य वचः सः मद्रराट् । अवहसदवमन्य वीर्यवान् प्रतिषिषिधे च जगाद चोत्तरम् ॥३२॥",
+      "english": "Sanjaya said Hearing those words of Karna who was delighted at the prospect of the battle, the powerful king of Madras laughed him and said the following to check him.",
+      "bhavadeepa": "जुगुपिषवः गोप्तुमिच्छवः ॥३१॥",
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "शल्य उवाच।\n              विरम विरम कर्ण कत्थनादतिरभसोऽप्यतिवाचमुक्तवान् । क्व च हि नरवरो धनञ्जयः क्व पुनरहो पुरुषाधमो भवान् ॥३३॥",
+      "english": "Do not brag thus, do not brag thus, O Karna; you are so much transported with joy that you are speaking what you should not do. Who is that Dhananjaya, the best of men and who again are you the vilest of men?",
+      "bhavadeepa": "रणरसभस्य रणोत्कटस्य  ॥३२॥",
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "यदुसदनमुपेन्द्रपालितं त्रिदशमिवामरराजरक्षितम् । प्रसभमतिविलोड्य को हरेत् पुरुषवरावरजामृतेऽर्जुनात् ॥३४॥",
+      "english": "Who else save him the foremost of men (Arjuna) could carry away by force the younger sister of Keshava, having made a confusion in the capital of Yadus that was protected by the younger brother of Indra and that resembled the celestial region protected by the king of gods.",
+      "bhavadeepa": "अतिरभसोऽपि त्वमतिवाचं स्वसामर्थ्यादधिकाम् ॥३३॥",
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "त्रिभुवनविभुमीश्वरेश्वरं क इह पुमान् भवमाह्वयेद्युधि । मृगवधकलहे ऋतेऽर्जुनात् सुरपतिवीर्यसमप्रभावतः ॥३५॥",
+      "english": "Who else save, Arjuna, powerful like the king of gods, could on the occasion of a quarrel brought about by the slaughter of an animal summon Bhaba, the lord of lords, the creator of the worlds, to battle?",
+      "bhavadeepa": "पुरुषवरस्य कृष्णस्यावरजां कनीयसीं सुभद्राम् ॥३४॥",
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "असुर-सुर-महोरगान्नरान् गरुड-पिशाच-सयक्षराक्षसान् । इषुभिरजयदग्निगौरवात् स्वभिलषितं च हविर्ददौ जयः ॥३६॥",
+      "english": "To honor the god of fire Jaya, (Arjuna) vanquished the Asuras, gods, great snakes, men, birds, Pishacas, Yakshas and Rakshasas with his arrow and gave him the food he wanted.",
+      "bhavadeepa": null,
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "स्मरसि ननु यदा परैर्हृतः स च धृतराष्ट्रसुतोऽपि मोक्षितः । दिनकरसदृशैः शरोत्तमैर्युधा कुरुषु बहून्विनिहत्य तानरीन् ॥३७॥",
+      "english": "Do you remember, O Karna, the occasion when killing the large nuinber of enemies with this arrows effulgent like the sun Arjuna liberated the son of Dhritarashtra himself among the Kurus?",
+      "bhavadeepa": null,
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "प्रथममपि पलायिते त्वयि प्रियकलहा धृतराष्ट्रसूनवः । स्मरसि ननु यदा प्रमोचिताः खचरगणानवजित्य पाण्डवैः ॥३८॥",
+      "english": "Do you remember the occasion when you yourself were the first to take to your heels and the Pandavas, having defeated the Gandharvas headed by Chitraratha, liberated the quarrelsome sons of Dhritarashtra?",
+      "bhavadeepa": "स्मरसीति विषमं छन्दः ॥३७॥",
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "समुदितबलवाहनाः पुनः पुरुषवरेण जिताः स्थ गोग्रहे । सगुरुगुरुसुताः सभीष्मकाः किमु न जितः स तदा त्वयाऽर्जुनः ॥३९॥",
+      "english": "When Virata's kine were seized by them, the Kauravas, overwhelining in number both as regards men and animals and having the preceptor, the preceptor's son and Bhishma amongst them, were defeated by that foremost of men. Why did you not defeat Arjuna then?",
+      "bhavadeepa": "खचरगणान् गन्धर्वान् ॥३८॥",
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "इदमपरमुपस्थितं पुनस्तव निधनाय सुयुद्धमद्य वै । यदि न रिपुभयात्पलायसे समरगतोऽद्य हतोऽसि सूतज ॥४०॥",
+      "english": "Another battle has presented itself today for your destruction. If you do not fly from the battle in fear of your enemies you will be killed, O charioteer's son, as soon as you will go to the battle.",
+      "bhavadeepa": null,
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "सञ्जय उवाच।\n              इति बहु परुषं प्रभाषति प्रमनसि मद्रपतौ रिपुस्तवम् । भृशमभिरुषितः परन्तपः कुरुपृतनापतिराह मद्रपम् ॥४१॥",
+      "english": "Sanjaya said When the king of Madra was thus, in all sincerity, addressing these harsh words to him and singing the glories of his enemy, that slayer of foes, the commander of the Kuru army, excited with anger, said.",
+      "bhavadeepa": null,
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "कर्ण उवाच।\n              भवतु भवतु किं विकत्थसे ननु मम तस्य हि युद्धमुद्यतम् । यदि स जयति मामिहाहवे तत इदमस्तु सुकत्थितं तव ॥४२॥",
+      "english": "Karna said Let it be so. Why do you praise Arjuna so much. A battle will soon take place between him and me. If he defeats me in battle then your praises will be considered as well said.",
+      "bhavadeepa": null,
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "सञ्जय उवाच।\n              एवमस्त्विति मद्रेश उक्त्वा नोत्तरमुक्तवान् । याहि शल्येति चाप्येनं कर्णः प्राह युयुत्सया ॥४३॥",
+      "english": "Sanjaya said The king of Madra said-'let it be so,' and gave no reply, when Karna desirous of fighting, said to Shalya 'go'. Then that carwarrior, having white horses and Shalya as his driver, dashed against his enemies killing a number of enemies in battle like the sun destroying darkness.",
+      "bhavadeepa": null,
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः",
+      "combined_translation": "43-44"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "स रथः प्रययौ शत्रून् श्वेताश्वः शल्यसारथिः । निघ्नन्नमित्रान्समरे तमो घ्नन्सविता यथा ॥४४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः",
+      "english_ref": 43,
+      "combined_translation": "43-44"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "ततः प्रायात्प्रीतिमान्वै रथेन वैयाघ्रेण श्वेतयुजाऽथ कर्णः । स चालोक्य ध्वजिनीं पाण्डवानां धनञ्जयं त्वरया पर्यपृच्छत् ॥४५॥",
+      "english": "Then in that car covered with tiger-skins and white horses yoked to it, Karna went on cheerfully. And seeing the armies of the Pandavas he immediately inquired after Arjuna.",
+      "bhavadeepa": null,
+      "chapter": 37,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "सप्तत्रिंशोऽध्यायः"
+    }
+  ]
+}

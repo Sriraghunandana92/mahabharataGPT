@@ -1,0 +1,752 @@
+{
+  "adhyaya_id": "P07_U05_A143",
+  "book": 7,
+  "parva_name": "द्रोणपर्व",
+  "upaparva_name": "जयद्रथवधपर्व  - ५",
+  "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः",
+  "chapter": 143,
+  "verse_count": 72,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "सञ्जय उवाच।\n              स बाहुर्न्यपतद्भूमौ सखड्गः सशुभाङ्गदः। आदधज्जीवलोकस्य दुःखमद्भुतमुत्तमः॥१॥",
+      "english": "Sanjaya said Then that arm with the sword in grasp and decked with beautiful Angadas, fell down on the earth, thereby inflicting great grief on the living creation.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "प्रहरिष्यन्हृतो बाहुरदृश्येन किरीटिना। वेगेन न्यपतद्भूमौ पञ्चास्य इव पन्नगः॥२॥",
+      "english": "In the act of striking, that arm was lopped off by the diadem-decked Arjuna, who himself remained invisible to Bhruisravas; thus cut-off, it fell down vehemently on the earth, like a five-hooded snake.",
+      "bhavadeepa": "स इति ॥१॥",
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "स मोघं कृतमात्मानं दृष्ट्वा पार्थेन कौरवः। उत्सृज्य सात्यकिं क्रोधाद्गर्हयामास पांडवम्॥३॥",
+      "english": "Then that descendant of the Kuru race, beholding himself incapacitated by Pritha's son, began, out of rage, to reprove the son of Pandu, having abandoned Satyaki.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "भूरिश्रवा उवाच।\n              नृशंसं बत कौन्तेय कर्मेदं कृतवानसि। अपश्यतो विषक्तस्य यन्मे बाहुमचिच्छिदः॥४॥",
+      "english": "Bhurisravas said Alas, O son of Kunti, you have committed a cruel and heartless deed, in as much as, not being engaged with me and covertly, you have cut-off my arm.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "किं नु वक्ष्यसि राजानं धर्मपुत्रं युधिष्ठिरम्। किं कुर्वाणो मया संख्ये हतो भूरिश्रवा रणे॥५॥",
+      "english": "Shall you have not to say to king Yudhishthira, the son of Dharma-'Bhurisravas when engaged with another was slain by me in battle?\"",
+      "bhavadeepa": "विषक्तस्य अन्यासक्तस्य ॥४॥",
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "इदमिन्द्रेण ते साक्षादुपदिष्टं महात्मना। अस्त्रं रुद्रेण वा पार्थ द्रोणेनाथ कृपेण वा ॥६॥",
+      "english": "Was it for this that you learnt the use of weapons from the illustrious Indra or Rudra or Drona or Kripa. O son of Pritha!",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "ननु नामास्त्रधर्मज्ञस्त्वं लोकेऽभ्यधिकः परैः। सोऽयुध्यमानस्य कथं रणे प्रहृतवानसि॥७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "न प्रमत्ताय भीताय विरथाय प्रयाचते। व्यसने वर्तमानाय प्रहरन्ति मनस्विनः॥८॥",
+      "english": "The righteous never strike him who is careless or who is frightened or who is made carless or who implores mercy or who is involved in a calamity.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "इदं तु नीचाचरितमसत्पुरुषसेवितम्। कथमाचरितं पार्थ पापकर्म सुदुष्करम्॥९॥",
+      "english": "Why then, O son of Pritha, have you perpetrated this vile and difficult deed, that is only worthy of a mean fellow and is practised only by wicked people.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "आर्येण सुकरं त्वाहुरार्यकर्म धनञ्जय। अनार्यकर्म त्वार्येण सुदुष्करतमं भुवि॥१०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "येषु येषु नरव्याघ्र यत्र यत्र च वर्तते। आशु तच्छीलतामेति तदिदं त्वयि दृश्यते॥११॥",
+      "english": "Men quickly imbibe the behaviours of those among whom they live, O Bharata, the truth of this proposition is verified in you.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "कथं हि राजवंश्यस्त्वं कौरवेयो विशेषतः। क्षत्रधर्मादपक्रान्तः सुवृत्तश्चरितव्रतः॥१२॥",
+      "english": null,
+      "bhavadeepa": "येषु येषु सत्स्वसत्सु वा यत्र यत्र शुभेऽशुभे वा कर्मणि ॥११॥",
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "इदं तु यदतिक्षुद्रं वार्ष्णेयार्थे कृतं त्वया। वासुदेवमतं नूनं नैतत्त्वय्युपपद्यते॥१३॥",
+      "english": "This vile act that you have today perpetrated for the sake of the Vrishni hero, is surely the result of Vasudeva's instigations. And it cannut possibly be reconciled to your nature.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "को हि नाम प्रमत्ताय परेण सह युद्ध्यते। ईदृशं व्यसनं दद्याद्यो न कृष्णसखा भवेत्॥१४॥",
+      "english": "What man, except he that calls himself a friended of Krishna would inflict such an injury on another who is engaged deeply in fighting with his adversary?",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "व्रात्याः संक्लिष्टकर्माणः प्रकृत्यैव च गर्हिताः। वृष्ण्यन्धकाः कथं पार्थ प्रमाणं भवता कृताः॥१५॥",
+      "english": "The Vrishnis and the Andhakas are vile Kshatriyas, ever engaged in perpetrating low deeds and are by nature wedded to shameful conduct. Why, O Partha, have you chosen them to be your model?” Being thus spoken to Partha then replied to Bhurisravas sayingएवमुक्तो रणे पार्थो भूरिश्रवसमब्रवीत्।",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "एवमुक्तो रणे पार्थो भूरिश्रवसमब्रवीत्।\n              अर्जुन उवाच।\n              व्यक्तं हि जीर्यमाणोऽपि बुद्धिं जरयते नरः॥१६॥",
+      "english": "Arjuna said “Now it is clear that with the decay of body, the intellect of men also suffer decay, since, O master, you have uselessly directed all these reproaches to me.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "अनर्थकमिदं सर्वं यत्त्वया व्याहतं प्रभो। जानन्नेव हृषीकेशं गर्हसे मां च पाण्डवम्॥१७॥",
+      "english": "Knowing myself and Hrishikesha perfectly well how is it that you reproach us both? I am conversant perfectly with the rules of fair combat and I am acquainted with the meaning of all moral precepts.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "संग्रामाणां हि धर्मज्ञः सर्वशास्त्रार्थपारगः। न चाधर्ममहं कुर्यां जानंश्चैव हि मुह्यसे॥१८॥",
+      "english": "So, it is impossible that I should commit a sinful act. Knowing this also, fight with their foes, being supported by their own men.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "युद्ध्यन्ति क्षत्रियाः शत्रून् स्वैः स्वैः परिवृता नराः। भ्रातृभिः पितृभिः पुत्रैस्तथा संबन्धिबान्धवैः॥१९॥",
+      "english": "Such as their brothers, their fathers their sons and relatives and friends and kinsmen and companions and also relying on the strength of their arms.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः",
+      "combined_translation": "19-20"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "वयस्यैरथ मित्रैश्च ते च बाहुं समाश्रिताः। स कथं सात्यकिं शिष्यं सुखसम्बन्धिमेव च॥२०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः",
+      "english_ref": 19,
+      "combined_translation": "19-20"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "अस्मदर्थे च युद्ध्यन्तं त्यक्त्वा प्राणान्सुदुस्त्यजान्। मम बाहुं रणे राजन् दक्षिणं युद्धदुर्मदम्॥२१॥",
+      "english": "Why should I not protect \"Satyaki who is, O king, like my own right arm to me? In battle, one should not look after his own protection only.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः",
+      "combined_translation": "21-22"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "न चात्मा रक्षितव्यो वै राजन् रणगतेन हि। यो यस्य युज्यतेऽर्थेषु स वै रक्ष्यो नराधिप॥२२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः",
+      "english_ref": 21,
+      "combined_translation": "21-22"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "तै रक्ष्यमाणैः स नृपो रक्षितव्यो महामृधे। यद्यहं सात्यकिं पश्ये वध्यमानं महारणे॥२३॥",
+      "english": "O ruler of men, he that is engaged on behalf of another, should surely be protected by that other. When such are themselves protected they can look after the protection of the king (on whose behalf they fight).",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "ततस्तस्य वियोगेन पापं मेऽनर्थतो भवेत्। रक्षितश्च मया यस्मात्तस्मात्क्रुध्यसि किं मयि॥२४॥",
+      "english": "If indeed I had passively beheld Satyaki's slaughter in this great encounter, then, at Satyaki's death, sin would have hanged on me for my negligence.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "यच्च मे गर्हसे राजन्नन्येन सह सङ्गतम्। अहं त्वया विनिकृतस्तत्र मे बुद्धिविभ्रमः॥२५॥",
+      "english": "Why do you wax wroth upon me for my having protected him, who is every way deserves my protection? You are reproaching me, O king, saying, 'When engaged with another, I have yet been incapacitated by you.' In respect to this, I submit that I committed an error in my judgment. Satyaki was shaking his armour against you and was riding on his own car, drawing his bow-string he was fighting with the foes, in the midst of his enemies abounding in steeds and foot-soldiers and teeming with cars and elephants and echoing with the war-cries of combatants. Amongst friends and foes engaged with one another, how could it be possible that the Satvata hero was engaged with one person only? Having encountered many warriors and vanquished many mighty car-warrior.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः",
+      "combined_translation": "25-29"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "कवचं धुन्वतस्तुभ्यं रथं चारोहतः स्वयम्। धनुर्ज्यां कर्षतश्चैव युध्यतः सह शत्रुभिः॥२६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः",
+      "english_ref": 25,
+      "combined_translation": "25-29"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "एवं रथगजाकीर्णे हयपत्तिसमाकुले। सिंहनादोद्धतरवे गंभीरे सैन्यसागरे ॥२७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः",
+      "english_ref": 25,
+      "combined_translation": "25-29"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "स्वैः परैश्च समेतेभ्यः सात्वतेन च सङ्गमे। एकस्यैकेन हि कथं संग्रामः संभविष्यति॥२८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः",
+      "english_ref": 25,
+      "combined_translation": "25-29"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "बहुभिः सह संगम्य निर्जित्य च महारथान्। श्रान्तश्च श्रान्तवाहश्च विमनाः शस्त्रपीडितः॥२९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः",
+      "english_ref": 25,
+      "combined_translation": "25-29"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "ईदृशं सात्यकिं संख्ये निर्जित्य च महारथम्। अधिकत्वं विजानीषे स्ववीर्यवशमागतम्॥३०॥",
+      "english": "And having thus obtained advantage over him, you seek to establish your superiority. You desired to cut-off with your sword the head of Satyaki.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "यदिच्छसि शिरश्चास्य असिना हन्तुमाहवे। तथा कृच्छ्रगतं चैव सात्यकिं कः क्षमिष्यति॥३१॥",
+      "english": "I could not possibly behold passively Satyaki reduced to that plight. It is proper that you should reproach your own self in as much as you neglected to protect yourself (when trying to injure another). Indeed O hero, how would you yourself have behaved towards one who would be your dependent.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः",
+      "combined_translation": "31-32"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "त्वं वै विगर्हयात्मानमात्मानं यो न रक्षसि। कथं करिष्यसे वीर यो वा त्वां संश्रयेज्जनः॥३२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः",
+      "english_ref": 31,
+      "combined_translation": "31-32"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "सञ्जय उवाच।\n              एवमुक्तो महाबाहुर्यूपकेतुर्महायशाः। युयुधानं समुत्सृज्य रणे प्रायमुपाविशत्॥३३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "शरानास्तीर्यं सव्येन पाणिना पुण्यलक्षणः। यियासुर्ब्रह्मलोकाय प्राणान्प्राणेष्वथाजुहोत्॥३४॥",
+      "english": "Distinguished by many pious deeds, he then spread with his left hand a bed of arrows and out of a desire for going to the regions of Brahman, he committed his vital breaths to the care of the gods presiding over them.",
+      "bhavadeepa": "प्रायम् आमरणानशनम्, उपाविशत् प्रारब्धवान् ॥३३॥",
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "सूर्ये चक्षुः समाधाय प्रसन्नं सलिले मनः। ध्यायन्महोपनिषदं योगयुक्तोऽभवन्मुनिः॥३५॥",
+      "english": "Steadying his eyes on the sun, setting his mind on the purified water and meditating the Mantras contained in the Upanishads, Bhurisravas betaking himself to yoga, became reticent.",
+      "bhavadeepa": "प्राणानसून् प्राणेषु वायुषु अजुहोदाहितवान् ॥३४॥",
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "ततः स सर्वसेनायां जनः कृष्णधनञ्जयौ। गर्हयामास तं चापि शशंस पुरुषर्षभम्॥३६॥",
+      "english": "Then all the men in the army began to rebuke Krishna and Dhananjaya and applaud that foremost of men viz., Bhurisravas.",
+      "bhavadeepa": "प्रसन्नमकल्मषम् ॥३५॥",
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "निन्द्यमानौ तथा कृष्णौ नोचतुः किंचिदप्रियम्। ततः प्रशस्यमानश्च नाहृष्यद्यूपकेतनः॥३७॥",
+      "english": "Though thus reproached by the general voice, the two Krishnas uttered not a single word, nor did the stake-bannered Bhurisravas feel any joy in consequence of those encomiums.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "तांस्तथा वादिनो राजन्पुत्रांस्तव धनञ्जयः। अमृष्यमाणो मनसा तेषां तस्य च भाषितम्॥३८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "असंक्रुद्धमना वाचः स्मारयन्निव भारत। उवाच पाण्डुतनयः साक्षेपमिव फाल्गुनः॥३९॥",
+      "english": "Then Dhananjaya otherwise called Phalguna, that son of Pandu unable to tolerate your sons speaking in that strain as also to put up with their words and the words of Bhurisravas, O Bharata, in sorrows and not at all angry, spoke these words, as if for remaining them all.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "मम सर्वेऽपि राजानो जानन्त्येव महाव्रतम्। न शक्यो मामको हंतुं यो मे स्याद्बाणगोचरे॥४०॥",
+      "english": "All kings know of this my great vow, that no one shall slay any body of our party so long as the latter is with in the range of my arrows.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "यूपकेतो निरीक्ष्यैतन्न मामहसि गर्हितुम्। न हि धर्ममविज्ञाय युक्तं गर्हयितुं परम् ॥४१॥",
+      "english": "Knowing this, O stake-bannered, one it befits you not to reproach me; without yourself knowing the rules of morality, you should not censure others.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "आत्तशस्त्रस्य हि रणे वृष्णिवीरं जिघांसतः। यदहं बाहुमच्छैत्सं न स धर्मो विगर्हितः॥४२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "न्यस्तशस्त्रस्य बालस्य विरथस्य विवर्मणः। अभिमन्योर्वधं तात धार्मिकः को न पूजयेत्॥४३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "एवमुक्तः स पार्थेन शिरसा भूमिमस्पृशत्। पाणिना चैव सव्येन प्राहिणोदस्य दक्षिणम्॥४४॥",
+      "english": "Thus addressed by Pritha's son, Bhurisravas touched the ground with his head and offered with his left arm the right one that had been severed.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "एतत्पार्थस्य तु वचस्ततः श्रुत्वा महाद्युतिः। यूपकेतुर्महाराज तूष्णीमासीदवाङ्मुखः॥४५॥",
+      "english": "Then the stake-bannered Bhurisravas of great effulgence O king having heard those words of Partha, become silent with his face turned towards the earth.",
+      "bhavadeepa": "दक्षिणं कृत्तमात्मनः पाणिम् अस्यार्जुनस्य समीपे प्राहिणोत् प्रहितवान् ॥४४॥",
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "अर्जुन उवाच।\n              या प्रीतिर्धर्मराजे मे भीमे च बलिनां वरे। नकुले सहदेवे च सा मे त्वयि शलाग्रज॥४६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "मया त्वं समनुज्ञातः कृष्णेन च महात्मना। गच्छ पुण्यकृतांल्लोकाञ्छिबिरौशीनरो यथा॥४७॥",
+      "english": "With my permission as also with that of the high-souled Krishna do you go to the regions of the righteous where Sivi the son of Usinara is.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "वासुदेव उवाच।\n              ये लोका मम विमलाः सकृद्विभाता ब्रह्माद्यैः सुरवृषभैरपीष्यमाणाः। तान् क्षिप्रं व्रज सतताग्निहोत्रयाजिन् मत्तुल्यो भव गरुडोत्तमाङ्गयानः॥४८॥",
+      "english": "Vasudeva said You are ever devoted to the performance of sacrifices and Agnihotras; therefore repair quickly to those holy regions of mine that constantly burn with effulgence and that are coveted by the foremost of gods withi Brahman as their head and becoming equal to myself by you carried on the back of Garuda.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "सञ्जय उवाच।\n              उत्थितः स तु शैनेयो विमुक्तः सौमदत्तिना। खड्गमादाय चिच्छित्सुः शिरस्तस्य महात्मनः॥४९॥",
+      "english": null,
+      "bhavadeepa": "सकृद्विभाताः सहप्रकाशाः गरुडस्योत्तमाङ्गेन पृष्ठेन यानं यस्य ॥४८॥",
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "निहतं पाण्डुपुत्रेण प्रसक्तं भूरिदक्षिणम्। इयेष सात्यकिर्हन्तुं शलाग्रजमकल्मषम्॥५०॥",
+      "english": "Satyaki then desired to slay the sinless Bhurisravas, the eldest brother of Saila that giver of profuse presents at sacrifices, who was staying with his senses drawn back from the battle and who had already been slain by Arjuna the son of Pandu;",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "निकृत्तभुजमासीनं छिन्नहस्तमिव द्विपम्। क्रोशतां सर्वसैन्यानां निन्द्यमानः सुदुर्मनाः॥५१॥",
+      "english": "Who was sitting with his arm lopped off, like an elephant with his trunk cut-off. Then all the warriors reproached him loudly for his intention. But destitute of reason.",
+      "bhavadeepa": "प्रसक्तमन्यासक्तम् ॥५०॥",
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "वार्यमाणः स कृष्णेन पार्थेन च महात्मना। भीमेन चक्ररक्षाभ्यामश्वत्थाम्ना कृपेण च॥५२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "कर्णेन वृषसेनेन सैन्धवेन तथैव च।  विक्रोशतां च सैन्यानामवधीत्तं धृतव्रतम्॥५३॥",
+      "english": "And Karna and Vrishasena and the king of the Sindhus and while the soldiers were still uttering loud shouts of denunciation, Satyaki flew Bhurisravas while engaged in the observance of the vow.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "प्रायोपविष्टाय रणे पार्थेन छिन्नबाहवे। सात्यकिः कौरवेयाय खड्गेनापाहरच्छिरः॥५४॥",
+      "english": "Indeed with his sword Satyaki lopped off the head of the Kuru warrior who had been deprived of his arm by Partha and who was then engaged in the Praya for liberating his soul from the body.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 55,
+      "sanskrit": "नाभ्यनन्दन्त सैन्यानि सात्यकिं तेन कर्मणा। अर्जुनेन हतं पूर्वं यजघान कुरूद्वहम्॥५५॥",
+      "english": "The soldiers then did not praise Satyaki for that act of his, viz., the slaughter of the perpetuator of the Kuru race, who already been slain by Pritha's son.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 56,
+      "sanskrit": "सहस्राक्षसमं चैव सिद्धचारणमानवाः। भूरिश्रवसमालोक्य युद्धे प्रायगतं हतम्॥५६॥",
+      "english": "Then the Siddhas, the Charanas and the men present, as also the celestials, seeing the Indra-like Bhurisravas slain in battle when sitting in the observance of the vow Praya, began to praise him, struck with wonder at the feats achieved by him. Your troops also argued",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः",
+      "combined_translation": "56-57"
+    },
+    {
+      "verse": 57,
+      "sanskrit": "अपूजयन्त तं देवा विस्मितास्तेऽस्य कर्मभिः। पक्षवादांश्च सुबहून्प्रावदंस्तव सैनिकाः॥५७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः",
+      "english_ref": 56,
+      "combined_translation": "56-57"
+    },
+    {
+      "verse": 58,
+      "sanskrit": "न वार्ष्णेयस्यापराधो भवितव्यं हि तत्तथा। तस्मान्मन्युर्न वः कार्यः क्रोधो दुःखतरो नृणाम्॥५८॥",
+      "english": "In this matter no blame should be attributed to the Vrishni hero. What has been ordained must happen. Therefore we should not cherish wrath; since again wrath is the cause of a man's grief.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 59,
+      "sanskrit": "हन्तव्यश्चैव वीरेण नात्र कार्या विचारणा। विहितो हास्य धात्रैव मृत्युः सात्यकिराहवे॥५९॥",
+      "english": "It was doomed that Bhurisravas would be slain by the heroic Satyaki. We need not judge of its propriety or otherwise. Satyaki has been made the instrument of Bhurisrava's death by the Creator himself.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 60,
+      "sanskrit": "सात्यकिरुवाच। न हन्तव्यो न हन्तव्य इति यन्मां प्रभाषत। धर्मवादैरधर्मिष्ठा धर्मकञ्चुकमास्थिताः॥६०॥",
+      "english": "Satyaki said You, sinful Kauravas, vested in outward garments of virtue, you are telling me in words of virtue, that Bhurisravas should not have been slain.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 61,
+      "sanskrit": "यदा बालः सुमद्रायाः सुतः शस्त्रविना कृतः। युष्माभिर्निहतो युद्धे तदा धर्मः क्व वो गतः॥६१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 62,
+      "sanskrit": "मया त्वेतत्प्रतिज्ञातं क्षेपे कस्मिश्चिदेव हि। यो मां निष्पिष्य संग्रामे जीवन्हन्यात्पदा रुषा॥६२॥",
+      "english": "In a certain fit of haughtiness I had vowed that he who would throw me down in battle alive and strike me in wrath with his knees.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 63,
+      "sanskrit": "स मे वध्यो भवेच्छत्रुर्यद्यपि स्यान्मुनिव्रतः। चेष्टमानं प्रतीघाते सभुजं मां सचक्षुषः॥६३॥",
+      "english": "Would be slain by me even though that antagonist of mine should adopt the vow of asceticism. Though I was fighting in battle with my arins and cyes in tact.",
+      "bhavadeepa": "क्षेपे निन्दायां जीवन्निति द्वितीयार्थे प्रथमा ॥६२॥",
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 64,
+      "sanskrit": "मन्यध्वं मृत इत्येवमेतद्वो बुद्धिलाघवम्। युक्तो हास्य प्रतीघातः कृतो मे कुरुपुङ्गवाः॥६४॥",
+      "english": "Yet you had taken me as already slain. It is indeed a great foolishness on your part. You foremost of the Kurus, the slaughter of Bhurisravas achieved by me, in indeed very proper.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 65,
+      "sanskrit": "यत्तु पार्थेन मां दृष्ट्वा प्रतिज्ञामभिरक्षता। सखड्गोऽस्य हृतो बाहुरेतेनैवास्मि वञ्चितः॥६५॥",
+      "english": "Partha by lopping off the arm of this one, with sword in grasp, had fulfiled his vow of protecting his own partisans and has thereby robbed me of my glory!",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 66,
+      "sanskrit": "भवितव्यं हि यद्भावि देवं चेष्टयतीव च। सोऽयं हतो विमर्देऽस्मिन्किमत्राधर्मचेष्टितम्॥६६॥",
+      "english": "What is ordained must come to pass. It is the hand of fate that works. Bhurisravas has been slain in the course of this battle. What sin have I perpetrated?",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 67,
+      "sanskrit": "अपि चायं पुरा गीतः श्लोको वाल्मीकिना भुवि। न हन्तव्याः स्त्रिय इति यद्ब्रवीषि प्लवङ्गम॥६७॥",
+      "english": "In days gone by, Valmiki sang this verse on earth viz., \"You say, Oape, that women should not be slain!",
+      "bhavadeepa": "इवेत्येवार्थे दैवमेव चेष्टयतीत्यन्वयः ॥६६॥",
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 68,
+      "sanskrit": "सर्वकालं मनुष्येण व्यवसायवता सदा। पीडाकरममित्राणां यत्स्यात्कर्तव्यमेव तत् ॥६८॥",
+      "english": "In all times however men should always with resolute care do that which would give pain to this foes.\"",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 69,
+      "sanskrit": "सञ्जय उवाच।\n              एवमुक्ते महाराज सर्वे कौरवपुङ्गवाः। न स्म किञ्चिदभाषन्त मनसा समपूजयन्॥६९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 70,
+      "sanskrit": "मन्त्राभिपूतस्य महाध्वरेषु यशस्विनो भूरिसहस्त्रदस्य च। मुनेरिवारण्यगतस्य तस्य न तत्र कश्चिद्वधमभ्यनन्दत्॥७०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 71,
+      "sanskrit": "सुनीलकेशं वरदस्य तस्य शूरस्य पारावतलोहिताक्षम्। अश्वस्य मेध्यस्य शिरो निकृत्तं न्यस्तं हविर्धानमिवान्तरेण॥७१॥",
+      "english": "The head of that brave hero graced with beautiful blue locks and eyes red like those of pegions looked like the head of a horse cut-off in a horse sacrifice and placed on the sacrificial altar.",
+      "bhavadeepa": null,
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 72,
+      "sanskrit": "स तेजसा शस्त्रकृतेन पूतो महाहवे देहवरं विसृज्य। आक्रामदूर्ध्वं वरदो वरार्हो व्यावृत्त्य धर्मेण परेण रोदसी॥७२॥",
+      "english": null,
+      "bhavadeepa": "वरदस्यार्थितार्थप्रदातुः हविर्धानमन्तरेण हविर्गृहस्य मध्ये ॥७१॥",
+      "chapter": 143,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "जयद्रथवधपर्व  - ५",
+      "adhyaya_name": "त्रिचत्वारिंशदधिकशततमोऽध्यायः"
+    }
+  ]
+}

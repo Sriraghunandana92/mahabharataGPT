@@ -1,0 +1,207 @@
+{
+  "adhyaya_id": "P13_U01_A003",
+  "book": 13,
+  "parva_name": "अनुशासनपर्व",
+  "upaparva_name": "दानधर्मपर्व",
+  "adhyaya_name": "तृतीयोऽध्यायः",
+  "chapter": 3,
+  "verse_count": 19,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "युधिष्ठिर उवाच। ब्राह्मण्यं यदि दुष्प्राप्यं त्रिभिर्वणैर्नराधिप । कथं प्राप्तं महाराज क्षत्रियेण महात्मना ॥१॥",
+      "english": "Yudhishthira said If, O prince, it is so very difficult for the other three castes to acquire Brahmanahood, how then did the great Vishvasmitra, O king, though a Kshatriya, acquire the status of a Brahmana? I desire to know this, O sire! Therefore, do you truly describe this matter to me.",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः",
+      "combined_translation": "1-2"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "विश्वामित्रेण धर्मात्मन् ब्राह्मणत्वं नरर्षभ । श्रोतुमिच्छामि तत्त्वेन तन्मे ब्रूहि पितामह ॥२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः",
+      "english_ref": 1,
+      "combined_translation": "1-2"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "तेन ह्यमितवीर्येण वसिष्ठस्य महात्मनः । हतं पुत्रशतं सद्यस्तपसाऽपि पितामह ॥३॥",
+      "english": "O Sire, by virtue of his austerities that powerful man destroyed in a moment the hundred sons of the great Vasishtha.",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "यातुधानाश्च बहवो राक्षसास्तिग्मतेजसः । मन्युनाऽऽविष्टदेहेन सृष्टाः कालान्तकोपमाः ॥४॥",
+      "english": "While under the influence of ire, he created numberless evil spirits and Rakshasas of great vigour and resembling the great destroyer Kala himself.",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "महान्कुशिकवंशश्च ब्रह्मर्षिशतसङ्कुलः । स्थापितो नरलोकेऽस्मिन्विद्वद्ब्राह्मण संस्तुतः ॥५॥",
+      "english": "The great and learned family of Kushika, containing hundreds of twiceborn sages in it and highly spoken of by the Brahmanas, was founded in this world of men by him.",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "ऋचीकस्यात्मजश्चैव शुनःशेपो महातपाः । विमोक्षितो महासत्रात्पशुतामप्युपागतः ॥६॥",
+      "english": "Having been sought to be killed as an animal in the great sacrifice of Amvarisha, Shunashepha of austere penances the son of Richika acquired his deliverance through Vishvamitra.",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "हरिश्चन्द्रक्रतौ देवांस्तोषयित्वाऽऽत्मतेजसा । पुत्रतामनुसम्प्राप्तो विश्वामित्रस्य धीमतः ॥७॥",
+      "english": "Having pleased the gods at a sacrifice Harishchandra became a son of the wise Vishvamitra.",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "नाभिवादयते ज्येष्ठं देवरातं नराधिप । पुत्राः पञ्चाशदेवापि शप्ताः श्वपचतां गताः ॥८॥",
+      "english": "For not having honoured their eldest brother Devarat, the other fifty brothers of his were imprecated, and all of them became Chandalas.",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "त्रिशङ्कुर्बन्धुभिर्मुक्त ऐक्ष्वाकः प्रीतिपूर्वकम् । अवाक्शिरा दिवं नीतो दक्षिणामाश्रितो दिशम् ॥९॥",
+      "english": "When abandoned by his friends, and hanging with his head down wards in the lower regions, Trisanku, the son of Ikshaku, was translated to heaven at the pleasure of Vishvamitra.",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "विश्वामित्रस्य विपुला नदी देवर्षिसेविता । कौशिकी च शिवा पुण्या ब्रह्मर्षिसुरसेविता ॥१०॥",
+      "english": "Vishvamitra had a large river, named Kaushiki, that was frequented by celestial Rishis. This sacred and suspicious river was frequented by the celestials and twiceborn Rishis.",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "तपोविघ्नकरी चैव पञ्चचूडा सुसम्मता । रम्भा नामाप्सराः शापाद्यस्य शैलत्वमागता ॥११॥",
+      "english": "For disturbing his devotions, the famous celestial nymph Rambha, having fine bracelets, was cursed and changed into a rock.",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "तथैवास्य भयाद्वध्वा वसिष्ठः सलिले पुरा । आत्मानं मज्जयन् श्रीमान् विपाशः पुनरुत्थितः ॥१२॥",
+      "english": "From fear of Vishvamitra the glorious Vasishtha, in days of yore, binding himself with creepers, threw himself down into a river and again rose released from his fetters,",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "तदाप्रभृति पुण्या हि विपाशाऽभून्महानदी । विख्याता कर्मणा तेन वसिष्ठस्य महात्मनः ॥१३॥",
+      "english": "On account of this, that large and sacred river became thenceforth famous by the name of Vipasha.",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "वाग्भिश्च भगवान्येन देवसेनाग्रगः प्रभुः । स्तुतः प्रीतमनाश्चासीच्छापाच्चैनममुञ्चत ॥१४॥",
+      "english": "He prayed to the glorious and powerful Indra who was pleased with him and freed him from a curse. Remaining on the northern side of the sky, he sheds his lustre from a position in the midst of the seven twiceborn Rishis, and Dhruva the son of Uttanpada.",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः",
+      "combined_translation": "14-15"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "ध्रुवस्यौत्तानपादस्य ब्रह्मर्षीणां तथैव च । मध्ये ज्वलति यो नित्यमुदीचीमाश्रितो दिशम् ॥१५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः",
+      "english_ref": 14,
+      "combined_translation": "14-15"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "तस्यैतानि च कर्माणि तथान्यानि च कौरव । क्षत्रियस्येत्यतो जातमिदं कौतूहलं मम ॥१६॥",
+      "english": "These and many others are his feats. O descendant of Kuru, my curiosity has been kindled in this respect, because they were performed by a Kshstriya.",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "किमेतदिति तत्त्वेन प्रबूहि भरतर्षम । देहान्तरमनासाद्य कथं स ब्राह्मणोऽभवत् ॥१७॥",
+      "english": "Therefore, O foremost one of Bharata's race do you relate this matter to me truly! How without renouncing his body and taking another body of flesh could he become a Brahmana?",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "एतत्तत्वेन मे तात सर्वमाख्यातुमर्हसि । मतङ्गस्य यथातत्त्वं तथैवैतद्वदस्व मे ॥१८॥",
+      "english": "Do you, O sire, truly describe this matter to me as you have described to me the story of Matanga.",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "स्थाने मतङ्गा ब्राह्मण्यं नालभद्भरतर्षभ । चण्डालयोनौ जातो हि कथं ब्राह्मण्यमाप्तवान् ॥१९॥",
+      "english": "Matanga was born as a Chandala, and could not acquire Brahmanahood, but how could this man acquire the status of a Brahmana?",
+      "bhavadeepa": null,
+      "chapter": 3,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "तृतीयोऽध्यायः"
+    }
+  ]
+}

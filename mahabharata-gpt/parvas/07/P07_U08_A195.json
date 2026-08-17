@@ -1,0 +1,510 @@
+{
+  "adhyaya_id": "P07_U08_A195",
+  "book": 7,
+  "parva_name": "द्रोणपर्व",
+  "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+  "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः",
+  "chapter": 195,
+  "verse_count": 49,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "सञ्जय उवाच।\n              छद्मना निहतं श्रुत्वा पितरं पापकर्मणा।  बाष्पेणापूर्यत द्रौणी रोषेण च नरर्षभ॥१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "तस्य क्रुद्धस्य राजेन्द्र वपुर्दीप्तमदृश्यत।  अन्तकस्येव भूतानि जिहीर्षोः कालपर्यये॥२॥",
+      "english": "Inflamed as he was with rage, his body, O monarch, appeared to burn like that of the Destroyer himself when at the expiration of a Yuga, he engages himself in slaughtering created beings.",
+      "bhavadeepa": "छद्मनेति ॥१॥",
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "अश्रुपूर्णे ततो नेत्रे व्यपमृज्य पुनः पुनः।  उवाच कोपान्निःश्वस्य दुर्योधनमिदं वचः॥३॥",
+      "english": "Then repeatedly wiping off his eyes shedding copious tears and breathing in rage, he said these words unto king Duryodhana.",
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "पिता मम यथा क्षुद्रैर्न्यस्तशस्त्रो नियातितः।  धर्मध्वजवता पापं कृतं तद्विदितं मम॥४॥",
+      "english": "I have been apprised of the fact, how my father was slain after he laid his weapons aside; I have also known how a sinful act has been committed by those who boast of hoisting the standard of virtue.",
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "अनार्यं सुनृशंसं च धर्मपुत्रस्य मे श्रुतम्।  युद्धेष्वपि प्रवृत्तानां ध्रुवं जयपराजयौ॥५॥",
+      "english": "I have also heard of the vile and ruthless act of the very virtuous king Yudhishthira. Surely either victory or its reverses will fall to the lot of those who engage in fight. Death in battle is ever esteemed. The death overtaking one engaged in fight under fair rules of combat.",
+      "bhavadeepa": "धर्मध्वजवता दांभिकेन तत् अनृतवचनरूपं पापम् ॥४॥",
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः",
+      "combined_translation": "5-6"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "द्वयमेतद्भवेद्राजन् वधस्तत्र प्रशस्यते।  न्यायवृत्तो वधो यस्तु संग्रामे युध्यतो भवेत्॥६॥",
+      "english": null,
+      "bhavadeepa": "अनार्यं नीचयोग्यं कर्म धर्मपुत्रस्येत्युपालंभः ॥५॥",
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः",
+      "english_ref": 5,
+      "combined_translation": "5-6"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "न स दुःखाय भवति तथा दृष्टो हि स द्विजैः।  गतः स वीरलोकाय पिता मम न संशयः॥७॥",
+      "english": "Should not become a source of grief, as been observed by the sages. My father, without doubt, has gone to the posthumous regions of the heroes.",
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "न शोच्यः पुरुषव्याघ्र यस्तदा निधनं गतः।  यत्तु धर्मप्रवृत्तः सन्केशग्रहणमाप्तवान्॥८॥",
+      "english": "I should not lament for that foremost of men as he had undergone the most excellent from of death. But when fighting fairly, he was seized by the hair.",
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "पश्यतां सर्वसैन्यानां तन्मे मर्माणि कृन्तति।  मयि जीवति यत्तातः केशग्रहमवाप्तवान्॥९॥",
+      "english": "Before the eyes of all the troops; this humiliation that he sustained is biting me to the very quick. Whilst I live, my sire was seized by the hair.",
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "कथमन्ये करिष्यन्ति पुत्रेभ्यः पुत्रिणः स्पृहाम्।  कामात्क्रोधादविज्ञानाद्धर्षाद्बाल्येन वा पुनः॥१०॥",
+      "english": "Why then should sonless men wish to obtain sons (who can help them in no way)? Moved by lust or wrath or ignorance or hatred or levity.",
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "विधर्मकाणि कुर्वन्ति तथा परिभवन्ति च।  तदिदं पार्षतेनेह महदाधर्मिकं कृतम्॥११॥",
+      "english": "Men perpetrate acts opposed to morality or to humiliate others. This most sinful act has been committed by the son of Prisata.",
+      "bhavadeepa": "बाल्येन चापलेन ॥१०॥",
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "अवज्ञाय च मां नूनं नृशंसेन दुरात्मना।  तस्यानुबन्धं द्रष्टाऽसौ धृष्टद्युम्नः सुदारुणम्॥१२॥",
+      "english": "Of wicked soul and ruthless heart, in utter disregard of myself. Dhristadyumna shall behold the dreadful consequences of his act.",
+      "bhavadeepa": "विधर्मकाणि धर्मविरुद्धानि ॥११॥",
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "अकार्यं परमं कृत्वा मिथ्यावादी च पाण्डवः।  यो ह्यसौ छद्मनाऽऽचार्यं शस्त्रं संन्यासयत्तदा॥१३॥",
+      "english": "As also the prevaricating sons of Pandu, who have perpetrated a sinful act. He that caused by an underhand underhand measure, the preceptor to lay aside his weapon.",
+      "bhavadeepa": "अनुबन्धं फलम् ॥१२॥",
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "तस्याद्य धर्मराजस्य भूमिः पास्यति शोणितम्। शपे सत्येन कौरव्य इष्टापूर्तेन चैव ह॥१४॥",
+      "english": "The blood of that son of Dharma the earth shall drink today. I swear by my truth, O foremost of the Kurus, as also by the religious merits acquired by my Istha and Purtha acts.",
+      "bhavadeepa": "पाण्डवश्च अनुबन्धं द्रष्टेत्यनुषज्यते ॥१३॥",
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "अहत्वा सर्वपञ्चालान् जीवेयं न कथञ्चन। सर्वोपायैर्यतिष्यामि पञ्चालानामहं वधे॥१५॥",
+      "english": "That I shall drag on my burden some existence without slaying the Panchalas to the last men. Having re-course to all measures, I shall contend against the Panchalas in great battle,",
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "धृष्टद्युम्नं च समरे हन्ताऽहं पापकारिणम्। कर्मणा येन तेनेह मृदुना दारुणेन च॥१६॥",
+      "english": "Either by hook or crook or by violent or mild measures I will achieve the slaughter of Dhristadyumna of evil deeds in battle.",
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "पञ्चालानां वधं कृत्वा शान्तिं लब्धास्मि कौरव। यदर्थं पुरुषव्याघ्र पुत्रानिच्छन्ति मानवाः॥१७॥",
+      "english": "() ruler of the Kuru, exterminating the Panchalas, I shall regain my peace of mind. O foremost of men, people desire to have children.",
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "प्रेत्य चेह च संप्राप्तास्त्रायन्ते महतो भयात्। पित्रा तु मम साऽवस्था प्राप्ता निर्बन्धुना यथा॥१८॥",
+      "english": "In order that these latter may free them from great danger here and hereafter. But my sire was reduced to a woeful plight like one helpless.",
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "मयि शैलप्रतीकाशे पुत्रे शिष्ये च जीवति।  धिङ्ममास्त्राणि दिव्यानि धिग्बाहू धिक् पराक्रमम्॥१९॥",
+      "english": "While myself his son and disciple, equal to a mountain (in mighty) am still alive. Fie on my weapons of celestial make, fie on my arms, fie on my prowess.",
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "यं स्म द्रोणः सुतं प्राप्य केशग्रहमवाप्तवान्।  स तथाऽहं करिष्यामि यथा भरतसत्तम॥२०॥",
+      "english": "Inasmuch as getting me for his son, Drona had to suffer the indignity of being seized by the hair. O foremost of the Bharatas, I shall therefore so exert myself that.",
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "परलोकगतस्यापि भविष्याम्यनृणः पितुः।  आर्येण हि न वक्तव्या कदाचित्स्तुतिरात्मनः॥२१॥",
+      "english": "I may be free from the debt I still owe to my sire who has proceeded to Heaven. A noble person never indulges in his own praise;",
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "पितुर्वधममृष्यंस्तु वक्ष्याम्यद्येह पौरुषम्।  अद्य पश्यन्तु मे वीर्यं पाण्डवाः सजनार्दनाः॥२२॥",
+      "english": "But incapable of tolerating the slaughter of my sire, I shall today untter my own praises-Let the Pandavas with Janardana at their head today behold my prowess.",
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "मृद्नतः सर्वसैन्यानि युगान्तमिव कुर्वतः।  न हि देवा न गन्धर्वा नासुरा न च राक्षसाः॥२३॥",
+      "english": "As I grind all creatures like the Destroyer himself at the hour of Dissolution. Neither the gods, nor the Gandharvas, nor the Asuras, nor the reptiles, nor the Rakshasas.",
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "अद्य शक्ता रणे जेतुं रथस्थं मां नरर्षभाः।  मदन्यो नास्ति लोकेऽस्मिन्नर्जुनाद्वाऽस्त्रवित्क्वचित्॥२४॥",
+      "english": "Will be able today to conquer me as I shall ride on my car, O foremost of men. There is none in the world superior to me or Arjuna in the knowledge of weapons.",
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "अहं हि ज्वलतां मध्ये मयूखानामिवांशुमान्।  प्रयोक्ता देवसृष्टानामस्त्राणां पृतनागतः॥२५॥",
+      "english": "Today at the heart of the hostile troops, like the sun in the midst of scorching rays, I shall discharge my celestial weapons.",
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "भृशमिष्वसनादद्य मत्प्रयुक्ता महाहवे।  दर्शयन्तः शरा वीर्यं प्रमथिष्यन्ति पाण्डवान्॥२६॥",
+      "english": null,
+      "bhavadeepa": "मयूखानां मयूखवताम् ॥२५॥",
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "अद्य सर्वा दिशो राजन्धाराभिरिव संकुलाः।  आवृताः पत्रिभिस्तीक्ष्णैर्द्रष्टारो मामकैरिह॥२७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "विकिरञ्छरजालानि सर्वतो भैरवस्वनान्।  शत्रून्निपातयिष्यामि महावात इव द्रुमान्॥२८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "न हि जानाति बीभत्सुस्तदस्त्रं न जनार्दनः।  न भीमसेनो न यमौ न च राजा युधिष्ठिरः॥२९॥",
+      "english": "Neither Vibhatsu, nor Janardana, Bhimasena, nor the twins, (Nakula and Sahadeva), nor king Yudhishthira, nor Prisata's son of wicked soul, Sikhandin, nor Satyaki, even know the weapon which I possess, O nor foremost of the Kurus, with the mantras for hurling and withdrawing it.",
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "न पार्षतो दुरात्माऽसौ न शिखण्डी न सात्यकिः। यदिदं मयि कौरव्यं सकल्यं सनिवर्तनम्॥३०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "नारायणाय मे पित्रा प्रणम्य विधिपूर्वकम्।  उपहारः पुरा दत्तो ब्रह्मरूप उपस्थितः॥३१॥",
+      "english": "Formerly on one occasion, disguised as a Brahmana, Narayana, came to my father; whereupon my father bowing down unto him presented him offerings in due course and from.",
+      "bhavadeepa": "कल्यः प्रयोगः निवर्तनमुपसंहारः ॥३०॥",
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "तं स्वयं प्रतिगृह्याथ भगवान्स वरं ददौ।  वव्रे पिता मे परममस्त्रं नारायणं ततः॥३२॥",
+      "english": null,
+      "bhavadeepa": "ब्रह्मरूपो वेदरूपः वैदिकैर्मन्त्रैःस्तुतवानित्यर्थः । उपस्थित इति तदन्यस्योपहारस्य तदानीमभावो दर्शितः ॥३१॥",
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "अथैनमब्रवीद्राजन् भगवान्देवसत्तमः।  भविता त्वत्समो नान्यः कश्चिद्युधि नरः क्वचित्।  न त्विदं सहसा ब्रह्मन्प्रयोक्तव्यं कथञ्चन।  न ह्येतदस्त्रमन्यत्र वधाच्छत्रोर्निवर्तते॥३४॥",
+      "english": "Thereupon that foremost of all gods, that possessor of the six divine qualities said unto him, O king, “No man shall ever be a match for you in battle.",
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "न चैतच्छक्यते ज्ञातुं केन वध्येदिति प्रभो।  अवध्यमपि हन्याद्धि तस्मान्नैतत्प्रयोजयेत्॥३५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "अथ संख्ये रथस्यैव शस्त्राणां च विसर्जनम्।  प्रयाचतां च शत्रूणां गमनं शरणस्य च॥३६॥",
+      "english": "When one abandons his car on weapons in battle or implores for mercy or surrenders himself.",
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "एते प्रशमने योगा महास्त्रस्य परंतप।  सर्वथा पीडितो हिंस्यादवध्यान्पीडयन् रणे॥३७॥",
+      "english": null,
+      "bhavadeepa": "रथस्यैव विसर्जनं शस्त्राणामपि विसर्जनं च प्रयाचतां मा वधीरिति याचमानानां शरणस्य गमनं त्वमेव शरणं न इति कीर्तनं च ॥३६॥",
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "तज्जग्राह पिता मह्यमब्रवीच्चैव स प्रभुः।  त्वं वधिष्यसि सर्वाणि शस्त्रवर्षाण्यनेकशः॥३८॥",
+      "english": null,
+      "bhavadeepa": "पीडितः पीडितं शस्त्रान्तरेण बाधितं पुंस्त्वमार्षम् ॥३७॥",
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "अनेनास्त्रेण संग्रामे तेजसा च ज्वलिष्यसि। एवमुक्त्वा स भगवान् दिवमाचक्रमे प्रभुः॥३९॥",
+      "english": "By means of this weapon and you shall blaze forth in effulgence by its virtue.\" Having thus spoken that Divine Lord ascended to heaven.",
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "एतन्नारायणादस्त्रं तत्प्राप्तं पितृबन्धुना।  तेनाहं पाण्डवांश्चैव पञ्चालान्मत्स्यकेकयान्॥४०॥",
+      "english": "This is history how my father obtained the Narayana weapon from the god. With the aid of this weapon, I shall crush the Pandavas, the Panchalas, the Matsyas and the Kaikayas in battle like the husband of Sachi crushing the Asuras. Assuming those particular forms which I shall desire them to assume, my arrows.",
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः",
+      "combined_translation": "40-41"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "विद्रावयिष्यामि रणे शचीपतिरिवासुरान्।  यथायथाऽहमिच्छेयं तथा भूत्वा शरा मम॥४१॥",
+      "english": null,
+      "bhavadeepa": "पितृ-बन्धुना मया ॥४०॥",
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः",
+      "english_ref": 40,
+      "combined_translation": "40-41"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "निपतेयुः सपत्नेषु विक्रमत्स्वपि भारत।  यथेष्टमश्मवर्षेण प्रवर्षिष्ये रणे स्थितः॥४२॥",
+      "english": "Will fall upon my foes contending vigorously in battle. Staying in battle I shall shower weapons as it lists men to do.",
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "अयोमुखैश्च विहगैर्द्रावयिष्ये महारथान्। परश्वधांश्च निशितानुत्स्रक्ष्येऽहमसंशयम्॥४३॥",
+      "english": "I will rout the foremost of car-warriors with sky-ranging arrows furnished with iron tips. I will certainly hurl battle axes, bludgeons and various other kinds of weapons.",
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "सोऽहं नारायणास्त्रेण महता शत्रुतापनः। शत्रून्विध्वंसयिष्यामि कदर्थीकृत्य पाण्डवान्॥४४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "मित्र-ब्रह्म-गुरुद्रोही जाल्मकः सुविगर्हितः। पाञ्चालापस‌श्चाद्य न मे जीवन्विमोक्ष्यते॥४५॥",
+      "english": "That disgrace to the Panchala race, that contemner of his friends, the Brahmanas and his preceptor, that odious fellow of vilest conduct, shall not escape me alive today.",
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "तच्छ्रुत्वा द्रोणपुत्रस्य पर्यवर्तत वाहिनी। ततः सर्वे महाशङ्खान्दध्मुः पुरुषसत्तमाः॥४६॥",
+      "english": null,
+      "bhavadeepa": "जाल्मको मूर्खः ॥४५॥",
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "भेरीश्चाभ्यहनन्हृष्टा डिण्डिभांश्च सहस्रशः।  तथा ननाद वसुधा खुरनेमिप्रपीडिता॥४७॥",
+      "english": "Delightedly they began to strike up the Bheris and Dindimas by thousands; the earth then struck with the hoops of horses and whecls of car, rang out loudly.",
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "स शब्दस्तुमुलः खं द्यां पृथिवीं च व्यनादयत्।  तं शब्दं पाण्डवाः श्रुत्वा पर्जन्यनिनदोपमम्॥४८॥",
+      "english": "That tremendous din resounded through the welkin. the heavens and the earth. Then hearing that sound that resembled the rumble of rain-clouds, the Pandavas.",
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "समेत्य रथिनां श्रेष्ठाः सहिताश्चाप्यमन्त्रयन्।  तथोक्त्वा द्रोणपुत्रस्तु वार्युपस्पृश्य भारत॥४९॥",
+      "english": "Those foremost of car-warriors, uniting together began to consult. The son of Drona aiso, O Bharata, having spoken in the above manner, washed his mouth with water and then invoked into existence that celestial weapon known by the name of Narayana.",
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः",
+      "combined_translation": "49-50"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "प्रादुश्चकार तद्दिव्यमस्त्रं नारायणं तदा॥५०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 195,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "नारायणास्त्रमोक्षपर्व - ८",
+      "adhyaya_name": "पञ्चनवत्यधिकशततमोऽध्यायः",
+      "english_ref": 49,
+      "combined_translation": "49-50"
+    }
+  ]
+}

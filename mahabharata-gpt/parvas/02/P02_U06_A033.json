@@ -1,0 +1,583 @@
+{
+  "adhyaya_id": "P02_U06_A033",
+  "book": 2,
+  "parva_name": "सभापर्व",
+  "upaparva_name": "राजसूयपर्व",
+  "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः",
+  "chapter": 33,
+  "verse_count": 55,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वैशम्पायन उवाच।\n              रक्षणाद्धर्मराजस्य सत्यस्य परिपालनात्। शत्रूणां क्षपणाच्चैव स्वकर्मनिरताः प्रजाः॥१॥",
+      "english": "Vaishampayana said Protected by Dharmaraja (Yudhishthira) and supported by Truth and also all their enemies being kept in check, all subjects (of the Pandava king) were always engaged in their respective business.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "बलीनां सम्यगादानाद्धर्मतश्चानुशासनात्। निकामवर्षी पर्जन्यः स्फीतो जनपदोऽभवत्॥२॥",
+      "english": "In consequence of the equitable taxation and the virtuous and the just rule of the king, the clouds poured as much rain as desired, and the country became prosperous.",
+      "bhavadeepa": "रक्षणादिति। शत्रूणां दस्यूनाम् ॥१॥",
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "सर्वारम्भाः सुप्रवृत्ता गोरक्षा कर्षणं वणिक्। विशेषात्सर्वमेवैतत्सञ्जज्ञे राजकर्मणः॥३॥",
+      "english": "As the result of the king's (virtuous) acts every thing of the kingdom, specially the breeding of cattle, agriculture and trade, greatly flourished.",
+      "bhavadeepa": "बलीनां कराणां निकामं यथेष्टं वर्षतीति निकामवर्षी । स्फीतः समृद्धः ॥२॥",
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "दस्युभ्यो वञ्चकेभ्यो वा राजन्प्रति परस्परम्। राजवल्लभतश्चैव नाश्रूयन्त मृषा गिरः॥४॥",
+      "english": "O king, even cheats and thieves, nay even the king's favourites, were never heard to speak lies amongst themselves,",
+      "bhavadeepa": "सुप्रवृत्ताः स्वस्य परेषां च हितावहाः न तु क्रूराः। राजकर्मणः राज्ञः पुण्यात् ॥३॥",
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "अवर्षं चातिवर्षं च व्याधिपावकमूर्छनम्। सर्वमेतत्तदा नासीद्धर्मनित्ये युधिष्ठिरे॥५॥",
+      "english": "During the reign of Yudhishthira, who was ever devote to virtue, there were no draughts, or floods, or plagues, or fires, or premature deaths.",
+      "bhavadeepa": "दस्युभ्यः चोरेभ्यः वञ्चकेभ्यः धूर्तेभ्यः राज्ञो राजवल्लभतो या मृषा गिरो नाश्रूयन्त । सर्वेऽपि सत्यवादिनो राजवदित्यर्थः । दस्यवोऽपि परस्परं न वञ्जयन्ति नाप्यन्यानेवम् अन्यत्र एते जातितः खला अपि न तत्कर्म कुर्वन्तीत्यर्थः ॥४॥",
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "प्रियं कर्तुमुपस्थातुं बलिकर्म स्वभावजम्। अभिहर्तुं नृपा जग्मुर्नान्यैः कार्यैः कथञ्चन॥६॥",
+      "english": "The (other) kings used to come to him only for agreeable services, or for paying their respects to him, or for offering to him tribute that did not (any way) impoverish them. They never used to come for any other purpose (such as conquests).",
+      "bhavadeepa": "मूर्छनं प्रदीपनम् ॥५॥",
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "धर्मैर्धनागमैस्तस्य ववृधे निचयो महान्। कर्तुं यस्य न शक्येत क्षयो वर्षशतैरपि॥७॥",
+      "english": "The large treasury of the King became so much filled with the hoards of wealth virtuously obtained that it could not be emptied even in one hundred years.",
+      "bhavadeepa": "जग्मुः राजानं प्रतीति शेषः नान्यैः जिगीषादिभिः ॥६॥",
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "स्वकोष्ठस्य परीमाणं कोशस्य च महीपतिः। विज्ञाय राजा कौन्तेयो यज्ञायैव मनो दधे॥८॥",
+      "english": "Having ascertained the state of his treasury and the extent of his possessions, the son of Kunti (Yudhishthira) set his heart upon performing the (Rajasuya) sacrifice.",
+      "bhavadeepa": "निचयो भाण्डागारम् ॥७॥",
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "सुहृदश्चैव ये सर्वे पृथक्च सहिता ब्रुवन्। यज्ञकालस्तव विभो क्रियतामत्र साम्प्रतम्॥९॥",
+      "english": "His friends and relatives all separately and jointly said, \"O lord, the time for the sacrifice has come. Let it be now performed without delay.”",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "अथैवं ब्रुवतामेव तेषामभ्याययौ हरिः। ऋषिः पुराणो वेदात्माऽदृश्यश्चैव विजानताम्॥१०॥",
+      "english": "When they were thus talking, there came that omniscient and ancient one, that soul of the Vedas, that invincible one as described by the learned, that foremost of all lasting existences in the universe, that origin of all things, that receptacle in which every thing is destroyed, that slayer of Keshi, Hari (Krishna).",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः",
+      "combined_translation": "10-11"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "जगतस्तस्थुषां श्रेष्ठः प्रभवश्चाप्ययश्च ह। भूतभव्यभवन्नाथः केशवः केशिसूदनः॥११॥",
+      "english": null,
+      "bhavadeepa": "ऋषिर्नारायणः अदृश्य इति छेदः विजानतां विदुषाम् अदृश्यः प्रत्यगात्मत्वात् अविजानतां तु कार्यकारणरूपेण दृश्यः तथा च श्रुतिः ‘अविज्ञातं विजानतां विज्ञातमविजानताम्’ इति ॥१०॥",
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः",
+      "english_ref": 10,
+      "combined_translation": "10-11"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "प्राकारः सर्ववृष्णीनामापत्स्वभयदोऽरिहा। बलाधिकारे निक्षिप्य सम्यगानकदुन्दुभिम्॥१२॥",
+      "english": "Having appointed Vasudeva command of the army and having brought with him for Dharmaraja Yudhishthira a large amount of wealth, the bulwark of all the Vrishnis, the dispelled of all fears in danger, the grinder of all foes, that best of men, Madhava, entered the excellent city (Indraprastha), surrounded with a large army to the was and filling, the atmosphere with the rattle of his chariot's wheels. The inexhaustible ocean of gems, that the Pandavas possessed.",
+      "bhavadeepa": "प्रभव उत्पत्तिस्थानम् अप्ययो लयस्थानम् ॥११॥",
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः",
+      "combined_translation": "12-14"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "उच्चावचमुपादाय धर्मराजाय माधवः। धनौघं पुरुषव्याघ्रो बलेन महता वृतः॥१३॥",
+      "english": null,
+      "bhavadeepa": "प्राकारः प्राकार इव रक्षकः बलाधिकारं सेनाधिपत्यम् ॥१२॥",
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः",
+      "english_ref": 12,
+      "combined_translation": "12-14"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "तं धनौघमपर्यन्तं रत्नसागरमक्षयम्। नादयन्रथघोषेण प्रविशेश पुरोत्तमम्॥१४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः",
+      "english_ref": 12,
+      "combined_translation": "12-14"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "पूर्णमापूरयंस्तेषां द्विषच्छोकावहोऽभवत्। असूर्यमिव सूर्येण निवातमिव वायुना। कृष्णेन समुपेतेन जहृषे भारतं पुरम्॥१५॥",
+      "english": "Was brought to a full limit by the wealth that he (Krishna) brought, and thus all their (the Pandava's) griefs were removed. By the arrival of Krishna, the capital of the Bharata race was gladdened like a sunless region by the sun, or a region of still air by gentle breeze.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "तं मुदाऽभिसमागम्य सत्कृत्य च यथाविधि। स पृष्ट्वा कुशलं चैव सुखासीनं युधिष्ठिरः॥१६॥",
+      "english": "Coming to him with joy and receiving him with all dues respect, Yudhishthira asked him his welfare. When he (Krishna) comfortably seated.",
+      "bhavadeepa": "जहृषे हर्षं प्राप ॥१५॥",
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "धौम्यद्वैपायनमुखैर्ऋत्विग्भिः पुरुषर्षभ। भीमार्जुनयमैश्चैव सहितः कृष्णमब्रवीत्॥१७॥",
+      "english": "That best of men (Yudhishthira) with the Ritvikas, Dhaumya and Dvaipayana being at their head, and also with Bhima, Arjuna and the twins (Nakula and Sahadeva) thus spoke to Krishna.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "युधिष्ठिर उवाच।\n              त्वत्कृते पृथिवी सर्वा मद्वशे कृष्ण वर्तते। धनं च बहु वार्ष्णेय त्वत्प्रसादादुपार्जितम्॥१८॥",
+      "english": "Yudhishthira said O Krishna, it is for you that the whole earth has come rinder my sway. O descendant of the Vrishni race, it is through your favour that this vast wealth has been earned by me.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "सोऽहमिच्छामि तत्सर्वं विधिवद्देवकीसुत। उपयोक्तुं द्विजाग्र्येभ्यो हव्यवाहे च माधव॥१९॥",
+      "english": "O Madhava, O son of Devaki, I desire to devote all this wealth to the Brahmanas and to the. carrier of sacrificial libations (Agni) according to the ordinance.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "तदहं यष्टुमिच्छामि दाशार्ह सहितस्त्वया। अनुजैश्च महाबाहो तन्माऽनुज्ञातुमर्हसि॥२०॥",
+      "english": "O prince of the Dasarha race, O mighty armed hero, you should grant me permission to celebrate the Rajasuya sacrifice along with you and with my brothers.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "तद्दीक्षापय गोविन्द त्वमात्मानं महाभुज। त्वयीष्टवति दाशार्ह विपाप्मा भविता ह्यहम्॥२१॥",
+      "english": "O Govinda, O long-armed hero, O prince of the Dasarha race, install yourself in that sacrifice. If you perform the sacrifice, I shall be cleansed from sin.",
+      "bhavadeepa": "मा माम् अनुज्ञातुं तदनुज्ञातुमर्हसीत्यपि पाठः ॥२०॥",
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "मां वाप्यभ्यनुजानीह सहैभिरनुजैर्विभो। अनुज्ञातस्त्वया कृष्ण प्राप्नुयां क्रतुमुत्तमम्॥२२॥",
+      "english": "O lord, O Krishna, grant permission to me that I may be installed in the sacrifice along with my these younger brothers, for if permitted by you, I shall be able to enjoy the fruit of that excellent sacrifice.",
+      "bhavadeepa": "त्वं दीक्षस्वेति वक्तव्ये आत्मानं दीक्षापयेत्युक्तिः अकर्तुरात्मनो दीक्षणायोगादौपाधिकमेव प्रतिबिम्बचलनन्यायेनैव तस्य दीक्षापनं ज्ञेयम् ॥२१॥",
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "वैशम्पायन उवाच।\n              तं कृष्णःस प्रत्युवाचेदं बहूक्त्वा गुणविस्तरम्। त्वमेव राजशार्दूल संम्राडर्हो महाक्रतुम्। सम्प्राप्नुहि त्वया प्राप्ते कृतकृत्यास्ततो वयम्॥२३॥",
+      "english": "Vaishampayana said To him replied Krishna after extolling his many virtues.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "यदस्वाभीप्सितं यज्ञं मयि श्रेयस्यवस्थिते। नियुङ्क्ष्व त्वं च मां कृत्ये सर्वं कर्तास्मि ते वचः॥२४॥",
+      "english": "Krishna said O best of kings, you deserve the imperial dignity. Let therefore the great (Rajasuya) sacrifice be performed. If you perform that sacrifice, and if you obtain its fruit, we shall all consider ourselves as crowned with success. I am always engaged in seeking your good. Perform the sacrifice you desire. Appoint me in some office in that sacrifice. I shall obey all your commands.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "युधिष्ठिर उवाच।\n              सफलः कृष्ण सङ्कल्पः सिद्धिश्च नियता मम। यस्यमे त्वं हृषीकेश यथेप्सितमुपस्थितः॥२५॥",
+      "english": "Yudhishthira said O Krishna, O Hrishikesha, when you have come here agreeably to my wish, my resolve is fulfilled; success is sure to come to my work.",
+      "bhavadeepa": "श्रेयसि कल्याणकरे ॥२४॥",
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "वैशम्पायन उवाच।\n              अनुज्ञातस्तु कृष्णेन पाण्डवो भ्रातृभिः सह। ईजितुं राजसूयेन साधनान्युपचक्रमे॥२६॥",
+      "english": "Vaishampayana said Having been commanded by Krishna, the son of Pandu (Yudhishthira) with his brothers employed himself to collect the necessary materials for the Rajasuya (sacrifice).",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "ततस्त्वाज्ञापयामास पाण्डवोऽरिनिबर्हणः। सहदेवं युधां श्रेष्ठं मन्त्रिणश्चैव सर्वशः॥२७॥",
+      "english": "That chastiser of foes, the son of Pandu (Yudhishthira), commanded that foremost of all warriors, Sahadeva, and also all his ministers, saying.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "अस्मिन्क्रतौ यथोक्तानि यज्ञाङ्गानि द्विजातिभिः। यथोपकरणं सर्वं मङ्गलानि च सर्वशः॥२८॥",
+      "english": "“Let men be appointed to collect without loss of time all those articles which the Brahmanas will direct as necessary for the performance of this sacrifice, and also all auspicious necessaries and things that Dhaumya may order to be collected; each of the king required and one after the other in due order.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः",
+      "combined_translation": "28-29"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "अधियज्ञांश्च सम्भारान्धौम्योक्तान्क्षिप्रमेव हि। समानयन्तु पुरुषा यथायोगं यथाक्रमम्॥२९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः",
+      "english_ref": 28,
+      "combined_translation": "28-29"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "इन्द्रसेनो विशोकश्च पूरुश्चार्जुनसारथिः। अन्नाद्याहरणे युक्ताः सन्तु मत्प्रियकाम्यया॥३०॥",
+      "english": "Let Indrasena and Vishoka and the charioteer of Arjuna, Puru, if, they desire to please me, be employed in collecting them.",
+      "bhavadeepa": "अधियज्ञान् यज्ञियान् संभारान् आज्यपश्वादीन् ॥२९॥",
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "सर्वकामाश्च कार्यन्तां रसगन्धसमन्विताः। मनोरथप्रीतिकरा द्विजानां कुरुसत्तम॥३१॥",
+      "english": "O best of the Kuru race (Sahadeva) let them gather every article agreeable to taste and smell, articles which may delight and attract the hearts of the Brahmanas.\"",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "तद्वाक्यसमकालं च कृतं सर्वं न्यवेदयत्। सहदेवो युधां श्रेष्ठो धर्मराजो युधिष्ठिरे॥३२॥",
+      "english": "As soon as these words were uttered by Dharmaraja Yudhishthira, that foremost of all warriors, Sahadeva, informed the king that they had been all done.",
+      "bhavadeepa": "काम्यन्त इति कामाः मृष्टान्नादीनि ॥३१॥",
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "ततो द्वैपायनो राजन्नृत्विजः समुपानयत्। वेदानिव महाभागान्साक्षान्मूर्तिमतो द्विजान्॥३३॥",
+      "english": "O king, Dvaipayana then appointed the Ritvijas, who were high-souled, and who were like the Vedas in their personified forms.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "स्वयं ब्रह्मत्वमकरोत्तस्य सत्यवतीसुतः। धनञ्जयानामृषभः सुसामा सामगोऽभवत्॥३४॥",
+      "english": "The son of Satyavati (Vyasa) himself became the Brahma in that sacrifice, the best of the Dhananjaya race, Susama, became the chaunter of the Sama Veda.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "याज्ञवल्क्यो बभूवाथ ब्रह्मिष्ठोऽध्वर्युसत्तमः। पैलो होता वसोः पुत्रो धौम्येन सहितोऽभवत्॥३५॥",
+      "english": "The Brahma-knowing Yajnavalkya became the Adhvaryu, the son of Vasu Paila, with Dhaumya, became the Hotas.",
+      "bhavadeepa": "धनंजयानां धनंजयगोत्राणां मध्ये श्रेष्ठः सुसामा नाम आङ्गिरसः॥३४॥",
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "एतेषां पुत्रवर्गाश्च शिष्याश्च भरतर्षभ। बभूवुर्होत्रगाः सर्वे वेदवेदाङ्गपारगाः॥३६॥",
+      "english": "O best of the Bharata race, the disciples and the sons of these men, all well-acquainted with the Vedas, became Hotragas,",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "ते वाचयित्वा पुण्याहमूहयित्वा च तं विधिम्। शास्त्रोक्तं पूजयामासुस्तद्देवयजनं महत्॥३७॥",
+      "english": "Having uttered benedictions, and having recited the objects of the sacrifice, all of them worshipped the large (sacrificial) ground according to the ordinance.",
+      "bhavadeepa": "होत्रगाः सप्तसंख्याः ॥३६॥",
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "तत्र चक्रुरनुज्ञाताः शरणान्युत शिल्पिनः। गन्धवन्ति विशालानि वेश्मानीव दिवौकसाम्॥३८॥",
+      "english": "Commanded by the Brahmanas, the builders and the artifices erected their many houses that were specious and that were well perfumed like the temples of gods.",
+      "bhavadeepa": "ऊहयित्वा च तं विधिं राजसूयेन यक्ष्ये स्वाराज्यमवाप्नवानीति संकल्पादिरूपमूहं कृत्वा देवयजनं यज्ञस्थानम् ॥३७॥",
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "तत आज्ञापयामास स राजा राजसत्तमः। सहदेवं तदा सद्यो मन्त्रिणं पुरुषर्षभः॥३९॥",
+      "english": "Thereupon that best of kings, and that best of men, the king (Yudhishthira) immediately commanded his minister Sahadeva saying.",
+      "bhavadeepa": "शरणानि पत्नीशालादीन्यग्न्यगाराणि ॥३८॥",
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "आमन्त्रणार्थं दूतांस्त्वं प्रेषयस्वाशुगान्द्रुतम्। उपश्रुत्य वचो राज्ञः स दूतान्प्राहिणोत्तदा॥४०॥",
+      "english": "“Dispatch soon (some-swift messengers to invite all. “Having heard the royal command, he (Sahadeva) soon sent messengers saying. “Invite all the Brahmanas of the kingdom, all the owners of land (Kshatriyas). All the Vaishyas, and all the respectable Shudras. Bring them all here (in this sacrifice)\".",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः",
+      "combined_translation": "40-41"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "आमन्त्रयध्वं राष्ट्रेषु ब्राह्मणान्भूमिपानथ। विशश्च मान्यान्शूद्रांश्च सर्वानानयतेति च॥४१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः",
+      "english_ref": 40,
+      "combined_translation": "40-41"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "वैशम्पायन उवाच।\n              समाज्ञप्तास्ततो दूताः पाण्डवेयस्य शासनात्। आमन्त्रयाम्बभूवुश्च आनयंश्चापरान्द्रुतम्। तथा परानपि नरानात्मनः शीघ्रगामिनः॥४२॥",
+      "english": "At the command of the Pandavas those swift messengers invited every one without any loss of time, and they brought with them many persons both friends and strangers.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "ततस्ते तु यथाकालं कुन्तीपुत्रं युधिष्ठिरम्। दीक्षयाञ्चक्रिरे विप्रा राजसूयाय भारत॥४३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः",
+      "english_ref": 5,
+      "combined_translation": "5-43"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "दीक्षितः स तु धर्मात्मा धर्मराजो युधिष्ठिरः। जगाम यज्ञायतनं वृतो विप्रैः सहस्रशः॥४४॥",
+      "english": "When the virtuous Dharmaraja Yudhishthira was installed in the sacrifice, he went to the sacrificial ground, surrounded by thousands of Brahmanas.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "भातृभिर्ज्ञातिभिश्चैव सुहृद्भिः सचिवैः सह। क्षत्रियैश्च मनुष्येन्द्रैर्नानादेशसमागतैः॥४५॥",
+      "english": "And accompanied by his brothers, relatives, friends and ministers, and also by many best of men among the Kshatriyas who had assembled from various countries.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "अमात्यैश्च नरश्रेष्ठो धर्मो विग्रहवानिव। आजग्मुर्ब्राह्मणास्तत्र विषयेभ्यस्ततस्ततः॥४६॥",
+      "english": "And also by many counsellors. Many Brahmanas, learned in all the branches of knowledge and well versed in the Vedas and the Vedangas, began to assemble there from various directions. At the command of the Dharmaraja, habitations were erected for them.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः",
+      "combined_translation": "46-47"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "सर्वविद्यासु निष्णाता वेदवेदाङ्गपारगाः। तेषामावसथांश्चक्रुर्धर्मराजस्य शासनात्॥४७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः",
+      "english_ref": 46,
+      "combined_translation": "46-47"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "बह्वन्नाच्छादनैर्युक्तान्सगणानां पृथक्पृथक्। सर्वर्तुगुणसम्पन्नान्शिल्पिनोऽथ सहस्रशः॥४८॥",
+      "english": "And their attendants, separately for each by thousands of artisans who were endued with all qualifications, they were filled with much food and many clothes.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "तेषु ते न्यवसन्राजन्ब्राह्मणा नृपसत्कृताः। कथयन्तः कथा बह्वीः पश्यन्तो नटनर्तकान्॥४९॥",
+      "english": "O king, having been duly worshipped by the king, Brahmanas continued to live there, passing their time in conversation on various topics and seeing the performance of actors and dancers.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "भुञ्जतां चैव विप्राणां वदतां च महास्वनः। अनिशं श्रूयते तत्र मुदितानां महात्मनाम्॥५०॥",
+      "english": "The noise of these illustrious Brahmanas eating and talking cheerfully was continuously heard.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "दीयतां दीयतामेषां भुज्यतां भुज्यतामिति। एवंप्रकाराः सञ्जल्पाः श्रूयन्ते स्मात्र नित्यशः॥५१॥",
+      "english": "\"Give, Give\", \"Eat, Eat\", were the words that were continuously and every day heard there.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "गवां शतसहस्राणि शयनानां च भारत। रुक्मस्य योषितां चैव धर्मराजः पृथग्ददौ॥५२॥",
+      "english": "O descendant of Bharata, Dharmaraja separately gave to each of those Brahmanas thousands of kine, beds, golden coins and damsels.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "प्रावर्ततैवं यज्ञः स पाण्डवस्य महात्मनः। पृथिव्यामेकवीरस्य शक्रस्येव त्रिविष्टपे॥५३॥",
+      "english": "Thus like the sacrifice formerly performed by Shakra (Indra) in heaven, began the sacrifice of that matchless hero, the illustrious Pandava (Yudhishthira), on earth.",
+      "bhavadeepa": "रुक्मस्य काञ्चनस्य शयनानां तूलिकादिसहितानां तल्पानाम् ॥५२॥",
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "ततो युधिष्ठिरो राजा प्रेषयामास पाण्डवम्। नकुलं हास्तिनपुरं भीष्माय पुरुषर्षभः॥५४॥",
+      "english": "Then that best of men, the king Yudhishthira, sent the Pandava Nakula to Hastinapur to Bring Bhishma, Drona, Dhritarashtra, Vidura, Kripa, and all those cousins who were attached to him.",
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः",
+      "combined_translation": "54-55"
+    },
+    {
+      "verse": 55,
+      "sanskrit": "द्रोणाय धृतराष्ट्राय विदुराय कृपाय च। भ्रातॄणां चैव सर्वेषां येनुरक्ता युधिष्ठिरे ॥५५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 33,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "राजसूयपर्व",
+      "adhyaya_name": "त्रयस्त्रिंशत्तमोऽध्यायः",
+      "english_ref": 54,
+      "combined_translation": "54-55"
+    }
+  ]
+}

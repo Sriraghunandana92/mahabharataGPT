@@ -1,0 +1,286 @@
+{
+  "adhyaya_id": "P06_U04_A076",
+  "book": 6,
+  "parva_name": "भीष्मपर्व",
+  "upaparva_name": "भीष्मवधपर्व",
+  "adhyaya_name": "षट्सप्ततितमोऽध्यायः",
+  "chapter": 76,
+  "verse_count": 26,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "धृतराष्ट्र उवाच ।\n          एवं बहुगुणं सैन्यमेवं बहुविधं पुरा ।  व्यूढमेवं यथाशास्त्रममोघं चैव सञ्जय ॥१॥",
+      "english": "Dhritarashtra said Our army is endued with many excellent attributes and composed of various kinds of troops and its efficiency is great. O Sanjaya it is disposed of in perfect accordance to the rules of the military science; so it should to be ever crowned with success.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "हृष्टमस्माकमत्यन्तमभिकामं च नः सदा ।  प्रह्वमव्यसनोपेतं पुरस्ताद्दृष्टविक्रमम् ॥२॥",
+      "english": "The warriors therein are very much devoted to our interest, and are ever attached to us. They are disciplined and free from the vices of lust and anger. Their prowess has been tested before.",
+      "bhavadeepa": "एवमिति ॥१॥",
+      "chapter": 76,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "नातिवृद्धमबालं च न कृशं न च पीवरम् ।  लघुवृत्तायतप्रायं सारयोधमनामयम् ॥३॥",
+      "english": "Thus are neither very old nor very young; they are neither lean nor very corpulent. They are of active habits, well-built, strong bodied, and free from any disease.",
+      "bhavadeepa": "नः अस्मात् अभिमानम् आकाङ्क्षमाणं प्रह्वं प्रणतम् ॥२॥",
+      "chapter": 76,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "आत्तसन्नाहशस्त्रं च बहुशस्त्रपरिग्रहम् ।  असियुद्धे नियुद्धे च गदायुद्धे च कोविदम् ॥४॥",
+      "english": "They are clad in coats of mail and well furnished with offensive weapons they are accomplished in the use of all kinds of weapons and are masters in fighting with swords, with maces and even with bare arms.",
+      "bhavadeepa": "लघुवृत्तं शीघ्रकारि आयतप्रायं प्रांशुबहुलम् ॥३॥",
+      "chapter": 76,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "प्रासर्ष्टितोमरेष्वाजौ परिघेष्वायसेषु च ।  भिन्दिपालेषु शक्तीषु मुसलेषु च सर्वशः ॥५॥",
+      "english": "They are well practiced in the use of lances, sabers, darts, iron bludgeons, short shafts, javelins and mallets.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः",
+      "combined_translation": "5-6"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "कम्पनेषु च चापेषु कणपेषु च सर्वशः ।  क्षेपणीयेषु चित्रेषु मुष्टियुद्धेषु च क्षमम् ॥६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः",
+      "english_ref": 5,
+      "combined_translation": "5-6"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "अपरोक्षं च विद्यासु व्यायामे च कृतश्रमम् ।  शस्त्रग्रहणविद्यासु सर्वासु परिनिष्ठितम् ॥७॥",
+      "english": "They are well disciplined in the exercise of all kinds of weapons, and are experts in mounting on and descending from vehicles, in moving forward and in falling back,",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "आरोहे पर्यवस्कन्दे सरणे सान्तरप्लुते ।  सम्यक्प्रहरणे याने व्यपयाने च कोविदम् ॥८॥",
+      "english": "In striking down effectually, in marching forward, and in retreating back; they have been examined in the management of steeds, elephants, and chariots.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "नागाश्वरथयानेषु बहुशः सुपरीक्षितम् ।  परीक्ष्य च यथान्यायं वेतनेनोपपादितम् ॥९॥",
+      "english": "Being duly tested, they have been employed on pay and not for the sake of fainily relationship.",
+      "bhavadeepa": "आरोहे हस्त्यादीनां पर्यवस्कन्दे हस्त्यादिभ्योऽवतरणे ॥८॥",
+      "chapter": 76,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "न गोष्ठ्या नोपकारेण न च बन्धुनिमित्ततः ।  न सौहृदबलैर्वापि नाकुलीनपरिग्रहैः ॥१०॥",
+      "english": "Nor for the sake of friendship, nor for connections through marriage and birth. They are all honorable and prosperous and all their relatives have been honoured and well treated by ourselves. We have done many good services to them; they are also all illustrious men, possessed of great intelligence. They are again defended, O son, by many best of men endued with great lightness, of great achievements, of world-wide renown and resembling the protectors of the worlds themselves they are protected by numerous Kshatriya esteemed throughout the earth who have, out of their own accord, taken our side with their followers and force. Truly our army is like the vast ocean swelling with the waters of various streams flowing into it from all sides.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः",
+      "combined_translation": "10-14"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "समृद्धजनमार्यं च तुष्टसम्बन्धिबान्धवम् ।  कृतोपकारभूयिष्ठं यशस्वि च मनस्वि च ॥११॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः",
+      "english_ref": 10,
+      "combined_translation": "10-14"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "स्वजनैस्तु नरैर्मुख्यैर्बहुशो दृष्टकर्मभिः ।  लोकपालोपमैस्तात पालितं लोकविश्रुतम् ॥१२॥",
+      "english": null,
+      "bhavadeepa": "मनस्वि साहङ्कारम् ॥११॥",
+      "chapter": 76,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः",
+      "english_ref": 10,
+      "combined_translation": "10-14"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "बहुभिः क्षत्रियैर्गुप्तं पृथिव्यां लोकसंमतैः ।  अस्मानभिगतैः कामात् सबलैः सपदानुगैः ॥१३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः",
+      "english_ref": 10,
+      "combined_translation": "10-14"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "महोदधिमिवापूर्णमापगाभिः समन्ततः ।  अपक्षैः पक्षिसङ्काशै रथैर्नागैश्च संवृतम् ॥१४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः",
+      "english_ref": 10,
+      "combined_translation": "10-14"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "नानायोधजलं भीमं वाहनोर्मितरङ्गिणम् ।  क्षेपण्यसिगदाशक्तिशरप्राससमाकुलम् ॥१५॥",
+      "english": "Our army teems with chariots which though destitute of wings are capable of moving like the winged rangers of the sky; it abounds also in elephants. Myriads of fierce warriors constitute the waters of that ocean and the various vehicles constitute its numerous waves.",
+      "bhavadeepa": "अपक्षैः पक्षशून्यैः तथाऽपि गत्या पक्षिसदृशैः ॥१४॥",
+      "chapter": 76,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "ध्वजभूषणसंबाधं रत्नपट्टसुसञ्चितम् ।  परिधावद्भिरश्वैश्च वायुवेगविकम्पितम् ॥१६॥",
+      "english": "Innumerable maces, dares, arrows and lances form the oars plied on it. It abounds in standards and ornaments and is full of cloths of gold embossed with gems.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "अपारमिव गर्जन्तं सागरप्रतिमं महत् ।  द्रोणभीष्माभिसंगुप्तं गुप्तं च कृतवर्मणा ॥१७॥",
+      "english": "The running vehicles constitute the wind that lashes that ocean into fury. It really resembles the extensive and scoreless sea roaring (in fury).",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "कृपदुःशासनाभ्यां च जयद्रथमुखैस्तथा ।  भगदत्तविकर्णाभ्यां द्रौणिसौबलबाह्लिकैः ॥१८॥",
+      "english": "That army of ours is again protected by Drona and Bhishma; so also it is defended by Kritavarma, Kripa and Dushasana and by others headed by Jayadratha.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "गुप्तं प्रवीरैर्लोकैश्च सारवद्भिर्महात्मभिः ।  यदहन्यत सङ्ग्रामे दैवमत्र पुरातनम् ॥१९॥",
+      "english": "By Bhagadatta and Vikarna, by the son of Drona, by Subala and by the ruler of the Balhikas. Thus protected by many foremost of men, all endued with strength and possessed of generous souls.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "नैतादृशं समुद्योगं दृष्टवन्तो हि मानुषाः ।  ऋषयो वा महाभागाः पुराणा भुवि सञ्जय ॥२०॥",
+      "english": "If that army be still slaughtered in battle, it is indeed due to predestined Fate. Neither man, nor illustrious and ancient sages, O Sanjaya, ever saw on earth such extensive preparations for battle. That such a large army well-supplied with the implements and sinews of war.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः",
+      "combined_translation": "20-21"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "ईदृशोऽपि बलौघस्तु संयुक्तः शस्त्रसंपदा ।  वध्यते यत्र सङ्ग्रामे किमन्यद्भागधेयतः ॥२१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः",
+      "english_ref": 20,
+      "combined_translation": "20-21"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "विपरीतमिदं सर्वं प्रतिभाति हि सञ्जय ।  यत्रेदृशं बलं घोरं पाण्डवान्नातरद्रणे ॥२२॥",
+      "english": "Should be slain in battle, alas, what can it be due to but Destiny? All this appears to be unnatural, O Sanjaya.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "पाण्डवार्थाय नियतं देवास्तत्र समागताः ।  युध्यन्ते मामकं सैन्यं यथाऽवध्यत सञ्जय ॥२३॥",
+      "english": "This all appears me reverse to listen that so vast army could not face and defeat Pandavas in battle. O Sanjaya! The gods come in support of Pandavas definitely and battle against my army. This is the reason, it is being slaughtered in uncountable numbers day-to-day.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "उक्तो हि विदुरेणाहं हितं पथ्यं च नित्यशः ।  न च जग्राह तन्मन्दः पुत्रो दुर्योधनो मम ॥२४॥",
+      "english": "Vidura had often advised what would have been beneficial and profitable; but my wicked son Duryodhana would not accept his counsel.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "तस्य मन्ये मतिः पूर्वं सर्वज्ञस्य महात्मनः ।  आसीद्यथागतं तात येन दृष्टमिदं पुरा ॥२५॥",
+      "english": "I think the prophetic and high-souled Vidura had foreseen all that is happening at present; and hence his thought was so.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "अथवा भाव्यमेवं हि सञ्जयैतेन सर्वथा ।  पुरा धात्रा यथा सृष्टं तत्तथा नैतदन्यथा ॥२६॥",
+      "english": "Or it may be, O Sanjaya, that all this had been predestined by the Creator; and what is pre-ordained by him must happen as ordained and can not be other wise.",
+      "bhavadeepa": null,
+      "chapter": 76,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षट्सप्ततितमोऽध्यायः"
+    }
+  ]
+}

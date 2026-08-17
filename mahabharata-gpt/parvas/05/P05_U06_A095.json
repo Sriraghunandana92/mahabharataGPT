@@ -1,0 +1,652 @@
+{
+  "adhyaya_id": "P05_U06_A095",
+  "book": 5,
+  "parva_name": "उद्योगपर्व",
+  "upaparva_name": "भगवद्यानपर्व",
+  "adhyaya_name": "पञ्चनवतितमोऽध्यायः",
+  "chapter": 95,
+  "verse_count": 63,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वैशम्पायन उवाच।\n              तेष्वासीनेषु सर्वेषु तूष्णींभूतेषु राजसु। वाक्यमभ्याददे कृष्णः सुदंष्ट्रो दुन्दुभिस्वनः ॥१॥",
+      "english": "Vaishampayana said All of them having taken their seats and perfect stillness having prevailed among the kings, Krishna who had an excellent set of teeth and had the voice of a drum began to speak like the roar of clouds at the close of summer, Madhava, looking on Dhritarashtra, spoke so that the assembly could hear.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः",
+      "combined_translation": "1-2"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "जीमूत इव धर्मान्ते सर्वां संश्रावयन् सभाम्। धृतराष्ट्रमभिप्रेक्ष्य समभाषत माधवः ॥२॥",
+      "english": null,
+      "bhavadeepa": "तेष्विति ॥१॥",
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः",
+      "english_ref": 1,
+      "combined_translation": "1-2"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "श्रीभगवानुवाच। कुरूणां पाण्डवानां च शमः स्यादिति भारत। अप्रणाशेन वीराणामेतद्याचितुमागतः ॥३॥",
+      "english": "\"Between the Kurus and Pandavas there may be peace, O Bharata, without the slaying of heroes (on either side) to effect this have I come.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "राजन्नान्यत् प्रवक्तव्यं तव नैःश्रेयसं वचः। विदितं ह्येव ते सर्वं वेदितव्यमरिन्दम ॥४॥",
+      "english": "Oking, I have nothing else to say, everything that ought to be known in this world is known to you, O chastiser of foes.",
+      "bhavadeepa": "आगतोऽस्मीति शेषः ॥३॥",
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "इदं ह्यद्य कुलं श्रेष्ठं सर्वराजसु पार्थिव। श्रुतवृत्तोपसम्पन्नं सर्वैः समुदितं गुणैः ॥५॥",
+      "english": "0 ruler of the earth, this dynasty (of yours) is the best among these of all kings; it is noted for its knowledge of the scriptures as also for its good ways of life and it is endued with all the virtues.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "कृपाऽनुकम्पा कारुण्यमानृशंस्यं च भारत। तथाऽऽर्जवं क्षमा सत्यं कुरुष्वेतद्विशिष्यते ॥६॥",
+      "english": "Kindness, pain at the sight of other's pains, desire to remedy evils and humanity, O Bharata, as also sincerity, forgiveness and truth, are specially in the nature of the Kurus.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "तस्मिन्नेवंविधे राजन् कुले महति तिष्ठति। त्वन्निमित्तं विशेषेण नेह युक्तमसाम्प्रतम् ॥७॥",
+      "english": "Belonging to this noble family which is such, 0 king, no one should do what is improper and especially an improper act is to be deplored when you are the cause of it.",
+      "bhavadeepa": "कृपा परस्य सुखार्थे यत्नः । अनुकम्पा- परदुःखदर्शने त्रासः। कारुण्यं- परदुःखप्रहाणार्थो यत्नः । आनृशंस्यं- परदुःखाप्रदानम् ॥६॥",
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "त्वं हि धारयिता श्रेष्ठः कुरूणां कुरुसत्तम। मिथ्या प्रचरतां तात बाह्येष्वाभ्यन्तरेषु च ॥८॥",
+      "english": "You, O best of Kuru race, being the foremost among them, bear the load of the Kurus when they behave, O Sire, deceitfully towards others or to members of their own family, when the deceit is actually done in act or when it is conceived.",
+      "bhavadeepa": "असाम्प्रतं कृपादिभ्यो विपरीतं परस्य दुःखार्थो यत्नः परदुःखदर्शने आह्लादः । परस्य सुखनाशार्थो यत्नः । परस्य दुःखसंपादनं कौटिल्यादिकं च तच्चयुक्तम् ॥७॥",
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "ते पुत्रास्तव कौरव्य दुर्योधनपुरोगमाः। धर्मार्थैः पृष्ठतः कृत्वा प्रचरन्ति नृशंसवत् ॥९॥",
+      "english": "Those sons of yours, O Kaurava, headed by Duryodhana, are acting impiously setting aside all considerations of morality and earthly good.",
+      "bhavadeepa": "बाह्येषु द्यूतादिषु आभ्यन्तरेषु जतुगृहादिषु  ॥८॥",
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "अशिष्टा गतमर्यादा लोभेन हृतचेतसः। स्वेषु बन्धुषु मुख्येषु तद्वेत्थ पुरुषर्षभ ॥१०॥",
+      "english": "Those wicked ones, whose self-respect is gone and whose hearts have been perverted by avarice (are acting unfairly) towards their own chief friends, O best of men.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "सेयमापन्महाघोरा कुरुष्वेव समुत्थिता। उपेक्ष्यमाणा कौरव्य पृथिवीं घातयिष्यति ॥११॥",
+      "english": "This exceedingly grave has its rise among the Kurus and if regarded with indifference, it will destroy the whole earth, O Kaurava.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "शक्या चेयं शमयितुं न चेद्दित्ससि भारत। न दुष्करो ह्यत्र शमो मतो मे भरतर्षभ ॥१२॥",
+      "english": "If you desire so, O Bharata, this can be averted; in this instance peace is not hard to secure; such is my opinion, O best of the Bharatas.",
+      "bhavadeepa": "कुरुष्वेव भवत्स्वेव न तु पाण्डवेषु ॥११॥",
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "त्वय्यधीनः शमो राजन् मयि चैव विशांपते। पुत्रान् स्थापय कौरव्य स्थापयिष्याम्यहं परान् ॥१३॥",
+      "english": "Peace depends on you, o king and on myself as well, O lord of the universe. ) Kaurava, set right your sons and I shall the enemies (Pandavas) right.",
+      "bhavadeepa": "न दित्ससि कुलं न छेत्तुमिच्छसि । वं चेदिच्छसीति पाठे कुरून् स्थापयितुमिच्छसि तर्हि शमो न दुष्करः ॥१२॥",
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "आज्ञा तव हि राजेन्द्र कार्या पुत्रैः सहान्वयैः। हितं बलवदप्येषां तिष्ठतां तव शासने ॥१४॥",
+      "english": "Your commands, O chief among kings, should be followed by your sons with their followers, and it will conduce exceedingly to their own good to act according to your orders.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "तव चैव हितं राजन् पाण्डवानामथो हितम्। शमे प्रयतमानस्य मम शासनकाङ्क्षिणः ॥१५॥",
+      "english": "It will conduce to your good, O king and also to the good of the Pandavas, for you try to establish peace, desirous of ruling as you are.",
+      "bhavadeepa": "बलवत् अत्यन्तमेषामेव । अपिशब्द एवार्थे ॥१४॥",
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "स्वयं निष्फलमालक्ष्य संविधत्स्व विशाम्पते। सहायभूता भरतास्तवैव स्युर्जनेश्वर ॥१६॥",
+      "english": "Act for yourself after a consideration of the consequences, O lord of the universe and let the Bharatas be your allies O lord of men.",
+      "bhavadeepa": "शासनकांक्षिणः पुत्रान् शासितुमिच्छतस्तव ॥१५॥",
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "धर्मार्थयोस्तिष्ठ राजन् पाण्डवैरभिरक्षितः। न हि शक्यास्तथाभूता यत्नादपि नराधिप ॥१७॥",
+      "english": "Protected by the Pandavas, Oking, establish morality and earthy good. O lord of men, by every exertion in your power, allies such as they, cannot be secured.",
+      "bhavadeepa": "निष्फलं वैरं संविधत्स्व शमं कुरु ॥१६॥",
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "न हि त्वां पाण्डवैर्जेतुं रक्ष्यमाणं महात्मभिः। इन्द्रोऽपि देवैः सहितः प्रसहेत कुतो नृपः ॥१८॥",
+      "english": "The great-souled sons of Pandu protecting you, even Indra with the gods cannot withstand you; how can earthy kings do it?",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "यत्र भीष्मश्च द्रोणश्च कृपः कर्णो विविंशतिः। अश्वत्थामा विकर्णश्च सोमद‌त्तोऽथ बाह्लिकः ॥१९॥",
+      "english": "Against the side taken up by Bhishma, Drona, Kripa, Kripa, Vivingshati, Ashvathama, Vikarna, Somadatta, Bahlika the king of the Sindhus and the lord of the Kalingas, the chief of the Kambojas, Sudakshina, Yudhishthira, Bhimasena, Savyasachi and the twins and Satyaki of great energy and the great carwarrior Yuyutsu, who is there of such misdirected energy to fight, O you the best among the Bharatas.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः",
+      "combined_translation": "19-21"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "सैन्धवश्च कलिङ्गश्च काम्बोजश्च सुद‌क्षिणः। युधिष्ठिरो भीमसेनः सव्यसाची यमौ तथा ॥२०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः",
+      "english_ref": 19,
+      "combined_translation": "19-21"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "सात्यकिश्च महातेजा युयुत्सुश्च महारथः। को नु तान्विपरीतात्मा युद्ध्येत भरतर्षभ ॥२१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः",
+      "english_ref": 19,
+      "combined_translation": "19-21"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "लोकस्येश्वरतां भूयः शत्रुभिश्चाप्यधृष्यताम्। प्राप्स्यसि त्वममित्रघ्न सहितः कुरुपाण्डवैः ॥२२॥",
+      "english": "The lordship over the word and the quality of being invincible by your foes, will you attain, O you slayer of enemies, when united with the Kurus and the Pandavas?",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "तस्य ते पृथिवीपालास्त्वत्समाः पृथिवीपते। श्रेयांसश्चैव राजानः सन्धास्यन्ते परन्तप ॥२३॥",
+      "english": "The rulers of the earth, of the same position as yourself, o lord of the earth and kings of better position even will seek to establish peace with you and with one another if you are so united.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "स त्वं पुत्रैश्च पौत्रैश्च पितृभिर्भ्रातृभिस्तथा। सुहृद्भिः सर्वतो गुप्तः सुखं शक्ष्यसि जीवितुम् ॥२४॥",
+      "english": "You will be able to live in happiness being protected on all sides by your sons and grandsons, your fathers and brothers and friends.",
+      "bhavadeepa": "पाण्डवैः सह सन्धास्यन्ते सन्धिं करिष्यन्ति ॥२३॥",
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "एतानेव पुरोधाय सत्कृत्य च यथा पुरा। अखिलां भोक्ष्यसे सर्वां पृथिवीं पृथिवीपते ॥२५॥",
+      "english": "Keeping their interests well before you and treating them well, as in days gone by will you enjoy this entire earth, O lord of the earth.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "एतैर्हि सहितः सर्वैः पाण्डवैः स्वैश्च भारत। अन्यान्विजेष्यसे शत्रूनेष स्वार्थस्तवाखिलः ॥२६॥",
+      "english": "United with these and with all the Pandavas, O Bharata, will you win victories over other enemies; this is all to your own advantage.",
+      "bhavadeepa": "अखिलां निष्कण्टकाम् ॥२५॥",
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "तैरेवोपार्जितां भूमिं भोक्ष्यसे च परन्तप। यदि सम्पत्स्यसे पुत्रैः सहामात्यैर्नराधिप ॥२७॥",
+      "english": "Territories acquired by them will you enjoy, O chastiser of enemies if you are allied to your sons, kinsmen and counselors, O lord of men.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "संयुगे वै महाराज दृश्यते सुमहान् क्षयः। क्षये चोभयतो राजन् कं धर्ममनुपश्यसि ॥२८॥",
+      "english": "In the case of a fight, O great king, you will see a great loss and in loss to both parties what meritorious deed do you see?",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "पाण्डवैर्निहतैः सङ्ख्ये पुत्रैर्वाऽपि महाबलैः। यद्विन्देथाः सुखं राजंस्तद्ब्रूहि भरतर्षभ ॥२९॥",
+      "english": "The Pandavas being killed in battle or your own sons of great strength, describe O great king the feelings that you will experience, O best of the Bharatas.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "शूराश्च हि कृतास्त्राश्च सर्वे युद्धाभिकाङ्क्षिणः। पाण्डवास्तावकाश्चैव तान्रक्ष महतो भयात् ॥३०॥",
+      "english": "They are heroes who have mastered the use of weapons and all of them are desirous of war-these sons of Pandu and of yourself; save them from a great calamity,",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "न पश्येम कुरून् सर्वान् पाण्डवांश्चैव संयुगे। क्षीणानुभयतः शूरान्रथिनो रथिभिर्हतान् ॥३१॥",
+      "english": "You will not see all the Kurus, nor all the Pandavas, in the event of a battle, the heroes on both sides being weakened in number and in strength and car-warriors slain by car-warriors.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "समवेताः पृथिव्यां हि राजानो राजसत्तम। अमर्षवशमापन्ना नाशयेयुरिमाः प्रजाः ॥३२॥",
+      "english": "The kings have assembled here, O best of kings; they will destroy these creatures, being influenced by wrath,",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "त्राहि राजन्निमं लोकं न नश्येयुरिमाः प्रजाः। त्वयि प्रकृतिमापन्ने शेषः स्यात् कुरुनन्दन ॥३३॥",
+      "english": "Rescue, O king, the world; do not destroy these creatures; yourself regaining your natural disposition all this will end, O delighted of the Kuru race.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "शुक्ला वदान्या ह्रीमन्त आर्याः पुण्याभिजातयः। अन्योन्यसचिवा राजंस्तान् पाहि महतो भयात् ॥३४॥",
+      "english": "Coming from noble families, liberal and generous, endued with modesty, honourable, picus they are related to one another by blood, O king. Save them from a grave calamity.",
+      "bhavadeepa": "प्रकृतिं सत्त्वगुणम् ॥३३॥",
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "शिवेनेमे भूमिपालाः समागम्य परस्परम्। सह भुक्त्वा च पीत्वा च प्रतियान्तु यथागृहम् ॥३५॥",
+      "english": "These protectors of the earth meeting one another in a spirit of peace and having dined and drank together, let them return to their respective homes.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "सुवाससः स्रग्विणश्च सत्कृता भरतर्षभ। अमर्षं च निराकृत्य वैराणि च परंतप ॥३६॥",
+      "english": "With good robes on, with wreaths on and doing courtesies to one another, O best of the Bharata race; and with their wrath and enmity against one another plucked out (from their hearts), O chastiser of your foes.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "हार्दं यत् पाण्डवेष्वासीत् प्राप्तेऽस्मिन्नायुषः क्षये। तदेव ते भवत्वद्य सन्धत्स्व भरतर्षभ ॥३७॥",
+      "english": "Let the feelings of affection that you had for the Pandavas, return to you at the expiration of this age; and let them be the same to you; act it this way, O best of the Bharata race.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "बाला विहीनाः पित्रा ते त्वयैव परिवर्धिताः। तान् पालय यथान्यायं पुत्रांश्च भरतर्षभ ॥३८॥",
+      "english": "As boys they lost their father and were raced and brought up by you; protect them in a way that would be in accordance with justice as you would do your sons, O best of the Bharata race.",
+      "bhavadeepa": "हार्दं प्रीतिः आसीत् पूर्वं बाल्ये ॥३७॥",
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "भवतैव हि रक्ष्यास्ते व्यसनेषु विशेषतः। मा ते धर्मस्तथैवार्थो नश्येत भरतर्षभ ॥३९॥",
+      "english": "By you they ought to be protected and especially when in distress. Let not your sense of virtue and appreciation of worldly good be lost, O best of the Bharata race.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "आहुस्त्वां पाण्डवा राजन्नभिवाद्य प्रसाद्य च। भवतः शासनाद्दुःखमनुभूतं सहानुगैः ॥४०॥",
+      "english": "The Pandavas, O king, having saluted and propitiated you, have sent you this message. 'At your command have we with our followers suffered misery.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "द्वादशेमानि वर्षाणि वने निर्व्युषितानि नः। त्रयोदशं तथाऽज्ञातैः सजने परिवत्सरम् ॥४१॥",
+      "english": "These twelve years have been spent by us in exile in the forest and the thirteenth year have we spent in each other's company in disguise.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "स्थाता नः समये तस्मिन् पितेति कृतनिश्चयाः। नाहास्म समयं तात तच्च नो ब्राह्मणा विदुः ॥४२॥",
+      "english": "Truly believing that our father would not break that pledge of his towards us, did we not break, O sire, our own. The Brahmanas who accompanied us know this.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "तस्मिन्नः समये तिष्ठ स्थितानां भरतर्षभ। नित्यं सङ्क्लेशिता राजन् स्वराज्यांशं लभेमहि ॥४३॥",
+      "english": "Therefore do you abide by your pledge, as we have done ours, O best of the Bharata race; having long suffered grave troubles, O king, we desire to get the share of our own kingdom.",
+      "bhavadeepa": "स्थाता स्थास्यति ॥४२॥",
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "त्वं धर्ममर्थं सञ्जानन् सम्यङ्नस्त्रातुमर्हसि। गुरुत्वं भवति प्रेक्ष्य बहून् क्लेशांस्तितिक्ष्महे ॥४४॥",
+      "english": "Knowing the principles of virtue and worldly good, it is your duty to save us; seeing that you are our elder, have we patiently suffered troubles.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "स भवान् मातृपितृवदस्मासु प्रतिपद्यताम्। गुरोर्गरीयसी वृत्तिर्या च शिष्यस्य भारत ॥४५॥",
+      "english": "Therefore do you act towards us as our father and mother; and treat us, O Bharata, according to the excellent principles that ought to be adopted by an elder.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "वर्तामहे त्वयि च तां त्वं च वर्तस्व नस्तथा। पित्रा स्थापयितव्या हि वयमुत्पथमास्थिताः ॥४६॥",
+      "english": "We act towards you in that way (the way in which younger should behave towards their elders); you also act towards us in the same way (the way in which elders should behave towards their youngers). If we follow the wrong way, then should we be set right by our father.",
+      "bhavadeepa": "गुरोः गुरौ ॥४५॥",
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "संस्थापय पथिष्वस्मांस्तिष्ठ धर्मे सुवर्त्मनि। आहुश्चेमां परिषदं पुत्रास्ते भरतर्षभ ॥४७॥",
+      "english": "Set us in the proper path and follow yourself the excellent path of virtue.' And your sons, O best of the Bharata race, have sent this message to this assembly of kings.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "धर्मज्ञेषु सभासत्सु नेह युक्तमसाम्प्रतम्। यत्र धर्मो ह्यधर्मेण सत्यं यत्रानृतेन च ॥४८॥",
+      "english": "In an assembly conversant with the rules of virtue, nothing improper should happen (but in one) in which vice prevails over virtue or falsehood over truth.",
+      "bhavadeepa": "परिषदं धर्मज्ञसभां पुत्राः पाण्डवाः ॥४७॥",
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः",
+      "combined_translation": "48-49"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "हन्यते प्रेक्षमाणानां हतास्तत्र सभासदः। विद्धो धर्मो ह्यधर्मेण सभां यत्र प्रपद्यते ॥४९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः",
+      "english_ref": 48,
+      "combined_translation": "48-49"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "न चास्य शल्यं कृन्तन्ति विद्धास्तत्र सभासदः। धर्म एतानारुजति यथा नद्यनुकूलजान् ॥५०॥",
+      "english": "If this happens with the knowledge of the members thereof, they are themselves slain; when virtue, pierced by vice, makes an appeal to an assembly and the shaft (of vice) is not taken out, the members thereof are themselves pierced by it. In fact virtue kills them like a river destroying the trees growing upon its banks.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "ये धर्ममनुपश्यन्तस्तूष्णीं ध्यायन्त आसते। ते सत्यमाहुर्धर्म्यं च न्याय्यं च भरतर्षभ ॥५१॥",
+      "english": "Those, who are adopting a calm attitude and are silently waiting for virtue to assert itself, have said what is righteous, true and just, 0 best of the Bharata race.",
+      "bhavadeepa": "आरुजति हिनस्ति अनुकूलजान् कूलं कूलमनुसृत्य जातान् वृक्षादीन् ॥५०॥",
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "शक्यं किमन्यद्वक्तुं ते दानादन्यज्जनेश्वर। ब्रुवन्तु ते महीपालाः सभायां ये समासते ॥५२॥",
+      "english": "What else are you capable of saying to them than giving back their kingdom? Let the protectors of the earth who are assembled in this council, speak.",
+      "bhavadeepa": "ये पाण्डवास्तूष्णीमासते कालं निर्वाह्य भवद्भ्यो राज्यांशं लब्धुमिच्छन्ति ते सत्यं धर्म्यं न्याय्यं चाहुः॥५१॥",
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "धर्मार्थौ संप्रधार्यैव यदि सत्यं ब्रवीम्यहम्। प्रमुञ्चेमान् मृत्युपाशात् क्षत्रियान् पुरुषर्षभ ॥५३॥",
+      "english": "If I am speaking the truth, keeping in fact virtue and morality, then liberate these Kshatriyas from the shackles of death, O foremost among men.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "प्रशाम्य भरतश्रेष्ठ मा मन्युवशमन्वगाः। पित्र्यं तेभ्यः प्रदायांशं पाण्डवेभ्यो यथोचितम् ॥‌५४॥",
+      "english": "Be peaceful, O you foremost of the Bharata race and do not give in to anger. Having given back to those Pandavas, their due shares of the ancestral kingdom.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 55,
+      "sanskrit": "ततः सपुत्रः सिद्धार्थो भुङ्क्ष्व भोगान् परंतप। अजातशत्रुं जानीषे स्थितं धर्मे सतां सदा ॥५५॥",
+      "english": "Enjoy the blessings of life, O chastiser of foes, along with your sons under the attainment of your objects. You know that Yudhishthira follows the course of virtue always.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 56,
+      "sanskrit": "सपुत्रे त्वयि वृत्तिं च वर्तते यां नराधिप। दाहितश्च निरस्तश्च त्वामेवोपाश्रितः पुनः ॥५६॥",
+      "english": "As aiso (you know) his treatment towards yourself and your sons, O ruler of men. He was brunt and he was exiled but again he has come back to your protection.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 57,
+      "sanskrit": "इन्द्रप्रस्थं त्वयैवासौ सपुत्रेण विवासितः। स तत्र विवसन् सर्वान् वशमानीय पार्थिवान् ॥५७॥",
+      "english": "He was exiled to Indraprastha by yourself with your sons and while staying there be ! brought under his sway all the rulers of the earth.",
+      "bhavadeepa": "दाहितः जतुगृहे निरस्तो द्यूतेन राज्याद्दूरीकृतः ॥५६॥",
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 58,
+      "sanskrit": "त्वन्मुखानकरोद्राजन्न च त्वामत्यवर्तत। तस्यैवं वर्तमानस्य सौबलेन जिहीर्षता ॥५८॥",
+      "english": "And yet he remained under your protection and never disregarded you; such a man as he, was recently, sought to be robbed by the son of Subala.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 59,
+      "sanskrit": "राष्ट्राणि धनधान्यं च प्रयुक्तः परमोपधिः। स तामवस्थां संप्राप्य कृष्णां प्रेक्ष्य सभागताम् ॥५९॥",
+      "english": "Of his kingdom, wealth and coin by means of a great deceit. He, even when he was brought to that condition, namely when Krishna was dragged to the Assembly-Hall.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 60,
+      "sanskrit": "क्षत्रधर्मादमेयात्मा नाकम्पत युधिष्ठिरः। अहं तु तव तेषां च श्रेय इच्छामि भारत ॥६०॥",
+      "english": "Yudhishthira of immeasurable soul did not swerve from Kshatriya's duty. I too desire your good and theirs, OBharata.",
+      "bhavadeepa": "परमोपधिः महच्छद्म ॥५९॥",
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 61,
+      "sanskrit": "धर्मादर्थात् सुखाच्चैव मा राजन्नीनशः प्रजाः। अनर्थमर्थं मन्वानोऽप्यर्थं चानर्थमात्मनः ॥६१॥",
+      "english": "Do not, O king, destroy these beings of the birth for the sake of vice and earthy good for the sake of happiness thinking evil to be good and good to be evil for yourself.",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 62,
+      "sanskrit": "लोभेऽतिप्रसृतान् पुत्रान्निगृह्णीष्व विशांपते। स्थिताः शुश्रूषितुं पार्थाः स्थिता योद्धुमरिन्दमाः॥ यत्ते पथ्यतमं राजंस्तस्मिंस्तिष्ठ परंतप ॥६२॥",
+      "english": "Restrain your sons, O lord of the universe, who are too much attached to avarice. The sons of Pritha live to serve you and to fight for you, O chastiser of foes; whatever course, O king, appears better, follow, O chastiser of foes.”",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    },
+    {
+      "verse": 63,
+      "sanskrit": "वैशम्पायन उवाच।\n              तद्वाक्यं पार्थिवाः सर्वे हृदयैः समपूजयन्। न तत्र कश्चिद्वक्तुं हि वाचं प्राक्रामदग्रतः ॥६३॥",
+      "english": "Vaishampayana said All the rulers of the earth, agreeing as they did in their minds with these words, could not venture to say any thing there in the presence (of Duryodhana).",
+      "bhavadeepa": null,
+      "chapter": 95,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "भगवद्यानपर्व",
+      "adhyaya_name": "पञ्चनवतितमोऽध्यायः"
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+{
+  "adhyaya_id": "P08_U01_A013",
+  "book": 8,
+  "parva_name": "कर्णपर्व",
+  "upaparva_name": "कर्णपर्व",
+  "adhyaya_name": "त्रयोदशाऽध्यायः",
+  "chapter": 13,
+  "verse_count": 38,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "सञ्जय उवाच।\n              ततः कर्णो महेष्वासः पाण्डवानामनीकिनीम् । जघान समरे शूरः शरैः सन्नतपर्वभिः ॥१॥",
+      "english": "Sanjaya said Then the mighty bowman, the heroic Karna, killed the troops of the Pandavas in battle with the straight arrows.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "तथैव पाण्डवा राजंस्तव पुत्रस्य वाहिनीम् । कर्णस्य प्रमुखे क्रुद्धा निजघ्नुस्ते महारथाः ॥२॥",
+      "english": "O king, the mighty car-warriors, namely the Pandavas, had most wrathfully smitten the soldiers of your son in the same way in the very presence of Karna.",
+      "bhavadeepa": "तत इति ॥१॥",
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "कर्णोऽपि राजन्समरे व्यहनत्पाण्डवीं चमूम् । नाराचैरर्करश्म्याभैः कर्मारपरिमार्जितैः ॥३॥",
+      "english": "So also Karna, O monarch, began to smite the army belonging to the Pandavas in the field of battle with the arrows, that were bright like the rays of the sun and excellently polished by the black-smith.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "तत्र भारत कर्णेन नाराचैस्ताडिता गजाः । नेदुः सेदुश्च मम्लुश्च बभ्रमुश्च दिशो दश ॥४॥",
+      "english": "O descendant of the Bharata race, there (in the field of battle) the elephants highly afflicted by Karna with his straight arrows, roared most loudly, became weakened and senseless and ran away towards the ten points of the horizon.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः",
+      "combined_translation": "4-71"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "वध्यमाने बले तस्मिन्सूतपुत्रेण मारिष । नकुलोऽभ्यद्रवत्तूर्णं सूतपुत्रं महारणे ॥५॥",
+      "english": "O father, while that immense force was being killed by the son of Suta, Nakula proceeded against that mighty car-warrior, the son of the Suta with great rapidity.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "भीमसेनस्तथा द्रौणिं कुर्वाणं कर्म दुष्करम् । विन्दानुविन्दौ कैकेयौ सात्यकिः समवारयत् ॥६॥",
+      "english": "Then Bhimasena checked the progress of Drona's son, who was achieving the most arduous tasks and Satyaki, that of the two Kaikeya princes, Vindu and Anuvindu.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "श्रुतकर्माणमायान्तं चित्रसेनो महीपतिः । प्रतिविन्ध्यस्तथा चित्रं चित्रकेतनकार्मुकम् ॥७॥",
+      "english": "The lord of the earth, Chitrasena, rushed towards Srutakarman, who was advancing against him; so also Prativindhya towards Chitra, who carried a standard of diverse colours and a beautiful bow.",
+      "bhavadeepa": "द्रौणिमभ्यद्रवत् ॥६॥",
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "दुर्योधनस्तु राजानं धर्मपुत्रं युधिष्ठिरम् । संशप्तकगणान् क्रुद्धो ह्यभ्यधावद्धनञ्जयः ॥८॥",
+      "english": "Duryodhana, too, proceeded against the king Yudhishthira the son of Dhrama, while Dhananjaya rushed against the wrathful Samsaptakas.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "धृष्टद्युम्नः कृपेणाथ तस्मिन्वीरवरक्षये । शिखण्डी कृतवर्माणं समासादयदच्युतम् ॥९॥",
+      "english": "While that whole host of the foretnost heroes was being thus slain, Dhrishtadyumna rushed against Kripa; and that undecayable Shikhandin proceeded against Kritavarman.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "श्रुतकीर्तिस्तथा शल्यं माद्रीपुत्रः सुतं तव । दुःशासनं महाराज सहदेवः प्रतापवान् ॥१०॥",
+      "english": "O mighty monarch, so again, Shrutakirti closed with Shalya; and that son of Madri, Shahadeva of immense prowess, closed with your son, Dussashana.",
+      "bhavadeepa": "कृपेण युयुधे इति शेषः ॥९॥",
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "कैकेयौ सात्यकिं युद्धे शरवर्षेण भास्वता । सात्यकिः केकयौ चापि च्छादयामास भारत ॥११॥",
+      "english": "In that great battle, the two Kaikeya princes covered Satyaki with a shower of arrows. Satyaki on the other hand covered the two Kaikeya princes (with a shower of brilliant arrows, O descendant of the Bharata race).",
+      "bhavadeepa": "माद्रीपुत्रः सुतं तवेत्यस्य व्याख्या दुःशासनमिति ॥१०॥",
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "तावेनं भ्रातरौ वीरौ जघ्नतुर्हृदये भृशम् । विषाणाभ्यां यथा नागौ प्रतिनागं महावने ॥१२॥",
+      "english": "Those two heroic brothers deeply pierced this warrior (Satyaki) in the chest, even as two elephant strike another hostile elephant with their tusks in a dense forest.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "शरसंभिन्नवर्माणौ तावुभौ भ्रातरौ रणे । सात्यकिं सत्यकर्माणं राजन्विव्यधतुः शरैः ॥१३॥",
+      "english": "O monarch, these two heroic brothers whose vital parts were deeply struck with the arrows, pierced Satyaki, who always performed appropriate deeds with their shafts,",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "तौ सात्यकिर्महाराज प्रहसन् सर्वतोदिशः । छादयञ्छरवर्षेण वारयामास भारत ॥१४॥",
+      "english": "O powerful monarch, Satyaki on the other hand, having smiled and shrouded all the points of the horizon with a shower of arrows, closed with the two brothers, O descendant of the Bharata race.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "वार्यमाणौ ततस्तौ हि शैनेयशरवृष्टिभिः । शैनेयस्य रथं तूर्णं छादयामासतुः शरैः ॥१५॥",
+      "english": "Thereupon those two brothers, whose progress was checked by the shower of arrows of Sini's grandson, indeed, covered the car of Sini's grandson with lots of shafts.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "तयोस्तु धनुषी चित्रे छित्त्वा शौरिर्महायशाः । अथ तौ सायकैस्तीक्ष्णैर्वारयामास संयुगे ॥१६॥",
+      "english": "Having severed the most beautiful bows of those two brothers, then the highly celebrated Shauri restrained the progress of them both in the battle with a shower of sharp arrows.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "अथान्ये धनुषी चित्रे प्रगृह्य च महाशरान् । सात्यकिं छादयन्तौ तौ चेरतुर्लघु सुष्ठु च ॥१७॥",
+      "english": "Then having grasped two other beautiful bows and most effective shafts, they two, too, shrounded Satyaki (with the arrows) and roved about in the field with immense activity and expertness.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "ताभ्यां मुक्ता महाबाणाः कङ्कबर्हिणवाससः । द्योतयन्तो दिशः सर्वाः संपेतुः स्वर्णभूषणाः ॥१८॥",
+      "english": "Those mighty arrows, shot by the two brothers, adorned with the feathers of the Kanka and the peacock and ornamented with gold, fell down (upon the foes), after having illumined all the points of the horizon.",
+      "bhavadeepa": "लघु शीघ्रं सुष्ठु शोभनम् ॥१७॥",
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "बाणान्धकारमभवत्तयो राजन्महामृधे । अन्योन्यस्य धनुश्चैव चिच्छिदुस्ते महारथाः ॥१९॥",
+      "english": "O monarch, there was a gloom in that formidable battle owing to the shower of arrows shot by both the parties. Then those great car-warriors severed each other's bows.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "ततः क्रुद्धो महाराज सात्वतो युद्धदुर्मदः । धनुरन्यत्समादाय सज्यं कृत्वा च संयुगे ॥२०॥",
+      "english": "Thereupon, O mighty monarch, wrathful Satvata, most invincible in the field, having taken up another bow and stretched its string properly, severed the head of Anuvinda with an arrow, sharp like the razor.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "क्षुरप्रेण सुतीक्ष्णेन अनुविन्दशिरोऽहरत् । अपतत्तच्छिरो राजन् कुण्डलोपचितं महत् ॥२१॥",
+      "english": "O monarch, that mighty head, adorned with ear-rings, fell like the head of Shambara, slain in that dreadful battle (of old). This, having fallen upon the earth most rapidly, greatly aggrieved all the Kaikayas.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः",
+      "combined_translation": "21-22"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "शम्बरस्य शिरो यद्वन्निहतस्य महारणे । शोचयन्केकयान्सर्वाञ्जगामाशु वसुन्धराम् ॥२२॥",
+      "english": null,
+      "bhavadeepa": "उपचितमलङ्कृतम् ॥२१॥",
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः",
+      "english_ref": 21,
+      "combined_translation": "21-22"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "तं दृष्ट्वा निहतं शूरं भ्राता तस्य महारथः । सज्यमन्यद्धनुः कृत्वा शैनेयं पर्यवारयत् ॥२३॥",
+      "english": "Having seen that hero slain, his brother, that mighty car-warrior (Vinda), after having stretched out the string of another bow, restrained the course of Shini's grandson.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "स षष्ट्या सात्यकिं विद्ध्वा स्वर्णपुङ्खैः शिलाशितैः । ननाद बलवन्नादं तिष्ठ तिष्ठेति चाब्रवीत् ॥२४॥",
+      "english": "Having pierced Satyaki with sixty shafts, all sharpened on stone and adorned with the feathers of gold, he roared most loudly and said-wait, wait.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "सात्यकिं च ततस्तूर्णं केकयानां महारथः । शरैरनेकसाहस्रैर्बाह्वोरुरसि चार्पयत् ॥२५॥",
+      "english": "The mighty car-warrior of the Kaikeya troops then pierced Satyaki in his arms and chest most rapidly with several thousands of arrows.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "स शरैः क्षतसर्वाङ्गः सात्यकिः सत्यविक्रमः । रराज समरे राजन् सपुष्प इव किंशुकः ॥२६॥",
+      "english": "O king, Satyaki, of true prowess, being thus wounded with the arrows in all his limbs, shone in the field of battle like a Kinshuka with flowers.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "सात्यकिः समरे विद्धः कैकेयेन महात्मना । कैकेयं पञ्चविंशत्या विव्याध प्रहसन्निव ॥२७॥",
+      "english": "In the battle, Satyaki, having been pierced by the lofty-minded Kaikeya, smilingly pierced back the Kaikeya chief with twenty-five shafts.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "तावन्योन्यस्य समरे संच्छिद्य धनुषी शुभे । हत्वा च सारथी तूर्णं हयांश्च रथिनां वरौ ॥२८॥",
+      "english": "Thereupon those two best of car-warriors, having broken down each other's beautiful bows and also slain each other's drivers and horses.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "विरथावसियुद्धाय समाजग्मतुराहवे । शतचन्द्रचिते गृह्य चर्मणी सुभुजौ तथा ॥२९॥",
+      "english": "Both of them, having taken up shields, as if adorned with hundred moons and grasped the best of swords and possessed as they were with the handsome arms, looked resplendent in that great field of battie.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "विरोचेतां महारङ्गे निस्त्रिंशवरधारिणौ । यथा देवासुरे युद्धे जम्भशक्रौ महाबलौ ॥३०॥",
+      "english": "Like the most powerful ones, Jambha and Shakra, in the battle between the celestials and the Asuras. Thereupon both the warriors roved about in that dreadful field of battle in circles and speedily approached each other, engaged in combating, in the battle.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः",
+      "combined_translation": "30-31"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "मण्डलानि ततस्तौ तु विचरन्तौ महारणे । अन्योन्यमभितस्तूर्णं समाजग्मतुराहवे ॥३१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः",
+      "english_ref": 30,
+      "combined_translation": "30-31"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "अन्योन्यस्य वधे चैव चक्रतुर्यत्नमुत्तमम् । कैकेयस्य द्विधा चर्म ततश्चिच्छेद सात्वतः ॥३२॥",
+      "english": "Thus the two, again, made the best of their efforts in slaying each other. Then Satvata severed the shield of the Kaikeya chief into two pieces. So also this Vinda severed the shield of Satyaki into two pieces.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः",
+      "combined_translation": "32-33"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "सात्यकेस्तु तथैवासौ चर्म चिच्छेद पार्थिवः । चर्म च्छित्त्वा तु कैकेयस्तारागणशतैर्वृतम् ॥३३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः",
+      "english_ref": 32,
+      "combined_translation": "32-33"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "चचार मण्डलान्येव गतप्रत्यागतानि च । तं चरन्तं महारङ्गे निस्त्रिंशवरधारिणम् ॥३४॥",
+      "english": "The Kaikeya chief, indeed, having thus broken into pieces the shield, that was decked with hundred of stars, roved in circles in the field, sometimes advancing and sometimes receding back.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "अपहस्तेन चिच्छेद शैनेयस्त्वरयाऽन्वितः । सवर्मा केकयो राजन्द्विधा च्छिन्नो महारणे ॥३५॥",
+      "english": "Thereupon the grandson of Shini who was possessed with greatest activity severed him (his head) who having grasped the best of swords, careered in the broad field of battle, by a side-stroke.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "निपपात महेष्वासो वज्राहत इवाचलः । तं निहत्य रणे शूरः शैनेयो रथसत्तमः ॥३६॥",
+      "english": "O monarch, the Kaikeya prince, that mighty bowman, who was adorned with the shield, being thus cut-off into pieces in that dreadful battle, fell down like a hill broken down by a thunderbolt.",
+      "bhavadeepa": "अपहस्तेन तिर्यक्हस्तेन ॥३५॥",
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "युधामन्युरथं तूर्णमारुरोह परंतपः । ततोऽन्यं रथमास्थाय विधिवत्कल्पितं पुनः ॥३७॥",
+      "english": "That war-like grandson of Shini, that best of car-warriors, that scorcher of enemies, after having slain him (the Kaikeya chief) in battle, immediately ascended the car of Yudhamanyu.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "केकयानां महत्सैन्यं व्यधमत्सात्यकिः शरैः । सा वध्यमाना समरे केकयानां महाचमूः । तमुत्सृज्य रणे शत्रुं प्रदुद्राव दिशो दश ॥३८॥",
+      "english": "Thereupon, again, having ascended another car, that furnished with its its due equipment's, Satyaki began to destroy the immense army of the Kaikeyas with his was arrows.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "त्रयोदशाऽध्यायः"
+    }
+  ]
+}

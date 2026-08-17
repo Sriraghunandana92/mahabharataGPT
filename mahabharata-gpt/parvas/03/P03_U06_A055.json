@@ -1,0 +1,270 @@
+{
+  "adhyaya_id": "P03_U06_A055",
+  "book": 3,
+  "parva_name": "वनपर्व",
+  "upaparva_name": "नलोपाख्यानपर्व",
+  "adhyaya_name": "पञ्चपञ्चाशत्तमोऽध्यायः",
+  "chapter": 55,
+  "verse_count": 25,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "बृहदश्व उवाच। तेभ्यः प्रतिज्ञाय नलः करिष्य इति भारत। अथैतान्परिपप्रच्छ कृताञ्जलिरुपस्थितः॥१॥",
+      "english": "Brihadashva said: O Bharata, Nala promised to them (the celestials) saying that he would do it; and then, approaching with folded hands, asked them, “Who are you? And who is he, by whom I am desired to be his inessenger? what further shall I render to you; tell me what really is.\"",
+      "bhavadeepa": null,
+      "chapter": 55,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चपञ्चाशत्तमोऽध्यायः",
+      "combined_translation": "1-2"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "के वै भवन्तः कश्चासौ यस्याहं दूत ईप्सितः। किं च तद्वो मया कार्यं कथयध्वं यथातथम्॥२॥",
+      "english": null,
+      "bhavadeepa": "तेभ्य इति ॥१॥",
+      "chapter": 55,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चपञ्चाशत्तमोऽध्यायः",
+      "english_ref": 1,
+      "combined_translation": "1-2"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "एवमुक्ते नैषधेन मघवानभ्यभाषत। अमरान्वै निबोधास्मान्दमयन्त्यर्थमागतान्॥३॥",
+      "english": "Maghavat, being thus addressed by the king of the Nishadhas, said in reply, “Be informed that we, the celestials, come here for Damayanti.",
+      "bhavadeepa": null,
+      "chapter": 55,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "अहमिन्द्रोऽयमग्निश्च तथैवायमपां पतिः। शरीरान्तकरो नॄणां यमोऽयमपि पार्थिव॥४॥",
+      "english": "O king I am Indra, this one is Agni; he is the lord of the waters and this is even Yama, the destroyer of human bodies.",
+      "bhavadeepa": null,
+      "chapter": 55,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "त्वं वै समागतानस्मान्दमयन्त्यै निवेदय। लोकपाला महेन्द्राद्याः समायान्ति दिदृक्षवः॥५॥",
+      "english": "Do you inform Damayanti that we, Lokapalas with Mahendra at our head, are all come and going to the assembly (of the heroes), filled with the desire of witnessing (the Svayamvara).",
+      "bhavadeepa": null,
+      "chapter": 55,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "प्राप्तुमिच्छन्ति देवास्त्वां शक्रोग्निर्वरुणो यमः। तेषामन्यतमं देवं पतित्वे वरयस्व ह॥६॥",
+      "english": "And the gods-Shakra, Agni, Vasava and Yama, all desire to win you. Hence choose one of them for your husband.\"",
+      "bhavadeepa": null,
+      "chapter": 55,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "एवमुक्तः स शक्रेण नलः प्राञ्जलिरब्रवीत्। एकार्थं समुपेतं मां न प्रेषयितुमर्हथ॥७॥",
+      "english": "Nala, being thus spoken to by Shakra, requested them with folded hands not to send him, as he also has come with the same purpose.",
+      "bhavadeepa": null,
+      "chapter": 55,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "कथ हि जातसंकल्पः स्त्रियमुत्सृजते पुमान्। परार्थमीदृशं वक्तं तत्क्षमन्तु मरेश्वराः॥८॥",
+      "english": "\"O gods, pardon me; and how it is that a person, who is in the same way determined (to get Damayanti), can dare speak to the damsel on behalf of others.\"",
+      "bhavadeepa": "एकार्थम् एकप्रयोजनम् । यूयमिवाहमपि दमयन्तीं प्रार्थयामीत्यर्थः ॥७॥",
+      "chapter": 55,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "देवा ऊचुः। करिष्य इति संश्रुत्य पूर्वमस्मासु नैषध। न करिष्यसि कस्मात्त्वं व्रज नैषध मा चिरम्॥९॥",
+      "english": "The Gods said : O king of the Nishadhas, you promised to us beforehand that you would do it. O king of the Nishadhas, why, therefore will you not act up to it? Tell us without (a moment's) hesitation.",
+      "bhavadeepa": null,
+      "chapter": 55,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "बृहदश्व उवाच। एवमुक्तः स देवैस्तैर्नैषधः पुनरब्रवीत्। सुरक्षितानि वेश्मानि प्रवेष्टुं कथमुत्सहे॥१०॥",
+      "english": "Brihadashva said : The king of the Nishadhas, being thus spoken by the gods, said again to them: \"How can I dare enter those palaces so well-guarded.\"",
+      "bhavadeepa": null,
+      "chapter": 55,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "प्रवेक्ष्यसीति तं शक्रः पुनरेवाभ्यभाषत। जगाम स तथेत्युक्त्वा दमयन्त्या निवेशनम्॥११॥",
+      "english": "Indra again said to him in reply \"you shall get access.\" Nala, saying “so be it,\" repaired to the mansion of Damayanti.",
+      "bhavadeepa": null,
+      "chapter": 55,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "ददर्श तत्र वैदर्भीं सखीगणसमावृताम्। देदीप्यमानां वपुषा श्रिया च वरवर्णिनीम्॥१२॥",
+      "english": "There he saw the daughter of the ruler of Vidharbhas, who was encircled by her handsminds, effulgent in beauty and forin and of fair color.",
+      "bhavadeepa": "प्रवेक्ष्यसीति । अदर्शनशक्तिस्तुभ्यं दत्तेति भावः ॥११॥",
+      "chapter": 55,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "अतीवसुकुमाराङ्गीं तनुमध्यां सुलोचनाम्। आक्षिपन्तीमिव प्रभां शशिनः स्वेन तेजसा॥१३॥",
+      "english": "She also possessed extraordinarily symmetrical handsome limbs, slender waist and fair eyes; her splendour was supposed to ecclipse the light of the moon.",
+      "bhavadeepa": null,
+      "chapter": 55,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "तस्य दृष्ट्वैव ववृधे कामस्तां चारुहासिनीम्। सत्यं चिकीर्षमाणस्तु धारयामास हृच्छयम्॥१४॥",
+      "english": "His (Nala's) love increased at the very sight of that sweet smiling one (Damayanti). But being desirous of carrying out the truth, he repressed the love (that was aroused in him).",
+      "bhavadeepa": null,
+      "chapter": 55,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "ततस्ता नैषधं दृष्ट्वा संभ्रान्ताः परमाङ्गनाः। आसनेभ्यः समुत्पेतुस्तेजसा तस्य धर्षिताः॥१५॥",
+      "english": "Then beholding the king of the Nishadhas, all the respectable and beautiful ladies sprang up from their seats, possessed as they were by the splendour (of his beauty).",
+      "bhavadeepa": null,
+      "chapter": 55,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "प्रशशंसुश्च सुप्रीता नलं ता विस्मयान्विताः। न चैनमभ्यभाषन्त मनोभिस्त्वभ्यपूजयन्॥१६॥",
+      "english": "Filled with amazement and highly gratified, they praised Nala; but they spoke nothing to him, only worshipped him in the mind.",
+      "bhavadeepa": "धर्षिता अभिभूताः ॥१५॥",
+      "chapter": 55,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "अहोरूपमहोकान्तिरहो धैर्यं महात्मनः। कोऽयं देवोऽथवा यक्षो गन्धर्वो वा भविष्यति॥१७॥",
+      "english": "Oh! what beauty, what effulgence and what patience are possessed by this high-souled one! Who is he! Is he a god or a Yaksha or a Gandharva?",
+      "bhavadeepa": null,
+      "chapter": 55,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "न तास्तं शक्नुवन्ति स्म व्याहर्तुमपि किंचन। तेजसा धर्षितास्तस्य लज्जावत्यो वराङ्गनाः॥१८॥",
+      "english": "Those most excellent women, over-powered by his splendour and out of bashfulness, were not at all able to go near or address him.",
+      "bhavadeepa": null,
+      "chapter": 55,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "अथैनं स्मयमानं तु स्मितपूर्वाभिभाषिणी। दमयन्ती नलं वीरमभ्यभाषत विस्मिता॥१९॥",
+      "english": "Filled as she was with amazement, yet Damayanti, smilingly addressed the heroic Nala, who, also gently smiled at her. She smilingly said thus.",
+      "bhavadeepa": null,
+      "chapter": 55,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "कस्त्वं सर्वानवद्याङ्ग मम हृच्छयवर्धन। प्राप्तोस्यमरवद्वीर ज्ञातुमिच्छामि तेऽनघ॥२०॥",
+      "english": "\"Who are you, O you of beautiful form, you have aroused love in me. O warlike one, O sinless one, I desire to know how have you come here. Why have you come here! And how is it you have not been perceived by any body? Indeed, my palace is so well-guarded; and so strict are the commands of the king.\" Being thus addressed by the daughter of",
+      "bhavadeepa": null,
+      "chapter": 55,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चपञ्चाशत्तमोऽध्यायः",
+      "combined_translation": "20-21"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "कथमागमनं चेह कथं चासि न लक्षितः। सुरक्षितं हि मे वेश्म राजा चैवोग्रशासनः॥२१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 55,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चपञ्चाशत्तमोऽध्यायः",
+      "english_ref": 20,
+      "combined_translation": "20-21"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "एवमुक्तस्तु वैदर्भ्या नलस्तां प्रत्युवाच ह।\n              नल उवाच।\n              नलं मां विद्धि कल्याणि देवदूतमिहागतम्॥२२॥",
+      "english": "Nala said: \"O handsome damsel, know me by the name of Nala; I have come here as the messenger of the gods. The gods, Shakra, Agni, Varuna and Yama, all desire to have you. O beauteous one, choose one of the celestials as your husband.",
+      "bhavadeepa": null,
+      "chapter": 55,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चपञ्चाशत्तमोऽध्यायः",
+      "combined_translation": "22-23"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "देवास्त्वां प्राप्तुमिच्छन्ति शक्रोऽग्निर्वरुणो यमः। तेषामन्यतमं देवं पतिं वरय शोभने॥२३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 55,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चपञ्चाशत्तमोऽध्यायः",
+      "english_ref": 22,
+      "combined_translation": "22-23"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "तेषामेव प्रभावेण प्रविष्टोऽहमलक्षितः। प्रविशन्तं न मां कश्चिदपश्यन्नाप्यवारयत्॥२४॥",
+      "english": "It is through the influence of those celestials I have entered the palace undiscovered and for this reason also that none has perceived me, nor put obstacles in my way.",
+      "bhavadeepa": null,
+      "chapter": 55,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "एतदर्थमहं भद्रे प्रेषितः सुरसत्तमैः। एतच्छ्रुत्वा शुभे बुद्धिं प्रकुरुष्व यथेच्छसि॥२५॥",
+      "english": "O respected one, I have been sent by the illustrious gods on this errand. O lucky one, form your opinion by hearing this, as you please.",
+      "bhavadeepa": null,
+      "chapter": 55,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "नलोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चपञ्चाशत्तमोऽध्यायः"
+    }
+  ]
+}

@@ -1,0 +1,598 @@
+{
+  "adhyaya_id": "P05_U08_A163",
+  "book": 5,
+  "parva_name": "उद्योगपर्व",
+  "upaparva_name": "उलूकदूतागमनपर्व",
+  "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः",
+  "chapter": 163,
+  "verse_count": 57,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "सञ्जय उवाच।\n              दुर्योधनस्य तद्वाक्यं निशम्य भरतर्षभ। नेत्राभ्यामतिताम्राभ्यां कैतव्यं समुदैक्षत ॥१॥",
+      "english": "Sanjaya said That foremost of the Bharata race, hearing those words of Duryodhana, looked on that son of a gambler with eyes excessively red.",
+      "bhavadeepa": "समीक्षते गणयति ॥६३॥",
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "स केशवमभिप्रेक्ष्य गुडाकेशो महायशाः। अभ्यभाषत कैतव्यं प्रगृह्य विपुलं भुजम् ॥२॥",
+      "english": "Gudakesha, of great renown, looking on Keshava, said to the gambler's son tossing up his mighty arms.",
+      "bhavadeepa": "दुर्योधनस्येति । समुदैक्षत गुडाकेश इति सम्बन्धः ॥१॥",
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः",
+      "combined_translation": "2-50"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "स्ववीर्यं यः समाश्रित्य समाह्वयति वै परान्। अभीतो युध्यते शत्रून् स वै पुरुष उच्यते ॥३॥",
+      "english": "He, who, relying on his own prowess challenges his enemies to fight and fights with them without being struck with fear, is said to be a man.",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "परवीर्यं समाश्रित्य यः समाह्वयते परान्। क्षत्रबन्धुरशक्तत्वाल्लोके स पुरुषाधमः ॥४॥",
+      "english": "But he, who challenges his enemies relying on the prowess of others, is the lowest among the Kshatriyas and owing to his weakness he is called the lowest of men.",
+      "bhavadeepa": "पूरणात् पुरुष इति पुरुषशब्दनिर्वचनम् अन्यथा त्वपुरुष एवेत्यर्थः ॥३॥",
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः",
+      "combined_translation": "4-55"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "स त्वं परेषां वीर्येण मन्यसे वीर्यमात्मनः। स्वयं कापुरुषो मूढ परांश्च क्षेप्तुमिच्छसि ॥५॥",
+      "english": "You too think the prowess of others to be your own prowess; being yourself a coward, O fool, you want to have others slain.",
+      "bhavadeepa": "क्षत्रबन्धुः क्षत्रजातिरेव न तु क्षत्रकर्मेत्यर्थः ॥४॥",
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः",
+      "combined_translation": "5-56"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "यस्त्वं वृद्धं सर्वराज्ञां हितबुद्धिं जितेन्द्रियम्। मरणाय महाप्रज्ञं दीक्षयित्वा विकत्थसे ॥६॥",
+      "english": "You now boast, having installed as your leader the oldest of all kings, whose intelligence is directed to the good of others, who has brought his senses under control and who is endued with great wisdom and has made his death certain.",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "भावस्ते विदितोऽस्माभिर्दुर्बुद्धे कुलपांसन। न हनिष्यन्ति गाङ्गेयं पाण्डवा घृणयेति हि ॥७॥",
+      "english": "O you of wicked intelligence, O you the stain of your race, your intention is known by us. (You thought) the son of Pandu, would, out of kindness, not slay the son of Ganga,",
+      "bhavadeepa": "वृद्धं बाल्हीकं भीष्मं च ॥६॥",
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "यस्य वीर्यं समाश्रित्य धार्तराष्ट्र विकत्थसे। हन्ताऽस्मि प्रथमं भीष्मं मिषतां सर्वधन्विनाम् ॥८॥",
+      "english": "Him depending on whose strength you are now boasting. I shall first slay that Bhishma within the sight of all bow men.",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः",
+      "combined_translation": "8-36"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "कैतव्य गत्वा भरतान् समेत्य सुयोधनं धार्तराष्ट्रं वदस्व। तथेत्युवाचार्जुनः सव्यसाची निशाव्यपाये भविता विमर्दः ॥९॥",
+      "english": "O gambler's son, going to the Bharatas, and going near the son of Dhritarashtra say that Arjuna or Savyasachin has said “Be it so; on the down of the day there will be war.”",
+      "bhavadeepa": "मिषतां पश्यताम् ॥८॥",
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः",
+      "combined_translation": "9-10"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "यद्वाऽब्रवीद्वाक्यमदीनसत्त्वां मध्ये कुरून् हर्षयन् सत्यसन्धः। अहं हन्ता सृञ्जयानामनीकं शाल्वेयकांश्चेति ममैष भारः। कैतव्य गत्वा भरतान् समेत्य सुयोधनं धार्तराष्ट्रं वदस्व ॥१०॥",
+      "english": null,
+      "bhavadeepa": "कैतव्येति । समेत्य एकीकृत्य निशाव्यपाये श्वोभूते ॥९॥",
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः",
+      "english_ref": 9,
+      "combined_translation": "9-10"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "हन्यामहं द्रोणमृतेऽपि लोकं न ते भयं विद्यते पाण्डवेभ्यः। ततो हि ते लब्धतमं च राज्यमापद्गताः पाण्डवाश्चेति भावः ॥११॥",
+      "english": "(Bhishma also said) I shall also slay the entire world except Drona\" and therefore do you consider this kingdom already gained and that the sons of Pandu are in a calamity?",
+      "bhavadeepa": "सत्यसन्धो भीष्मः भीष्मवाक्यमेवाह - अहं हन्तेति । हे कैतव्य अहं हन्तेत्यादि मदीयं वाक्यं भरतान् पाण्डवान् प्रति गत्वा वदस्व किं कृत्वा सुयोधनं समेत्य मदीयं सन्देशं दुर्योधनाय श्रावयित्वा पाण्डवान् प्रति कथयेत्यर्थः । तेन दुर्योधनस्य सुखं पाण्डवानां भयं चोदेष्यतीति भावः ॥१०॥",
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "स दर्पपूर्णो न समीक्षसे त्वमनर्थमात्मन्यपि वर्तमानम्। तस्मादहं ते प्रथमं समूहे हन्ता समक्षं कुरुवृद्धमेव ॥१२॥",
+      "english": "Being filled with that proud thought you will however see ruin overtake yourself and I shall first slay you in the army in the presence of the oldest among the Kurus.",
+      "bhavadeepa": "द्रोणमृतेऽपि द्रोणं विनाऽप्यसहाय एवाहं लोकं हन्यां ततो भीष्मवाक्यात् ते तव भाव एवंभूतो जात इत्यर्थः ॥११॥",
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "सूर्योदये युक्तसेनः प्रतीक्ष्य ध्वजी रथी रक्षत सत्यसन्धम्। अहं हि वः पश्यतां द्वीपमेनं भीष्मं रथात् पातयिष्यामि बाणैः ॥१३॥",
+      "english": "At sun rise, at the head of your army attend with your chariot and your flags on, that one devoted to truth and protect him. I shall within your sight by my arrows fell down from the chariot Bhishma, your refuge,",
+      "bhavadeepa": "हन्ता हनिष्यामि कुरुवृद्धं भीष्मम् ॥१२॥",
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "श्वोभूते कत्थनावाक्यं विज्ञास्यति योधनः। आचितं शरजालेन मया दृष्ट्वा पितामहम् ॥१४॥",
+      "english": "When the morrow comes Suyodhana will know what it is to boast of seeing the grandfather felled down by my shower of arrows.",
+      "bhavadeepa": "यो युक्तसेनो ध्वजी रथी तं रक्षतेति योजना । द्वीपं मज्जतामाधारम् ॥१३॥",
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "यदुक्तश्च सभामध्ये पुरुषो ह्रस्वदर्शनः। क्रुद्धेन भीमसेनेन भ्राता दुःशासनस्तव ॥१५॥",
+      "english": "What your brother Dushasana, that man of little foresight, who does not know what virtue is, who is ever hostile to me, who is sinful intellect and inhuman, has been told by the angry Bhimasena, you will soon see that resolve fulfilled, O Suyodhana.",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः",
+      "combined_translation": "15-16"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "अधर्मज्ञो नित्यवैरी पापबुद्धिर्नृशंसवत्। सत्यां प्रतिज्ञामचिराद्द्रक्ष्यसे तां सुयोधन ॥१६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः",
+      "english_ref": 15,
+      "combined_translation": "15-16"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "अभिमानस्य दर्पस्य क्रोधपारुष्ययोस्तथा। नैष्ठुर्यस्यावलेपस्य आत्मसंभावनस्य च ॥१७॥",
+      "english": "Of too much pride, vanity and of anger and harsh words, of enmity, arrogance and boasts,",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "नृशंसतायास्तैक्ष्ण्यस्य धर्मविद्वेषणस्य च। अधर्मस्यातिवादस्य वृद्धातिक्रमणस्य च ॥१८॥",
+      "english": "Of inhumanity, of cutting speeches, of hating virtue, of vice, of speaking ill of others, and of action against the advice of the old,",
+      "bhavadeepa": "अभिमानः श्रेष्ठोऽस्मीति बुद्धिः । दर्पः पराभिभवसमर्थोऽस्मीति धीः । क्रोधोऽभिज्वलनं पारुष्यं निष्ठुरवाक्यत्वम् । नैष्ठुर्यं निःस्नेहता । अवलेपोऽन्येषामवज्ञा । आत्मसंभावनम् अहमेव ज्ञाता शूरश्चास्मीति बुद्धिः ॥१७॥",
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "दर्शनस्य च चक्रस्य कृत्स्नस्यापनयस्य च। द्रक्ष्यसि त्वं फलं तीव्रमचिरेण सुयोधन ॥१९॥",
+      "english": "Of partial opinions and of all vices united together, you shall soon see the sharp effects, O Suyodhana.",
+      "bhavadeepa": "नृशंसता निर्दयत्वम् । तैक्ष्ण्यं तीक्ष्णता विषदानादिबीभत्सकर्मकारित्वम् । धर्मविद्वेषणं कपटद्यूतादिना । अधर्मो यथाप्रतिज्ञातराज्याप्रदानम् । अतिवादो धर्मिष्ठेष्वधर्मिष्ठत्वारोपो बैडालव्रतिकोऽसीत्यादिवचनम् । वृद्धातिक्रमणं विदुरादीनामवमाननम् ॥१८॥",
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "वासुदेवद्वितीये हि मयि कुद्धे नराधम। आशा ते जीविते मूढ राज्ये वा केन हेतुना ॥२०॥",
+      "english": "Having Vasudeva for my second and myself being angry, O worst of men, who are you that have hopes of life and of getting the kingdom, O fool.",
+      "bhavadeepa": "दर्शनं कर्णादिषु जयनिश्चयः चक्रं सेनाया आधिक्यम् । अपनयः अस्माकं दूरीकरणम् एतेषां फलं द्रक्ष्यसि ॥१९॥",
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "शान्ते भीष्मे तथा द्रोणे सूतपुत्रे च पातिते। निराशो जीविते राज्ये पुत्रेषु च भविष्यसि ॥२१॥",
+      "english": "Bhishma, the son of Shantanu, and Drona and the son of a Suta being felled down, you will despair of your life, of the kingdom and of the life of your sons.",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "भ्रातॄणां निधनं श्रुत्वा पुत्राणां च सुयोधन। भीमसेनेन निहतो दुष्कृतानि स्मरिष्यसि ॥२२॥",
+      "english": "Hearing of the death of your brother and of your son, O Suyodhana, and being struck by Bhimasena you will remember your vices.",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "न द्वितीयां प्रतिज्ञां हि प्रतिजानामि कैतव। सत्यं ब्रवीम्यहं ह्येतत् सर्वं सत्यं भविष्यति ॥२३॥",
+      "english": "O gambler's son, I do not know how to make a second resolve. I tell you the truth, all this will truly happen.\"",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "युधिष्ठिरोऽपि कैतव्यमुलूकमिदमब्रवीत्। उलूक मद्वचो ब्रूहि गत्वा तात सुयोधनम् ॥२४॥",
+      "english": "Yudhishthira too said to Uluka the gambler's son, “Uluka, tell my words when you go to Suyodhana.'",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः",
+      "combined_translation": "24-51"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "स्वेन वृत्तेन मे वृत्तं नाधिगन्तुं त्वमर्हसि। उभयोरन्तरं वेद सूनृतानृतयोरपि ॥२५॥",
+      "english": "It is not proper that you should judge of my conduct to you by your own conduct; know that the difference between us two is the same as the difference between truth and falsehood.",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "न चाहं कामये पापमपि कीटपिपीलयोः। किं पुनर्ज्ञातिषु वधं कामयेयं कथञ्चन ॥२६॥",
+      "english": "I do not desire to harm even the worms and ants; how can I then by any means desire the massacre of my kinsmen?",
+      "bhavadeepa": "वेद वेद्मि ॥२५॥",
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "एतदर्थं मया तात पञ्च ग्रामा वृताः पुरा। कथं तव सुदुर्बुद्धे न प्रेक्ष्ये व्यसनं महत् ॥२७॥",
+      "english": "It was for this reason, my dear brothers, that I asked for five villages only before; why is it that you do not realize this great calamity, O you of exceedingly sinful understanding?",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "स त्वं कामपरीतात्मा मूढभावाच्च कत्थसे। तथैव वासुदेवस्य न गृह्णासि हितं वचः ॥२८॥",
+      "english": "Having your soul now overpowered by lust and out of folly you are now boasting and for the same reason you do not accept the beneficial words of Vasudeva.",
+      "bhavadeepa": "कथमिति । हे सुदुर्बुद्धे तव व्यसनं मरणागमं कथमपि न प्रेक्ष्ये इति हेतोः पञ्च ग्रामा वृता इति सम्बन्धः ॥२७॥",
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "किञ्चेदानीं बहूक्तेन युध्यस्व सह बान्धवैः। मम विप्रियकर्तारं कैतव्य ब्रूहि कौरवम् ॥२९॥",
+      "english": "What is the use of much speaking now? Fight with all your friends” O gambler's son, speak this to the Kuru who ever does what I do not like.",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "श्रुतं वाक्यं गृहीतोऽर्थो मतं यत्ते तथाऽस्तु तत्। भीमसेनस्ततो वाक्यं भूय आह नृपात्मजम् ॥३०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः",
+      "english_ref": 6,
+      "combined_translation": "6-30"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "उलूक मद्वचो ब्रूहि दुर्मतिं पापपूरुषम्। शठं नैकृतिकं पापं दुराचारं सुयोधनम् ॥३१॥",
+      "english": "O Uluka, say on my behalf, to that vicious weight Bhimasena: “O son of Pritha, in the city of Virata were you before a cook,\"",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः",
+      "combined_translation": "31-65"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "गृध्रोदरे वा वस्तव्यं पुरे वा नागसाह्वये। प्रतिज्ञातं मया तच्च सभामध्ये नराधम ॥३२॥",
+      "english": "To that vicious wretch of sinful habits, Suyodhana; \"you will have to remain in the belly of a vulture or in the city called by the name of an elephant. And the resolve made by me in the council,",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "कर्ताऽहं तद्वचः सत्यं सत्येनैव शपामि ते। दुःशासनस्य रुधिरं हत्वा पास्याम्यहं मृधे ॥३३॥",
+      "english": "I shall make true, I swear by truth. Having slain Dushasana, I shall drink his blood in the battle.",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "सक्थिनी तव भङ्क्त्वैव हत्वा हि तव सोदरान्। सर्वेषां धार्तराष्ट्राणामहं मृत्युः सुयोधन ॥३४॥",
+      "english": "I shall break down your thighs after slaying your brothers. I am the death, O Suyodhana, of all the sons of Dhritarashtra.",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "सर्वेषां राजपुत्राणामभिमन्युरसंशयम्। कर्मणा तोषयिष्यामि भूयश्चैव वचः शृणु ॥३५॥",
+      "english": "And Abhimanyu is without doubt the death of all the princes. I shall satisfy you by my deeds. Hear again my words.",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "हत्वा सुयोधन त्वां वै सहितं सर्वसोदरैः। आक्रमिष्ये पदा मूर्ध्नि धर्मराजस्य पश्यतः ॥३६॥",
+      "english": "Slaying yourself, O Suyodhana, with all your brothers, I shall strike you on the head with my feet in the sight of the virtuous king.”",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "नकुलस्तु ततो वाक्यमिदमाह महीपते। उलूक ब्रूहि कौरव्यं धार्तराष्ट्रं सुयोधनम् ॥३७॥",
+      "english": "Nakula also, O lord of the earth, then said these words; \"O Uluka, O Kauravya, say to Suyodhana, the son of Dhritarashtra,",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "श्रुतं ते गदतो वाक्यं सर्वमेव यथातथम्। तथा कर्ताऽस्मि कौरव्य यथा त्वमनुशासि माम्॥३८॥",
+      "english": "The words uttered by you have all been heard by me, let them be so; I shall, O Kauravya, do what you have instructed me to do.",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "सहदेवोऽपि नृपते इदमाह वचोऽर्थवत्। सुयोधन मतिर्या ते वृथैषा ते भविष्यति ॥३९॥",
+      "english": "Sahadeva too, O ruler of men, said these words pregnant with meaning. “O Suyodhana, the hopes entertained by you will be vain.",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "शोचिष्यसे महाराज सपुत्रज्ञातिबान्धवः। इमं च क्लेशमस्माकं हृष्टो यत्त्वं विकत्थसे ॥४०॥",
+      "english": "You will grieve, ogreat king, along with your sons, kinsmen and friends, for this brag of yours at our troubles.\"",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "विराटद्रुपदौ वृद्धावुलूकमिदमूचतुः। दासभावं नियच्छेव साधोरिति मतिः सदा। तौ च दासावदासौ वा पौरुषं यस्य यादृशम् ॥४१॥",
+      "english": "The two old kings Virata and Drupada said this to Uluka \"We are ever willing to be the slaves of a good man and we shall see who is the slave and who the master and who is now powerful in the battle.”",
+      "bhavadeepa": "यत् इमं क्लेशं श्रुत्वा हृष्टः सन् विकत्थसे तत्ततो हेतोः शोचिष्यसे इति सम्बन्धः ॥४०॥",
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "शिखण्डी तु ततो वाक्यमुलूकमिदमब्रवीत्। वक्तव्यो भवता राजा पापेष्वभिरतः सदा ॥४२॥",
+      "english": "Shikhandin then said these words to Uluka “By you should the king ever addicted to vice be thus spoken.",
+      "bhavadeepa": "अश्लाघ्योऽहं नरपतिर्युवयोरिति दुर्योधनवाक्यस्योत्तरं विराटद्रुपदावाहतुरित्याह - विराटेति । साधोः दासभावं नियच्छेव नितरां यच्छेव प्रार्थयावहे । इषुगमीति छादेशे यमयतेर्विधिलिङि उत्तमस्य द्विवचनम् । इति आवयोर्मतिरस्ति । तौ च आवां दासावदासौ वेति यस्य तव यादृशं पौरुषं तत्तथैव श्वो द्रक्ष्याव इति शेषः ॥४१॥",
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "पश्य त्वं मां रणे राजन् कुर्वाणं कर्म दारुणम्। यस्य वीर्यं समासाद्य मन्यसे विजयं युधि ॥४३॥",
+      "english": "Behold me, O king, to be doing hard deeds in the battle. Depending on whose prowess you hope for victory in the battle,",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "तमहं पातयिष्यामि रथात्तव पितामहम्। अहं भीष्मवधात् सृष्टो नूनं धात्रा महात्मना ॥४४॥",
+      "english": "I shall fell down that grand gather of yours from the chariot. I was surely created by the great souled Creator for the slaying of Bhishma.",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "सोऽहं भीष्मं हनिष्यामि मिषतां सर्वधन्विनाम्। धृष्टद्युम्नोऽपि कैतव्यमुलूकमिदमब्रवीत् ॥४५॥",
+      "english": "Therefore shall I slay Bhishma within the sight of all bowmen.” Dhrishtadyumna said this to Uluka, the son of a gambler.",
+      "bhavadeepa": "वधात् वधहेतोः ॥४४॥",
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "सुयोधनो मम वचो वक्तव्यो नृपतेः सुतः। अहं द्रोणं हनिष्यामि सगणं सहबान्धवम् ॥४६॥",
+      "english": "Suyodhana, the son of the king should thus be spoken to, on my behalf. “I shall kill Drona along with his host and his friends.",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "अवश्यं च मया कार्यं पूर्वेषां चरितं महत्। कर्ता चाहं तथा कर्म यथा नान्यः करिष्यति ॥४७॥",
+      "english": "The work of which I shall be the doer no one else will do.” Then did the virtuous king say the noble words out of kindness to him.",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "तमब्रवीद्धर्मराजः कारुण्यार्थं वचो महत्। नाहं ज्ञातिवधं राजन् कामयेयं कथञ्चन ॥४८॥",
+      "english": "“O king, I never desire the massacre of my kinsmen and all this is going to happen owing to your fault.",
+      "bhavadeepa": "पूर्वेषां चरितं द्रोणवधेन पितृवैरप्रतियातनम् । सर्वेषामिति पाठेऽपि स एवार्थः ॥४७॥",
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "तवैव दोषाद्दुर्बुद्धे सर्वमेतत्त्वनावृतम्। स गच्छ मा चिरं तात उलूक यदि मन्यसे ॥४९॥",
+      "english": "Of course, I shall have to approve of the doings of these followers. There do you go without delay, O Uluka, if you wish it,",
+      "bhavadeepa": "अनावृतं विस्पष्टम् ॥४८॥",
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "इह वा तिष्ठ भद्रं ते वयं हि तव बान्धवाः। उलूकस्तु ततो राजन् धर्मपुत्रं युधिष्ठिरम् ॥५०॥",
+      "english": "Or remain here, may you farewell for we are your kinsmen too.\" Then Uluka taking leave of Yudhishthira, the son of Dharina, O king,",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "आमन्त्र्य प्रययौ तत्र यत्र राजा सुयोधनः। उलूकस्तत आगम्य दुर्योधनममर्षणम् ॥५१॥",
+      "english": "Went where the king Suyodhana was staying. Uluka then coming to the wrathful Duryodhana,",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "अर्जुनस्य समादेशं यथोक्तं सर्वमब्रवीत्। वासुदेवस्य भीमस्य धर्मराजस्य पौरुषम् ॥५२॥",
+      "english": "Told him all he had been instructed to say by Arjuna as also the manly speeches of Vasudeva, of Bhima and of the virtuous king,",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "नकुलस्य विराटस्य द्रुपदस्य च भारत। सहदेवस्य च वचो धृष्टद्युम्नशिखण्डिनोः। केशवार्जुनयोर्वाक्यं यथोक्तं सर्वमब्रवीत् ॥५३॥",
+      "english": "And of Nakula, Virata, and Drupada, 0 Bharata and the speeches of Dhrishtadyumna and Shikhandi,",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "कैतव्यस्य तु तद्वाक्यं निशम्य भरतर्षभः। दुःशासनं च कर्णं च शकुनिं चापि भारत ॥५४॥",
+      "english": "Commanded Dushasana, Karna, Shakuni, O Bharata, and his own army as also those of his allies,",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः",
+      "combined_translation": "54-55"
+    },
+    {
+      "verse": 55,
+      "sanskrit": "आज्ञापयत राज्ञश्च बलं मित्रबलं तथा। यथा प्रागुदयात् सर्वे युक्तास्तिष्ठन्त्यनीकिनः ॥५५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः",
+      "english_ref": 54,
+      "combined_translation": "54-55"
+    },
+    {
+      "verse": 56,
+      "sanskrit": "ततः कर्णसमादिष्टा दूताः संत्वरिता रथैः। उष्ट्रवामीभिरप्यन्ये सदश्वैश्च महाजवैः ॥५६॥",
+      "english": "So that all might be at the head of their respective divisions before sun rise. Then did messengers instructed by Karna, mount on cars speedily.",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 57,
+      "sanskrit": "तूर्णं परिययुः सेनां कृत्स्नां कर्णस्य शासनात्। आज्ञापयन्तो राज्ञश्च योगः प्रागुदयादिति ॥५७॥",
+      "english": "And others on camels, and others again on good horses went out and ordered the united army at Karna's behest to be ready for battle before sunrise.",
+      "bhavadeepa": null,
+      "chapter": 163,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "उलूकदूतागमनपर्व",
+      "adhyaya_name": "त्रिषष्ट्यधिकशततमोऽध्यायः"
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "adhyaya_id": "P03_U12_A211",
+  "book": 3,
+  "parva_name": "वनपर्व",
+  "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+  "adhyaya_name": "एकादशाधिकद्विशततमोऽध्यायः",
+  "chapter": 211,
+  "verse_count": 27,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "मार्कण्डेय उवाच।\n              एवमुक्तः स विप्रस्तु धर्मव्याधेन भारत। कथामकथयद्भूयो मनसः प्रीतिवर्धनीम्॥१॥",
+      "english": "Markandeya said : O descendant of Bharata, having been thus addressed by that Brahmana, the virtuous fowler again began to speak (on things) so pleasing to the mind.",
+      "bhavadeepa": "इन्द्रियाणि मनोबुद्धिभ्यां सह सप्त । तेषामर्थाः मन्तव्यबोद्धव्याभ्यां सह शब्दादयः सप्त । व्यक्ताव्यक्तैः बाह्येन्द्रियग्राह्याः व्यक्ताः अन्येऽव्यक्ताः । तैः सह सुसंवृतैरिति बुद्धिगुहायां लीनैरित्युक्तम् । ते चतुर्दश आकाशादयः पञ्च । आत्मा अह‌ङ्कारो गुणत्रयं चेति चतुर्विंशतेर्गणः व्यक्ताव्यक्तरूपः गुणः भोग्यवर्गः । एतेभ्यो विविक्तं यत्तदेव सर्वं सर्वात्मत्वात् सर्वशब्दाभिधेयं भोक्तृ ब्रह्मेत्यर्थः ॥२१॥",
+      "chapter": 211,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "एकादशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "ब्राह्मण उवाच।\n              महाभूतानि यान्याहुः पञ्च धर्मभृतां वर। एकैकस्य गुणान् सम्यक् पञ्चानामपि मे वद॥२॥",
+      "english": "The Brahmana said : O foremost of all virtuous men, it is said that there are five great elements. Will you describe to me in detail the properties of those five (elements)?",
+      "bhavadeepa": "एवं पूर्वत्र इदं जगन्महाभूतात्मकं ब्रह्मेत्युक्तं तद्व्याख्यातुं भूतगुणान् विभजते । सर्वात्मकत्वं ब्रह्मणो व्याचष्टे एवमुक्तः स इत्यादिनाऽध्यायेन ॥१॥",
+      "chapter": 211,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "एकादशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "व्याध उवाच।\n              भूमिरापस्तथा ज्योतिर्वायुराकाशमेव च। गुणोत्तराणि सर्वाणि तेषां वक्ष्यामि ते गुणान्॥३॥",
+      "english": "The Fowler said: The earth, water, fire, air and sky, all have properties enter-lapping each other. I shall describe them to you.",
+      "bhavadeepa": null,
+      "chapter": 211,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "एकादशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "भूमिः पञ्चगुणा ब्रह्मन्नुदकं च चतुर्गुणम्। गुणास्त्रयस्तेजसि च त्रयश्चाकाशवातयोः॥४॥",
+      "english": "O Brahmana, the earth has five qualities, water four, fire three and the air and the sky together three.",
+      "bhavadeepa": "गुणोत्तराणि उत्तरोत्तरगुणाः पूर्वपूर्वस्मिन् वर्तन्त इत्यर्थः ॥३॥",
+      "chapter": 211,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "एकादशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "शब्दः स्पर्शश्च रूपं च रसो गन्धश्च पञ्चमः। एते गुणाः पञ्च भूमेः सर्वेभ्यो गुणवत्तराः॥५॥",
+      "english": "Sound, touch, form, flavour and taste, these five qualities belong to earth.",
+      "bhavadeepa": "एतदेवाह भूमिरिति । त्रय इति । आकाशे एकः वाते द्वावित्यर्थः ॥४॥",
+      "chapter": 211,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "एकादशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "शब्दः स्पर्शश्च रूपं च रसश्चापि द्विजोत्तम। अपामेते गुणा ब्रह्मन् कीर्तितास्तव सुव्रत॥६॥",
+      "english": "O foremost of Brahmanas, O twice-borm one, O vow-observing Rishi, sound, touch, form and taste have been described to you as the properties of water.",
+      "bhavadeepa": null,
+      "chapter": 211,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "एकादशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "शब्दः स्पर्शश्च रूपं च तेजसोऽथ गुणास्त्रयः। शब्दः स्पर्शश्च वायौ तु शब्दश्चाकाश एव तु॥७॥",
+      "english": "Sound, touch and form are the three properties of fire; sound and touch are the two properties of the air; and sound is the property of the sky.",
+      "bhavadeepa": null,
+      "chapter": 211,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "एकादशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "एते पञ्चदश ब्रह्मन् गुणा भूतेषु पञ्चसु। वर्तन्ते सर्वभूतेषु येषु लोकाः प्रतिष्ठिताः॥८॥",
+      "english": "O Brahmana, these fifteen fifteen properties inherent in five elements, exist in all substances of which this universe is composed.",
+      "bhavadeepa": null,
+      "chapter": 211,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "एकादशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "अन्योन्यं नातिवर्तन्ते सम्यक्च भवति द्विज। यदा तु विषयीभावमाचरन्ति चराचराः॥९॥",
+      "english": "O Brahmana, they are not opposed to one another; they exist in proper combination. When this universe is thrown into a state of chaos then every corporeal being in proper time assumes another body. It perishes also in due order.",
+      "bhavadeepa": "सर्वभूतेषु जरायुजादिषु लोकाश्चिदात्मोपाधिभूतानि पञ्चभूतानि ॥८॥",
+      "chapter": 211,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "एकादशाधिकद्विशततमोऽध्यायः",
+      "combined_translation": "9-10"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "तदा देही देहमन्यं व्यतिरोहति कालतः। आनुपूर्व्या विनश्यन्ति जायन्ते चानुपूर्वशः॥१०॥",
+      "english": null,
+      "bhavadeepa": "नातिवर्तन्ते पञ्चस्वेकेन विना इतराणि भूतानि न तिष्ठन्तीत्यर्थः । सम्यक् च भवति एकीभावेन प्रकाशन्ते । एकत्वमार्षं सम्पूर्वादञ्चु गतिपूजनयोरित्यस्माद्धातो ऋत्विगादिना क्विनि समः समिरादेशः । ‘समित्येकीभावे’ इति यास्कः । ननु भूतानां परस्परमवियोगे मरणं न स्यात् तत्सङ्घातो हि चेतन आत्मेति लोकायतमतमाशङ्क्याह यदेति । अविषयं विषयमिव यत्र भावयति स सङ्कल्पो विषयीभावः । ते जीवास्तीव्रसङ्कल्पावेशाद्यं देहं भावयन्ति तदभिमानदार्ढ्येन पूर्वदेहस्यात्यन्तविस्मृतौ सत्यां मृता इत्युच्यन्ते न तु मृतदेहेऽपि भूतानां मिथो वियोगोऽस्तीत्यर्थः । पाठान्तरे भावं सङ्कल्पं विषमं स्वदेहविलक्षणं देहान्तरविषयम् ॥९॥",
+      "chapter": 211,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "एकादशाधिकद्विशततमोऽध्यायः",
+      "english_ref": 9,
+      "combined_translation": "9-10"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "तत्र तत्र हि दृश्यन्ते धातवः पाञ्चभौतिकाः। यैरावृतमिदं सर्वं जगत् स्थावरजङ्गमम्॥११॥",
+      "english": "There (everlastingly) exist the five elementary substances of which all the mobile and immobile world is composed. Whatever is perceptible by the senses is called Vyakta (manifest) and whatever is not perceptible by the senses is called Avyakta (not manifest).",
+      "bhavadeepa": "विनश्यन्ति तिरोभवन्ति । जायन्ते आविर्भवन्ति ॥१०॥",
+      "chapter": 211,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "एकादशाधिकद्विशततमोऽध्यायः",
+      "combined_translation": "11-12"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "इन्द्रियैः सृज्यते यद्यत् तत् तद्व्यक्तमिति स्मृतम्। तदव्यक्तमिति ज्ञेयं लिङ्गग्राह्यमतीन्द्रियम्॥१२॥",
+      "english": null,
+      "bhavadeepa": "धातवो रेत आदयः । प्रत्येकं पाञ्चभौतिकाः सन्तोऽपि ॥११॥",
+      "chapter": 211,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "एकादशाधिकद्विशततमोऽध्यायः",
+      "english_ref": 11,
+      "combined_translation": "11-12"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "यथास्वं ग्राहकान्येषां शब्दादीनामिमानि तु। इन्द्रियाणि यदा देही धारयन्निव तप्यते॥१३॥",
+      "english": "When a person engages in Tapa after having duly subdued his senses which have their own proper objective play in the external conditions of sound, form, then he sees that his own spirit pervades the whole universe and the universe is also reflected in him.",
+      "bhavadeepa": "सृज्यते । संसृज्यते । यद्वा । प्राणेभ्यो देवादेवेभ्यो लोका इति श्रूयमाणदृष्टिसृष्ट्यभिप्रायेण चक्षुरादिभिः सूर्यादिसृष्टिद्वारा लोकः सृज्यत इति यथाश्रुतमेव व्यक्तं घटादि । अव्यक्तमिन्द्रियादि । लिङ्गं रूपादिप्रकाशस्तेन ग्राह्यमनुमेयम् ॥१२॥",
+      "chapter": 211,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "एकादशाधिकद्विशततमोऽध्यायः",
+      "combined_translation": "13-14"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "लोके विततमात्मानं लोकं चात्मनि पश्यति। परापरज्ञः सक्तः सन् स तु भूतानि पश्यति॥१४॥",
+      "english": null,
+      "bhavadeepa": "यथास्वं स्वविषयानतिक्रमेण इमानि इन्द्रियाणि धारयन् निगृह्णन् तप्यत इव आत्मानमविषयमप्यालोचयत इव । मनआदीनां निग्रह एव आत्मा लोचनमित्यर्थः ॥१३॥",
+      "chapter": 211,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "एकादशाधिकद्विशततमोऽध्यायः",
+      "english_ref": 13,
+      "combined_translation": "13-14"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "पश्यतः सर्वभूतानि सर्वावस्थासु सर्वदा। ब्रह्मभूतस्य संयोगो नाशुभेनोपपद्यते॥१५॥",
+      "english": "He who is bound to the bonds of his previous Karma, although learned in the highest spiritual wisdom, is cognizant only of his own soul's objective existence, but the person whose soul is never affected by the objective conditions around is never subject to ills, owing to its absorption in the primal spirit of Brahma. When a person has overcome illusion, his manly virtues consisting the essence of spiritual wisdom turn to spiritual enlightenment which illuminates the intelligence of all beings. Such a being is called by the omnipotent, the intelligent one who is without beginning and without end, selfexistence, immutable, incorporeal and incomparable.",
+      "bhavadeepa": "आत्मनः सोपाधिकं रूपमपेक्ष्याह लोके इति । विततं कुण्डले कनकमिव उपादानत्वेन व्यापकं निरुपाधिकं रूपमपेक्ष्याह लोकमिति । लोकं च सैन्धवखिल्यवदात्मनि चिदेकरसे विलीनं पश्यति । तथाच श्रुती ब्रह्मविदां द्वे अवस्थे निरूपयतः - ‘य एवं वेदाहं ब्रह्मास्मीति स इदं सर्वं भवति’ । ‘यत्र त्वस्य सर्वमात्मैवाभूत्तत्केन कं पश्येत्’ इति । उक्तं चाभियुक्तैः - ‘सोपाधिर्निरुपाधिश्च द्वेधा ब्रह्मविदुच्यते । सोपाधिकः स्यात् सर्वात्मा निरुपाख्योऽनुपाधिकः’ इति । परापरज्ञः । परं निरुपाधि । अपरं सोपाधि । सक्तः प्रारब्धकर्मणा बद्धः सन् यावद्देहपातमेव समाधौ सोपाधिकावस्थामनुभवति न तु विदेहकैवल्येऽपीत्यर्थः ॥१४॥",
+      "chapter": 211,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "एकादशाधिकद्विशततमोऽध्यायः",
+      "combined_translation": "15-17"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "ज्ञानमूलात्मकं क्लेशमतिवृत्तस्य पौरुषम्। लोकवृत्तिप्रकाशेन ज्ञानमार्गेण गम्यते॥१६॥",
+      "english": null,
+      "bhavadeepa": "विद्याफलमाह पश्यत इति । ‘ब्रह्म वेद ब्रह्मैव भवति’ इति श्रुतं ब्रह्मभूतस्य उपाधित्यागादित्यर्थः । अशुभेन पुण्यपापयोः फलेन सम्प्रज्ञातसमाधाविवैकात्म्यधीदार्ढ्याज्जाग्रत्स्वप्नयोरपि तदेव पश्यन् कर्मणा न लिप्यत इत्यर्थः ॥१५॥",
+      "chapter": 211,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "एकादशाधिकद्विशततमोऽध्यायः",
+      "english_ref": 15,
+      "combined_translation": "15-17"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "अनादिनिधनं जन्तुमात्मयोनिं सदाव्ययम्। अनौपम्यममूर्तं च भगवानाह बुद्धिमान्॥१७॥",
+      "english": null,
+      "bhavadeepa": "ज्ञानमूलेति । ज्ञानं विद्या । तस्याः मूलं माया ब्रह्माकारान्तःकरणवृत्तेरपि मायाकार्यत्वात् । मायात्मकं मिथ्यारूपं क्लेशमविद्यादिरूपम् । अतिवृत्तस्य अतिक्रम्य गतस्य योगिनः लोकसम्बन्धिन्याः वृत्तेर्वर्तनजीवनात्मिकायाः प्रकाशो येन तादृशेन ज्ञानरूपेण ज्ञानमार्गेण पौरुषं परमपुरुषार्थरूपो मोक्षो गम्यते प्रकाशते मायिक्येवाविद्या मायिक्यैव विद्यया नष्टा चेन्मुच्यते इत्यर्थः । यथोक्तं श्रीभागवते - ‘विद्याविद्ये मम तनू विध्युद्धव शरीरिणाम् । मोक्षबन्धकरी आद्ये मायया मे विनिर्मिते’ इति ज्ञानपूर्वात्मकमिति पाठेऽपि स एवार्थः ॥१६॥",
+      "chapter": 211,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "एकादशाधिकद्विशततमोऽध्यायः",
+      "english_ref": 15,
+      "combined_translation": "15-17"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "तपोमूलमिदं सर्वं यन्मां विप्रानुपृच्छसि। इन्द्रियाण्येव संयम्य तपो भवति नान्यथा॥१८॥",
+      "english": "O Brahmana, what you have enquired of me is the result of self-discipline. This selfdiscipline can only be acquired by subduing the senses. It can not be acquired by any other means.",
+      "bhavadeepa": "मुक्तजीवस्य स्वरूपमाह अनादीति । आद्यविशेषणेन लोकायतसम्मतं देहस्यात्मत्वं निरस्तम् । जन्तुं पुत्तिकादिब्रह्मान्तं जीवमात्मयोनिं जीवस्यात्मयोनित्वं वदता जीवत्वहेतोरविद्यादेः पृथक्सत्ता सांख्याद्यभिमता निरस्ता । अव्ययमिति । तार्किकाभिमतं सुखदुःखादिविकारवत्त्वं निरस्तं सदेति आगन्तुकविकारास्पर्शित्वमुक्तम् । एतेनैव क्षणिकशून्यवादावपि निरस्तौ । अमूर्तमिति । अत एवात्मवादो देहसम्मितात्मवादश्च परास्तः । अनौपम्यं तर्कागम्यमित्यर्थः । भगवानाह स्वनिःश्वसितरूपेण वेदेन हेतुदृष्टान्तवर्जितम् - ‘नित्यं विभुं सर्वगतं सुसूक्ष्मं यद्भूतयोनिं परिपश्यन्ति धीराः’ इत्यादिना । बुद्धिमान् बुद्धिः नियम्यत्वेनास्यास्तीति सन्तथा ॥१७॥",
+      "chapter": 211,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "एकादशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "इन्द्रियाण्येव तत् सर्वं यत् स्वर्गनरकावुभौ। निगृहीतविसृष्टानि स्वर्गाय नरकाय च॥१९॥",
+      "english": "Heaven and hell both are dependent on our senses. When subdued, they lead us to heaven and when indulged in, they lead us to hell.",
+      "bhavadeepa": "तपो ध्यानम् ॥१८॥",
+      "chapter": 211,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "एकादशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "एष योगविधिः कृत्स्नो यावदिन्द्रियधारणम्। एतन्मूलं हि तपसः कृत्स्नस्य नरकस्य च॥२०॥",
+      "english": "This subjugation of the senses is the highest means of attaining spiritual advancement; it is also at the root of all our spiritual degradation.",
+      "bhavadeepa": "इन्द्रियाणि निगृहीतानि स्वर्गाय विसृष्टानि नरकायेति योजनया पूर्वार्धस्यैव व्याख्या ॥१९॥",
+      "chapter": 211,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "एकादशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "इन्द्रियाणां प्रसङ्गेन दोषमार्च्छन्त्यसंशयम्। सन्नियम्य तु तान्येव ततः सिद्धिं समाप्नुयात्॥२१॥",
+      "english": "By indulging in them, a person contracts vices and by bringing them under control, he attains salvation.",
+      "bhavadeepa": null,
+      "chapter": 211,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "एकादशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "षण्णामात्मनि नित्यानामैश्वर्यं योऽधिगच्छति। न स पापैः कुतोऽनर्थैर्युज्यते विजितेन्द्रियः॥२२॥",
+      "english": "The self-controlled man who acquires over his six senses is never tainted with win; and consequently evil has no power over him.",
+      "bhavadeepa": "एतन्मूलमित्येतद्व्याचष्टे इन्द्रियाणामिति । दोषं रागविद्वेषादिरूपम् आर्च्छन्ति प्राप्नुवन्ति ॥२१॥",
+      "chapter": 211,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "एकादशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "रथः शरीरं पुरुषस्य दृष्टमात्मा नियन्तेन्द्रियाण्याहुरश्वान्। तैरप्रमत्तः कुशली सदश्वैर्दान्तैः सुखं याति रथीव धीरः॥२३॥",
+      "english": "Man's body has been compared with a chariot, his soul with a charioteer and his senses with the horses. A skillful man drives about without confusion, like an able charioteer with well-broken horses.",
+      "bhavadeepa": "षण्णां मनःषष्ठानामिन्द्रियाणां नित्यानामात्मनि कल्पितत्वेन रज्जुभुजङ्गवदाद्यन्तशून्यानाम् । ऐश्वर्यं नियन्तृत्वमनर्थैः प्रमातृत्वादिकर्तव्यभोक्तृत्वरूपैः ॥२२॥",
+      "chapter": 211,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "एकादशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "षण्णामात्मनियुक्तानामिन्द्रियाणां प्रमाथितम्। यो धीरो धारयेद्रश्मीन् स स्यात् परमसारथिः॥२४॥",
+      "english": "That man is an excellent driver who knows how to patiently wield the reins of these and horses, namely the six senses inherent in our nature.",
+      "bhavadeepa": "उक्तेऽर्थे प्रमाणसूचनार्थम् - ‘आत्मानं रथिनं विद्धि शरीरं रथमेव च’ इत्यादि कठवल्लीनामर्थं सङ्गृह्णाति रथ इत्यादिना ॥२३॥",
+      "chapter": 211,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "एकादशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "इन्द्रियाणां प्रसृष्टानां हयानामिव वर्त्मसु। धृतिं कुर्वीत सारथ्ये धृत्या तानि जयेत् ध्रुवम्॥२५॥",
+      "english": "When our senses become ungovernable like horses on the road, we must patiently rein them in, for with patience we are sure to get the better of them.",
+      "bhavadeepa": "आत्मा बुद्धिः ॥२४॥",
+      "chapter": 211,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "एकादशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "इन्द्रियाणां विचरतां यन्मनोऽनुविधीयते। तदस्य हरते बुद्धिं नावं वायुरिवाम्भसि॥२६॥",
+      "english": "When man's mind is overpowered by any one of these senses running wild, he loses his reason and becomes like a ship tossed by the tempest in the sea.",
+      "bhavadeepa": "इन्द्रियाणामजये शास्त्रजापि प्रज्ञा नश्यतीत्याह इन्द्रियाणामिति ॥२५॥",
+      "chapter": 211,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "एकादशाधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "येषु विप्रतिपद्यन्ते षट्सु मोहात् फलागमम्। तेष्वध्यवसिताध्यायी विन्दते ध्यानजं फलम्॥२७॥",
+      "english": "Men are deceived by illusion in hoping to reap the fruit of those six things the effects of which are studied by persons of spiritual insight who thereby reap the fruits of their clear perception.",
+      "bhavadeepa": "अनुविधीयत इति कर्मकर्तरि लकारः । यस्येन्द्रियस्याधीनं मनो भवति तदेव प्रज्ञां नाशयतीत्यर्थः ॥२६॥",
+      "chapter": 211,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "मार्कण्डेय-समास्यापर्व",
+      "adhyaya_name": "एकादशाधिकद्विशततमोऽध्यायः"
+    }
+  ]
+}

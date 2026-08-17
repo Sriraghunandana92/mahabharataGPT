@@ -1,0 +1,534 @@
+{
+  "adhyaya_id": "P01_U05_A030",
+  "book": 1,
+  "parva_name": "आदिपर्व",
+  "upaparva_name": "आस्तिकपर्व",
+  "adhyaya_name": "त्रिंशोऽध्यायः",
+  "chapter": 30,
+  "verse_count": 52,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "सौतिरुवाच।\n              स्पष्टमात्रा तु पद्भ्यां सा गरुडेन बलीयसा। अभज्यत तरोः शाखा भग्नां चैकामधारयत्॥१॥",
+      "english": "Sauti said: The moment the branch of the tree was touched by the greatly powerful Garuda with his feet, it broke down. As it was about to fall, it was caught by him.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "तां भङ्क्त्वा स महाशाखां स्मयमानो विलोकयन्। अथात्र लम्बतोऽपश्यद्वालखिल्यानधोमुखान्॥२॥",
+      "english": "As he cast his eyes in wonder on the broken branch of the tree, he saw that the Valakhilya Rishis were hanging form it, with their heads downwards.",
+      "bhavadeepa": "त्रिंशः अध्यायः स्पृष्टमात्रेति ॥१॥",
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "ऋषयो ह्यत्र लम्बन्ते न हन्यामिति तानृषीन्। तपोरतांल्लम्बमानान्ब्रह्मर्षीनभिवीक्ष्य सः॥३॥",
+      "english": "Having seen the holy Rishis thus suspended, he said to himself, “These Rishis of great penances must not be killed.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "हन्यादेतान्संपतन्ती शाखेत्यथ विचिन्त्य सः। नखैर्दृढतरं वीरः संगृह्य गजकच्छपौ॥४॥",
+      "english": "If the bough fell down, the Rishis will be killed.” Reflecting thus, the mighty bird held more firmly the elephant and the tortoise.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "स तद्विनाशसंत्रासादभिपत्य स्वगाधिपः। शाखामास्येन जग्राह तेषामेवान्ववेक्षया॥५॥",
+      "english": "The king of birds, from the fear of killing the Rishis and from the desire of saving them held the bough in his beaks and rose on his wings.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "अतिदैवं तु तत्तस्य कर्म दृष्ट्वा महर्षयः। विस्मयोत्कम्पहृदया नाम चक्रुर्महाखगे॥६॥",
+      "english": "The great Rishis, seeing this act which was beyond the powers of the celestials, was filled with wonder and they gave the great bird a name.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "गुरुं भारं समासाद्योड्डीन एष विहङ्गमः। गरुडस्तु खगश्रेष्ठस्तस्मात्पन्नगभोजनः॥७॥",
+      "english": "They said \"As this great bird rises on its wings with a heavy burden, let the best of the birds, the eater of snakes, be called Garuda.”",
+      "bhavadeepa": "अतिदैवं देवैरपिर्तुमशक्यम् ॥६॥",
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "ततः शनैः पर्यपतत्पक्षैः शैलान्प्रकम्पयन्। एवं सोऽभ्यपतद्देशान्बहून्सगजकच्छपः॥८॥",
+      "english": "Then shaking the mountains, the bird with the elephant and tortoise, slowly moved onward in the sky and when he was thus going he saw many countries underneath.",
+      "bhavadeepa": "गुरुमिति । गुरुशब्दपूर्वाड्डीङ् विहायसा गतौ अस्माड्डः आदेरकारश्च पृषोदरादित्वात् । गरुडशब्दो निष्पन्न इत्यर्थः । ॥७॥",
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "दयार्थं वालखिल्यानां न च स्थानमविन्दत। स गत्वा पर्वतश्रेष्ठं गन्धमादनमञ्जसा॥९॥",
+      "english": "Wishing to save the Valakhilyas he could not find a (proper) place to sit on. At last he went to that best of mountains, called Gandhamadana.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "ददर्श कश्यपं तत्र पितरं तपसि स्थितम्। ददर्श तं पिता चापि दिव्यरूपं विहङ्गमम्॥१०॥",
+      "english": "There he saw his father, Kashyapa, engaged in ascetic devotions. His father also saw that great bird of divine form.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "तेजोवीर्यबलोपेतं मनोमारुतरंहसम्। शैलशृङ्गप्रतीकाशं ब्रह्मदण्डमिवोद्यतम्॥११॥",
+      "english": "And of great splendour, strength and energy, as swift as the wind or the mind, huge as a mountain peak, a ready smiter as a curse of a Brahmana,",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "अचिन्त्यमनभिध्येयं सर्वभूतभयंकरम्। महावीर्यधरं रौद्रं साक्षादग्निमिवोद्यतम्॥१२॥",
+      "english": "Inconceivable, indescribable, fearful to all creatures possessed of great powers, terrible, as full of splendour as Agni himself.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "अप्रधृष्यमजेयं च देवदानवराक्षसैः। भेत्तारं गिरिशृङ्गाणां समुद्रजलशोषणम्॥१३॥",
+      "english": "Incapable of being overcome by the Devas and Danavas, capable of splitting mountains and of sucking the ocean,",
+      "bhavadeepa": "अचिन्त्यम् अद्भुताकारत्वात् । अनभिध्येयं क्रूरमूर्तित्वात् तदेवाह सर्वेति ॥१२॥",
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "लोकसंलोडनं घोरं कृतान्तसमदर्शनम्। तमागतमभिप्रेक्ष्य भगवान्कश्यपस्तदा। विदित्वा चास्यं संकल्पमिदं वचनमब्रवीत्॥१४॥",
+      "english": "Capable of destroying the three worlds and as fierce-looking as Yama himself. The greatly illustrious Kashyapa, seeing him approach and knowing his intention, thus addressed him,",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "कश्यप उवाच।\n              पुत्र मा साहसं कार्षीर्मा सद्यो लप्स्यसे व्यथाम्। मा त्वां दहेयुः संक्रुद्धा वालखिल्या मरीचिपाः॥१५॥",
+      "english": "Kashyapa said : My son, do not commit a rash act, for you will then have to suffer pain. The Valakhilyas, that support on the rays of the sun, if angry, can blast you.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "सौतिरुवाच।\n              ततः प्रसादयामास कश्यपः पुत्रकारणात्। वालखिल्यान्महाभागांस्तपसा हतकल्मषान्॥१६॥",
+      "english": "Sauti said: Therefore, Kashyapa for the snake of his son, propitiated the very glorious, exceedingly ascetic and sinless Valakhilyas.",
+      "bhavadeepa": "वालखिल्याः नामतः मरीचिपाः सूर्यमरीचीनेव पीत्वा तृप्यन्ति । ‘असौ वा आदित्यो देवमधुर’ इत्यादिना छान्दोग्यप्रसिद्धमधुविद्याविद इत्यर्थः ॥१५॥",
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "कश्यप उवाच।\n              प्रजाहितार्थमारम्भो गरुडस्य तपोधनाः। चिकीर्षति महत्कर्म तदनुज्ञातुमर्हथ॥१७॥",
+      "english": "Kashyapa said : O great Rishis, the action of Garuda is for the good of all creatures. He is trying to accomplish a great act and therefore, you should give him permission.",
+      "bhavadeepa": "शाखां मुक्त्वा गिरिं समभ्ययुरिति सम्बन्धः ॥१६॥",
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "सौतिरुवाच।\n              एवमुक्ता भगवता मुनयस्ते समभ्ययुः। मुक्त्वा शाखां गिरिं पुण्यं हिमवन्तं तपोऽर्थिनः॥१८॥",
+      "english": "Sauti said: The great ascetics, having been thus addressed by the illustrious Kashyapa, quitting the bough, went to the sacred Himalayas to observe ascetic penances.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "ततस्तेष्वपयातेषु पितरं विनतासुतः। शाखाव्याक्षिप्तवदनः पर्यपृच्छत कश्यपम्॥१९॥",
+      "english": "When the Rishis went away, the son of Vinata, his voice choked by the bough in his beaks, asked his father Kashyapa,",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "भगवन्क्व विमुञ्चामि तरोः शाखामिमामहम्। वर्जितं मानुषैर्देशमाख्यातु भगवान्मम॥२०॥",
+      "english": "\"O illustrious one, where stall I throw this great bough of the tree? O illustrious one, point me a place free from men.\"",
+      "bhavadeepa": "शाखया मुखस्थया न्याक्षिप्तं विकलं वदनं वचनक्रिया यस्य स तथा । अव्यक्तवर्णं यथा स्यात्तथाऽपृच्छदित्यर्थः ॥१९॥",
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "सौतिरुवाच।\n              ततो निःपुरुषं शैलं हिमसंरुद्धकन्दरम्। अगम्यं मनसाप्यन्यैस्तस्याचख्यौ स कश्यपः॥२१॥",
+      "english": "Kashyapa told him of a mountain without human beings, with caves and dales, always covered with snow and inaccessible by ordinary men even in thought.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "तं पर्वतं महाकुक्षिमुद्दिश्य स महाखगः। जवेनाभ्यपतत्तार्क्ष्यः सशाखागजकच्छपः॥२२॥",
+      "english": "The great bird, carrying the bough, the elephant and the tortoise, proceeded in great speed towards that mountain of broad waist.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "न तां वध्री परिणहेच्छतचर्मा महातनुम्। शाखिनो महतीं शाखां यां प्रगृह्य ययौ खगः॥२३॥",
+      "english": "The great bough with which the huge bird flew away could be girt round with a cord made of a hundred hides.",
+      "bhavadeepa": "सधूमेति । दिवा अह्नि ॥२२॥",
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "स ततः शतसाहस्रं योजनान्तरमागतः। कालेन नातिमहता गरुडः पतगेश्वरः॥२४॥",
+      "english": "The king of the birds, Garuda, flew away one hundred thousand Yojanas in the shortest time.",
+      "bhavadeepa": "गजकच्छपयोः परिमाणमुक्तं शाखायास्तदाह न तामिति । परिणहेत्परितो बध्नीयात् वेष्टयेत् । वध्नी एकतन्तुका चर्मरज्जुः । शतचर्मा एकेन गोचर्मणा कृतया रज्ज्वा आक्रान्तभूर्गोचर्ममात्रा इयं तु शतगोचर्मरज्ज्वाप्यनाक्रमणीयेत्यतिपुष्टत्वमुक्तं शाखायाः ॥२३॥",
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "स तं गत्वा क्षणेनैव पर्वतं वचनात्पितुः। अमुञ्चन्महतीं शाखां सस्वनं तत्र खेचरः॥२५॥",
+      "english": "Going almost within a moment to the mountains as directed by his father, the bird let fall the great bough. And it fell with a great noise.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "पक्षानिलहतश्चास्य प्राकम्पत स शैलराट्। मुमोच पुष्पवर्षं च समागलितपादप॥२६॥",
+      "english": "That king of the mountains trembled, having been struck with the storm, raised by Garuda's wings. The trees thereon dropped showers of flowers.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "शृङ्गाणि च व्यशीर्यन्त गिरेस्तस्य समन्ततः। मणिकाञ्चनचित्राणि शोभयन्ति महागिरिम्॥२७॥",
+      "english": "And the peaks of that great mountain, decked with gems and gold, were loosened and fell down on all sides.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "शाखिनो बहवश्चापि शाखयाऽभिहतास्तया। काञ्चनैः कुसुमैर्भान्ति विद्युत्वन्त इवाम्बुदाः॥२८॥",
+      "english": "The falling bough struck down many trees, which, with golden flowers amid their dark leaves, looked like clouds charged with lightning.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "ते हेमविकचा भूमौ युताः पर्वतधातुभिः। व्यराजञ्छाखिनस्तत्र सूर्यांशुप्रतिरञ्जिताः॥२९॥",
+      "english": "And these trees, bright as gold, falling down upon the ground and dyed with the mountain metals, looked as if they were bathed in the rays of the sun.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "ततस्तस्य गिरेः शृङ्गमास्थाय स खगोत्तमः। भक्षयामास गरुडस्तावुभौ गजकच्छपौ॥३०॥",
+      "english": "Then the best of birds sat on the summit of that mountain and ate both the elephant and the tortoise.",
+      "bhavadeepa": "हेमविकचाः हेमवदुज्ज्वलाः ॥२९॥",
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "तावुभौ भक्षयित्वा तु स तार्क्ष्यः कूर्मकुञ्जरौ। ततः पर्वतकूटाग्रादुत्पपात महाजवः॥३१॥",
+      "english": "The son of Tarkshya (Garuda), having thus eaten the elephant and the tortoise, rose on his wings from the top of that mountain summit.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "प्रावर्तन्ताथ देवानामुत्पाताभयशंसिनः। इन्द्रस्य वज्रं दयितं प्रजज्वाल भयात्ततः॥३२॥",
+      "english": "Various evil omens appeared before the celestial foreboding fear. Indra's thunder-bolt blazed up in a fright.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "सधूमा न्यपतत्सार्चिर्दिवोल्का नभसश्च्युता। तथा वसूनां रुद्राणामादित्यानां च सर्वशः॥३३॥",
+      "english": "Meteors with flames and smoke, loosened from the welkin, shot down during the day; and the weapons of the Vasus, the Rudras, la Adityas, the Sadhyas, the Maruts and of all other classes of celestials began to fight among one another.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः",
+      "combined_translation": "33-34"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "साध्यानां मरुतां चैव ये चान्ये देवतागणाः। स्वं स्वं प्रहरणं तेषां परस्परमुपाद्रवत्॥३४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः",
+      "english_ref": 33,
+      "combined_translation": "33-34"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "अभूतपूर्वं संग्रामे तदा देवासुरेऽपि च। ववुर्वाताः सनिर्घाताः पेतुरुल्काः सहस्रशः॥३५॥",
+      "english": "Such things had never happened, not even during the war between the Devas and the Danavas. The winds blew with thunder; meteors fell in thousands;",
+      "bhavadeepa": "अभूतपूर्वं यथा स्यात्तथा प्राद्रवत् । प्रहरणमायुधम् । जात्यभिप्रायेणैकवचनम् ॥३४॥",
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "निरभ्रमेव चाकाशं प्रजगर्ज महास्वनम्। देवानामपि यो देवः सोऽप्यवर्षत शोणितम्॥३६॥",
+      "english": "The cloudless sky made a tremendous roar. Even he who was the god of the gods, dropped blood,",
+      "bhavadeepa": "सनिर्घाताः अशनिनिर्घातशिताः । उल्काः वह्निविस्फुलिङ्गसङ्घाः ॥३५॥",
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "मम्लुर्माल्यानि देवानां नेशुस्तेजांसि चैव हि। उत्पातमेघा रौद्राश्च ववृषुः शोणितं बहु॥३७॥",
+      "english": "The garlands in the necks of the celestials grew pale and dim and their splendour was lost. And terrible masses of clouds vomited thick showers of blood.",
+      "bhavadeepa": "देवानां देवः पर्जन्यः ॥३६॥",
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "रजांसि मुकुटान्येषामुत्थितानि व्यधर्षयन्। ततस्त्राससमुद्विग्नः सह देवैः शतक्रतुः। उत्पातान्दारुणान्पश्यन्नित्युवाच बृहस्पतिम्॥३८॥",
+      "english": "The dust, raised by the winds, darkened the splendour of the coronets worn by the celestial. Thereupon, Indra with the other celestials, perplexed with fear on account of these evil omens, addressed Brihaspati thus.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "इन्द्र उवाच । किमर्थं भगवन्घोरा उत्पाताः सहसोत्थिताः। न च शत्रुं प्रपश्यामि युधि यो नः प्रधर्षयेत्॥३९॥",
+      "english": "Indra said : O illustrious one, why have these great disasters suddenly arisen? I do not see any enemy who will oppress us in a war.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "बृहस्पतिरुवाच।\n              तवापराधाद्देवेन्द्र प्रमादाच्च शतक्रतो। तपसा वालखिल्यानां महर्षीणां महात्मनाम्॥४०॥",
+      "english": "Brihaspati said : O king of the celestials, O Shatakratu, it is from your carelessness and from your fault and owing to the penances of the illustrious Rishi Valakhilyas,",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "कश्यपस्य मुनेः पुत्रो विनतायाश्च खेचरः। हर्तुं सोममभिप्राप्तो बलवान्कामरूपधृक्॥४१॥",
+      "english": "That the son of the Rishi Kashyapa and Vinata, the great bird, capable of assuming any form at will, is coming to take away the Soma.",
+      "bhavadeepa": "अपराधाद्वालखिल्यावमानात् । प्रमादात्स्वबलदर्पेण अनवधानात् ॥४०॥",
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "समर्थो बलिनां श्रेष्ठो हर्तुं सोमं विहंगमः। सर्वं संभावयाम्यस्मिन्नसाध्यमपि साधयेत्॥४२॥",
+      "english": "And the strongest of all the strong, that bird is capable of taking away the Soma. Everything is possible in him. He can achieve even the unachievable.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "सौतिरुवाच।\n              श्रुत्यैतद्वचनं शक्रः प्रोवाचामृतरक्षिणः। महावीर्यबलः पक्षी हर्तुं सोममिहोद्यतः॥४३॥",
+      "english": "Sauti said : Having heard this, Indra spoke to those that guarded the Ambrosia, \"A greatly powerful bird has determined to take away the Soma;",
+      "bhavadeepa": "असाध्यमन्येषां साधयेत् ॥४२॥",
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "युष्मान्संबोधयाम्येष यथा न स हरेद्बलात्। अतुलं हि बलं तस्य बृहस्पतिरुवाच ह॥४४॥",
+      "english": "I warn you beforehand, so that he may not succeed in taking it by force. Brihaspati has told me that his strength is matchless.\"",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "तच्छ्रुत्वा विबुधा वाक्यं विस्मिता यत्नमास्थिताः। परिवार्यामृतं तस्थूर्वज्री चेन्द्रः प्रतापवान्॥४५॥",
+      "english": "The celestials, when they heard it, were astonished and they took precautions. They stood surrounding the Ambrosia and the greatly powerful Indra stood with them, thunder-bolt in hand.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "धारयन्तो विचित्राणि काञ्चनानि मनस्विनः। कवचानि महार्हाणि वैदूर्यविकृतानि च॥४६॥",
+      "english": "The celestials wore wonderful and greatly valuable breast-plates of gold, set with gems;",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "चर्माण्यपि च गात्रेषु भानुमन्ति दृढानि च। विविधानि च शस्त्राणि घोररूपाण्यनेकशः॥४७॥",
+      "english": "They wore bright leather arīnours of great toughness and wielded various sharp weapons of terrible forms,",
+      "bhavadeepa": "कवचानि धातुमयानि कण्ठादिनाभित्राणानि ॥४६॥",
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "शिततीक्ष्णाग्रधाराणि समुद्यम्य सुरोत्तमः। सविस्फुलिङ्गज्वालानि सधूमानि च सर्वशः॥४८॥",
+      "english": "All emitting fire with smoke and all raised up by the best of the celestials.",
+      "bhavadeepa": "चर्माणि चर्ममयानि हस्तावापोर्ध्वमुखीप्रभृतीनि । भानुमन्ति दीप्तिमन्ति ॥४७॥",
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "चक्राणि परघांश्चैव त्रिशूलानि परश्वधान्। शक्तीश्च विविधास्तीक्ष्णाः करवालांश्च निर्मलान्। स्वदेहरूपाण्यादाय गदाश्चोग्रप्रदर्शनाः॥४९॥",
+      "english": "They were armed with many discusses, iron maces, spikes, lances, tridents, battle-axes and various other sharp-pointed missiles, polished swords and maces of terrible forms, all suited to their respective bodies.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "तैः शस्त्रैर्भानुमद्भिस्ते दिव्याभरणभूषिताः। भानुमन्तः सुरगणास्तस्थुर्विगतकल्मषाः॥५०॥",
+      "english": "Armed with these bright weapons and adorned with all celestial ornaments, the celestials, having their fear allayed, waited there (ready to meet Garuda).",
+      "bhavadeepa": "स्वदेहरूपाणि स्वदेहानुरूपाणि ॥४९॥",
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "अनुपमबलवीर्यतेजसो धृतमनसः परिरक्षणेऽमृतस्य। असुरपुरविदारणाः सुरा ज्वलनसमिद्धवपुः प्रकाशिनः॥५१॥",
+      "english": "The celestials of matchless strength, energy and splendour, capable of splitting the cities of the Asuras, displayed themselves in forms resplendent as the blazing fire; they all resolved to protect the Ambrosia (at all hazard).",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "इति समरवरं सुराः स्थितास्ते परिघसहस्रशतैः समाकुलम्। विगलितमिव चाम्बरान्तरं तपनमरीचिविकाशितं बभासे॥५२॥",
+      "english": "And in consequence of the celestials standing there and owing to hundreds of thousands of maces furnished with iron spokes, that battle-field looked like another firmament illuminated by the rays of the sun.",
+      "bhavadeepa": "ज्वलनवत्समिद्धैर्दीप्यमानैर्वपुर्भिः प्रकाशिनः ॥५१॥",
+      "chapter": 30,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "आस्तिकपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    }
+  ]
+}

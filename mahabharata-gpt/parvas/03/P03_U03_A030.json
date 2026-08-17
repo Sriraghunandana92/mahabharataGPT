@@ -1,0 +1,453 @@
+{
+  "adhyaya_id": "P03_U03_A030",
+  "book": 3,
+  "parva_name": "वनपर्व",
+  "upaparva_name": "अर्जुनाभिगमनपर्व",
+  "adhyaya_name": "त्रिंशोऽध्यायः",
+  "chapter": 30,
+  "verse_count": 43,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "द्रौपद्युवाच।\n              नमो धात्रे विधात्रे च यौ मोहं चक्रतुस्तव। पितृपैतामहे वृत्ते वोढव्ये तेऽन्यथा मतिः॥१॥",
+      "english": "Draupadi said: I bow to Dhatri and Vidhatri who have thus bewildered my sense; you think otherwise from your father and grandfather regarding what you have got to bear.",
+      "bhavadeepa": "अञ्जसा तत्त्वतः ॥५२॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "कर्मभिश्चिन्तितो लोके गत्यां गत्यां पृथग्विधः। तस्मात्कर्माणि नित्यानि लोभान्मोक्षं यियासति॥२॥",
+      "english": "By actions men are placed in different situations of life; consequences of action are inevitable, from ignorance people desire for the liberation from action. A man does not even attain prosperity in this world by virtue, gentleness, forgiveness, straight-forwardness and fear of censure.",
+      "bhavadeepa": "नमो धात्रे इति । धात्रे ईश्वराय विधात्रे पूर्वकर्मणे वृत्ते बलेन राज्याक्रमणरूपे ॥१॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः",
+      "combined_translation": "2-3"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "नेह धर्मानृशंस्याभ्यां न क्षान्त्या नार्जवेन च। पुरुषः श्रियमाप्नोति न घृणित्वेन कर्हिचित्॥३॥",
+      "english": null,
+      "bhavadeepa": "ईश्वरस्यापि कर्मापेक्षत्वात्प्रथमं कर्मप्राबल्यमेवाह कर्मभिरिति । चिन्तितः कल्पितो लोको भोगसाधनं गत्यां गत्याम् ऊर्ध्वाधो मध्यमोत्तमाधमयोनिषु। नित्यानि अपरिहार्यफलानि । लोभात् मोहात् मोक्षं कर्मफलेभ्यो दुःखेभ्यो मुक्तिं यियासति प्राप्तुमिच्छति ॥२॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः",
+      "english_ref": 2,
+      "combined_translation": "2-3"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "त्वां च व्यसनमभ्यागादिदं भारत दुःसहम्। यत्त्वं नार्हसि नापीमे भ्रातरस्ते महौजसः॥४॥",
+      "english": "Or else, O descendant of Bharata, this unbearable misfortune would not have befallen you, who are so unworthy of it and your brothers of great energy.",
+      "bhavadeepa": "कर्मनित्यत्वमेवाह नेहेति । इह जन्मनि पुरुषः पूर्वकर्मभिर्बाध्यमानो धर्मादिना न श्रियमाप्नोति । आनृशंस्यं दया घृणा लोकापवादभयम् ॥३॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "न हि तेऽध्यगमञ्जातु तदानीं नाद्य भारत। धर्मात्प्रियतरं किञ्चिदपि चेज्जीवितादिह॥५॥",
+      "english": "Neither then, nor even now, O descendant of Bharata, has anything appeared to you dearer than virtue, which is dearer to you even than your life.",
+      "bhavadeepa": "तत्र त्वमेव दृष्टान्त इत्याह त्वामित्यादिना ॥४॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "धर्मार्थमेव ते राज्यं धर्मार्थं जीवितं च ते। ब्राह्मणा गुरवश्चैव जानन्त्यपि च देवताः॥६॥",
+      "english": "That your kingdom is for virtue and your life even is for virtue, is known by Brahmanas, superiors and even celestials.",
+      "bhavadeepa": "तदानीं राज्यकाले अद्य राज्यच्युतौ जातु कदाचित् धर्मात्प्रियतरं न हि ते अध्यगमन् ज्ञातवन्तः किं तु जीवितादपि प्रियतरं धर्ममेवाध्यगमन् ॥५॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "भीमसेनार्जुनौ चोभौ माद्रेयौ च मया सह। त्यजेस्त्वमिति मे बुद्धिर्न तु धर्मं परित्यजेः॥७॥",
+      "english": "You can abandon Bhimasena, Arjuna these twin sons of Madri along with myself, I think, but you can never renounce virtue.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "राजानं धर्मगोप्तारं धर्मो रक्षति रक्षितः। इति मे श्रुतमार्याणां त्वां तु मन्ये न रक्षति॥८॥",
+      "english": "I have heard from elders that a king protects virtue and virtue in return protects him-but methinks it does not protect you.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "अनन्या हि नरव्याघ्र नित्यदा धर्ममेव ते। बुद्धिः सततमन्वेतिच्छायेव पुरुषं निजा॥९॥",
+      "english": "O best of men, like a shadow following a man, you with a singleness of purpose always follow virtue.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "नावमस्था हि सदृशान्नावराञ्च्छ्रेयसः कुतः। अवाप्य पृथिवीं कृत्स्नां न ते शृङ्गमवर्धत॥१०॥",
+      "english": "You have never disregarded your equals, inferiors and superiors; obtaining even the entire universe your pride never increased.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "स्वाहाकारैः स्वधाभिश्च पूजाभिरपि च द्विजान्। दैवतानि पितॄंश्चैव सततं पार्थ सेवसे॥११॥",
+      "english": "O son of Pritha, with Yvahas and Svaddhas and other forms of worship you ever adore the Brahmanas, the celestials and the Pitris.",
+      "bhavadeepa": "श्रृङ्गं प्रभुत्वाभिमानः ॥१०॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "ब्राह्मणाः सर्वकामैस्ते सततं पार्थ तर्पिताः। यतयो मोक्षिणश्चैव गृहस्थाश्चैव भारत॥१२॥",
+      "english": "O son of Pritha, you have always pleased the Brahmanas by granting all their desires; the Yatis, the ascetics, the householder ascetics, have always been fed by you on golden plates where (myself) have distributed food. You always give food and gold to Vanaprasthas; there is nothing in your house which you cannot bestow upon the Brahmanas.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः",
+      "combined_translation": "12-13"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "भुञ्जते रुक्मपात्रीभिर्यत्राहं परिचारिका। आरण्यकेभ्यो लौहानि भाजनानि प्रयच्छसि। नादेयं ब्राह्मणेभ्यस्ते गृहे किञ्चन विद्यते॥१३॥",
+      "english": null,
+      "bhavadeepa": "ते त्वया मोक्षिणः संन्यासिनः मोक्षाश्रमस्थाः ॥१२॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः",
+      "english_ref": 12,
+      "combined_translation": "12-13"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "यदिदं वैश्वदेवं ते शान्तये क्रियते गृहे। तद्दत्त्वातिथिभूतेभ्यो राजञ्च्छिष्टेन जीवसि॥१४॥",
+      "english": "Having distributed duly, O king, all to the guests in the Vishvadeva sacrifice that is solemnized in your house for your peace you live upon what remains.",
+      "bhavadeepa": "आरण्यकेभ्यो वानप्रस्थेभ्यः । लौहानि सौवर्णादीनि । लोहानां काच्चनं वरमिति लिङ्गात् ॥१३॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "इष्टयः पशुबन्धाश्च काम्यनैमित्तिकाश्च ये। वर्तन्ते पाकयज्ञाश्च यज्ञकर्म च नित्यदा॥१५॥",
+      "english": "Ishtis, Pashubandhas, sacrifice for obtaining the gratification of desires and ordinary household ceremonies, Paka sacrifices and various other rites are daily performed in your house.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "अस्मिन्नपि महारण्ये विजने दस्युसेविते। राष्ट्रादपेत्य वसतो धार्मस्ते नावसीदति॥१६॥",
+      "english": "Even in this huge solitary forest frequented by robbers, living in banishment, deprived of your kingdom your virtue has suffered no decrease.",
+      "bhavadeepa": "पाकयज्ञाः गृह्याग्निसाध्या इष्टयः ॥१५॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "अश्वमेधो राजसूयः पुण्डरीकोऽथ गोसवः। एतैरपि महायज्ञैरिष्टं ते भूरिदक्षिणैः॥१७॥",
+      "english": "The Ashvamedha, the Rajasuya, Pundarika, the Gosava-all these great sacrifices requiring large gifts have been celebrated by you.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "राजन्परीतया बुद्ध्या विषमेऽक्षपराजये। राज्यं वसून्यायुधानि भ्रातॄन्मां चासि निर्जितः॥१८॥",
+      "english": "O king, by your perverse understanding, in your defeat at the gambling match you lost your kingdom, wealth, weapons your brothers and even myself.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "ऋजोर्मृदोर्वदान्यस्य ह्रीमतः सत्यवादिनः। कथमक्षव्यसनजा बुद्धिरापतिता तव॥१९॥",
+      "english": "How could your mind, siinple, gentle, liberal, modest and truthful as you are, be drawn to the vice of gambling?",
+      "bhavadeepa": "परीतया विपरीतया ॥१८॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "अतीव मोहमायाति मनश्च परिभूयते। निशाम्यते दुःखमिदमिमां चापदमीदृशीम्॥२०॥",
+      "english": "Beholding this your calamity and misfortune my sense is bewildered and mind overwhelmed.",
+      "bhavadeepa": "ऋजोः अवक्रस्य मृदोः दयालोः ॥१९॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "अत्राप्युदाहरन्तीममितिहासं पुरातनम्। ईश्वरस्य वशे लोकास्तिष्ठन्ते नात्मनो यथा॥२१॥",
+      "english": "I shall cite here an old historical incident as an illustration that men are subject to the will of Providence and not to themselves.",
+      "bhavadeepa": "निशाम्य आलोच्य मम मनः मोहं मौढ्यम् आयाति परिभूयते चेत्यन्वयः । परिभव आर्तिः ॥२०॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "धातैव खलु भूतानां सुखदुःखे प्रियाप्रिये। दधाति सर्वमीशानः पुरस्ताच्छुक्रमुच्चरन्॥२२॥",
+      "english": "The Lord Ishana ordains beforehand, with reference to weal and woe, happiness and misery, of all creatures like a seed.",
+      "bhavadeepa": "लोकाः भोग्यानि तिष्ठन्ते प्रकाशन्ते । प्रकाशनस्थेयाख्ययोश्चेति तङ् ॥२१॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "यथा दारुमयी योषा नरवीर समाहिता। ईरयत्यङ्गमङ्गानि तथा राजन्निमाः प्रजाः॥२३॥",
+      "english": "O hero among men, O king, as a wooden figure is made to move its limbs by the wirepuller so are all these creatures (made to act by the lord.)",
+      "bhavadeepa": "धाता ईश्वरः । शुक्रं प्राक्कर्मबीजम् । उच्चरन् उत्कर्षेणानुसरन् ॥२२॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "आकाश इव भूतानि व्याप्य सर्वाणि भारत। ईश्वरो विदधातीह कल्याणं यच्च पापकम्॥२४॥",
+      "english": "O descendant of Bharata, pervading all creatures, like ethereal space the Providence ordains its happiness or misery.",
+      "bhavadeepa": "यथेति । हे नरवीर सूत्रधारेण समाहिता सम्यक् नियुक्ता सती अङ्गम् ईरयति तथा इमाः प्रजाः अङ्गानि हस्तादीनि ईश्वरेण समाहिताः सत्य ईरयन्ति । चेष्टयन्त्यङ्गकर्माणीति पाठे हे अङ्ग कर्माणि कर्तॄणि कर्मानुरोधी ईश्वर इत्यर्थः । इमाः प्रजाश्चेष्टयन्तीति संबन्धः ॥२३॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "शकुनिस्तन्तुबद्धो वा नियतोऽयमनीश्वरः। ईश्वरस्य वशे तिष्ठेन्नान्येषां नात्मनः प्रभुः॥२५॥",
+      "english": "Like a bird tied with a string all creatures depend upon God; they all live in dependence upon God not upon others; nor are they their own masters.",
+      "bhavadeepa": "अन्तर्बहिर्व्याप्तौ आकाशदृष्टान्तः । भूतानि जरायुजादीनि ॥२४॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "मणिः सूत्र इव प्रोतो नस्योत इव गोवृषः। स्रोतसो मध्यमापन्नः कूलाद्वृक्ष इव च्युतः॥२६॥",
+      "english": "Like a pearl set on a string, a bull tied by a rope passing through its nose or a tree fallen from the bank into the middle of a river. All creatures follow the ordinances of the Creator for they are identical with Him and live in Him; they are not subject to themselves and cannot pass an hour independently.",
+      "bhavadeepa": "बद्धो वा बद्ध इव अन्येषाम् उपाध्यायादीनाम् ॥२५॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः",
+      "combined_translation": "26-27"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "धातुरादेशमन्वेति तन्मयो हि तदर्पणः। नात्माधीनो मनुष्योऽयं कालं भजति कञ्चन॥२७॥",
+      "english": null,
+      "bhavadeepa": "नसि नासिकायां नस्यं नासासूत्रं तेन वा ओतः प्रोतः । अत्र द्वौ आकाशशकुनिसूत्रदृष्टान्तौ ईश्वरस्य व्यापकत्वप्रेरकत्वयोः त्रयो मणिवृषवृक्षदृष्टान्ता जीवस्यास्वातन्त्र्ये ॥२६॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः",
+      "english_ref": 26,
+      "combined_translation": "26-27"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "अज्ञो जन्तुरनीशोऽयमात्मनः सुखदुःखयोः। ईश्वरप्रेरितो गच्छेत्स्वर्गं नरकमेव च॥२८॥",
+      "english": "Ignorant as they are, creatures are not masters of their own happiness or misery; dispatched by the Providence they either go to heaven or hell.",
+      "bhavadeepa": "आदेशम् आज्ञाम् अन्वेत्ति अनुसरति तत्र हेतुः तन्मयो हि तदर्पण इति । यथा मृन्मयो घटो मृद्येव लीयतेऽतो मध्येऽपि मृदधीनोऽनन्य एवं जीवोऽपीश्वरस्यैव रूपभेदस्तन्मयस्तदर्पणश्चातो मध्येऽपि तत्प्रेर्य एवेत्यर्थः यथोक्तम् । ‘अजनि च यन्मयं तदविमुच्य नियन्तृ भवेत्’ इति यद्यन्मयं तत्तन्नियम्यमिति तस्यार्थः। अयम् आत्माधीनो न किं तु कंचन अनिर्देश्यरूपं कालं कालयितारम् ईशं भजत्यनुसरति ॥२७॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "यथा वायोस्तृणाग्राणि वशं यान्ति बलीयसः। धातुरेवं वशं यान्ति सर्वभूतानि भारत॥२९॥",
+      "english": "As light straws are brought to the subjugation of the strong wind, so all creatures, O descendant of Bharata, depend upon the Creator.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "आर्ये कर्मणि युञ्जानः पापे वा पुनरीश्वरः। व्याप्य भूतानि चरते न चायमिति लक्ष्यते॥३०॥",
+      "english": "Again, performing actions right or wrong and pervading the universe, the Lord exists but is not perceived by any (who can say) \"This is God.\"",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "हेतुमात्रमिदं धातुः शरीरं क्षेत्रसंज्ञितम्। येन कारयते कर्म शुभाशुभफलं विभुः॥३१॥",
+      "english": "This physical body is merely the instrument of God by which the Lord engages them in actions, the fruits of which are cither good or bad.",
+      "bhavadeepa": "चरते भुङ्क्ते कर्म व्यतिहारे तङ् । फलप्रदत्वेनोपकारकम् ईशं जीवो भुङ्क्ते । कर्मकर्तृत्वेनोपकारकं जीवमीशो भुङ्क्त इत्यर्थः । अयमिति । राजवत्तटस्थतया न च लक्ष्यते अन्तर्यामित्वात् ॥३०॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "पश्य मायाप्रभावोऽयमीश्वरेण यथा कृतः। यो हन्ति भूतैर्भूतानि मोहयित्वात्ममायया॥३२॥",
+      "english": "Behold the power of the illusive energy by which he makes them kill their fellows.",
+      "bhavadeepa": "नन्वीश्वरो जीवादन्योऽनन्यो वा । आद्ये न चायमिति लक्ष्यत इत्यनुपपन्नम् । द्वितीये तयोः शास्तृशास्यभावानुपपत्तिरित्याशंक्याह हेतुमात्रमिति । विभुश्चिदात्मा येन प्रयोज्येन कर्म कारयते तत इदं शरीरं महाभूतान्यहंकार इत्यादिना उक्तरूपं स्थूलसूक्ष्मदेहद्वयं तदेव कर्तृ इत्यर्थः । ननु जडे कर्तृत्वासंभव इत्याशंक्याह धातुः क्षेत्रसंज्ञितं क्षेत्रमिव क्षेत्रं चिदात्मनः आभासरूपबीजनिवायस्थानं चिदाभासयुक्तं क्षेत्रं कर्तृ इत्यर्थः । तच्च हेतुमात्रं इच्छाद्यात्मकत्वात् हेतुरपि न मुख्यहेतुभूतं बिम्बप्रतिबिम्बदृष्टान्तेन चिदाभासस्य चिदात्मतन्त्रत्वात् । तथा चाभासस्यान्यत्वमादाय शास्तृशास्यभावो व्यावहारिकः । परमार्थतस्तु क्षेत्रस्य सुप्तिसमाध्योरभावान्न चायमिति लक्ष्यत इत्युक्तमिति भावः ॥३१॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "अन्यथा परिदृष्टानि मुनिभिर्वेददर्शिभिः। अन्यथा परिवर्तन्ते वेगा इव नभस्वतः॥३३॥",
+      "english": "This is seen in a different light by the sages seeing the real truths; they appear to them in a different light like the rays of the sun.",
+      "bhavadeepa": "अयं पूर्वोक्तो मायाया अघटितघटनापटी यस्या अनिर्वचनीयाज्ञानाख्यायाः प्रभावः । य ईश्वरो भूतैः पृथक् पृथक् क्षेत्राभिमानिभिर्मोहयित्वा अनात्मनि देहादावात्मबुद्धिं जनयित्वा ॥३२॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "अन्यथैव हि मन्यन्ते पुरुषास्तानि तानि च। अन्यथैव प्रभुस्तानि करोति विकरोति च॥३४॥",
+      "english": "Ordinary people see all those things in a different view; the Lord create and destroy them in a different way.",
+      "bhavadeepa": "मोहमेव विवृणोति द्वाभ्याम् अन्यथेति । तत्त्वदर्शिभिः स्वप्नमायेन्द्रजालवद्दृष्टान्यपि मूढानां सत्यवत्परिवर्तन्ते भासन्ते वेगाः करप्रसराः नभस्वतः आकाशगामिनः सूर्यस्य तेजोमयाः सन्तो जलह्रदवदवभासन्ते ॥३३॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "यथा काष्ठेन वा काष्ठमश्मानं चाश्मना पुनः। अयसा चाप्ययश्छिन्द्यान्निर्विचेष्टमचेतनम्॥३५॥",
+      "english": "As one can break a piece of inactive senseless wood with wood, stone with stone and iron with iron. So, O Yudhishthira the Self-create, divinc Grandsire spreading his illusive energy destroys creatures, with creatures.",
+      "bhavadeepa": "अनित्याशुचिदुःखरूपाण्यपि तानि नित्यशुचिसुखस्वरूपाणि मन्यन्ते अन्यथा करोति गगनवदजातमपि अङ्कुरादिक्रमेण जनयति । विकरोति च जीर्णत्वादिभावं च नयति ॥३४॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः",
+      "combined_translation": "35-36"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "एवं स भगवान्देवः स्वयम्भूः प्रपितामहः। हिनस्ति भूतैर्भूतानि च्छद्म कृत्वा युधिष्ठिर॥३६॥",
+      "english": null,
+      "bhavadeepa": "अयोवत्तरुवन्न केवलं निश्चेष्टं किं त्वचेतनमपि ॥३५॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः",
+      "english_ref": 35,
+      "combined_translation": "35-36"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "सम्प्रयोज्य वियोज्यायं कामकारकरः प्रभुः। क्रीडते भगवन्भूतैर्बालः क्रीडनकैरिव॥३७॥",
+      "english": "Like a child playing with his creatures, creating and destroying them.",
+      "bhavadeepa": "छद्म मायाम् ॥३६॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "न मातृपितृवद्राजन्धाता भूतेषु वर्तते। रोषादिव प्रवृत्तोऽयं यथायमितरो जनः॥३८॥",
+      "english": "O king, the Providence behaves towards the creatures, like a father or mother, like an ordinary person he (sometimes) seems to be angry towards them.",
+      "bhavadeepa": "संप्रयोज्य संयोगं कृत्वा कामकार इच्छा तयैव करोतीति कामकारकरः । बालः प्राकृतः क्रीडनकैः सारीप्रभृतिभिः ॥३७॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "आर्याञ्च्छीलवतो दृष्ट्वा ह्रीमतो वृत्तिकर्षितान्। अनार्यान्सुखिनश्चैव विह्वलानिव चिन्तया॥३९॥",
+      "english": "Sceing elderly, well behaved and modest persons, in distress and the vicious, in happiness, I am beside myself with thought.",
+      "bhavadeepa": "न मात्रिति । ईशो न दयालुः प्रत्युत नृशंस इत्यर्थः ॥३८॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "तवेमामापदं दृष्ट्वा समृद्धिं च सुयोधने। धातारं गर्हये पार्थ विषमं योऽनुपश्यति॥४०॥",
+      "english": "O son of Pritha, seeing your misfortune and the prosperity of Suyodhana, I blame the Providence who sees such an inequality.",
+      "bhavadeepa": "किं च ईशस्य दुष्टेषु पक्षपातः साधुषु च द्वेषो दृश्यतेऽतः स निन्द्य एवेत्याह आर्यानित्यादि त्रिभिः । चिन्तया धनादिध्यानेन ॥३९॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "आर्यशास्त्रातिगे क्रूरे लुब्धे धर्मापचायिनि। धार्तराष्ट्रे श्रियं दत्त्वा धाता किं फलमश्नुते॥४१॥",
+      "english": "Conferring prosperity prosperity upon the wily avaricious of Dhritarashtra, who transgresses the sacred scriptures and injures virtue, what fruit shall the Creator reap?",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "कर्म चेत्कृतमन्वेति कर्तारं नान्यमृच्छति। कर्मणा तेन पापेन लिप्यते नूनमीश्वरः॥४२॥",
+      "english": "If the act done follows the performer then forsooth, the God himself is contaminated with the sin of every action.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "अथ कर्मकृतं पापं न चेत्कर्तारमृच्छति। कारणं बलमेवेह जनाञ्च्छोचामि दुर्बलान्॥४३॥",
+      "english": "If the sin consequent upon actions does not touch the doer then the individual power is the cause and I grieve for those who are weak. son",
+      "bhavadeepa": "कर्मेति । कृतं कर्म यदि कर्तारमेव गच्छति न त्वन्यं तर्हि कारयितृत्वादीश्वरोऽपि पापेन लिप्येतैवेयर्थः ॥४२॥",
+      "chapter": 30,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    }
+  ]
+}

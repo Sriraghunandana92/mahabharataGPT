@@ -1,0 +1,414 @@
+{
+  "adhyaya_id": "P03_U19_A275",
+  "book": 3,
+  "parva_name": "वनपर्व",
+  "upaparva_name": "रामोपाख्यानपर्व",
+  "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः",
+  "chapter": 275,
+  "verse_count": 40,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "मार्कण्डेय उवाच।\n              पुलस्त्यस्य तु यः क्रोधादर्धदेहोऽभवन्मुनिः। विश्रवा नाम सक्रोधः स वैश्रवणमैक्षत॥१॥",
+      "english": "Markandeya said : The ascetic Vishrava, who was begotten of the half body of Pulastya, with great anger began to look upon Vaishravana.",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "बुबुधे तं तु सक्रोधं पितरं राक्षसेश्वरः। कुबेरस्तत्प्रसादार्थं यतते स्म सदा नृप॥२॥",
+      "english": "Knowing that his sire was angry with him, Kubera, the lord of Rakshasas, always tried to please him, O king.",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "स राजराजो लङ्कायां न्यवसन्नरवाहनः। राक्षसीः प्रददौ तिस्रः पितुर्वै परिचारिकाः॥३॥",
+      "english": "Living in Lanka that king of kings, borne on the shoulders of men, sent three Rakshasis to wait upon his father.",
+      "bhavadeepa": "पुलस्त्यस्येति । पितरं विश्रवसं राक्षसेश्वरः कुबेरो रक्षः पुरीनायकत्वात् ॥२॥",
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "ताः सदा तं महात्मानं सन्तोषयितुमुद्यताः। ऋषिं भरतशार्दूल नृत्यगीतविशारदाः॥४॥",
+      "english": "O foremost of the Bharata, they, well-versed in the art of singing and dancing, always engaged in encompassing the pleasure of the high-souled Rishi.",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "पुष्पोत्कटा च राका च मालिनी च विशाम्पते। अन्योन्यस्पर्धया राजन् श्रेयस्कामाः सुमध्यमाः॥५॥",
+      "english": "O lord of the world, O king, Pushpotkata and Raka and Malini, slender waisted, vied with one another in pleasing him.",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "स तासां भगवांस्तुष्टो महात्मा प्रददौ वरान्। लोकपालोपमान् पुत्रानेकैकस्या यथेप्सितान्॥६॥",
+      "english": "Being pleased with them, the high-souled sage conferred boons on them-and on each of them sons like Lokapalas according to their desire.",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "पुष्पोत्कटायां जज्ञाते द्वौ पुत्रौ राक्षसेश्वरौ। कुम्भकर्णदशग्रीवौ बलेनाप्रतिमौ भुवि॥७॥",
+      "english": "He begot on Pushpotkata two sons, the lords of the Rakshasas, Kumbhakarna and the tenheaded (Ravana) both unequalled in prowess on earth.",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "मालिनी जनयामास पुत्रमेकं विभीषणम्। राकायां मिथुनं जज्ञे खरः शूर्पणखा तथा॥८॥",
+      "english": "On Malini he begot one son named Vibhishana; on Raka he begot one son and one daughter named Khara and Shurpanakha.",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "विभीषणस्तु रूपेण सर्वेभ्योऽभ्यधिकोऽभवत्। स बभूव महाभागो धर्मगोप्ता क्रियारतिः॥९॥",
+      "english": "In beauty Vibhishana surpassed them all; he grew very pious and used to perform rites.",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "दशग्रीवस्तु सर्वेषां श्रेष्ठो राक्षसपुङ्गवः। महोत्साहो महावीर्यो महासत्त्वपराक्रमः॥१०॥",
+      "english": "That foremost of Rakshasas, the ten-headed (Ravana) became the greatest of them all; highly energetic, powerful and gifted with great strength and prowess.",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "कुम्भकर्णो बलेनासीत् सर्वेभ्योऽभ्यधिको युधि। मायावी रणशौण्डश्च रौद्रश्च रजनीचरः॥११॥",
+      "english": "The Rakshasa Kumbhakarna was the most powerful in battle; he was fierce, terrible and a perfect master of the arts of illustration.",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "खरो धनुषि विक्रान्तो ब्रह्मद्विट् पिशिताशनः। सिद्धविघ्नकरी चापि रौद्री शूर्पणखा तदा॥१२॥",
+      "english": "Khara was proficient in archery, inimical towards Brahmanas and used to eat flesh; Shurpanakha used always to put impediments in the performance of ascetic observances.",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "सर्वे वेदविदः शूराः सर्वे सुचरितव्रताः। ऊषुः पित्रा सह रता गन्धमादनपर्वते॥१३॥",
+      "english": "All those heroes, well-versed in the Vedas and intent on the performance of religious rites, lived with their father in the Gandhamadana mountain.",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "ततो वैश्रवणं तत्र ददृशुर्नरवाहनम्। पित्रा सार्धं समासीनमृद्ध्या परमया युतम्॥१४॥",
+      "english": "There they saw Vaishravana seated with their father possessed of wealth and carried by men.",
+      "bhavadeepa": "पित्रा विश्रवसा ॥१३॥",
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "जातामर्षास्ततस्ते तु तपसे धृतनिश्चयाः। ब्रह्माणं तोषयामासुर्घोरेण तपसा तदा॥१५॥",
+      "english": "Possessed by jealousy they made up their mind to perform devout penances; and they pleased Brahma with severest ascetic penances.",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "अतिष्ठदेकपादेन सहस्रं परिवत्सरान्। वायुभक्षो दशग्रीवः पञ्चाग्निः सुसमाहितः॥१६॥",
+      "english": "Subsisting on air only surrounded by five sacred fires and engaged in meditation the tenheaded Ravana remained standing on one leg for a thousand years.",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "अधःशायी कुम्भकर्णो यताहारो यतव्रतः। विभीषणः शीर्णपर्णमेकमभ्यवहारयन्॥१७॥",
+      "english": "Lying down on earth and with restricted diet Kumbhakarna was engaged in penances; the wise and noble Vibhishana, fasting and living on dry leaves, engaged in meditation and practised devout penances for as long a period.",
+      "bhavadeepa": "पञ्चदिक्षु चत्वार एकः सूर्य इति पञ्चानामग्नीनां मध्यगः पञ्चाग्निः ॥१६॥",
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः",
+      "combined_translation": "17-18"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "उपवासरतिर्धीमान् सदा जप्यपरायणः। तमेव कालमातिष्ठत् तीव्रं तप उदारधीः॥१८॥",
+      "english": null,
+      "bhavadeepa": "विभीषणः तप आतिष्ठदित्यन्वयः ॥१७॥",
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः",
+      "english_ref": 17,
+      "combined_translation": "17-18"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "खरः शूर्पणखा चैव तेषां वै तप्यतां तपः। परिचर्यां च रक्षां च चक्रतुर्हृष्टमानसौ॥१९॥",
+      "english": "Khara and Shurpanakha with delighted hearts waited upon and protected them who were thus engaged in devout penances.",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "पूर्णे वर्षसहस्त्रे तु शिरच्छित्वा दशाननः। जुहोत्यग्नौ दुराधर्षस्तेनातुष्यज्जगत्प्रभुः॥२०॥",
+      "english": "After the completion of a thousand years the invincible ten-headed, cutting off his ten heads, made them an offering to the sacred fire. The Lord of the universe was pleased with this act.",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "ततो ब्रह्मा स्वयं गत्वा तपसस्तान्न्यवारयत्। प्रलोभ्य वरदानेन सर्वानेव पृथक् पृथक्॥२१॥",
+      "english": "Thereupon Brahma, going there himself, made them desist from ascetic observances by promising to confer upon each one of them boons separately.",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "ब्रह्मोवाच।\n              प्रीतोऽस्मि वो निवर्तध्वं वरान् वृणुत पुत्रकाः। यद्यदिष्टमृते त्वेकममरत्वं तथाऽस्तु तत्॥२२॥",
+      "english": "Brahma said: I am pleased with you, desist, O sons and pray for boons; all your desires, with the exception of immortality only, will be fulfilled.",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "यद्यदग्नौ हुतं सर्वं शिरस्ते महदीप्सया। तथैव तानि ते देहे भविष्यन्ति यथेप्सया॥२३॥",
+      "english": "As you have given your heads to fire from great ambition, they will again adorn your body as before, according to your desire.",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "वैरूप्यं च न ते देहे कामरूपधरस्तथा। भविष्यसि रणेऽरीणां विजेता न च संशयः॥२४॥",
+      "english": "There will be no disfigurement in your person; you shall be able to assume any person according to your desire, you shall always vanquish your enemies in battle.",
+      "bhavadeepa": "महदीप्सया श्रेष्ठपदापेक्षया ॥२३॥",
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "रावण उवाच।\n              गन्धर्वदेवासुरतो यक्षराक्षसतस्तथा। सर्पकिन्नरभूतेभ्यो न मे भूयात् पराभवः॥२५॥",
+      "english": "Ravana said: May I never meet with defeat at the hands of Gandharvas, celestials, Kinnaras Asuras, Yakshas, Rakshasas, Nagas and all other creatures.",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "ब्रह्मोवाच। य एते कीर्तिताः सर्वे न तेभ्योऽस्ति भयं तव। ऋते मनुष्याद्भद्रं ते तथा तद्विहितं मया॥२६॥",
+      "english": "Brahma said: You shall have no fear from those of whom you have mentioned except from men; may good betide you, this has been ordained by me.",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "मार्कण्डेय उवाच।\n              एवमुक्तो दशग्रीवस्तुष्टः समभवत् तदा। अवमेने हि दुर्बुद्धिर्मनुष्यान् पुरुषादकः॥२७॥",
+      "english": "Markandeya said : Thus accosted the ten headed Ravana was greatly delighted; on account of his perverted understanding, the man-eating (demon) disregarded human beings.",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "कुम्भकर्णमथोवाच तथैव प्रपितामहः। स वव्रे महतीं निद्रां तमसा ग्रस्तचेतनः॥२८॥",
+      "english": "In the same way the grandfather addressed Kumbhakarna also; his reason being clouded by darkness he prayed for long lasting sleep.",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "तथा भविष्यतीत्युक्त्वा विभीषणमुवाच ह। वरं वृणीष्व पुत्र त्वं प्रीतोऽस्मीति पुनः पुनः॥२९॥",
+      "english": "Saying \"So it shall be\" he said to Vibhishana, “pray for a boon, O my son, I have been repeatedly pleased with you.\"",
+      "bhavadeepa": "तमसेति अनिष्टामपि निद्रां मोहाद्वृतवानित्यर्थः ॥२८॥",
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "विभीषण उवाच।\n              परमापद्गतस्यापि नाधर्मे मे मतिर्भवेत्। अशिक्षितं च भगवन् ब्रह्मास्त्रं प्रतिभातु मे॥३०॥",
+      "english": "Vibhishana said: Even in great calamity may I have no inclination for impiety; ignorant, as I am, O lord, may the light of divine knowledge appear before me.",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "ब्रह्मोवाच।\n              यस्माद्राक्षसयोनौ ते जातस्यामित्रकर्शन। नाधर्मे धीयते बुद्धिरमरत्वं ददानि ते॥३१॥",
+      "english": "Brahma said : O repressor of your enemies, as your mind is not inclined to impiety, although you are born as a Rakshasas, I grant you immortality.",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "मार्कण्डेय उवाच।\n              राक्षसस्तु वरं लब्ध्वा दशग्रीवो विशाम्पते। लङ्कायाश्च्यावयामास युधि जित्वा धनेश्वरम्॥३२॥",
+      "english": "Markandeya said : Having obtained this boon, the ten-headed Ravana defeated Kubera in battle and wrested from him the sovereignty of Lanka.",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "हित्वा स भगवाँल्लङ्कामाविशद्गन्धमादनम्। गन्धर्वयक्षानुगतो रक्षः किं पुरुषैः सह॥३३॥",
+      "english": "That Divine one leaving Lanka and followed by Gandharva, Yakshas, Rakshasas and Kinnaras went to live on the mor atain Gandhamadana.",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "विमानं पुष्पकं तस्य जहाराक्रम्य रावणः। शशाप तं वैश्रवणो न त्वामेतद्वहिष्यति॥३४॥",
+      "english": "By force Ravana took from him the chariot Pushpaka. Vaishravana then cursed him, “This will not carry you;",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "यस्तु त्वां समरे हन्ता तमेवैतद्वहिष्यति। अवमन्य गुरुं मां च क्षिप्रं त्वं न भविष्यसि॥३५॥",
+      "english": "It will carry him who will kill you in battle; as you have insulted me who am your adorable, you shall soon die.”",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "विभीषणस्तु धर्मात्मा सतां मार्गमनुस्मरन्। अन्वगच्छन् महाराज श्रिया परमया युतः॥३६॥",
+      "english": "Always wending the way of the pious, those virtuous-souled Vibhishana, endued with great glory, followed him, O great king.",
+      "bhavadeepa": "न भविष्यसि मरिष्यसि ॥३५॥",
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "तस्मै स भगवांस्तुष्टो भ्राता भ्रात्रे धनेश्वरः। सैनापत्यं ददौ धीमान् यक्षराक्षससेनयोः॥३७॥",
+      "english": "Then pleased with his younger brother, the Divine king of wealth, conferred upon him the command of the Yaksha and Rakshasa hosts.",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "राक्षसाः पुरुषादाश्च पिशाचाश्च महाबालाः। सर्वे समेत्य राजानमभ्यषिञ्चन् दशाननम्॥३८॥",
+      "english": "The man-eating and highly powerful Rakshasas and Pishachas, having assembled together, installed the ten-headed Ravana as their king.",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "दशग्रीवश्च दैत्यानां देवानां च बलोत्कटः। आक्रम्य रत्नान्यहरत् कामरूपी विहङ्गमः॥३९॥",
+      "english": "The terribly powerful, ten-headed (Ravana) assuming form at will and capable of going through the sky, attacked the gods and demons and took away by force from them their valuable property.",
+      "bhavadeepa": null,
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "रावयामास लोकान् यत् तस्माद्रावण उच्यते। दशग्रीवः कामबलो देवानां भयमादधत्॥४०॥",
+      "english": "Because he had terrified all creatures he was called Ravana. And the ten-headed demon, capable of having any might at will, struck terror even to the very gods.",
+      "bhavadeepa": "रत्नानि । ‘जातौ जातौ यदुत्कृष्टं तद्रत्नमभिधीयते’। विहङ्गमः खेचरः ॥३९॥",
+      "chapter": 275,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "रामोपाख्यानपर्व",
+      "adhyaya_name": "पञ्चसप्तत्यधिकद्विशततमोऽध्यायः"
+    }
+  ]
+}

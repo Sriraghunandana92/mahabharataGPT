@@ -1,0 +1,572 @@
+{
+  "adhyaya_id": "P19_U02_A091",
+  "book": 19,
+  "parva_name": "हरिवंशः",
+  "upaparva_name": "विष्णुपर्व",
+  "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१",
+  "chapter": 146,
+  "verse_count": 54,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "जनमेजय उवाच।\n              भानुमत्यापहरणं विजयं केशवस्य च॥१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "क्रीडां च सागरे दिव्यां वृष्णीनामतितेजसाम्। अश्रौषं परमाश्चर्यं मुने धर्मभृतां वर॥२॥",
+      "english": null,
+      "bhavadeepa": "भानुमत्यापहरणमिति॥१॥",
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१",
+      "combined_translation": "2-2"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "वज्रनाभवधं युक्तं निकुम्भवधकीर्तने। तन्मे कौतूहलं श्रोतुं प्रसादाद्भवतो मुने॥३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१",
+      "combined_translation": "3-3"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "वैशम्पायन उवाच।\n              हन्त ते वर्तयिष्यामि वज्रनाभवधं नृप। विजयं चैव कामस्य साम्बस्यैव च भारत॥४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१",
+      "combined_translation": "4-4"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "मेरोः सानौ नरपते तपश्चक्रे महासुरः। वज्रनाभ इति ख्यातो निश्चितः समितिञ्जयः॥५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१",
+      "combined_translation": "5-5"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "तस्य तुष्टो महातेजा ब्रह्मा लोकपितामहः। वरेण च्छन्दयामास तपसा परितोषितः॥६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१",
+      "combined_translation": "6-6"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "अवध्यत्वं स देवेब्यो वव्रे दानवसत्तमः। पुरं वज्रपुरं चापि सर्वरत्नमयं शुभम्॥७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१",
+      "combined_translation": "7-7"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "स्वच्छन्देन प्रवेशश्च न वायोरपि भारत। अचिन्तितेन कामानामुपपत्तिर्नराधिप॥८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१",
+      "combined_translation": "8-8"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "शाखानगरमुख्यानां संवाहानां शतानि च। नगरस्याप्रमेयस्य समन्ताज्जनमेजय॥९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१",
+      "combined_translation": "9-9"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "तथा तदभवत्तस्य वरदानेन भारत। उवास वज्रनगरे वज्रनाभो महासुरः॥१०॥",
+      "english": null,
+      "bhavadeepa": "शाखानगरं चतुर्दिक्षु संवाहानां सप्राकाराणामुद्यानानाम्॥९॥",
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१",
+      "combined_translation": "10-10"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "कोटिशो वरलब्धं तमसुराः परिवार्य ते। ऊषुर्वज्रपुरे राजन्संवाहेषु तथैव च॥११॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१",
+      "combined_translation": "11-11"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "शाखानगरमुख्येषु रम्येषु च नराधिप। हृष्टपुष्टप्रमुदिता नृप देवस्य शत्रवः॥१२॥",
+      "english": null,
+      "bhavadeepa": "वरलब्धं लब्धवरम्॥११॥",
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१",
+      "combined_translation": "12-12"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "वज्रनाभोऽथ दुष्टात्मा वरदानेन दर्पितः। पुरेऽस्य चात्मनश्चैव जगद्बाधितुमुद्यतः॥१३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१",
+      "combined_translation": "13-13"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "महेन्द्रमब्रवीद्गत्वा देवलोकं विशाम्पते। अहमीशितुमिच्छामि त्रैलोक्यं पाकशासन॥१४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१",
+      "combined_translation": "14-14"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "अथवा मे प्रयच्छस्व युद्धं देवगणेश्वर। सामान्यं हि जगत्कृत्स्नं काश्यपानां महात्मनाम्॥१५॥",
+      "english": null,
+      "bhavadeepa": "ईशितुं पालितुं त्वं त्वधुना स्वर्गराज्यं त्यजेति भावः॥१४॥",
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१",
+      "combined_translation": "15-15"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "स बृहस्पतिना सार्धं मन्त्रयित्वा महेश्वरः। वज्रनाभं सुरश्रेष्ठः प्रोवाच कुरुवंशज॥१६॥",
+      "english": null,
+      "bhavadeepa": "काश्यपानां देवानाम् अदेवानां च॥१५॥",
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१",
+      "combined_translation": "16-16"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "सत्रेषु दीक्षितः सौम्य कश्यपो नः पिता मुनिः। तस्मिन्वृत्ते यथान्याय्यं तथा स हि करिष्यति॥१७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१",
+      "combined_translation": "17-17"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "ततः स पितरं गत्वा कश्यपं दानवोऽब्रवीत्। यथोक्तं देवराजेन तमुवाचाथ कश्यपः॥१८॥",
+      "english": null,
+      "bhavadeepa": "न्याय्यं न्यायादनपेतम्॥१७॥",
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१",
+      "combined_translation": "18-18"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "सत्रे वृत्ते करिष्यामि यथान्यायं भविष्यति। त्वं तु वज्रपुरे पुत्र वस गच्छ समाश्रितः॥१९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१",
+      "english_ref": 1,
+      "combined_translation": "1-19"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "एवमुक्ते वज्रनाभः स्वमेव नगरं गतः। महेन्द्रोऽपि ययौ देवो द्वारकां द्वारशालिनीम्॥२०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "गत्वा चान्तर्हितो देवो वासुदेवमथाब्रवीत्। वज्रनाभस्य वृत्तान्तं तमुवाच जनार्दनः॥२१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "शौरेरुपस्थितो देव वाजिमेधो महाक्रतुः। तस्मिन्वृत्ते वज्रनाभं पातयिष्यामि वासव॥२२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "तत्रोपायं प्रवेशे तु चिन्तयावः सतां गतेः। नानिच्छया प्रवेशोऽस्ति तत्र वायोरपि प्रभो॥२३॥",
+      "english": null,
+      "bhavadeepa": "शौरेः वसुदेवस्य॥२२॥",
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "ततो गतो देवराजो वासुदेवेन सत्कृतः। वाजिमेधे च सम्प्राप्ते वसुदेवस्य भारत॥२४॥",
+      "english": null,
+      "bhavadeepa": "सतां गतेः ब्रह्मकृतमर्यादाया असङ्गः सतां मार्गः। अतोऽसुरेच्छयैव तत्र प्रवेशो लभ्यते न बलादित्यर्थः॥२३॥",
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "तस्मिन्यज्ञे वर्तमाने प्रवेशार्थं सुरोत्तमौ। चिन्तयामासतुर्वीरौ देवराजाच्युतावुभौ॥२५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "तत्र यज्ञे वर्तमाने सुनाट्येन नटास्तदा। महर्षींस्तोषयामास भद्रनामेति नामतः॥२६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "तं वरेण मुनिश्रेष्ठाश्छन्दयामासुरात्मवत्। स वव्रे तु नटो भद्रो वरं देवेश्वरोपमः॥२७॥",
+      "english": null,
+      "bhavadeepa": "तत्र वसुदेवयज्ञे नाट्येन नृत्येन॥२६॥",
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "देवेन्द्रकृष्णच्छन्देन सरस्वत्या प्रचोदितः। प्रणिपत्य मुनिश्रेष्ठानश्वमेधे समागतान्॥२८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "नट उवाच।\n              भोज्यो द्विजानां सर्वेषां भवेयं मुनिसत्तमाः। सप्तद्वीपां च पृथिवीं विचरेयमिमामहम्॥२९॥",
+      "english": null,
+      "bhavadeepa": "देवेन्द्रादिभिरन्तःस्थैः प्रेरित इत्यर्थः॥२८॥",
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "प्रसिद्धाकाशगमनः शक्नुवंश्च विशेषतः। अवध्यः सर्वभूतानां स्थावरा ये च जङ्गमाः॥३०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "यस्य यस्य च वेषेण प्रविशेयमहं खलु। मृतस्य जीवतो वापि भाव्येनोत्पादितस्य वा॥३१॥",
+      "english": null,
+      "bhavadeepa": "प्रकर्षेण सिद्धम् आकाशे गमनं यस्य सः तादृशः भवेयमिति शेषः। शक्नुवन् शक्तिमान्॥३०॥",
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "स तूर्यस्तादृशः स्यां वै जरारोगविवर्जितः। तुष्येयुर्मुनयो नित्यमन्ये च मम सर्वदा॥३२॥",
+      "english": null,
+      "bhavadeepa": "भाव्येन भविष्येण रूपेण मया तु सद्य एवोत्पादितस्य वेषेण प्रवेष्टुं शक्नुयामित्यर्थः॥३१॥",
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "एवमस्त्विति सम्प्रोक्तो ब्राह्मणैर्नृपते नटः। सप्तद्वीपां वसुमतीं पर्यटत्यमरोपमः॥३३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "पुराणि दानवेन्द्राणामुत्तरांश्च कुरूंस्तथा। भद्राश्वान्केतुमालांश्च कालाभ्रद्वीपमेव च॥३४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "पर्वणीषु तु सर्वासु द्वारकां यदुमण्डिताम्। आयाति वरदत्तः स लोकवीरो महानटः॥३५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "ततो हंसान्धार्तराष्ट्रान्देवलोकनिवासिनः। उवाच भगवाञ्शक्रः सान्त्वयित्वा सुरेश्वरः॥३६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "भवन्तो भ्रातरोऽस्माकं काश्यपा देवपक्षिणः। विमानवाहा देवानं सुकृतीनां तथैव च॥३७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "देवानामस्ति कर्तव्यं कार्यं शत्रुवधान्वितम्। तत्कर्तव्यं न मन्त्रश्च भेत्तव्यो वः कथञ्चन॥३८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "न कुर्वतां देवताज्ञामुग्रो दण्डः पतेदपि। सर्वत्राप्रतिषिद्धं वो गमनं हंससत्तमाः॥३९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "गत्वाप्रवेश्यमन्येषां वज्रनाभपुरोत्तमम्। इतोऽन्तःपुरवापीषु चरध्वमुचितं हि वः॥४०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "तस्यास्ति कन्यारत्नं हि त्रैलोक्यातिशयं शुभम्। नाम्ना प्रभावती नाम चन्द्राभेव प्रभावती॥४१॥",
+      "english": null,
+      "bhavadeepa": "अप्रवेश्यमिति च्छेदः॥४०॥",
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "वरदानेन सा लब्धा मात्रा किल वरानना। हैमवत्या महादेव्याः सकाशादिति नः श्रुतम्॥४२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "स्वयंवरा च सा कन्या बन्धुभिः स्थापिता सती। आत्मेच्छया पतिं हंसा वरयिष्यति शोभना॥४३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "तद्भवद्भिर्गुणा वाच्याः प्रद्युम्नस्य महात्मनः। सद्भूतः कुलरूपस्य शीलस्य वयसस्तथा॥४४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "यदा सा रक्तभावा च वज्रनाभसुता सती। तस्याः सकाशात्सन्देशो नयितव्यः समाधिना॥४५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "प्रद्युम्नस्य पुनस्तस्मादानयध्वं तथैव च। स्वबुद्ध्या प्राप्तकालं च संविधेयं हितं मम॥४६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "नेत्रवक्त्रप्रसादश्च कर्तव्यस्तत्र सर्वथा॥४७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "तथा तथा गुणा वाच्याः प्रद्युम्नस्य महात्मनः। यथा यथा प्रभावत्या मनस्तत्र भवेत्स्थितम्॥४८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "वृत्तान्तश्चानुदिवसं प्रदेयो मम सर्वथा। द्वारवत्यां च कृष्णस्य भ्रातुर्मम यवीयसः॥४९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "तावद्यत्नश्च कर्तव्यः प्रद्युम्नो यावदात्मवित्। पर्यावर्तेद्वरारोहां वज्रनाभसुतां विभुः॥५०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१",
+      "english_ref": 11,
+      "combined_translation": "11-50"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "अवध्यास्ते तु देवानां ब्रह्मणो वरदर्पिताः। देवपुत्रैर्हि हन्तव्याः प्रद्युम्नप्रमुखैर्युधि॥५१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "नटो दत्तवरस्तस्य वेषमास्थाय यादवाः। प्रद्युम्नाद्या गमिष्यन्ति वज्रनाभविनाशनाः॥५२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "एतच्च सर्वं कर्तव्यमन्यच्च सर्वमेव हि। प्राप्तकालं विधातव्यमस्माकं प्रियकाम्यया॥५३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "प्रवेशस्तत्र देवानां नास्ति हंसाः कथञ्चन। वज्रनाभेप्सिते तत्र प्रवेशः खलु सर्वथा॥५४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 146,
+      "parva_name": "हरिवंशः",
+      "upaparva_name": "विष्णुपर्व",
+      "adhyaya_name": "वज्रनाभवधवृत्तान्तः-०९१"
+    }
+  ]
+}

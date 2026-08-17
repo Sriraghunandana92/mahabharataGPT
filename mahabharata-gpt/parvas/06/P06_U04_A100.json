@@ -1,0 +1,557 @@
+{
+  "adhyaya_id": "P06_U04_A100",
+  "book": 6,
+  "parva_name": "भीष्मपर्व",
+  "upaparva_name": "भीष्मवधपर्व",
+  "adhyaya_name": "शततमोऽध्यायः ",
+  "chapter": 100,
+  "verse_count": 54,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "सञ्जय उवाच ।\n          अभिमन्यू रथोदारः पिशङ्गैस्तुरगोत्तमैः ।  अभिदुद्राव तेजस्वी दुर्योधनबलं महत् ॥१॥",
+      "english": "Sanjaya said Thereafter the generous hero Abhimanyu borne by excellent steeds of tawny colour, rushed against the mighty divisions of Duryodhana,",
+      "bhavadeepa": "अभ्यायतीनामभिमुखमागच्छन्तीनाम् ॥३०॥",
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 2,
+      "sanskrit": "न शेकुः समरे क्रुद्धं सौभद्रमरिसूदनम् ॥२॥",
+      "english": "Showering an arrow downpour like the clouds showering rain. All your warriors, O scion of the Kuru race, were not able to resist that slayer of foes, that enraged son of Subhadra, who had then, armed with weapor plunged into the illimitable ocean of the Kaurava army.",
+      "bhavadeepa": "अभिमन्युरिति ॥१॥",
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः ",
+      "combined_translation": "2-3"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "शस्त्रौधिणं गाहमानं सेनासागरमक्षयम् ।  निवारयितुमप्याजौ त्वदीयाः कुरुनन्दन ॥३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः ",
+      "english_ref": 2,
+      "combined_translation": "2-3"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "तेन मुक्ता रणे राजन् शराः शत्रुनिबर्हणाः ।  क्षत्रियाननयन् शूरान्प्रेतराजनिवेशनम् ॥४॥",
+      "english": "Arrows .capable of crushing the foes, O king being discharged by him in that battle, conveyed many heroic Kshatriyas to the mansion of the king of the departed.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 5,
+      "sanskrit": "यमदण्डोपमान् घोरान् ज्वलिताशीविषोपमान् ।  सौभद्रः समरे क्रुद्धः प्रेषयामास सायकान् ॥५॥",
+      "english": "Inflamed with rage, Subhadra's discharged in that battle fierce arrows that resembled the mace of Death, and blazing snakes of Virulent venom.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 6,
+      "sanskrit": "सरथान् रथिनस्तूर्णं हयांश्चैव ससादिनः ।  गजारोहांश्च सगजान्दारयामास फाल्गुनिः ॥६॥",
+      "english": "That son of Phalguna, soon shattered into pieces may cars with their rider and many elephant-warriors with the elephants they rode upon.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 7,
+      "sanskrit": "तस्य तत् कुर्वतः कर्म महत् सङ्ख्ये महीभृतः ।  पूजयाञ्चक्रिरे हृष्टाः प्रशशंसुश्च फाल्गुनिम् ॥७॥",
+      "english": "When he was achieving these wonderful feats in battle, the rulers of earth greatly delighted worshipped and applauded the son of Phalguna.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 8,
+      "sanskrit": "तान्यनीकानि सौभद्रो द्रावयामास भारत ।  तूलराशीनिवाकाशे मारुतः सर्वतो दिशम् ॥८॥",
+      "english": "son That son of Subhadra, O Bharata, scattered your divisions, like the tempest scattering a heap of cotton on all sides in the firmament,",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 9,
+      "sanskrit": "तेन विद्राव्यमाणानि तव सैन्यानि भारत ।  त्रातारं नाध्यगच्छन्त पङ्के मग्ना इव द्विपाः ॥९॥",
+      "english": "Thus scattered by him, your troops, O Bharata, could not find a protector, like elephants suck deep in mire.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 10,
+      "sanskrit": "विद्राव्य सर्वसैन्यानि तावकानि नरोत्तम ।  अभिमन्युः स्थितो राजन् विधूमोऽग्निरिव ज्वलन् ॥१०॥",
+      "english": "Thus counting all your troop. O foremost of men, Abhimanyu stood, O king, like a blazing fire with not a streak of smoke.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 11,
+      "sanskrit": "न चैनं तावका राजन् विषेहुररिघातिनम् ।  प्रदीप्तं पावकं यद्वत् पतङ्गाः कालचोदिताः ॥११॥",
+      "english": "Your troops, O king, could not bear that slayer of foes, like insects failing to bear a blazing fire, when urged on by Fate.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 12,
+      "sanskrit": "प्रहरन् सर्वशत्रुभ्यः पाण्डवानां महारथः ।  अदृश्यत महेष्वासः सवज्र इव वासवः ॥१२॥",
+      "english": "That mighty car-warrior of the Pandava host smiting all his opponents, appeared like Vasava the wielder of the thunder bolt.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 13,
+      "sanskrit": "हेमपृष्ठं धनुश्चास्य ददृशे विचरद्दिशः ।  तोयदेषु यथा राजन् राजमाना शतहृदा ॥१३॥",
+      "english": "His bow of golden stave, moving on all sides, appeared beautiful, O king, like flashes of lightning illumining the rain clouds.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 14,
+      "sanskrit": "शराश्च निशिताः पीता निश्चरन्ति स्म संयुगे ।  वनात् फुल्लद्रुमाद्राजन्भ्रमराणामिव व्रजाः ॥१४॥",
+      "english": "Arrows, well-sharpened and well-tempered, shot from that bow, in that battle, appeared, O king, like flights of bees coming out from a blossoming tree in a forest.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 15,
+      "sanskrit": "तथैव चरतस्तस्य सौभद्रस्य महात्मनः ।  रथेन काञ्चनाङ्गेन ददृशुर्नान्तरं जनाः ॥१५॥",
+      "english": "When that high-souled son of Subhadra thus careered through the field on his car of golden sides, his foes could not detect any weakness in him.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 16,
+      "sanskrit": "मोहयित्वा कृपं द्रोणं द्रौणिं च सबृहद्बलम् ।  सैन्धवं च महेष्वासो व्यचरल्लघु सुष्ठु च ॥१६॥",
+      "english": "Confounding Kripa, Drona, Drona's son of great prowess, and the ruler of the Sindhus, that fierce bow-man began to move with celerity and grace on the field of battle.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 17,
+      "sanskrit": "मण्डलीकृतमेवास्य धनुः पश्याम भारत ।  सूर्यमण्डलसङ्काशं दहतस्तव वाहिनीम् ॥१७॥",
+      "english": "When, O Bharata, he thus consumed your ranks, I saw his bow drawn as to resembled a circle and the solar disc of effulgence.",
+      "bhavadeepa": "लघु सुष्ठु च शीघ्रं शोभनं च यथा स्यात्तथा ॥१६॥",
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 18,
+      "sanskrit": "तं दृष्ट्वा क्षत्रियाः शूराः प्रतपन्तं तरस्विनम् ।  द्विफाल्गुनमिमं लोकं मेनिरे तस्य कर्मभिः ॥१८॥",
+      "english": "Beholding him fall upon them with celerity, the heroic Kshatriyas considered, in consequence of the feats accomplished by him, that the world contained two Phalguna.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 19,
+      "sanskrit": "तेनार्दिता महाराज भारती सा महाचमूः ।  व्यभ्रमत्तत्र तत्रैव योषिन्मदवशादिव ॥१९॥",
+      "english": "Thus crushed by him, O monarch, the mighty army of the Bharatas, reeled here and there like a woman intoxicated with drink.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 20,
+      "sanskrit": "द्रावयित्वा महासैन्यं कम्पयित्वा महारथान् ।  नन्दयामास सुहृदो मयं जित्वेव वासवः ॥२०॥",
+      "english": "Thus shattering the mighty hostile army and causing the mighty car-warriors to tremble, the delighted his forces like queered Maya.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 21,
+      "sanskrit": "तेन विद्राव्यमाणानि तव सैन्यानि संयुगे ।  चक्रुरार्तस्वनं घोरं पर्जन्यनिनदोपमम् ॥२१॥",
+      "english": "Crushed by him, your troops in that battle, uttered terrible cries of distress resembling the rumbling of the rain clouds.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 22,
+      "sanskrit": "तं श्रुत्वा निनदं घोरं तव सैन्यस्य भारत ।  मारुतोद्धूतवेगस्य सागरस्येव पर्वणि ॥२२॥",
+      "english": "Then 0 Bharata, hearing that fierce distressful shrink uttered by your troops, that resembled the roar of the tempest-tossed ocean in a Parva,",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 23,
+      "sanskrit": "दुर्योधनस्तदा राजन्नार्ष्यशृङ्गिमभाषत ।  एष कर्ष्णिर्महाबाहो द्वितीय इव फाल्गुनः ॥२३॥",
+      "english": "Your son Duryodhana, O king, addressing Rishyashringa's son said 'Single-handed the nephew of Krishna, O mighty-armed hero, like a second Phalguna,",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 24,
+      "sanskrit": "चमूं द्रावयते क्रोधाद्वृत्रो देवचमूमिव ।  तस्य चान्यन्न पश्यामि संयुगे भेषजं महत् ॥२४॥",
+      "english": "Is tossing in rage my army like Vritra tossing the celestial host. I do not see any other efficacious medicine for him in battle,",
+      "bhavadeepa": "आर्ष्यशृङ्गिमलंबुषम् ॥२३॥",
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 25,
+      "sanskrit": "ऋते त्वां राक्षसश्रेष्ठं सर्वविद्यासु पारगम् ।  स गत्वा त्वरितं वीरं जहि सौभद्रमाहवे ॥२५॥",
+      "english": "Save and except, ( foremost of the Rakshasas, your oneself who have seen the end of all learning. So encountering without delay the heroic son of Subhadra, do you slay him in battle.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 26,
+      "sanskrit": "वयं पार्थं हनिष्यामो भीष्मद्रोणपुरोगमाः ।  स एवमुक्तो बलवान् राक्षसेन्द्रः प्रतापवान् ॥२६॥",
+      "english": "We on the other hand headed by Bhishma and Drona shall slay Arjuna in battle.” Thus spoken to that prince of the Rakshasas, possessed of might and prowess,",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 27,
+      "sanskrit": "प्रययौ समरे तूर्णं तव पुत्रस्य शासनात् ।  नर्दमानो महानादं प्रावृषीव बलाहकः ॥२७॥",
+      "english": "Complying with the commands of your son, speedily rushed to battle uttering deafening roars like those of clouds in the rainy season.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 28,
+      "sanskrit": "तस्य शब्देन महता पाण्डवानां बलं महत् ।  प्राचलत् सर्वतो राजन् वातोद्धूत इवार्णवः ॥२८॥",
+      "english": "In consequence of those fierce roars of his, the mighty army of the Pandavas became agitated in all parts, like the ocean becoming agitated by the tempest.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 29,
+      "sanskrit": "बहवश्च महाराज तस्य नादेन भीषिताः ।  प्रियान्प्राणान्परित्यज्य निपेतुर्धरणीतले ॥२९॥",
+      "english": "Many were they, O king, who terrified at his roars, fell down on the surface of he carth giving up their dear lives.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 30,
+      "sanskrit": "कार्ष्णिश्चापि मुदा युक्तः प्रगृह्य सशरं धनुः ।  नृत्यन्निव रथोपस्थे तद्रक्षः समुपाद्रवत् ॥३०॥",
+      "english": "The nephew of Krishna, filled with delight grasping a bow with arrows fixed on the string, rushed against the Rakshasa, as if dancing in the terrace of his car.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 31,
+      "sanskrit": "ततः स राक्षसः क्रुद्धः संप्राप्यैवार्जुनिं रणे ।  नातिदूरे स्थितां तस्य द्रावयामास वै चमूम् ॥३१॥",
+      "english": "Then that Rakshasa, encountering the son of Arjuna, began to crush, in rage, the latter's divisions even, those that were not far from him.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 32,
+      "sanskrit": "तां वध्यमानां च तथा पाण्डवानां महाचमूम् ।  प्रत्युद्ययौ रणे रक्षो देवसेनां यथा बलः ॥३२॥",
+      "english": "Thus slaughtering the vast army of the Pandavas, the Rakshasas mashed at it like Vala rushing at the celestial host.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 33,
+      "sanskrit": "विमर्दः सुमहानासीत्तस्य सैन्यस्य मारिष ।  रक्षसा घोररूपेण वध्यमानस्य संयुग ॥३३॥",
+      "english": "Great was the carnage that produced, O sire, in the ranks of the enemy., when they were assigned and slaughtered by the Rakshasas of fearful of fearful aspect.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 34,
+      "sanskrit": "ततः शरसहस्त्रैस्तां पाण्डवानां महाचमूम् ।  व्यद्रावयद्रणे रक्षो दर्शयतन् स्वपराक्रमम् ॥३४॥",
+      "english": "Then with thousand arrows, the Rakshasas ruled the vast army of the Pandavas, displaying the superiority of the prowess.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 35,
+      "sanskrit": "सा वध्यमाना च तथा पाण्डवानामनीकिनी ।  रक्षसा घोररूपेण प्रदुद्राव रणे भयात् ॥३५॥",
+      "english": "Thus slaughtered by that Rakshasas of dreadful expression, the division of the Pandavas fled in all directions out of great apprehension.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 36,
+      "sanskrit": "प्रमृद्य च रणे सेनां पद्मिनीं वारणो यथा ।  ततोऽभिदुद्राव रणे द्रौपदेयान् महाबलान् ॥३६॥",
+      "english": "Thus crushing the troops in battle bike an elephant crushing a lotus, that highly puissant Rakshasas rushed against the sons Draupadi.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 37,
+      "sanskrit": "ते तु क्रुद्धा महेष्वासा द्रौपदेयाः प्रहारिणः ।  राक्षसं दुद्रुवुः संख्ये ग्रहाः पञ्च रविं यथा ॥३७॥",
+      "english": "Thereat inflamed with rage, the sons of Draupadi, all mighty bowmen accomplished in smiting down the foe, rushed against the Rakshasas, like the five planets rushing at the a sun.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 38,
+      "sanskrit": "वीर्यवद्भिस्ततस्तैस्तु पीडितो राक्षसोत्तमः ।  यथा युगक्षये घोरे चन्द्रमाः पञ्चभिर्ग्रहैः ॥३८॥",
+      "english": "Then that foremost of the Rakshasas sorely affected by those warriors endued with prowess, appeared like the moon affected by the five planets at the time of the dreadful dissolution at the end of a Yuga.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 39,
+      "sanskrit": "प्रतिविन्ध्यस्ततो रक्षो बिभेद निशितैः शरैः ।  सवपारशवैस्तूर्णैरकुण्ठाग्रैर्महाबलः ॥३९॥",
+      "english": "Then the highly powerful Prativindhya penetrated the Rakshasas with whetted arrows, sharp as battle axes and with keen points.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 40,
+      "sanskrit": "स तैर्भिन्नतनुत्राणः शुशुभे राक्षसोत्तमः ।  मरीचिभिरिवार्कस्य संस्यूतो जलदो महान् ॥४०॥",
+      "english": "With his Armour penetrated by those arrows, that foremost of the Rakshasas appeared beautiful like a mass of rain cloud fried by the rays of the solar orb.",
+      "bhavadeepa": "सर्वपारशवैः सर्वलोहमयः ॥३९॥",
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 41,
+      "sanskrit": "विषक्तैः स शरैश्चापि तपनीयपरिच्छदैः ।  आर्ष्यशृङ्गिर्बभौ राजन् दीप्तशृङ्ग इवाचलः ॥४१॥",
+      "english": "Struck with those arrows furnished with golden wings, the Rishyashringa, O king appeared beautiful like an immovable hill with its crest on fire.",
+      "bhavadeepa": "संस्यूतो ग्रथितः ॥४०॥",
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 42,
+      "sanskrit": "ततस्ते भ्रातरः पञ्च राक्षसेन्द्रं महाहवे ।  विव्यधुर्निशितैर्बाणैस्तपनीयविभूषितैः ॥४२॥",
+      "english": "Thereafter the brothers, in that fierce conflict, that foremost of the Rakshasas, with whetted shafts furnished with golden wings.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 43,
+      "sanskrit": "स निर्भिन्नः शरैघोरैर्भुजगैः कोपितैरिव ।  अलंबुषो भृशं राजन्नागेन्द्र इव चुक्रुधे ॥४३॥",
+      "english": "Thus pierced by those dreadful arrows resembling furious snakes, Alambusha, O king, became infuriated like a prince of elephants.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 44,
+      "sanskrit": "सोऽतिविद्धो महाराज मुहूर्तमथ मारिष ।  प्रविवेश तमो दीर्घं पीडितस्तैर्महारथैः ॥४४॥",
+      "english": "Thus, O monarch, deeply pierced and sorely afflicted by those mighty car-warrior within a few moments, the Rakshasas remained unconscious in a swoon for, a long time.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 45,
+      "sanskrit": "प्रतिलभ्य ततः संज्ञां क्रोधेन द्विगुणीकृतः ।  चिच्छेद सायकांस्तेषां ध्वजांश्चैव धनूंषि च ॥४५॥",
+      "english": "Thereafter regaining consciousness, and swelling through fury to double his dimensions, cut the bows, arrows and standards of his adversaries.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 46,
+      "sanskrit": "एकैकं पञ्चभिर्बाणैराजघान स्मयान्निव ।  अलम्बुषो रथोपस्थे नृत्यन्निव महारथः ॥४६॥",
+      "english": "Then that mighty car-warrior Alambusha as if dancing on the terrace of his car, wounded every one of the brothers with five shafts each, smiling all the while.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 47,
+      "sanskrit": "त्वरमाणः सुसंरब्धो हयांस्तेषां महात्मनाम् ।  जघान राक्षसः क्रुद्धः सारथींश्च महाबलः ॥४७॥",
+      "english": "Then that highly powerful Rakshasas excited to the highest pitch of fury slew the steeds and charioteers of his high-souled foes, with great activity.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 48,
+      "sanskrit": "बिभेद च सुसंरब्धः पुनश्चैनान्सुसंशितैः ।  शरैर्बहुविधाकारैः शतशोऽथ सहस्रशः ॥४८॥",
+      "english": "Then again, waxing worth, he pierced them with arrows duly-whetted, of diverse shapes, and discharged by hundreds and thousands.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 49,
+      "sanskrit": "विरथांश्च महेष्वासान् कृत्वा तत्र स राक्षसः ।  अभिदुद्राव वेगेन हन्तुकामो निशाचरः ॥४९॥",
+      "english": "Then that Rakshasas that ranger of the nights, depriving those mighty champions of their cars, rushed against them desirous of slaying them.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 50,
+      "sanskrit": "तानर्दितान् रणे तेन राक्षसेन दुरात्मना ।  दृष्ट्वाऽर्जुनसुतः संख्ये राक्षसं समुपाद्रवत् ॥५०॥",
+      "english": "Seeing brother thus afflicted by the wickedsouled Rakshasas in battle, he son of Arjuna rushed the former.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 51,
+      "sanskrit": "तयोः समभवद्युद्धं वृत्रवासवयोरिव ।  ददृशुस्तावकाः सर्वे पाण्डवाश्च महारथाः ॥५१॥",
+      "english": "Then between them commenced a combat that resembled that between Vritra and Vasava. Your troops as also those o! the Pandavas, all mighty car-warriors, then began to at that fight.",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 52,
+      "sanskrit": "तौ समेतौ महायुद्धे क्रोधदीप्तौ परस्परम् ।  महाबलौ महाराज क्रोधसंरक्तलोचनौ ॥५२॥",
+      "english": "Those two highly powerful heroes, O monarch, meeting one another dreadful fight, both bring with rage and with eyes red in rage,",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः "
+    },
+    {
+      "verse": 53,
+      "sanskrit": "परस्परमवेक्षेतां कालानलसमौ युधि ।  तयोः समागमो घोरो बभूव कटुकोदयः ॥५३॥",
+      "english": "And both resembling the All destructive fire, began to eye one another. That encounter between them became dreadful and destructive forces, like that in the days of old between Shakra and Shambara, during the battle between the gods and the demons,",
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः ",
+      "combined_translation": "53-54"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "यथा देवासुरे युद्धे शक्रशम्बरयोः पुरा ॥५४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 100,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "शततमोऽध्यायः ",
+      "english_ref": 53,
+      "combined_translation": "53-54"
+    }
+  ]
+}

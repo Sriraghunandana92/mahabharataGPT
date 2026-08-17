@@ -1,0 +1,726 @@
+{
+  "adhyaya_id": "P05_U07_A151",
+  "book": 5,
+  "parva_name": "उद्योगपर्व",
+  "upaparva_name": "सैन्यनिर्याणपर्व",
+  "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः",
+  "chapter": 151,
+  "verse_count": 71,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वैशम्पायन उवाच।\n              जनार्दनवचः श्रुत्वा धर्मराजी युधिष्ठिरः। भ्रातॄनुवाच धर्मात्मा समक्षं केशवस्य ह ॥१॥",
+      "english": "Vaishampayana said The virtuous-souled king Yudhishthira the just, having heard these words of Janardana, said to his brothers in the presence of Keshava.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "श्रुतं भवद्भिर्यद्वृत्तं सभायां कुरुसंसदि। केशवस्यापि यद्वाक्यं तत् सर्वमवधारितम् ॥२॥",
+      "english": "You have heard what happened in that assemblage of the Kurus and you have also understood what words Keshava has said.",
+      "bhavadeepa": "जनार्दनेति ॥१॥",
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "तस्मात् सेनाविभागं मे कुरुध्वं नरसत्तमाः। अक्षौहिण्यश्च सप्तैताः समेता विजयाय वै ॥३॥",
+      "english": "Therefore do you, O best among men, make a division of my army; these are the seven Akshauhinis who have assembled for my victory.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "तासां ये पतयः सप्त विख्यातास्तान्निबोधत। द्रुपदश्च विराटश्च धृष्टद्युम्नशिखण्डिनो ॥४॥",
+      "english": "Listen to the names of those renowned who to be their respective commanders. Drupada, Virata, Dhrishtadyumna and Shikhandin,",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "सात्यकिश्चेकितानश्च भीमसेनश्च वीर्यवान्। एते सेनाप्रणेतारो वीराः सर्वे तनुत्यजः ॥५॥",
+      "english": "Satyaki, Chekitana and Bhimasena endued with strength, these heroes who are prepared to sacrifice their lives will be the commanders of my army.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "सर्वे वेदविदः शूराः सर्वे सुचरितव्रताः। ह्रीमन्तो नीतिमन्तश्च सर्वे युद्धविशारदाः ॥६॥",
+      "english": "All of then are conversant with the Vedas, and all those heroes have made and observed excellent vows; all of them know very well the science of war and are endued with modesty and know diplomacy. men are",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "इष्वस्त्रकुशलाः सर्वे तथा सर्वास्त्रयोधिनः। सप्तानामपि यो नेता सेनानां प्रविभागवित् ॥७॥",
+      "english": "All of them besides can fight with all weapons and are skillful in the use of arrows and other weapons. He who will command these seven division must have a knowledge of all the divisions of the army.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "यः सहेत रणे भीष्मं शरार्चिः पावकोपमम्। तं तावत् सहदेवात्र प्रब्रूहि कुरुनन्दन। स्वमतं पुरुषव्याघ्र को नः सेनापतिः क्षमः ॥८॥",
+      "english": "He must besides withstand the flame of his arrows similar to those of fire. Speak out, O Sahadeva, O delighted of the Kuru race, your own opinion as to who has these qualifications, O best among men, and who is competent to be our general?",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "सहदेव उवाच।\n              संयुक्त एकदुःखश्च वीर्यवांश्च महीपतिः। यं समाश्रित्य धर्मज्ञं स्वमंशमनुयुञ्ज्महे ॥९॥",
+      "english": "Sahadeva said Bound to us by a tie and having the same cause for sorrow as ourselves, the ruler of the earth, endued with prowess, the one conversant with virtue taking refuge with whom we seek to gain our share.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "मत्स्यो विराटो बलवान् कृतास्त्रो युद्धदुर्मदः। प्रसहिष्यति सङ्ग्रामे भीष्मं तांश्च महारथान् ॥१०॥",
+      "english": "That mighty king of the Matsya's, Virata, a master in the use of weapons and hard to vanquish in battle, will withstand in battle Bhishma and those mighty car-warriors.",
+      "bhavadeepa": "संयुक्तः सम्बन्धी ॥९॥",
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "वैशम्पायन उवाच।\n              तथोक्ते सहदेवेन वाक्ये वाक्यविशारद। नकुलोऽनन्तरं तस्मादिदं वचनमाददे ॥११॥",
+      "english": "Vaishampayana said These words being spoken by Sahadeva, Nakula who was eloquent, said these words.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "वयसा शास्त्रतो धैर्यात् कुलेनाभिजनेन च। ह्रीमान् बलान्वितः श्रीमान् सर्वशास्त्रविशारदः ॥१२॥",
+      "english": "“In age, in a knowledge of the holy books, in patience, in nobility of birth and in high connections, he, who is respectable, who is well versed in all the holy books and sciences,",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "वेद चास्त्रं भरद्वाजाद्दुर्धर्षः सत्यसङ्गरः। यो नित्यं स्पर्धते द्रोणं भीष्मं चैव महाबलम् ॥१३॥",
+      "english": "He who learnt the handing of weapons from Bharadvaja, he who is hard to vanquish and ever devoted to truth, who ever challenges Drona as also Bhishma endued with great strength,",
+      "bhavadeepa": "कुलेन वंशेन अभिजनेन स्वजनसमूहेन ॥१२॥",
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "श्लाघ्यः पार्थिववंशस्य प्रमुखे वाहिनीपतिः। पुत्रपौत्रैः परिवृतः शतशाख इव द्रुमः ॥१४॥",
+      "english": "He who is enviable in the races of the rulers of the earth, the foremost of all leaders of armies and who surrounded by sons and grandsons is like a tree with a hundred branches,",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "यस्तताप तपो घोरं सदारः पृथिवीपतिः। रोषाद्द्रोणविनाशाय वीरः समिति शोभनः ॥१५॥",
+      "english": "The lord of the earth who in company with his wife practiced hard austerities for destroying Drona, that hero who adorns an assembly,",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "पितेवास्मान् समाधत्ते यः सदा पार्थिवर्षभः। श्वशुरो द्रुपदोऽस्माकं सेनाग्रं स प्रकर्षतु ॥१६॥",
+      "english": "That best among the rulers of the earth who ever supports us as a father, our father-inlaw Drupada, should stand at the head of our army.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "स द्रोणभीष्मावायातौ सहेदिति मतिर्मम। स हि दिव्यास्त्रविद्राजा सखा चाङ्गिरसो नृपः॥१७॥",
+      "english": "He will be able to withstand both Drona and Bhishma. Such has been my opinion; that king is familiar with the use of celestial weapons and the king is the friend of Angiras.”",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "माद्रीसुताभ्यामुक्ते तु स्वमते कुरुनन्दनः। वासविर्वासवसमः सव्यसाच्यब्रवीद्वचः ॥१८॥",
+      "english": "The two sons of Madri having spoken out their own opinions, that delighter of the Kuru race, Savyasachin, the son of Vasava, equal to Vasava himself, said these words.",
+      "bhavadeepa": "अङ्गिरसो द्रोणस्य ॥१७॥",
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "योऽयं तपःप्रभावेण ऋषिसन्तोषणेन च। दिव्यः पुरुष उत्पन्नो ज्वालावर्णो महाभुजः ॥१९॥",
+      "english": "He, who by the virtue of his austerity and by his gratification of the Rishis, that celestial being of long arms came out, looking like fire,",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "धनुष्मान् कवची खड्गी रथमारुह्य दंशितः। दिव्यैर्हयवरैर्युक्तमग्निकुण्डात् समुत्थितः ॥२०॥",
+      "english": "Armed with bows and swords, clad in amours and ascending a chariot drawn by celestial horses of superior breed, from the hole of the sacrificial fire.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "गर्जन्निव महामेघो रथघोषेण वीर्यवान्। सिंहसंहननो वीरः सिंहतुल्यपराक्रमः ॥२१॥",
+      "english": "That man endued with strength, whose chariot rattle is like the roar of the large masses of clouds, that hero, who endued with the strength of lions, is capable of slaying a lion;",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "सिंहोरस्कः सिंहभुजः सिंहवक्षा महाबलः। सिंहप्रगर्जनो वीरः सिंहस्कन्धो महाद्युतिः ॥२२॥",
+      "english": "That one of great effulgence and strength who has the heart of a lion, the arms of a lion, the chest of a lion, the roars of a lion as also the shoulders of a lion,",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "सुभ्रूः सुदंष्ट्रः सुहनुः सुबाहुः सुमुखोऽकृशः। सुजत्रुः सुविशालाक्षः सुपादः सुप्रतिष्ठितः ॥२३॥",
+      "english": "That man who has beautiful eyebrows, beautiful teeth, beautiful cheeks, beautiful arms, beautiful face, beautiful feet and beautiful frame of body,",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "अभेद्यः सर्वशस्त्राणां प्रभिन्न इव वारणः। जज्ञे द्रोणविनाशाय सत्यवादी जितेन्द्रियः ॥२४॥",
+      "english": "Who can not be pierced by any weapon, like an infuriated elephant-this one, a speaker of truth, and a restrainer of his senses, was born for slaying Drona.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "धृष्टद्युम्नमहं मन्ये सहेद्भीष्मस्य सायकान्। चज्राशनिसमस्पर्शान् दीप्तास्यानुरगानिव ॥२५॥",
+      "english": "I think that this Dhrishtadyumra will be able to withstand the arrows of Bhishma, which strike with the force the thunderbolt and which look like blazing serpents,",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "यमदूतसमान् वेगे निपाते पावकोपमान्। रामेणाजौ विषहितान् वज्रनिष्पेषदारुणान् ॥२६॥",
+      "english": "Which in force are equal to the messengers of Yama and in causing havoc are like fire and which falling as they do with the heaviness of the thunderbolt could be borne only by Rama.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "पुरुषं तं न पश्यामि यः सहेत महाव्रतम्। धृष्टद्युम्नमृते राजन्निति मे धीयते मतिः ॥२७॥",
+      "english": "That man I do not see who can withstand that one of great vows (Bhishma) save and except Dhrishtadyumna, o king; and such is my opinion.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "क्षिप्रहस्तश्चित्रयोधी मतः सेनापतिर्मम। अभेद्यकवचः श्रीमान् मातङ्ग इव यूथपः ॥२८॥",
+      "english": "In my opinion this warrior, who is like the chief elephant of a herd, and endued with prosperity, lightness of hand, clad in a coat of mail that cannot be pierced, well versed in the use of all weapons, should be my commander,",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "भीमसेन उवाच।\n              वधार्थं यः समुत्पन्नः शिखण्डी द्रुपदात्मजः। वदन्ति सिद्धा राजेन्द्र ऋषयश्च समागताः ॥२९॥",
+      "english": "Bhimasena said That Shikhandin, the son of Drupada who is born for the destruction ((of Bhishma) as it is used to be said, O chief among kings, by the assembled Siddhas and Rishis,",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "यस्य सङ्ग्राममध्ये तु दिव्यमस्त्रं प्रकुर्वतः। रूपं द्रक्ष्यन्ति पुरुषा रामस्येव महात्मनः ॥३०॥",
+      "english": "Whose form in the midst of the fight, while displaying celestial weapons, people will see to be like that of the great-souled Rama (should be the commander).",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "न तं युद्धे प्रपश्यामि यो भिन्द्यात्तु शिखण्डिनम्। शस्त्रेण समरे राजन् सन्नद्धं स्यन्दने स्थितम् ॥३१॥",
+      "english": "I do not see that man who could in battle subjugate Shikhandin while under arms, O king, and seated on his chariot clad in mail.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "द्वैरथे समरे नान्यो भीष्मं हन्यान्महाव्रतम्। शिखण्डिनमृते वीरं स मे सेनापतिर्मतः ॥३२॥",
+      "english": "In hand single combat, no one save Shikhandin could slay that hero, Bhishma, of great vows and it is my opinion that he should be our general.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "युधिष्ठिर उवाच।\n              सर्वस्य जगतस्तात सारासारं बलाबलम्। सर्वं जानाति धर्मात्मा मतमेषां च केशवः ॥३३॥",
+      "english": "Yudhishthira said The truth or untruth, the strength and weakness of the entire world, my dear, brothers and the minds of these, the great souled Keshava knows.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "यमाह कृष्णो दाशार्हः सोऽस्तु सेनापतिर्मम। कृतास्त्रोऽप्यकृतास्त्रो वा वृद्धो वा यदि वा युवा ॥३४॥",
+      "english": "He, whom Krishna, of the Dasharha race, will name, should be my general whether he is a master in the use of weapons or otherwise or whether he is old or young.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "एष नो विजये मूलमेष तात विपर्यये। अत्र प्राणाश्च राज्यं च भावाभावौ सुखासुखे ॥३५॥",
+      "english": "He, my dear brothers, in the root of our victory or our defeat and on him depend our lives, our kingdom, our success, our want, our happiness and our misery.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "एष धाता विधाता च सिद्धिरत्र प्रतिष्ठिता। यमाह कृष्णो दाशार्हः सोऽस्तु नो वाहिनीपतिः ॥३६॥",
+      "english": "He is the lord he is the ordainer and on him depends success and let him, who is named by Krishna of the Dasharha race, be the leader of my forces.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "ब्रवीतु वदतां श्रेष्ठो निशा समभिवर्तते। ततः सेनापतिं कृत्वा कृष्णस्य वशवर्तिनः ॥३७॥",
+      "english": "Let the foremost of speakers speak, for it is now almost night; having selected our general, under the guidance of Krishna,",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "रात्रेः शेषे व्यतिक्रान्ते प्रयास्यामो रणाजिरम्। अधिवासितशस्त्राश्च कृतकौतुकमङ्गलाः ॥३८॥",
+      "english": "We shall at the end of this night march to the field of battle after having worshipped our weapons and duly performed all the auspicious ceremonies.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "वैशम्पायन उवाच।\n              तस्य तद्वचनं श्रुत्वा धर्मराजस्य धीमतः। अब्रवीत् पुण्डरीकाक्षो धनञ्जयमवेक्ष्य ह ॥३९॥",
+      "english": "Vaishampayana said Hearing those words of the wise and virtuous king, the one of lotus eyes said looking on Dhananjaya.",
+      "bhavadeepa": "शस्त्राणामधिवासनं गन्धाद्यैः पूजनं कौतुकं रक्षाबन्धनं मङ्गलं स्वस्तिवाचनम् ॥३८॥",
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "ममाप्येते महाराज भवद्भिर्य उदाहृताः। नेतारस्तव सेनाया मता विक्रान्तयोधिनः ॥४०॥",
+      "english": "In my opinion too, O great king, these powerful warriors who have been named by you, should be the leaders of your army.",
+      "bhavadeepa": "धनञ्जयमवेक्ष्येत्यनेनार्जुनाभिमतो धृष्टद्युम्नः सेनापतिरिति स्वाशयं प्रदर्श्येत्यर्थः ॥३९॥",
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "सर्व एव समर्था हि तव शत्रुं प्रबाधितुम्। इन्द्रस्यापि भयं ह्येते जनयेयुर्महाहवे ॥४१॥",
+      "english": "All of them are competent to withstand your enemies and they will beget fear in even Indra in the great war,",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "किं पुनर्धार्तराष्ट्राणां लुब्धानां पापचेतसाम्। मयाऽपि हि महाबाहो त्वत्प्रियार्थं महाहवे ॥४२॥",
+      "english": "What to speak of those sons of Dhritarashtra of wicked heart who are acting from covetousness. By me too, O you of long arms, has been taken great pains for your benefit in the forth-coming great war.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "कृतो यत्नो महांस्तत्र शमः स्यादिति भारत। धर्मस्य गतमानृण्यं न स्म वाच्या विवक्षताम् ॥४३॥",
+      "english": "With that view, I have taken great pains so that there might be peace, O Bharata, and we have thus paid off the debt we owned to virtue and can besides not be blamed by fault-finding persons.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "कृतास्त्रं मन्यते बाल आत्मानमविचक्षणः। धार्तराष्ट्रो बलस्थं च पश्यत्यात्मानमातुरः ॥४४॥",
+      "english": "That boy thinks himself wise and a master in the use of weapons, and though the son of Dhritarashtra considers himself strong yet in reality he is weak.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "युज्यतां वाहिनी साधु वधसाध्या हि मे मताः। न धार्तराष्ट्राः शक्ष्यन्ति स्थातुं दृष्ट्वा धनञ्जयम् ॥४५॥",
+      "english": "Array your troops for battle for in my opinion it is possible to slay them. The son of Dhritarashtra will not be able to continue in their present attitude after seeing Dhananjaya.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "भीमसेनं च सङ्क्रुद्धं यमौ चापि यमोपमौ। युयुधानद्वितीयं च धृष्टद्युम्नममर्षणम् ॥४६॥",
+      "english": "As also when he sees Bhimasena excited with anger, and the twins who are like Yama himself and the wrathful Dhrishtadyumna having Yuyudhana for his second,",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "अभिमन्युं द्रौपदेयान् विराटद्रुपदावपि। अक्षौहिणीपतींश्चान्यान्नरेन्द्रान् भीमविक्रमान् ॥४७॥",
+      "english": "And Abhimanyu and the sons of Draupadi and Virata and Drupada and other chiefs of men of fierce strength, each the commander of an Akshauhini.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "सारवद्बलमस्माकं दुष्प्रधर्षं दुरासदम्। धार्तराष्ट्रबलं सङ्ख्ये हनिष्यति न संशयः ॥४८॥",
+      "english": "Our army has great strength and is besides hard to vanquish and is hard to withstand and I think that in the battle will slay the army of the son of Dhritarashtra-there is no doubt about it. O chastiser of foes, I consider that Dhrishtadyumna should be our general.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "धृष्टद्युम्नमहं मन्ये सेनापतिमरिन्दम। वैशम्पायन उवाच।\n              एवमुक्ते तु कृष्णेन संप्राहृष्यन्नरोत्तमाः ॥४९॥",
+      "english": "Vaishampayana said Krishna having said this all those best among men were highly rejoiced and there was a great shout sent up by these whose minds had been made cheerful.",
+      "bhavadeepa": "अस्माकं बलं कर्तृ, धार्तराष्ट्रबलं कर्म ॥४८॥",
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः",
+      "combined_translation": "49-50"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "तेषां प्रहृष्टमनसां नादः समभवन्महान्। योग इत्यथ सैन्यानां त्वरतां संप्रधावताम् ॥५०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः",
+      "english_ref": 49,
+      "combined_translation": "49-50"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "हयवारणशब्दाश्च नेमिघोषाश्च सर्वतः। शङ्खदुन्दुभिघोषाश्च तुमुलाः सर्वतोऽभवन् ॥५१॥",
+      "english": "There was a speedy moving about among the soldiers all crying \"Dravup\" and there was everywhere the roar of elephants, the neighing of horses and the clatter of the wheels of the chariots.",
+      "bhavadeepa": "योगो युद्धाय सज्जीभवनम् । ‘द्रव्योपायसन्नहनेष्वपि योगः’ इति विश्वः ॥५०॥",
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "तदुग्रं सागरनिभं क्षुब्धं बलसमागमम्। रथपत्तिगजोदग्रं महोर्मिभिरिवाकुलम् ॥५२॥",
+      "english": "There was everywhere a loud uproar caused by the sounds of conches and of drums, and the assembling of that army caused a din like that of the sea in a tempest.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "धावतामाह्वयानानां तनुत्राणि च बध्नताम्। प्रयास्यतां पाण्डवानां ससैन्यानां समन्ततः ॥५३॥",
+      "english": "The army, composed of chariots, infantry and cavalry, with the soldiers running about summoning one another and buckling on their Armour.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "गङ्गेव पूर्णा दुर्धर्षा समदृश्यत वाहिनी। अग्रानीके भीमसेनो माद्रीपुत्रौ च दंशितौ ॥५४॥",
+      "english": "And the Pandavas moving about, looked like the Ganga troubled by great waves and full to the brim. The army seemed to be hard to vanquish. In front of the army were Bhimasena and the two sons of Madri clad in coats of mail,",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 55,
+      "sanskrit": "सौभद्रो द्रौपदेयाश्च धृष्टद्युम्नश्च पार्षतः। प्रभद्रकाश्च पञ्चाला भीमसेनमुखा ययुः ॥५५॥",
+      "english": "And the son of Subhadra and the (five) sons of Draupadi and Dhrishtadyumna, the son of Parshata race, the Prabhadrakash and the Panchalas under the leadership of Bhimasena.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 56,
+      "sanskrit": "ततः शब्दः समभवत् समुद्रस्येव पर्वणि। हृष्टानां संप्रयातानां घोषो दिवमिवास्पृशत् ॥५६॥",
+      "english": "The sound proceeding from these was like the roar of the sea on the day of the new moon; and the shouts, sent by the cheerful soldiers proceeding along, touched the very heavens as it were.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 57,
+      "sanskrit": "प्रहृष्टा दंशिता योधाः परानीकविदारणाः। तेषां मध्ये ययौ राजा कुन्तीपुत्रो युधिष्ठिरः ॥५७॥",
+      "english": "The cheerful soldiers, clad in coats of mail, were capable of piercing the hostile armies and in the midst of those went Yudhishthira the son of Kunti,",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 58,
+      "sanskrit": "शकटापणवेशाश्च यानयुग्यं च सर्वशः। कोशं यन्त्रायुधं चैव ये च वैद्याश्चिकित्सकाः ॥५८॥",
+      "english": "With carts and transport cars, and all descriptions of vehicles, the treasury, weapons and machines and physicians and surgeons,",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 59,
+      "sanskrit": "फल्गु यच्च बलं किञ्चिद्यच्चापि कृशदुर्बलम्। तत्सङ्गृह्य ययौ राजा ये चापि परिचारकाः ॥५९॥",
+      "english": "The few invalids that there were in the army and all those that were weak and powerless-taking all these the king went with those that served him as attendants.",
+      "bhavadeepa": "शकंटा अनांसि आपणो वणिग्वीथ्युपलक्षितं विक्रेयद्रव्यं वेशो वेश्याजनाश्रयः पटगृहाणि यानयुग्यं यानेषु युग्यं युगमर्हतीति रथादि । शकटमुपस्करादिभारवहं युग्यम् । इदं तु केवलं प्रयाणार्हं ‘युग्यं च पत्रे’ इति निपातनात् । कोशं धनचयं यंत्रायुधं गोलकप्रक्षेपणं नाल इत्युच्यते लोके । चिकित्सकाः शस्त्रवैद्याः ॥५८॥",
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 60,
+      "sanskrit": "उपप्लव्ये तु पाञ्चाली द्रौपदी सत्यवादिनी। सह स्त्रीभिर्निववृते दासीदाससमावृता ॥६०॥",
+      "english": "The truthful princess of Panchali, the daughter of Drupada in company with other ladies and surrounded by servant and maids remained at Upaplavya.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 61,
+      "sanskrit": "कृत्वा मूलप्रतीकारं गुल्मैः स्थावरजङ्गमैः। स्कन्धावारेण महता प्रययुः पाण्डुनन्दनाः ॥६१॥",
+      "english": "Those delighters of the Pandu race set out with a large army after having made due arrangements for guarding over their wealth and having erected a surrounding wall at a short distance and soldiers being placed at regular intervals.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 62,
+      "sanskrit": "ददतो गां हिरण्यं च ब्राह्मणैरभिसंवृताः। स्तूयमाना ययू राजन् रथैर्मणिविभूषितैः ॥६२॥",
+      "english": "They proceeded distributing cows and gold and surrounded by Brahmanas; O king, they proceeded, hymns being sung in their praise, on chariots ornamented with gems and precious stones.",
+      "bhavadeepa": "मूलप्रतीकारं धनदाररक्षां गुल्मैः स्थावरैः प्राकाररूपैः जङ्गमैः परितः स्थाने स्थाने शूरस‌ङ्घैः स्कन्धावारेण सैन्येन ॥६१॥",
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 63,
+      "sanskrit": "केकया धृष्टकेतुश्च पुत्रः काश्यस्य चाभिभुः। श्रेणिमान् वसुदानश्च शिखण्डी चापराजितः ॥६३॥",
+      "english": "The Kaikeya princes and Dhrishtaketu the son of the prince of the Kashis, Shrenimat, Vasudana, and Shikhandin who had never met with defeat,",
+      "bhavadeepa": "गां भूमि धेनुं वा ॥६२॥",
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 64,
+      "sanskrit": "हृष्टास्तुष्टाः कवचिनः सशस्त्राः समलङ्कृताः। राजानमन्वयुः सर्वे परिवार्य युधिष्ठिरम् ॥६४॥",
+      "english": "With cheerful hearts, clad in coats of mail, well-armed, and with their persons well ornamented, all followed surrounding the king Yudhishthira.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 65,
+      "sanskrit": "जघनार्धे विराटश्च याज्ञसेनिश्च सौमकिः। सुधर्मा कुन्तिभोजश्च धृष्टद्युम्नस्य चात्मजाः ॥६५॥",
+      "english": "In the rear were, Virata and the son of Yagasena of the Somaka race, Sudharman and Kuntibhoja and the sons of Dhrishtadyumna,",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 66,
+      "sanskrit": "रथायुतानि चत्वारि हयाः पञ्चगुणास्तथा। पत्तिसैन्यं दशगुणं गजानामयुतानि षट् ॥६६॥",
+      "english": "Forty thousand chariots, five times that number of horses, ten times that number of foot soldiers, and sixty thousand elephants.",
+      "bhavadeepa": "जघनार्धे पश्चिमार्धे ॥६५॥",
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 67,
+      "sanskrit": "अनाधृष्टिश्चेकितानो धृष्टकेतुश्च सात्यकिः। परिवार्य ययुः सर्वे वासुदेवधनञ्जयौ ॥६७॥",
+      "english": "Anadhristhi and Chekitana, Dhrishtaketu and Satyaki all went surrounding the king as also Vasudeva and Dhananjaya.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 68,
+      "sanskrit": "आसाद्य तु कुरुक्षेत्रं व्यूढानीकाः प्रहारिणः। पाण्डवाः समदृश्यन्त नर्दन्तो वृषभा इव ॥६८॥",
+      "english": "And having racing Kurukshetra with their army ready for action, those smiters, the Pandavas, looked like bulls wandering about with loud roars.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 69,
+      "sanskrit": "तेऽवगाह्य कुरुक्षेत्रं शङ्खान् दध्मुररिन्दमाः। तथैव दध्मतुः शङ्खं वासुदेवधनञ्जयौ ॥६९॥",
+      "english": "And reaching Kurukshetra those chastiser of foes blew their conches and in the same way did Vasudeva and Dhananjaya also blow their conches.",
+      "bhavadeepa": null,
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 70,
+      "sanskrit": "पाञ्चजन्यस्य निर्घोषं विस्फूर्जितमिवाशनेः। निशम्य सर्वसैन्यानि समहृष्यन्त सर्वशः ॥७०॥",
+      "english": "All the soldiers of the army became cheerful in every way at hearing the sound of the Panchajanya conch which was similar to the roaring of thunder.",
+      "bhavadeepa": "समहृष्यन्त रोमाञ्चितानि ॥७०॥",
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः",
+      "combined_translation": "70-70"
+    },
+    {
+      "verse": 70,
+      "sanskrit": "शङ्खदुन्दुभिसंहृष्टः सिंहनादस्तरस्विनाम्। पृथिवीं चान्तरिक्षं च सागरांश्चान्वनादयत् ॥७०॥",
+      "english": "All the soldiers of the army became cheerful in every way at hearing the sound of the Panchajanya conch which was similar to the roaring of thunder.",
+      "bhavadeepa": "समहृष्यन्त रोमाञ्चितानि ॥७०॥",
+      "chapter": 151,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सैन्यनिर्याणपर्व",
+      "adhyaya_name": "एकपञ्चाशद‌धिकशततमोऽध्यायः",
+      "combined_translation": "70-70"
+    }
+  ]
+}

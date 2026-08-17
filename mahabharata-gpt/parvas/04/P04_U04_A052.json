@@ -1,0 +1,250 @@
+{
+  "adhyaya_id": "P04_U04_A052",
+  "book": 4,
+  "parva_name": "विराटपर्व",
+  "upaparva_name": "गोहरणपर्व",
+  "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः",
+  "chapter": 52,
+  "verse_count": 23,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "भीष्म उवाच । कलाः काष्ठाश्च युज्यन्ते मुहूर्ताश्च दिनानि च । अर्धमासाश्च मासाश्च नक्षत्राणि ग्रहास्तथा ॥१॥",
+      "english": "Bhishma said The wheel of time revolves with various divisions such as Kalas, Kashthas, Muhurtas, days, fortnights months, stars, planets, seasons and years.",
+      "bhavadeepa": "पुरस्ताद्वाक्यमुक्तम् । अज्ञातवासकालः पूर्णो न वेति प्रथमं विचार्यमित्येवंरूपम् ॥२२॥",
+      "chapter": 52,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः",
+      "combined_translation": "1-2"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "ऋतवश्चापि युज्यन्ते तथा संवत्सरा अपि । एवं कालविभागेन कालचक्रं प्रवर्तते ॥२॥",
+      "english": null,
+      "bhavadeepa": "कलाः काष्ठाश्चेति ॥१॥",
+      "chapter": 52,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः",
+      "english_ref": 1,
+      "combined_translation": "1-2"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "तेषां कालातिरेकेण ज्योतिषां च व्यतिक्रमात् । पञ्चमे पञ्चमे वर्षे द्वौ मासावुपजायतः ॥३॥",
+      "english": "On account of the excess of time and the constellations going on their courses there is an increase of two months in every five years.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "एषामभ्यधिका मासाः पञ्च च द्वादश क्षपाः । त्रयोदशानां वर्षाणामिति मे वर्तते मतिः ॥४॥",
+      "english": "I think, calculating in this way, there will be an addition of five months and twelve nights within thirteen vears.",
+      "bhavadeepa": "अत्र चतुर्विंशत्या पक्षैश्चान्द्रः संवत्सरः चतुष्पञ्चाशदधिकशतत्रयदिनात्मकः षष्ट्यधिकशतत्रयदिनात्मा सावनः स एव द्वादशवार्षिकादिप्रतिज्ञासु गवामयनादिसत्रादिषु च उपयुज्यते । त्रीणि शतानि पञ्चषष्टिश्च दिनानि पञ्चदशघटिका एकत्रिंशत् पलानि त्रिंशदक्षराणि सौरस्य संवत्सरस्य मानम् । तत्र प्रायेण ज्योतिर्विदः सौरसंवत्सरानुरोधेनैव वर्षप्रवेशादिकं कुर्वन्ति । स्मार्ते वर्धापनादौ तु चान्द्रेणेति विशेषे सत्यपि यदा एतयोरान्तरालिकः सावनाब्दो गण्यते तदा सौरगता वृद्धिस्तत्र गण्यते एवं गणनायां क्रियमाणायां त्रयोदशस्वब्देषु पञ्च चान्द्रा मासाः द्वे दिने सप्तत्रिंशन्नाड्यः पञ्चचत्वारिंशत् पलानि पञ्चदशाक्षराणि च तथा च किञ्चिदधिकानि नवदिनान्यवधिपूर्तेरधिकानि जातानि ज्योतिषां नक्षत्राणां व्यतिक्रमात् सूर्येण चन्द्रेण च लङ्घनात् उपजायतः अधिकौ भवतः ॥३॥",
+      "chapter": 52,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "सर्वं यथावच्चरितं यद्यदेभिः प्रतिश्रुतम् । एवमेतद्‌ध्रुवं ज्ञात्वा ततो बीभत्सुरागतः ॥५॥",
+      "english": "They all have duly acted up to what they promised. Knowing all for certain Arjuna has come here.",
+      "bhavadeepa": "अत्र तु अर्धमासाश्च मासाश्च युज्यन्त इति ग्रहणात् त्रयोदशानां वर्षाणां चान्द्रमासाः षट्पञ्चाशदधिकं शतं भवन्तीति त एव गृहीता इति ज्ञेयम् । तथा च विजयदशम्यां द्यूते पाण्डवपराजयः । लोके तस्यैव प्रायेण द्यूतकालत्वात् । ग्रीष्मे च गोग्रहार्थं प्रवृत्ता इत्युक्तम् । तेन विजयदशम्यामागामिन्यां त्रयोदशाब्दपूरणं भविष्यतीति दुर्योधनप्रत्याशा । पाण्डवास्तु चान्द्राब्दमानेन त्रयोदशवत्सरानतिवाह्य कृतकृत्या अभूवन् । तत्र विजयदशमीतः पूर्वं पञ्चमासाः द्वादश दिनानि प्रकटीभवितव्यम् । तत्र दर्शान्तमासे चैत्रकृष्णसप्तम्यामाविर्भूताः प्रतिज्ञां निस्तीर्यैव कानिचिदधिकान्यपि दिनानि अतिवाह्य आविभूता इत्यर्थः ॥४॥",
+      "chapter": 52,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "सर्वे चैव महात्मानः सर्वे धर्मार्थकोविदाः । येषां युधिष्ठिरो राजा कस्माद्धर्मेऽपराध्नुयुः ॥६॥",
+      "english": "All of them are noble and well acquainted with virtue and worldly profit. They have Yudhishthira as their king. How can they injure virtue?",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "अलुब्धाश्चैव कौन्तेयाः कृतवन्तश्च दुष्करम् । न चापि केवलं राज्यमिच्छेयुस्तेऽनुपायतः ॥७॥",
+      "english": "The sons of Kunti are not avaricious and they have performed a work which it is greatly difficult to do. They do not wish to acquire kingdom by unfair means.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "तदैव ते हि विक्रान्तुमीषुः कौरवनन्दनाः । धर्मपाशनिबद्धास्तु न चेलुः क्षत्रियव्रतात् ॥८॥",
+      "english": "(If so) the descendants of Kuru would have liked to show their prowess at that time; virtuous as they are, they did not deviate from the duties of the Kshatriyas.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "यच्चानृत इति ख्यायाद्यः स गच्छेत् पराभवम् । वृणुयुर्मरणं पार्था नानृतत्वं कथंचन ॥९॥",
+      "english": "Whoever will regard them as dishonest will meet with discomfiture today. The sons of Pritha will rather invite death but will never speak an untruth.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "प्राप्तकाले तु प्राप्तव्यं नोत्सृजेयुर्नरर्षभाः । अपि वज्रभृता गुप्तं तथावीर्या हि पाण्डवाः ॥१०॥",
+      "english": "Those great men, the Pandavas, powerful like him (Indra), will never part with a thing that comes to them in due time even if it is protected by the holder of thunder (Indra).",
+      "bhavadeepa": "यच्च यदि च पाण्डवमनृतोऽयमर्जुन इति ख्यायात् कथयेत् स पराभवं गच्छेत् ॥९॥",
+      "chapter": 52,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "प्रतियुध्येम समरे सर्वशस्त्रभृतां वरम् । तस्माद्यदत्र कल्याणं लोके सद्भिरनुष्ठितम् ॥ तत् संविधीयतां शीघ्रं मा वो ह्यर्थोऽभ्यगात् परम् ॥११॥",
+      "english": "We shall have to content against, in battle, the foremost of all of all heroes; let such arrangements be made speedily, which are good and approved by the honest so that our properties may not pass into the hands of the enemies. O Kaurava, O emperor, I have never seen a battle in which one party is sure to come off victorious. (Besides) Arjuna has come. When a battle begins there is victory and defeat, prosperity and adversity. Therefore one must have either of the two. I have observed it without doubt.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः",
+      "combined_translation": "11-13"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "न हि पश्यामि सङ्ग्रामे कदाचिदपि कौरव । एकान्तसिद्धिं राजेन्द्र संप्राप्तश्च धनंजयः ॥१२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "संप्रवृत्ते तु सङ्ग्रामे भावाभावौ जयाजयौ । अवश्यमेकं स्पृशतो दृष्टमेतदसंशयम् ॥१३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः",
+      "english_ref": 11,
+      "combined_translation": "11-13"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "तस्माद्युद्धोचितं कर्म कर्म वा धर्मसंहितम् । क्रियतामाशु राजेन्द्र संप्राप्तश्च धनञ्जयः ॥१४॥",
+      "english": "Whether it is right or not you should, O king, make arrangements speedily for the battle for Arjuna has come.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "दुर्योधन उवाच । नाहं राज्यं प्रदास्यामि पाण्डवानां पितामह । युद्धोपचारिकं यत्तु तच्छीघ्रं प्रविधीयताम् ॥१५॥",
+      "english": "Duryodhana said I shall not, O grandfather, give back their kingdom to Pandavas. Therefore without delay, make arrangements for the battle.",
+      "bhavadeepa": "धर्मसंहितं कर्म अयुद्धेन एतैः सह ऐक्यं गत्वा राज्यप्रदानम् ॥१४॥",
+      "chapter": 52,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "भीष्म उवाच । अत्र या मामिका बुद्धिः श्रूयतां यदि रोचते । सर्वथा हि मया श्रेयो वक्तव्यं कुरुनन्दन ॥१६॥",
+      "english": "Bhishma said Hear what I think about this, if you like. I should always speak what is good, O descendant of Kuru.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "क्षिप्रं बलचतुर्भागं गृह्य गच्छ पुरं प्रति । ततोऽपरश्चतुर्भागो गाः समादाय गच्छतु ॥१७॥",
+      "english": "Quickly proceed towards the city with onefourth of the army. Let the other fourth part go away with the kine.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "वयं चार्धेन सैन्यस्य प्रतियोत्स्याम पाण्डवम् । अहं द्रोणश्च कर्णश्च अश्वत्थामा कृपस्तथा । प्रतियोत्स्याम बीभत्सुमागतं कृतनिश्चयम् ॥१८॥",
+      "english": "With half the army we shall fight with Arjuna. Myself, Drona, Karna, the son of Drona, as well as Sharadvata's son, Shall firmly fight with Arjuna or the king of Matsya if he has come back or even with the performer of hundred sacrifices. I shall face them like the bank (obstructing the motion of the) ocean.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः",
+      "combined_translation": "18-19"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "मत्स्यं वा पुनरायातमागतं वा शतक्रतुम् । अहमावारयिष्यामि वेलेव मकरालयम् ॥१९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः",
+      "english_ref": 18,
+      "combined_translation": "18-19"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "वैशम्पायन उवाच । तद्वाक्यं रुरुचे तेषां भीष्मणोक्तं महात्मना । तथा हि कृतवान् राजा कौरवाणामनन्तरम् ॥२०॥",
+      "english": "Vaishampayana said These words of the great Bhishma found favour with them and the king of Kauravas immediately carried them out.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "भीष्मः प्रस्थाप्य राजानं गोधनं तदनन्तरम् । सेनामुख्यान् व्यवस्थाप्य व्यूहितुं संप्रचक्रमे ॥२१॥",
+      "english": "Having sent away the king and thereafter the precious kine Bhishma addressed himself for arranging his troops in battle array.",
+      "bhavadeepa": "अनन्तरम् अविलम्बितम् ॥२०॥",
+      "chapter": 52,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "भीष्म उवाच । आचार्य मध्ये तिष्ठ त्वमश्वत्थामा तु सव्यतः । कृपः शारद्वतो धीमान् पार्श्वं रक्षतु दक्षिणम् ॥२२॥",
+      "english": "Bhishma said Stand you, O preceptor, in the middle; let Ashvathama defend the left wing and the intelligent son of Sharadvata Kripa protect the right wing.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "अग्रतः सूतपुत्रस्तु कर्णस्तिष्ठतु दंशितः । अहं सर्वस्य सैन्यस्य पश्चात् स्थास्यामि पालयन् ॥२३॥",
+      "english": "Let Karna, the son of charioteer, clad in a coat of mail, stand in the front. And I shall command the entire army in the rear.",
+      "bhavadeepa": null,
+      "chapter": 52,
+      "parva_name": "विराटपर्व",
+      "upaparva_name": "गोहरणपर्व",
+      "adhyaya_name": "द्विपञ्चाशत्तमोऽध्यायः"
+    }
+  ]
+}

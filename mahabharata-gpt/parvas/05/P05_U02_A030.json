@@ -1,0 +1,507 @@
+{
+  "adhyaya_id": "P05_U02_A030",
+  "book": 5,
+  "parva_name": "उद्योगपर्व",
+  "upaparva_name": "सञ्जययानपर्व",
+  "adhyaya_name": "त्रिंशोऽध्यायः",
+  "chapter": 30,
+  "verse_count": 49,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "सञ्जय उवाच।\n              आमन्त्रये त्वां नरदेवदेव गच्छाम्यहं पाण्डव स्वस्ति तेऽस्तु। कच्चिन्न वाचा वृजिनं हि किञ्चिदुच्चारितं मे मनसोऽभिषङ्गात् ॥१॥",
+      "english": "Sanjaya said After bidding you adieu, O god among men, shall I go awayo lord, O son of Pandu, may it be well with you. Has any objectionable language been uttered by me, in the heat of the moment.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "जनार्दनं भीमसेनार्जुनौ च माद्रीसुतौ सात्यकिं चेकितानम्। आमन्त्र्य गच्छामि शिवं सुखं वः सौम्येन मां पश्यत चक्षुषा नृपाः ॥२॥",
+      "english": "After bidding adieu also to Janardana, Bhimasena, Arjuna, the two sons of Madri, Satyaki and Chekitana, shall I go away. May happiness and prosperity be yours. May the king look upon us with an eye of good will.",
+      "bhavadeepa": "आमन्त्रय इति । अभिषङ्गात् आवेशात् ॥१॥",
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "युधिष्ठिर उवाच।\n              अनुज्ञातः सञ्जय स्वस्ति गच्छ न नः स्मरस्यप्रियं जातु विद्वन्। विद्मश्च त्वां ते च वयं च सर्वे शुद्धात्मानं मध्यगतं सभास्थम् ॥३॥",
+      "english": "Yudhishthira said Perinitted by ourselves, go away 0 Sanjaya, May you fare well. Do not, O learned man, think ill of us. They and ourselves all know you to be a pure-souled man, in the midst of (their) court.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "आप्तो दूतः सञ्जय सुप्रियोऽसि कल्याणवाक् शीलवांस्तृप्तिमांश्च। न मुह्येस्त्वं सञ्जय जातु मत्या न च क्रुद्ध्येरुच्यमानो दुरुक्तैः ॥४॥",
+      "english": "As an enjoy sent (by them) O Sanjaya, you have made yourself dear to us and you are of peaceful speech, well behaved and satisfy every body. You are not ill disposed towards us and through spoken to harshly you are never angry.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "न मर्मगां जातु वक्ताऽसि रूक्षां नोपश्रुतिं कटुकां नोत मुक्ताम्। धर्मारामामर्थवतीमहिंस्रामेतां वाचं तव जानीम सूत ॥५॥",
+      "english": "You are not a speaker of cutting and rude words, nor of harsh or false words. We are aware that your words are based on the principles of virtue, pregnant with meaning and humane, O Suta.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "त्वमेव नः प्रियतमोऽसि दूत इहागच्छेद्विदुरो वा द्वितीयः। अभीक्ष्णदृष्टोऽसि पुरा हि नस्त्वं धनञ्जयस्यात्मसमः सखाऽसि ॥६॥",
+      "english": "You are our favorite; Vidura is the only other envoy that can come here. In former days you were often seen by us and you are our friend like Dhananjaya.",
+      "bhavadeepa": "उपश्रुतिं वार्तां रूक्षां मर्मगां च नो वक्ताऽसि कटुकां नीरसां मुक्ताम् अप्रकृतां कार्यहीनां वा ॥५॥",
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "इतो गत्वा सञ्जय क्षिप्रमेव उपातिष्ठेथा ब्राह्मणान् ये तदर्हाः। विशुद्धवीर्याश्चरणोपपन्नाः कुले जाताः सर्वधर्मापपन्नाः ॥७॥",
+      "english": "Departing from here, O Sanjaya, you should speedily wait on these Brahmanas, who are endued with the practice of pure energy, born in high family and endued with all the virtues.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "स्वाध्यायिनो ब्राह्मणा भिक्षवश्च तपस्विनो ये च नित्या वनेषु। अभिवाद्य वै मद्वचनेन वृद्धास्तथेतरेषां कुशलं वदेथाः ॥८॥",
+      "english": "And those Brahmanas who are devoted to study and devotees living on arms and those who always dwell in the forests. Greeting all these on my behalf, you should enquire the health of these old people and of others as well.",
+      "bhavadeepa": "चरणं ब्रह्मचर्येणाध्ययनम् ॥७॥",
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "पुरोहितं धृतराष्ट्रस्य राज्ञस्तथाऽऽचार्यानृत्विजो ये च तस्य। तैश्च त्वं तात सहितैर्यथार्हं सङ्गच्छेथाः कुशलेनैव सूत ॥९॥",
+      "english": "You should also meet the priest of Dhritarashtra and all his preceptors and Ritvijas and ask them about their health O Suta.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "अश्रोत्रिया ये च वसन्ति वृद्धा मनस्विनः शीलबलोपपन्नाः। आशंसन्तोऽस्माकमनुस्मरन्तो यथाशक्ति धर्ममात्रां चरन्तः ॥१०॥",
+      "english": "And those, who though not of good blood, are aged, spirited, endued with behaviour and strength, who remember and expect us and practise the slightest virtue, according to their means.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "श्लाघस्व मां कुशलिनं स्म तेभ्यो ह्यनामयं तात पृच्छेर्जघन्यम्। ये जीवन्ति व्यवहारेण राष्ट्रे ये पालयन्तो निवसन्ति राष्ट्रे॥११॥",
+      "english": "Inform them of my good health and enquire of them about theirs, as also those who live in the kingdom carrying on the traders and those who live in the kingdom maintaining it (by filling offices of the state).",
+      "bhavadeepa": "अश्रोत्रियाः अत्रैवर्णिकाः शुद्रादयः वृद्धत्वाच्च धर्ममात्रां धमलेशं चरन्तः ॥१०॥",
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "आचार्य इष्टो नयगो विधेयो वेदानभीप्सन् ब्रह्मचर्यं चचार। योऽस्त्रं चतुष्पात्पुनरेव चक्रे द्रोणः प्रसन्नोऽभिवाद्यस्त्वयाऽसौ ॥१२॥",
+      "english": "Our preceptor Drona, who is well versed in the code of morality and who practised the Brahmacharya life wishing for a knowledge of the Vedas and who made the four Padas (viz., mantra, upachara, prayoga and sanhara) his weapon, should be pleased by you after being duly greeted.",
+      "bhavadeepa": "श्लाघस्व स्तुहि पूर्वं जघन्यं पश्चात्तेभ्यस्तेषामनामयं पृच्छेः । व्यवहारेण वाणिज्यादिना पालयन्तः स्थानाधिकारिणः ॥११॥",
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "अधीतविद्यश्चरणोपपन्नो योऽस्त्रं चतुष्पात्पुनरेव चक्रे। गन्धर्वपुत्रप्रतिमं तरस्विनं तमश्वत्थामानं कुशलं स्म पृच्छेः ॥१३॥",
+      "english": "You should also enquire about the health of Ashvathama who is endued with the practice of studying and who has read the Vedas and also again has made the four Pandas his weapon and who is strong as the son of a Gandharva.",
+      "bhavadeepa": "चतुष्पात् मन्त्र उपचारः प्रयोगः संहारश्चेति चत्वारः पादा अस्येति अस्त्रम् ॥१२॥",
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "शारद्वतस्यावसथं स्म गत्वा महारथस्यात्मविदां वरस्य। त्वं मामभीक्ष्णं परिकीर्तयन् वै कृपस्य पादौ सञ्जय पाणिना स्पृशेः ॥१४॥",
+      "english": "Going to the residence of the son of Sharadvata, of mighty prowess and the chief among those who have a knowledge of self, you should again and again greet him on my behalf and touch the feet of Kripa, O Sanjaya, with your hands.",
+      "bhavadeepa": "गन्धर्वेति सौन्दर्यं सङ्गीतं च तस्मिन् द्योतितम् ॥१३॥",
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "यस्मिन् शौर्यमानृशंस्यं तपश्च प्रज्ञा शीलं श्रुतिसत्त्वे धृतिश्च। पादौ गृहीत्वा कुरुसत्तमस्य भीष्मस्य मां तत्र निवेदयेथाः ॥१५॥",
+      "english": "You should also, touching the feet of that chief among the Kurus, Bhishma in whom are centered heroism, humility, devotion, wisdom, good behaviour, great learning, goodness and prowess, submit my proposals to him.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "प्रज्ञाचक्षुर्यः प्रणेता कुरूणां बहुश्रुतो वृद्धसेवी मनीषी। तस्मै राज्ञे स्थविरायाभिवाद्य आचक्षीथाः सञ्जय मामरोगम् ॥१६॥",
+      "english": "Saluting the aged king too, who sees by the eyes of wisdom, is the leader of the Kurus, of great learning, who waits upon the old and wise, you should tell him that I am without any disease.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "ज्येष्ठः पुत्रो धृतराष्ट्रस्य मन्दो मूर्खः शठः सञ्जय पापशीलः। प्रशस्ता वै पृथिवी येन सर्वा सुयोधनं कुशलं तात पृच्छेः ॥१७॥",
+      "english": "You should also enquire, about the health of Suyodhana, the eldest son of Dhritarashtra, who is dull-headed, ignorant wicked and addicted to vice and, by whom, O Sanjaya, all this world is being ruled over.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "भ्राता कनीयानपि तस्य मन्दस्तथाशीलः सञ्जय सोऽपि शश्वत्। महेष्वासः शूरतमः कुरूणां दुःशासनः कुशलं तात वाच्यः ॥१८॥",
+      "english": "You should also enquire, about the health of his younger brother Dushasana, who is dullheaded and of the same behavior (as his elder brother) and who is a great bow man and one of the best heroes among the Kurus.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "यस्य कामो वर्तते नित्यमेव नान्यच्छमाद्भारतानामिति स्म। स बाह्लिकानामृषभो मनीषी त्वयाऽभिवाद्यः सञ्जय साधुशीलः ॥१९॥",
+      "english": "The one who has no other wish except that there should be peace among the Bharata race, the best among the Balhika's, a wise and honest man, should also be saluted by you.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "गुणैरनेकैः प्रवरैश्च युक्तो विज्ञानवान्नैव च निष्ठुरो यः। स्नेहादमर्षं सहते सदैव स सोमदत्तः पूजनीयो मतो मे॥२०॥",
+      "english": "In my opinion Somadatta too should be saluted by you who is endued with many good qualities, wise and merciful and who always subdues his anger towards the Kurus out of affection for them.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "अर्हत्तमः कुरुषु सौमदत्तिः स नो भ्राता सञ्जय मत्सखा च। महेष्वासो रथिनामुत्तमोऽर्हः सहामात्यः कुशलं तस्य पृच्छेः॥२१॥",
+      "english": "The most venerable among the Kurus is the son of Somadatta; he is our brother, 0 Sanjaya and my friend as well. He is a good bowman a car-warrior as well and with his counselor, worthy of the highest respect. You should enquire about his health.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "ये चैवान्ये कुरुमुख्या युवानः पुत्राः पौत्रा भ्रातरश्चैव ये नः। यं यमेषां मन्यसे येन योग्यं तत्तत्प्रोच्यानामयं सूत वाच्याः ॥२२॥",
+      "english": "Those others, who are high among the Kurus and young and those who are as sons, grand-sons and brothers to us, should also be asked, O Suta, regarding their health, in terms which you consider suitable for each.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "ये राजानः पाण्डवायोधनाय समानीता धार्तराष्ट्रेण केचित्। वशातयः शाल्वकाः केकयाश्च तथाऽवष्ठा ये त्रिगर्ताश्च मुख्याः ॥२३॥",
+      "english": "Those kings who have been brought together by the son of Dhritarashtra for fighting with the Pandavas, the Vashati, the Shalvakas, the Kaikeyas, the Ambasthan and the chief among the Trigartas.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "प्राच्योदीच्या दाक्षिणात्याश्च शूरास्तथा प्रतीच्याः पार्वतीयाश्च सर्वे। अनृशंसाः शीलवृत्तोपपन्नास्तेषां सर्वेषां कुशलं सूत पृच्छेः ॥२४॥",
+      "english": "Those that have come from the east and the north, from the south and the west and all those heroes that have come from the hilly districts, you should ask O Suta, regarding their welfare; (and specially) those among them that are human and endued with good behaviour.",
+      "bhavadeepa": "पाण्डवायोधनाय पाण्डवैः सह युद्धाय तथाऽवन्त्या इत्यपि पाठः ॥२३॥",
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "हस्त्यारोहा रथिनः सादिनश्च पदातयश्चार्यसङ्घा महान्तः। आख्याय मां कुशलिनं स्म नित्यमनामयं परिपृच्छेः समग्रान् ॥२५॥",
+      "english": "Of those who ride on elephants and chariots and horses and those who fight on foot, of that assemblage of great and honorable men after informing my welfare, you should ask regarding their health collectively.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "तथा राज्ञो ह्यर्थयुक्तानमात्यान् दौवारिकान् ये च सेनां नयन्ति। आयव्ययं ये गमयन्ति नित्यमर्थांश्च ये महतश्चिन्तयन्ति ॥२६॥",
+      "english": "In the same way you should enquire about them that are the financial ministers of the king and the door-keepers and those that lead the army and those that calculate the revenue and expenditure and the great men who ever think about the welfare of the kingdom,",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "वृन्दारकं कुरुमध्येष्वमूढं महाप्रज्ञं सर्वधर्मोपपन्नम्। न तस्य युद्धं रोचते वै कदाचिद्वैश्यापुत्रं कुशलं तात पृच्छेः ॥२७॥",
+      "english": "You should also enquire about the health of the son of Dhritarashtra by his Vaishya wife, who is the best among the Kurus and one among them, not a fool, of great wisdom and endued with all virtues. By no means is he inclined to fight.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "निकर्तने देवने योऽद्वितीयश्छन्नोपधः साधुदेवी मताक्षः। यो दुर्जयो देवरथेन सङ्ख्ये स चित्रसेनः कुशलं तात वाच्यः ॥२८॥",
+      "english": "The one who has no rival in the tricks of dice, whose tricks cannot be detected, who plays dice and who can handle the dice cleverly, who is hard to defeat in the game, viz., Chitrasena, should also be asked concerning his health.",
+      "bhavadeepa": "वृन्दारकं श्रेष्ठम् ॥२७॥",
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "गान्धारराजः शकुनिः पार्वतीयो निकर्तनीयोऽद्वितीयोऽक्षदेवी। मानं कुर्वन् धार्तराष्ट्रस्य सूत मिथ्याबुद्धेः कुशलं तात पृच्छेः ॥२९॥",
+      "english": "The, king of Gandhara, Shakuni, who comes from the hills and who too is unrivaled in the tricks of the dice and who contributes to the honour of the son Dhritarashtra, of false intelligence, should, () Suta, be asked concerning his health.",
+      "bhavadeepa": "निकर्तनेऽर्थापहारे साध्ये । प्रथमान्तपाठेऽर्थापहर्ता । छन्नोपधो गुप्तछलः ॥२८॥",
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "यः पाण्डवानेकरथेन वीरः समुत्सहत्यप्रधृष्यन् विजेतुम्। यो मुह्यतां मोहयिताऽद्वितीयो वैकर्तनः कुशलं तस्य पृच्छेः ॥३०॥",
+      "english": "The heroes, who above from his car, excepts to defeat the sons of Pandu who are hard to vanquish, the one who is without a rival in de-fooling the fools (sons of Dhritarashtra) viz., (Karna) the son of Vaikartana should also be asked concerning his health.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "स एव भक्तः स गुरुः स भर्ता स वै पिता स च माता सुहृच्च। अगाधबुद्धिर्विदुरो दीर्घदर्शी स नो मन्त्री कुशलं तं स्म पृच्छेः ॥३१॥",
+      "english": "He who is devoted to our interests, who is our preceptor and lord, who is our father, mother and friend, Vidura of immeasurable wisdom and of good foresight, he who is our adviser, should also be asked concerning his health.",
+      "bhavadeepa": "मुह्यतां धार्तराष्ट्राणाम् ॥३०॥",
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "वृद्धाः स्त्रियो याश्च गुणोपपन्ना ज्ञायन्ते नः सञ्जय मातरस्ताः। ताभिः सर्वाभिः सहिताभिः समेत्य स्त्रीभिः सवृद्धाभिरभिवादं वदेथाः ॥३२॥",
+      "english": "The aged ladies and those among them who being endued with good qualities are regarded by us, O Sanjaya, as our mothers,. should be greeted when they are all together.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "कच्चित् पुत्रा जीवपुत्राः सुसम्यग्वर्तन्ते वो वृत्तिमनृशंसरूपाः। इति स्मोक्त्वा सञ्जय ब्रूहि पश्चादजातशत्रुः कुशली सपुत्रः ॥३३॥",
+      "english": "“O you with living sons, do your sons treat you properly\" saying this, O Sanjaya, afterwards tell them that he who has created no enemies is doing well with his sons.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "या नो भार्याः सञ्जय वेत्थ तत्र तासां सर्वासां कुशलं तात पृच्छेः। सुसंगुप्ताः सुरभयोऽनवद्याः कच्चिद्गृहानावसथाप्रमत्ताः ॥३४॥",
+      "english": "Those who are like our wives, O Sanjaya, should all be asked regarding their health and address them thus-\"Are your leading careful lives in your houses, well protected and with fragrant fame and unblamable conduct?",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "कच्चिद्वृत्तिं श्वशुरेषु भद्राः कल्याणीं वर्तध्वमनृशंसरूपाम्। यथा च वः स्युः पतयोऽनुकूलास्तथा वृत्तिमात्मनः स्थापयध्वम् ॥३५॥",
+      "english": "O gentle ladies, is your treatment towards your fathers-in-law gentle and considerate? You should secure for yourself such behaviour as will make your husbands kind towards you.\"",
+      "bhavadeepa": "न इति धार्तराष्ट्रान् अन्तर्भाव्योक्तं तेषां भार्या इत्यर्थः । सुसंगुप्ता इति कुशलप्रश्नप्रकारकथनम् ॥३४॥",
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "या नः स्नुषाः सञ्जय वेत्थ तत्र प्राप्ताः कुलेभ्यश्च गुणोपपन्नाः। प्रजावत्यो ब्रूहि समेत्य ताश्च युधिष्ठिरो वोऽभ्यवदत् प्रसन्नः ॥३६॥",
+      "english": "Going to those who are like our daughtersin-law, endued with good qualities who have been brought there from good families and with issues, tell them that Yudhishthira who is well disposed towards them sends his greetings.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "कन्याः स्वजेथाः सदनेषु सञ्जय अनामयं मद्वचनेन पृष्ट्वा। कल्याणा वः सन्तु पतयोऽनुकूला यूयं पतीनां भवतानुकूलाः ॥३७॥",
+      "english": "The daughters of your house, O Sanjaya, should be embraced by you and after asking them about their health on my behalf you should thus address them O blessed ones, may your husbands be favorably disposed towards you and may you be favorably disposed towards your husband.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "अलङ्कृता वस्त्रवत्यः सुगन्धा अबीभत्साः सुखिता भोगवत्यः। लघु यासां दर्शनं वाक् च लघ्वी वेशस्त्रियः कुशलं तात पृच्छेः ॥३८॥",
+      "english": "You should also, enquire about the health of these ladies who wear ornaments and good cloths on their person, use perfumery, live without any fear, are made happy and in the enjoyment of comforts and whose looks are mild and speech is low.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "दास्यः स्युर्या ये च दासाः कुरूणां तदाश्रया बहवः कुब्जखञ्जाः। आख्याय मां कुशलिनं स्म तेभ्योऽप्यनामयं परिपृच्छेर्जघन्यम् ॥३९॥",
+      "english": "The maid-servants and the male servants and the many hunch-backed and lame men who have been sheltered by them too should after being informed of my welfare be asked regarding their health and spoken to in these terms.",
+      "bhavadeepa": "लघु शीघ्रहारि वेशास्त्रियो वेश्याः ॥३८॥",
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "कच्चिद्वृत्तिं वर्तते वै पुराणीं कच्चिद्भोगान् धार्तराष्ट्रो ददाति। अङ्गहीनान् कृपणान् वामनान् वा यानानृशंस्यो धृर्तराष्ट्रो बिभर्ति ॥४०॥",
+      "english": "Does the son of Dhritarashtra continue the stipend granted you in old and does he allow you comforts. Those persons of defective limbs, idiots and dwarfs whom the humane Dhritarashtra supports and the many blind persons and decrepit ones and those who live by their hands (having no legs) that are there should be first told of my welfare and then asked about theirs.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः",
+      "combined_translation": "40-41"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "अन्धांश्च सर्वान् स्थविरांस्तथैव हस्त्याजीवा बहवो येऽत्र सन्ति। आख्याय मां कुशलिनं स्म तेभ्योऽप्यनामयं परिपृच्छेर्जघन्यम् ॥४१॥",
+      "english": null,
+      "bhavadeepa": "आनृशंस्यं दयामर्हतीत्यानृशंस्यः ॥४०॥",
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः",
+      "english_ref": 40,
+      "combined_translation": "40-41"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "मा भैष्ट दुःखेन कुजीवितेन नूनं कृतं परलोकेषु पापम्। निगृह्य शत्रून् सुहृदोऽनुगृह्य वासोभिरन्नेन च वो भरिष्ये ॥४२॥",
+      "english": "Do not be sorry for this uncomfortable life; sins must surely have been committed by you in the life before; after destroying my enemies I shall support them with food and clothes and favour my friends.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "सन्त्येव मे ब्राह्मणेभ्यः कृतानि भावीन्यथो नो बत वर्तयन्ति। तान् पश्यामि युक्तरूपांस्तथैव तामेव सिद्धिं श्रावयेथा नृपं तम् ॥४३॥",
+      "english": "Ask the king (Duryodhana) if the stipends made by me to Brahmanas are the same (as before); I shall see them properly rewarded and attain to their objects.",
+      "bhavadeepa": "शत्रून् धार्तराष्ट्रान् निगृह्य वः युष्मान् भरिष्ये पोषयिष्ये इति ब्रूया इति शेषः ॥४२॥",
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "ये चानाथा दुर्बलाः सर्वकालमात्मन्येव प्रयतन्तेऽथ मूढाः। तांश्चापि त्वं कृपणान् सर्वथैवास्मद्वाक्यात् कुशलं तात पृच्छेः ॥४४॥",
+      "english": "And those weak persons who have no body to protect them and those that are vainly striving to earn bread for themselves and also those that are ignorant and imbecile should also be asked, regarding their health on my behalf.",
+      "bhavadeepa": "सन्तीति मे मया कृतानि वत्सरदेयानि नो वर्तयन्ति न चालयन्ति त्वदीया अधिकारिणः तान्यहं यथा यथावत्पश्यामि तथैव तान् सिद्धिं त्वद्दत्तं सम्यक् परिपालयामीति दूतद्वारा मां श्रावयेथा इति तं नृपं दुर्योधनं ब्रूहीति शेषः । एतेन ब्राह्मणवृत्तिषु पक्षपातो दुर्योधने च कनिष्ठत्वादाज्ञा प्रतिपालनौचित्यं च दर्शितम्॥४३॥",
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "ये चाप्यन्ये संश्रिता धार्तराष्ट्रान्नानादिग्भ्योऽभ्यागताः सूतपुत्र। दृष्ट्वा तांश्चैवार्हतश्चापि सर्वान् संपृच्छेथाः कुशलं चाव्ययं च ॥४५॥",
+      "english": "Those also, that have taken refuge with the sons of Dhritarashtra, coming from different directions, should be asked concerning their health.",
+      "bhavadeepa": "आत्मन्येव प्रयतन्ते न तु कर्तुं शक्नुवन्ति ॥४४॥",
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "एवं सर्वानागताभ्यागतांश्च राज्ञो दूतान् सर्वदिग्भ्योऽभ्युपेतान्। पृष्ट्वा सर्वान् कुशलं तांश्च सूत पश्चादहं कुशली तेषु वाच्यः ॥४६॥",
+      "english": "In the same way all the ambassadors, of the king (Dhritarashtra) who have come there from all directions, should first be asked about their health and afterwards they should be told that I am doing well.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "न हीदृशाः सन्त्यपरे पृथिव्यां ये योधका धार्तराष्ट्रेण लब्धाः। धर्मस्तु नित्यो मम धर्म एव महाबलः शत्रुनिबर्हणाय ॥४७॥",
+      "english": "There is not in the world anything equal to the warriors that have been gained by the son of Dhritarashtra on his side. Virtue is even on my side and virtue is my great strength for the destruction of my enemies.",
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "इदं पुनर्वचनं धार्तराष्ट्रं सुयोधनं सञ्जय श्रावयेथाः। यस्ते शरीरे हृदयं दुनोति कामः कुरूनसपत्नोऽनुशिष्याम् ॥४८॥",
+      "english": "You should, O Sanjaya, make Suyodhana, the son of Dhritarashtra hear these words \"The desire which is tormenting your heart, to rule the Kurus without any rival, has no justification for it. We shall do nothing that will not be agreeable to you. Either give me back the city of Indra or fight, you chief hero among the race of Bharata.\"",
+      "bhavadeepa": "नहीति । धर्मबलेनैव जयो भविष्यति न सहायैरित्यर्थः । नित्यः अविनाशिफलः ॥४७॥",
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः",
+      "combined_translation": "48-49"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "न विद्यते युक्तिरेतस्य काचिन्नैवंविधाः स्याम यथा प्रियं ते। ददस्व वा शक्रपुरीं ममैव युद्ध्यस्व वा भारतमुख्यवीर ॥४९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 30,
+      "parva_name": "उद्योगपर्व",
+      "upaparva_name": "सञ्जययानपर्व",
+      "adhyaya_name": "त्रिंशोऽध्यायः",
+      "english_ref": 48,
+      "combined_translation": "48-49"
+    }
+  ]
+}

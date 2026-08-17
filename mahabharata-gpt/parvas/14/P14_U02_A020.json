@@ -1,0 +1,311 @@
+{
+  "adhyaya_id": "P14_U02_A020",
+  "book": 14,
+  "parva_name": "आश्वमेधिकपर्व",
+  "upaparva_name": "अथानुगीतपर्व - २",
+  "adhyaya_name": "विंशोऽध्यायः",
+  "chapter": 20,
+  "verse_count": 28,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वासुदेव उवाच।\n              अत्राप्युदाहरन्तीममितिहासं पुरातनम्। दम्पत्योः पार्थ संवादो योऽभवद्भरतर्षभ॥१॥",
+      "english": "Regarding it is cited the old narrative, O son of Pritha, of the discourse that took place between a married couple.",
+      "bhavadeepa": "षण्मासानिति। \"षड्भिर्मासैस्तु युक्तस्य नित्ययुक्तस्य देहिनः। आनन्दः परमो गुह्यः सम्यग्योगः प्रवर्तते\" इति मैत्रायणीश्रुतेः। सुखसाध्यत्वादादरणीयो योग इत्यर्थः॥६६॥",
+      "chapter": 20,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "ब्राह्मणी ब्राह्मणं कञ्चिज्ज्ञानविज्ञानपारगम्। दृष्ट्वा विविक्त आसीनं भार्या भर्तारमब्रवीत्॥२॥",
+      "english": "A certain Brahmana's wife, seeing the Brahmana, her husband, who was a complete master of every kind of knowledge and wisdom, seated in seclusion, said to him, Into what region shall I go, depending on you as my husband, you who are seated, having cast off all (religious) acts, who are harsh in your conduct towards me, and who undiscerning?",
+      "bhavadeepa": "भुक्तं भुक्तमिदं कोष्ठे इत्यादिना कृतस्य प्रश्नस्य उत्तरं \"अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः। प्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम्\" इति गीतोक्तमेव विवृणोति- अत्रापीत्यादिना। अत्र प्रश्ने विषये इतिहासमपीति सम्बन्धः॥१॥",
+      "chapter": 20,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "विंशोऽध्यायः",
+      "combined_translation": "2-3"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "कं नु लोकं गमिष्यामि त्वामहं पतिमाश्रिता। न्यस्तकर्माणमासीनं कीनाशमविचक्षणम्॥३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "विंशोऽध्यायः",
+      "english_ref": 2,
+      "combined_translation": "2-3"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "भार्याः पतिकृताँल्लोकानाप्नुवन्तीति नः श्रुतम्। त्वामहं पतिमासाद्य कां गमिष्यामि वै गतिम्॥४॥",
+      "english": "We have heard that a wife attains to those regions which are acquired by her husband. What, indeed, is the goal that I shall attain, having obtained you for my husband.",
+      "bhavadeepa": "कर्म अग्निहोत्रादिकं न्यस्तं येन तं कीनाशं कर्कशं मयि निरनुक्रोशम् अविचक्षणं मम अनन्यगतिकत्वमजानन्तम्॥३॥",
+      "chapter": 20,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "एवमुक्तः स शान्तात्मा तामुवाच हसन्निव। सुभगे नाभ्यसूयामि वाक्यस्यास्य तवातघे॥५॥",
+      "english": "Thus questioned, that Brahmana of tranquil soul then said to her, smilingly, O blessed dame, I am not offended with these words of yours, O sinless one.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "ग्राह्यं दृश्यं च सत्यं वा यदिदं कर्म विद्यते। एतदेव व्यवस्यन्ति कर्म कर्मेति कर्मिणः॥६॥",
+      "english": "Whatever acts exist which are adopted with the help of others, which are seen and which are true, are done, as acts, by men, devoted to acts. are SO are",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "मोहमेव नियच्छन्ति कर्मणा ज्ञानवर्जिताः। नैष्कर्म्यं न च लोकेऽस्मिन् मुहूर्तमपि लभ्यते॥७॥",
+      "english": "Those persons who are destitute of knowledge, only store delusion by deeds. Freedom from acts, again, cannot even be momentarily attained in this world.",
+      "bhavadeepa": "ग्राह्यं दीक्षाव्रतादिकम् अत एव दृश्यं लोकैः स्थूलत्वाद्द्रष्टुं योग्यम्॥६॥",
+      "chapter": 20,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "कर्मणा मनसा वाचा शुभं वा यदि वाशुभम्। जन्मादिमूर्तिभेदान्तं कर्म भूतेषु वर्तते॥८॥",
+      "english": "From birth to the attainment of a different form, action good or bad, and accomplished by deeds, mind, or speech, exists in all beings.",
+      "bhavadeepa": "कर्मणा शरीरायासेन॥७॥",
+      "chapter": 20,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "रक्षोभिर्वध्यमानेषु दृश्यद्रव्येषु वर्त्मसु। आत्मस्थमात्मना तेभ्यो दृष्टमायतनं मया॥९॥",
+      "english": "Those paths (of action) which characterised by visible objects (such as Somajuice and clarified butter for libations) being destroyed by Rakshasa, turning away from them I have perceived the scat (of the soul) that is in the body, with the help of the soul.",
+      "bhavadeepa": "जन्मादि जन्मस्थितिभङ्गम्। मूर्तिभेदो योनिनानात्वम्॥८॥",
+      "chapter": 20,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "यत्र तद्ब्रह्म निर्द्वन्द्वं यत्र सोमः सहाग्निना। व्यवायं कुरुते नित्यं धीरो भूतानि धारयन्॥१०॥",
+      "english": "There lives Brahma transcending all pairs of opposites; there Soma with Agni; and there the mover of the under standing, (viz., Vayu) always moves, upholding all creatures.",
+      "bhavadeepa": "दृश्यानि सोमाज्यादीनि द्रव्याणि येषु वर्त्मसु कर्ममार्गेषु रक्षोभिर्दुर्जनैर्वध्यमानेषु नाश्यमानेषु सत्सु तेभ्यो विरक्तेन मयेति शेषः। आयतनं भ्रूघ्राणमध्यस्थमविमुक्ताख्यम्॥९॥",
+      "chapter": 20,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "यत्र ब्रह्मादयो युक्तास्तदक्षरमुपासते। विद्वांसः सुव्रता यत्र शान्तात्मानो जितेन्द्रियाः॥११॥",
+      "english": "It is for that seat that the Grandfather Brahman and others, concentrated in Yoga, adorc thc Indestructible. It is for that seat that men of learning an excellent vows, of tranquil souls, and of senses completely controlled, strive.",
+      "bhavadeepa": "सोम इडा अग्निः पिङ्गला वरणानासीसंज्ञे सोऽविमुक्ते प्रतिष्ठितः सोऽविमुक्तः कस्मिन्प्रतिष्ठित इति वरणायां च नास्यां मध्ये प्रतिष्ठित इत्यादि भ्रुवोर्घ्राणस्य च यः सन्धिरिति जाबालश्रुतिप्रसिद्धेः व्यवायं सञ्चारं धीरो बुद्धिप्रेरको भूतानि धारयन्वायुः॥१०॥",
+      "chapter": 20,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "घ्राणेन न तदाध्रेयं नास्वाद्यं चैव जिह्वया। स्पर्शनेन तदस्पृश्यं मनसा त्ववगम्यते॥१२॥",
+      "english": "That is not capable of being smelt by the sense of smell; nor tasted by the tongue; or touched by the organs of It is by the mind that that is attained.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "चक्षुषामविषह्यं च यत्किञ्चिच्छ्रवणात् परम्। अगन्धमरसस्पर्शमरूपाशब्दलक्षणम्॥१३॥",
+      "english": "It is incapable of being conquered by the cye. It is above the sense of hearing. It is shorn of scent, taste, touch, and form as attributes.",
+      "bhavadeepa": "न तदाघ्रेयं तत् अक्षरम्॥१२॥",
+      "chapter": 20,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "यतः प्रवर्तते तन्त्रं यत्र च प्रतितिष्ठति। प्राणोऽपान: समानश्च व्यानश्चोदार एव च॥१४॥",
+      "english": "It is that from which proceeds the wellordained universe, and it that upon which it depends. The vital airs called Prana, Apana, Samana, Vyana and Udana, flow from it, and it is that into which they again enter. The vital airs Prana and Apana move between Samana and Vyana.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "विंशोऽध्यायः",
+      "combined_translation": "14-15"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "तत एव प्रवर्तन्ते तदेव प्रविशन्ति च। समानव्यानयोर्मध्ये प्राणापानौ विचेरतुः॥१५॥",
+      "english": null,
+      "bhavadeepa": "तन्त्रं सृष्ट्यादिव्यापारः एतदेवाह- प्राणोऽपान इत्यादिना॥१४॥",
+      "chapter": 20,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "विंशोऽध्यायः",
+      "english_ref": 14,
+      "combined_translation": "14-15"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "तस्मिल्लीने प्रलीयेत समानो व्यान एव च। अपानप्रणयोर्मध्ये उदानो व्याप्य तिष्ठति। तस्माच्छयानं पुरुषं प्राणापानौ न मुञ्चतः॥१६॥",
+      "english": "When the soul sleeps, both Samana and Vyana are absorbed. Between Apana and Frana, Udana lives, pervading all.",
+      "bhavadeepa": "प्राणापानयोः प्रवृत्तिरेव सृष्टिः प्रवेश एव प्रलयश्चेति भावः। समानेति। नाभिमण्डलस्थः समानः कृत्स्नदेहव्यापी व्यानः॥१५॥",
+      "chapter": 20,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "प्राणानामायतत्वेन तमुदानं प्रचक्षते। तस्मात् तपो व्यवस्यन्ति मद्गतं ब्रह्मवादिनः॥१७॥",
+      "english": "Hence, Prana and Apana do not desert a sleeping person. On account of its controlling all the vital airs, the controlling breath is so called Udana.",
+      "bhavadeepa": "तस्मिन् अपानसहिते प्राणे लीने भ्रूघ्राणमध्ये निरुद्धे सति उदानः सर्व सन्धिस्थः इति वचनात् शङ्कुभिश्चर्मेव उदानेन प्राणापानावायतौ यस्मात्कृतौ तस्मात् अनुक्राते उदाने शयानं पुरुषं प्राणापानौ न मुञ्चतः। विमुञ्चत इति पाठे शयानमित्यस्य मृतमित्यर्थः॥१६॥",
+      "chapter": 20,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "तेषामन्योन्यभक्षाणां सर्वेषां देहचारिणाम्। अग्निर्वैश्वानरो मध्ये सप्तधा दीव्यतेऽन्तरा॥१८॥",
+      "english": "Hence, utterers of Brahma practise penances which have myself for their goal. In the midst of all those vital airs which swallow up one another and move within the body, shines forth the fire called Vaishvanara made up of seven flames. The nose, the tongue, the eye, the skin, the car which numbers the fifth, the mind, and the understanding, these are the seven tongues of that Vaishvanara's flame. That which is smelt that which is seen, that which is drunk, that which is touched, as also that which is heard, that which is thought of, and that which is understood, these are the seven sorts of fuel for me. That which smells, that which eats, that which sces, that which touches, that which sees, that which touches, that which hears, numbering the fifth; that which thinks, and that which understands, these are the seven great officiating priests.",
+      "bhavadeepa": "प्राणानामिति। यतः प्राणानामायतत्वम् उदानाधीनम् अतस्तम् उदानम् उत्कर्षेण आनयति चेष्टयते प्राणानिति निर्वचनात्प्रचक्षते यस्मात्प्राणानां जीवोपाधीनाम् एकस्मिन् उदानेऽन्तर्भावः। तस्मात् तपः प्राणजयाख्यं भ्रुवोर्मध्ये प्राणभावेश्येत्येवंरूपम् आलोचनं वा आत्मनस्तत्तद्देहादिव्यतिरिक्तत्वस्य ब्रह्मवादिनो मद्गतं मयि मनश्चालके गतं निष्ठां प्राप्तं परात्मप्रापकं व्यवस्यन्ति निश्चिन्वन्तीत्यर्थः॥१७॥",
+      "chapter": 20,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "विंशोऽध्यायः",
+      "combined_translation": "18-22"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "घ्राणं जिहा च चक्षुश्चत्वक् च श्रोत्रं च पञ्चमम्। मनो बुद्धिश्च सप्तैता जिह्वा वैश्वानरार्चिषः॥१९॥",
+      "english": null,
+      "bhavadeepa": "मद्गतमित्यत्र मच्छब्दार्थं वैश्वानरं दर्शयति- तेषामिति। तेषां मध्ये समानस्थाने नाभिमञ्डले अन्तरा तस्यापि मध्ये॥१८॥",
+      "chapter": 20,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "विंशोऽध्यायः",
+      "english_ref": 18,
+      "combined_translation": "18-22"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "घ्रेयं दृश्यं च पेयं च स्पृश्यं श्रव्यं तथैव च। मन्तव्यमथ बोद्धव्यं ताः सप्त समिधो मम॥२०॥",
+      "english": null,
+      "bhavadeepa": "घ्राणघ्रेयघ्रात्रादयः सप्त सप्तकरण विषयकर्तृरूपाः॥१९॥",
+      "chapter": 20,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "विंशोऽध्यायः",
+      "english_ref": 18,
+      "combined_translation": "18-22"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "घ्राता भक्षयिता द्रष्टा स्प्रष्टा श्रोता च पञ्चमः। मन्ता बोद्धा च सप्तैते भवन्ति परमर्त्विजः॥२१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "घ्रेये पेये च दृश्ये च स्पृश्ये श्रव्ये तथैव च। मन्तव्येऽप्यथ बोद्धव्ये सुभगे पश्य सर्वदा॥२२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "विंशोऽध्यायः",
+      "english_ref": 18,
+      "combined_translation": "18-22"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "हवींष्यग्निषु होतार: सप्तधा सप्त सप्तसु। सम्यक् प्रक्षिप्य विद्वांसो जनयन्ति स्वयोनिषु॥२३॥",
+      "english": "Mark, O blessed one, learned sacrificers duly casting seven libations in seven ways in the seven fires, viz., that which is smelt, that which is drunk, that which is smelt, that which is drunk, that which is seen, that which is touched, as also that which is heard, that which is thought of, and that which is understood, create them in their own wombs. Earth, Wind, Ether, Weather, and Light numbering as the fifth, Mind and Understanding, these seven are called wombs (of all things). All the attributes which form the sacrificial offerings, enter into the attribute that is born of the fire; and having lived within that dwelling become reborn in their respective wombs. There also, viz., in that which generates all beings, they remain absorbed during the period for which dissolution lasts.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "विंशोऽध्यायः",
+      "combined_translation": "23-26"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "पृथिवी वायुराकाशमापो ज्योतिश्च पञ्चमम्। मनो बुद्धिश्च सप्तैता योनिरित्येव शब्दिताः॥२४॥",
+      "english": null,
+      "bhavadeepa": "तेषां मध्ये अग्निषु घ्राणाद्यभिमानिदेवतासु हवींषि घ्रेयादीनि होतारो विषयाणामाह्वातारस्तत्कल्पका इत्यर्थः। अमुमावहामुमावहेत्यावाहयति तदेव होतुर्होतृत्वमिति श्रौतनिर्वचनात् घ्राताऽहमित्यादयोऽभिमानाः तान्सर्वान्प्रक्षिप्य गुणा गुणेषु वर्त्तन्त इति मत्वा ये न सज्जन्ते ते विद्वांसो ब्रह्मभूताः जनयन्ति पृथिव्यादीन्वक्ष्यमाणान् स्वयोनिषु स्वं ब्रह्म तदेव योनिर्येषा तेषु अग्निषु॥२३॥",
+      "chapter": 20,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "विंशोऽध्यायः",
+      "english_ref": 23,
+      "combined_translation": "23-26"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "हविर्भूता गुणाः सर्वे प्रविशन्त्यग्निजं गुणम्। अन्तर्वासमुषित्वा च जायन्ते स्वासु योनिषु॥२५॥",
+      "english": null,
+      "bhavadeepa": "पृथिव्यादयोऽपि सङ्घातापन्नाः योनिश्चैतन्याभिव्यक्तिस्थानम्॥२४॥",
+      "chapter": 20,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "विंशोऽध्यायः",
+      "english_ref": 23,
+      "combined_translation": "23-26"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "तत्रैव च निरुध्यन्ते प्रलये भूतभावने। ततः सञ्जायते गन्धस्ततः सञ्जायते रसः॥२६॥",
+      "english": null,
+      "bhavadeepa": "हविर्भूतगुणाः घ्रेयादयो विषयाः अग्निजं गुणं गन्धादिज्ञानरूपां धीवृतिं प्रविशन्ति अन्तर्वासमिति णमुलन्तं सा वृत्तिश्च संस्कारात्मना चेतसि उषित्वा स्वासु योनिषु घ्राणादिषु जायते दृष्टं रूपादिकं सुषुप्त्यादौ वासनारूपेण चित्ते स्थितं पुनर्जागरे उत्पद्यत इत्यर्थः॥२५॥",
+      "chapter": 20,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "विंशोऽध्यायः",
+      "english_ref": 23,
+      "combined_translation": "23-26"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "ततः सञ्जायते रूपं ततः स्पर्शोऽभिजायते। ततः सञ्जायते शब्दः संशयस्तत्र जायते। ततः सञ्जायते निष्ठा जन्मैतत्सप्तधा विदुः॥२७॥",
+      "english": "From that is produced smell, from that is produced taste, from that is produced colour, and from that is produced touch; from that is produced sound; from that originates doubt; and from that is produce a resolution. Thus is what is known as the sevenfold creation.",
+      "bhavadeepa": "एतदेवाह तत्रैव अन्तरेव ततः अन्तर एव॥२६॥",
+      "chapter": 20,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "अनेनैव प्रकारेण प्रगृहीतं पुरातनैः। पूर्णाहुतिभिरापूर्णास्त्रिभिः पूर्यन्ति तेजसा॥२८॥",
+      "english": "It is thus that all this was comprehended by the ancients. By the three full and final libations, the full become full with light.",
+      "bhavadeepa": "संशयः संशयात्मकं मनः निष्ठा निश्चयात्मिका बुद्धिः॥२७॥",
+      "chapter": 20,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "विंशोऽध्यायः"
+    }
+  ]
+}

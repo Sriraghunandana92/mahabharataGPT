@@ -1,0 +1,321 @@
+{
+  "adhyaya_id": "P07_U02_A018",
+  "book": 7,
+  "parva_name": "द्रोणपर्व",
+  "upaparva_name": "संशप्तकवधपर्व - २",
+  "adhyaya_name": "अष्टदशोऽध्यायः",
+  "chapter": 18,
+  "verse_count": 31,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "सञ्जय उवाच।\n              ततः संशप्तका राजन् समे देशे व्यवस्थिताः।  व्यूह्यानीकं रथैरेव चन्द्राकारं मुदा युताः॥१॥",
+      "english": "Sanjaya said Then, O monarch, the Samsaptakas, filled with joy, stood on the level plain, having, with their chariots, formed an array figuring the moon.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "ते किरीटिनमायान्तं दृष्ट्वा हर्षेण मारिष।  उदक्रोशन्नरव्याघ्राः शब्देन महता तदा॥२॥",
+      "english": "O Sire, seeing the diadem-decked Arjuna rush at them, those foremost of men, highly delighted, gave out deafening roars.",
+      "bhavadeepa": "तत इति ॥१॥",
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "स शब्दः प्रदिशः सर्वा दिशः खं च समावृणोत्।  आवृतत्वाच्च लोकस्य नासीत् तत्र प्रतिस्वनः॥३॥",
+      "english": "Those roars filled the subsidiary and the cardinal quarters and also the conclave dome. There were produced no reverberations owing to the field being covered over with men.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "सोऽतीव संप्रहृष्टांस्तानुपलभ्य धनञ्जयः।  किंचिदभ्युत्स्मयन् कृष्णमिदं वचनमब्रवीत्॥४॥",
+      "english": "Then Dhananjaya, ascertaining them to be excessively delighted, said these words to Krishna, smiling the while.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "पश्यैतान् देवकीमातर्मुमूर्षूनद्य संयुगे।  भ्रातॄंस्त्रैगर्तकानेवं रोदितव्ये प्रहर्षितान्॥५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "अथवा हर्षकालोऽयं त्रैगर्तानामसंशयम्।  कुनरैर्दुरवापान् हि लोकान् प्राप्स्यन्त्यनुत्तमान्॥६॥",
+      "english": "Or surely, this is the time for joy for the Trigarttas, as they shall, ere long, attain to those excellent regions which cannot be obtained by the cowards.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "एवमुक्त्वा महाबाहुहृषीकेशं ततोऽर्जुनः।  आससाद रणे व्यूढां त्रिगर्तानामनीकिनीम्॥७॥",
+      "english": "Having thus spoken to the mighty-armed Hrishikesha, Arjuna encountered in battle the ranks of the Trigartta soldiers disposed of in battle-array.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "स देवदत्तमादाय शंखं हेमपरिष्कृतम्।  दध्मौ वेगेन महता घोषणापूरयन् दिशः॥८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "तेन शब्देन वित्रस्ता संशप्तकवरूथिनी।  विचेष्टाऽवस्थिता संख्ये ह्यश्मसारमयी यथा॥९॥",
+      "english": "Terrified at that blare, the car-host of the Samshaptakas stood motionless in the field of battle as if turned into adamant.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "वाहास्तेषां विवृत्ताक्षाः स्तब्धकर्णशिरोधराः।  विष्टब्धचरणा मूत्रं रुधिरं च प्रसुस्रुवुः॥१०॥",
+      "english": "All their steeds stood with their eyes expanded and their ears, necks and lips paralysed and their legs motionless, and they discharged urine and vomited blood.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "उपलभ्य ततः संज्ञामवस्थाप्य च वाहिनीम्।  युगपत् पाण्डुपुत्राय चिक्षिपुः कङ्कपत्रिणः॥११॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "तान्यर्जुनः सहस्राणि दशपञ्चभिराशुगैः।  अनागतान्येव शरैश्चिच्छेदाशु पराक्रमी॥१२॥",
+      "english": "Thereupon Arjuna, capable of manifesting with lightness his prowess in battle, severed t'hose thousand arrows before they could reach him, with fifteen swift-coursing shafts of his.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "ततोऽर्जुनं शितैर्बाणैर्दशभिर्दशभिः पुनः।  प्राविध्यन्त ततःपार्थस्तानविध्यस्त्रिभिस्त्रिभिः॥१३॥",
+      "english": "Thereat they pierced Arjuna with ten whetted shafts separately; and the son of Pritha also pierced them separately with three shafts each.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "एकैकस्तु ततः पार्थं राजन् विव्याध पञ्चभिः।  स च तान् प्रतिविव्याध द्वाभ्यां द्वाभ्यां पराक्रमी॥१४॥",
+      "english": "Then, O monarch, each of them separately pierced the son of Pritha with five shafts; and the puissant Partha in return pierced them each with a couple of arrows.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "भूय एव तु संक्रुद्धास्त्वर्जुनं सह केशवम्।  आपूरयन् शरैस्तीक्ष्णैस्तडागमिव वृष्टिभिः॥१५॥",
+      "english": "Wrought up with ire, they once again quickly filled Arjuna and Keshava with arrows, like the rains filling up a lake.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "ततः शरसहस्राणि प्रापतन्नर्जुनं प्रति।  भ्रमराणामिव व्राताः फुल्लं द्रुमगणं वने॥१६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "ततः सुबाहुस्त्रिंशद्भिरद्रिसारमयैः शरैः।  अविध्यदिषुभिर्गाढं किरीटे सव्यसाचिनम्॥१७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "तैः किरीटी किरीटस्थैर्हेमपुङ्खैरजिह्मगैः।  शातकुंभमयापीडो बभौ सूर्य इवोत्थितः॥१८॥",
+      "english": "Having those straight-going shafts furnished with wings of gold stuck on his diadem, Arjuna, as if adorned with ornaments of gold, shone like the rising Sun.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "हस्तावापं सुबाहोस्तु भल्लेन युधि पाण्डवः।  चिच्छेद तं चैव पुनः शरवर्षैरवाकिरत्॥१९॥",
+      "english": "Then in that battle the son of Pandu, with a broad-headed arrow cut-off the finger-guard of Suvahu and also covered him over with arrowy showers.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "ततः सुशर्मा दशभिः सुरथस्तु किरीटिनम्।  सुधर्मा सुधनुश्चैव सुबाहुश्च समार्पयत्॥२०॥",
+      "english": "Thereafter Susarman, Suratha, Sudhaman and Subahu, pierced the diadem decked Arjuna with ten arrows each.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "तांस्तु सर्वान् पृथग्बाणैर्वानरप्रवरध्वजः।  प्रत्यविध्यद्ध्वजांश्चैषां भल्लैश्चिच्छेद सायकान्॥२१॥",
+      "english": "Thereat, that one bearing the foremost of the monkeys as a device on his banner, pierced them all with several arrows in return and he cut down their golden flag-staffs with broadheadedshafts.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "सुधन्वनो धनुश्छित्त्वा हयांश्चास्यावधीच्छरैः।  अथास्य सशिरस्त्राणं शिरः कायादपातयत्॥२२॥",
+      "english": "Having severed the bow of Sudhaman, Arjuna slew his horses with his shafts. Then Arjuna severed from the trunk, the head of the former furnished with a head-gear.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "तस्मिन्निपतिते वीरे त्रस्तास्तस्य पदानुगाः। व्यद्रवन्त भयाद्भीता यत्र दौर्योधनं बलम्॥२३॥",
+      "english": "At the fall of that brave warrior, his followers, were inspired with terror; and seized with panic they ran to where the army of Duryodhana was.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "ततो जघान संक्रुद्धो वासविस्तां महाचमूम्। शरजालैरविच्छिन्नैस्तमः सूर्य इवांशुभिः॥२४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "ततो भग्ने बले तस्मिन् विप्रलीने समंततः।  सव्यसाचिनि संक्रुद्धे त्रैगर्तान् भयमाविशत्॥२५॥",
+      "english": "When that host was shattered and scattered in all directions and when Savyasachin was inflamed with wrath, panic seized Trigarttas.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "ते वध्यमानाः पार्थेन शरैः सन्नतपर्वभिः।  अमुह्यास्तत्र तत्रैव त्रस्ता मृगगणा इव॥२६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "ततस्त्रिगर्तराट् क्रुद्धस्तानुवाच महारथान्।  अलं द्रुतेन वः शूरानभयं कर्तुमर्हथ॥२७॥",
+      "english": "Thereupon, excited with rage, the sovereign of the Trigarttas addressing those mighty carwarriors said, 'Fly not, you heroes, it behoves you not to be seized with panic.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "शप्त्वाथ शपथान् घोरान्सर्वसैन्यस्य पश्यतः।  गत्वा दौर्योधनं सैन्यं किं वै वक्ष्यथ मुख्यशः॥२८॥",
+      "english": "Having taken dreadful oaths before the eyes of the entire troops, what shall you say to the leaders of Duryodhana's army if now you go back to them?",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "नावहास्याः कथं लोके कर्मणानेन संयुगे।  भवेम सहिताः सर्वे निवर्तध्वं यथाबलम्॥२९॥",
+      "english": "Will we not be the objects of derision in this world, for this (cowardly) act of ours in battle? United together, do you again repair to your own divisions?'",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "एवमुक्तास्तु ते राजन्नुदक्रोशन्मुहुर्मुहुः।  शंखांश्च दध्मिरे वीरा हर्षयन्तः परस्परम्॥३०॥",
+      "english": "Thus being spoken to, O monarch. they uttered continuous roars and those heroes blew their conchs imparting delight to one another.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "ततस्ते संन्यवर्तन्त संशप्तकगणाः पुनः।  नारायणाश्च गोपाला मृत्युं कृत्वा निवर्तनम्॥३१॥",
+      "english": "Thereafter that Samshaptaka host once more rallied themselves; and with the Narayana cow-herds, they were determined even to encounter Death himself.",
+      "bhavadeepa": null,
+      "chapter": 18,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "संशप्तकवधपर्व - २",
+      "adhyaya_name": "अष्टदशोऽध्यायः"
+    }
+  ]
+}

@@ -1,0 +1,557 @@
+{
+  "adhyaya_id": "P07_U01_A007",
+  "book": 7,
+  "parva_name": "द्रोणपर्व",
+  "upaparva_name": "द्रोणाभिषेकपर्व - १",
+  "adhyaya_name": "सप्तमोऽध्यायः",
+  "chapter": 7,
+  "verse_count": 54,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "द्रोण उवाच।\n              वेदं षडङ्गं वेदाहमर्थविद्यां च मानवीम्। त्रैय्यम्बकमथेष्वस्त्रं शस्त्राणि विविधानि च॥१॥",
+      "english": "Drona said I am versed in the Vedas and in their six auxiliaries; and in the science of practical life concerning itself with men. I know the weapons of Tryambaka and various other weapons and mantras.",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "ये चाप्युक्ता मयि गुणा भवद्भिर्जयकांक्षिभिः। चिकीर्षुस्तानहं सर्वान् योधयिष्यामि पाण्डवान्॥२॥",
+      "english": "Those qualities, which, you, desirous of victory, have ascribed to me, bringing them to play, I will offer battle to the sons of Pandu.",
+      "bhavadeepa": "वेदमिति ॥१॥",
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "पार्षतं तु रणे राजन्न हनिष्ये कथंचन। स हि सृष्टो वधार्थाय ममैव पुरुषर्षभः॥३॥",
+      "english": "But, O monarch, I shall never slay the son of Prisata in battle; O foremost of men, he has been created to kill me.",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "योधयिष्यामि सैन्यानि नाशयन् सर्वसोमकान्।  न च मां पाण्डवा युद्धे योधयिष्यन्ति हर्षिताः॥४॥",
+      "english": "I shall encounter the hostile array and kill the Somakas. In battle, the Pandavas will not meet me with delightful hearts.",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "सञ्जय उवाच।\n              स एवमभ्यनुज्ञातश्चक्रे सेनापतिं ततः।  द्रोणं तव सुतो राजन् विधिदृष्टेन कर्मणा॥५॥",
+      "english": "Sanjaya said O monarch, then your son, with the perinission of Drona, made him the commander of his troops, with ceremonies enjoined by the ordinances for such occasions.",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "अथाभिषिषिचुर्द्रोणं दुर्योधनमुखा नृपाः। सैनापत्ये यथा स्कन्दं पुरा शक्रमुखाः सुराः॥६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "ततो वादित्रघोषेण शंखानां च महास्वनैः। प्रादुरासीत् कृते द्रोणे हर्षः सेनापतौ तदा॥७॥",
+      "english": "thereupon on Drona's investiture with the command, the delight (of troops) was manifest by the sound of musical instruments and the deafening blare of the conchs.",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "ततः पुण्याहघोषेण स्वस्तिवादस्वनेन च। संस्तवैर्गीतशब्दैश्च सूतमागधबन्दिनाम्॥८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "जयशब्दैर्द्विजाग्र्याणां सुभगानर्तितैस्तथा। सत्कृत्य विधिना द्रोणं मेनिरे पाण्डवाञ्जितान्॥९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "सञ्जय उवाच।\n              सैनापत्यं तु संप्राप्य भारद्वाजो महारथः। युयुत्सुर्व्यूह्य सैन्यानि प्रायात्तव सुतैः सह॥१०॥",
+      "english": null,
+      "bhavadeepa": "सुभगानर्तितैः सौभाग्यवतीनृत्यैः ॥९॥",
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "सैन्धवश्च कलिङ्गश्च विकर्णश्च तवात्मजाः।  दक्षिणं पार्श्वमास्थाय समतिष्ठन्त दंशिताः॥११॥",
+      "english": "Donning their armours, the king of the Sindhus and the Kalingas and Vikarna, your son, stationed themselves in the right wing of Drona.",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "प्रपक्षः शकुनिस्तेषां प्रवरैर्हयसादिभिः। ययौ गान्धारकैः सार्धं विमलप्रासयोधिभिः॥१२॥",
+      "english": "Then accompanied by a numerous and picked cavalry recruited from men belonging to the Gandhara tribe and armed with lustrous lances, Shakuni marched out as their support.",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "कृपश्च कृतवर्मा च चित्रसेनो विविंशतिः।  दुःशासनमुखा यत्ताः सव्यं पक्षमपालयन्॥१३॥",
+      "english": "Then Kripa, Kritavarman, Chitrasena and Vivinsati, having Dushasana at their head, proceeded, covering the left wing.",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "तेषां प्रपक्षाः कांबोजाः सुदक्षिणपुरःसराः।  ययुरश्वैर्महावेगैः शकाश्च यवनैः सह॥१४॥",
+      "english": "Then riding on horses of great fleetness, the Kamvojas headed by Sudakshina and the Shakas with the Yavanas, marched forth, forming the support of the last mentioned party.",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "मद्रास्त्रिगर्ताः सांबष्ठाः प्रतीच्योदीच्यमालवाः। शिबयः शूरसेनाश्च शूद्राश्च मलदैः सह॥१५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "सौवीराः कितवाः प्राच्या दाक्षिणात्याश्च सर्वशः। तवात्मजं पुरस्कृत्य सूतपुत्रस्य पृष्ठतः॥१६॥",
+      "english": "Then the Madras, the Trigartas, the Ambasthas, the warriors from the West and the North, the Malavas, the Shivis, the Surasenas, the Sudras with the Malavas, the Sauviras, the Kitavas, the warriors from the East and the South, all these with your son Duryodhana at son their head and the son of Suta at their rear, cheering the hearts of their own partisans, marched forth and increased the strength of the (advancing) troops. Karna, the of Vikartana, then marched at the head of all bowmen.",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः",
+      "combined_translation": "16-56"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "हर्षयन्तः स्वसैन्यानि ययुस्तव सुतैः सह। प्रवरः सर्वयोधानां बलेषु बलमादधत्॥१७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः",
+      "english_ref": 16,
+      "combined_translation": "16-56"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "ययौ वैकर्तनः कर्णः प्रमुखे सर्वधन्विनाम्। तस्य दीप्तो महाकायः स्वान्यनीकानि हर्षयन्॥१८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "हस्तिकक्ष्यो महाकेतुर्बभौ सूर्यसमद्युतिः।  न भीष्मव्यसनं कश्चिद्दृष्ट्वा कर्णममन्यत॥१९॥",
+      "english": "His mighty standard, huge and resplendent and marked with the device of the elephant's girth, imparting delight into the hearts of his own soldiers, burned with effulgence cqual to that of the sun.",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "विशोकाश्चाभवन् सर्वे राजानः कुरुभिः सह। हृष्टाश्च बहवो योधास्तत्राजल्पन्त वेगतः॥२०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "न हि कर्णं रणे दृष्ट्वा युधि स्थास्यन्ति पाण्डवाः।  कर्णो हि समरे शक्तो जेतुं देवान् सवासवान्॥२१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "किमु पाण्डुसुतान्युद्धे हीनवीर्यपराक्रमान्। भीष्मेण तु रणे पार्थाः पालिता बाहुशालिना॥२२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "तांस्तु कर्णः शरैस्तीक्ष्णैर्नाशयिष्यति संयुगे। एवं ब्रुवन्तस्तेऽन्योन्यं हृष्टरूपा विशांपते॥२३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "राधेयं पूजयन्तश्च प्रशंसन्तश्च निर्ययुः। अस्माकं शकटव्यूहो द्रोणेन विहितोऽभवत्॥२४॥",
+      "english": "O lord of people, thus talking to one another with joyful looks and honouring and eulogising the son of Radha, they marched along (in battle-array). Our own army, O monarch, was arrayed in the form of a Sakata (or car).",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "परेषां क्रौञ्च एवासीद्व्यूहो राजन्महात्मनाम्।  प्रीयमाणेन विहितो धर्मराजेन भारत॥२५॥",
+      "english": "The army of our high-souled enemies was formed in the shape of a Krauncha (crane). O Bharata, by the very virtuous Yudhishthira with a delighted heart.",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "व्यूहप्रमुखतस्तेषां तस्थतुः पुरुषर्षभौ। वानरध्वजमुच्छ्रित्य विष्वक्सेनधनञ्जयौ॥२६॥",
+      "english": "At the head of their array stood the two foremost of men, Vishvaksena (Vishnu) and Dhananjaya, with their banner, bearing the emblem of the ape, uplifted.",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "ककुदं सर्वसैन्यानां धाम सर्वधनुष्मताम्।  आदित्यपथगः केतुः पार्थस्यामिततेजसः॥२७॥",
+      "english": "That banner of Partha of immeasurable prowess, the hump of the whole army and the refuge of all wielders of bow, that banner which reached the orbit of the sun, seemed to illumine the whole army of Yudhishthira of high soul.",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "दीपयामास तत् सैन्यं पाण्डवस्य महात्मनः।  यथा प्रज्वलितः सूर्यो युगान्ते वै वसुन्धराम्॥२८॥",
+      "english": null,
+      "bhavadeepa": "आदित्यपथगः आकाशगः ॥२७॥",
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "दीष्यन् दृश्येत हि तथा केतुः सवत्र धीमतः।  योधानामर्जुनः श्रेष्ठो गाण्डीवं धनुषां वरम्॥२९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "वासुदेवश्च भूतानां चक्राणां च सुदर्शनम्।  चत्वार्येतानि तेजांसि वहन् श्वेतहयो रथः॥३०॥",
+      "english": "Of all the warriors Arjuna is the foremost; of all the bows Gandiva is the best. Vasudeva is the foremost of all created beings and Sudarshana is the best of all kinds of discus.",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "परेषामग्रतस्तस्थौ कालचक्रमिवोद्यतम्। एवं तौ सुमहात्मानौ बलसेनाग्रगावुभौ॥३१॥",
+      "english": "The chariot, to which were harnessed white horses, carrying these four kinds of energy incarnate, stood at the head of the hostile array, like the discus of Kala raised (for being hurled). Thus those two high-souled heroes stood at the head of their armies. Karna stood at the head of your army and Dhananjaya at the head of the hostile troops.",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "तावकानां मुखे कर्णः परेषां च धनञ्जयः।  ततो जयाभिसंरब्धौ परस्परवधैषिणौ॥३२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "अवेक्षेतां तदाऽन्योन्यं समरे कर्णपाण्डवौ। ततः प्रयाते सहसा भारद्वाजे महारथे॥३३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "आर्तनादेन घोरेण वसुधा समकम्पत। ततस्तुमुलमाकाशमावृणोत् सदिवाकरम्॥३४॥",
+      "english": "Then thick clouds of dust, blown up by the storm and resembling heaps of tawny silk, intercepted from the view the welkin in and the sun. Though the sky was cloudless yet a shower of flesh bones and blood fell on the earth.",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः",
+      "combined_translation": "34-35"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "वातोद्धूतं रजस्तीव्रं कौशेयनिकरोपमम्। ववर्ष द्यौरनभ्रापि मांसास्थिरुधिराण्युत॥३५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः",
+      "english_ref": 34,
+      "combined_translation": "34-35"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "गृध्राः श्येना बकाः कङ्का वायसाश्च सहस्रशः। उपर्युपरि सेनां ते तदा पर्यपतन्नृप॥३६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "गोमायवश्च प्राक्रोशन् भयदान्दारुणान् रवान्।  अकार्षुरपसव्यं च बहुशः पृतनां तव॥३७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "चिखादिषंतो मांसानि पिपासंतश्च शोणितम्।  अपतद्दीप्यमाना च सनिर्घाता सकम्पना॥३८॥",
+      "english": "On the field of battle, illuminating the welkin, dropped many a burning meteor accompanied with thundering sounds and vibrating motions and covering with their tails large areas.",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "उल्का ज्वलन्ती संग्रामे पुच्छेनावृत्त्य सर्वशः। परिवेषो महांश्चापि सविद्युत्स्तनयित्नुमान्॥३९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "भास्करस्याभवद्राजन् प्रयाते वाहिनीपतौ।  एते चान्ये च बहवः प्रादुरासन् सुदारुणाः॥४०॥",
+      "english": "Then, O monarch, when the commander of the host (Drona) set out for battle, the wide circumference of the lustrous orb of day, emitted flashes of lightving and thundering sounds.",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "उत्पाता युधि वीराणां जीवितक्षयकारिणः।  ततः प्रववृते युद्धं परस्परवधैषिणाम्॥४१॥",
+      "english": "These and many other terrible portents appeared indicating a great loss of life of many heroes in the ensuing encounter.",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "कुरुपाण्डवसैन्यानां शब्देनापूरयज्जगत्।  ते त्वन्योन्यं सुसंरब्धाः पाण्डवाः कौरवैः सह॥४२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "अभ्यघ्नन्निशितैः शस्त्रैर्जयगृद्धाः प्रहारिणः। स पाण्डवानां महतीं महेष्वासो महाद्युतिः॥४३॥",
+      "english": "Then, burning with wrath, the Pandavas and the Kauravas, all first-class smiters, began to pierce one another with sharpened weapons, ardently longing for victory.",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "वेगेनाभ्यद्रवत्सेनां किरन् शरशतैः शितः। द्रोणमभ्युद्यतं दृष्ट्वा पाण्डवाः सह सृञ्जयैः॥४४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "प्रत्यगृह्णंस्तदा राजञ्छरवर्षेः पृथक् पृथक्।  विक्षोभ्यमाणा द्रोणेन भिद्यमाना महाचमूः॥४५॥",
+      "english": "Beholding Drona charge, the Pandavas along with the Srinjayas received him, o monarch, with showers of shafts in distinct sets.",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "व्यशीर्यत सपाञ्चाला वातेनेव बलाहकाः।  बहूनीह विकुर्वाणो दिव्यान्यस्त्राणि संयुगे॥४६॥",
+      "english": "That mighty host (of the Pandavas) along with the Panchalas agitated and routed by Drona, was shattered like rows of cranes by the wind.",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "अपीडयत् क्षणेनैव द्रोणः पाण्डवसृञ्जयान्।  ते वध्यमाना द्रोणेन वासवेनेव दानवाः॥४७॥",
+      "english": "In the encounter, invoking various celestial weapons Drona, in a moment, sorely oppressed the Pandavas and the Srinjayas.",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "पञ्चालाः समकम्पन्त धृष्टद्युम्नपुरोगमाः।  ततो दिव्यास्त्रविच्छूरो याज्ञसेनिर्महारथः॥४८॥",
+      "english": "The Panchalas having Dhrishtadyumna at their head being slaughtered by Drona, like the Danavas by Vasava, began to quake.",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "अभिनच्छरवर्षेण द्रोणानीकमनेकधा। द्रोणस्य शरवर्षाणि शरवर्षेण पार्षतः॥४९॥",
+      "english": "Thereupon that mighty car-warriors, the heroic Yajnaserma versed in the knowledge of the celestial weapons, produced by his showers of arrows many a breach, in the columns of Drona.",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "सन्निवार्य ततः सर्वान् कुरूनप्यवधीद्बली।  संयम्य तु ततो द्रोणः समवस्थाप्य चाहवे॥५०॥",
+      "english": "Then that powerful son of Prishata, checking the showers of Drona's arrows with those of his own, slew many a Kuru warrior.",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "स्वमनीकं महेष्वासः पार्षतं समुपाद्रवत्।  स बाणवर्षं सुमहदसृजत् पार्षतं प्रति॥५१॥",
+      "english": "Thereupon Drona of mighty arms, again rallying has soldiers and re-arranging them, charged the son of Prishata in battle.",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "मघवान् समभिक्रुद्धः सहसा दानवानिव।  ते कंप्यमाना द्रोणेन बाणैः पाण्डवसृञ्जयाः॥५२॥",
+      "english": "Then towards the son of Prishata he directed a close shower of arrows, like Meghavat exceedingly enraged shooting his shafts towards the Danavas.",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "पुनः पुनरभज्यन्त सिंहेनेवेतरे मृगाः।  तथा पर्यचरद्द्रोणः पाण्डवानां बले बली।  अलातचक्रवद्राजंस्तदद्भुतमिवाभवत्॥५३॥",
+      "english": "Thus, agitated by Drona with his arrows, the Pandavas and Srinjays, again and again, broke their lines, like a herd of inferior beasts attacked by a lion.",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "खचरनगरकल्पं कल्पितं शास्त्रदृष्ठ्या।  चलदनिलपताकं ल्हादनं वल्गिताश्वम्  ।  स्फटिकविमलकेतुं त्रासनं शात्रवाणाम्। रथवरमधिरूढः संजहारारिसेनाम्॥५४॥",
+      "english": "Riding on his own excellent cars, that resembled a city careering through the skies; that was well supplied with the implements of war according to the military science, the banner of which was fluttering on the air, the rattle of which was resounding all round the field, the steeds of which were well-driven and the flagstaff of which was shining like a rod of crystal-riding on such a chariot. Drona inspired the hostile army with terror and massacred (right and left).",
+      "bhavadeepa": null,
+      "chapter": 7,
+      "parva_name": "द्रोणपर्व",
+      "upaparva_name": "द्रोणाभिषेकपर्व - १",
+      "adhyaya_name": "सप्तमोऽध्यायः"
+    }
+  ]
+}

@@ -1,0 +1,442 @@
+{
+  "adhyaya_id": "P03_U03_A020",
+  "book": 3,
+  "parva_name": "वनपर्व",
+  "upaparva_name": "अर्जुनाभिगमनपर्व",
+  "adhyaya_name": "विंशोऽध्यायः",
+  "chapter": 20,
+  "verse_count": 41,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वासुदेव उवाच।\n              आनर्तनगरं मुक्तं ततोऽहमगमं तदा। महाक्रतौ राजसूये निवृत्ते नृपते तव॥१॥",
+      "english": "Krishna said: O king, when he (Shalva) left the city of the Anarthas, I returned there on the completion of your great Rajasuya sacrifice.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "अपश्यं द्वारकां चाहं महाराज हतत्विषम्। निःस्वाध्यायवषट्कारां निर्भूषणवरस्त्रियम्॥२॥",
+      "english": "O great king, on my arrival I found Dvarka shorn of its splendour. Vedic recitations and sacrificial offerings were stopped, beautiful damsels were destitute of ornaments and the gardens were devoid of beauty, Alarmed by the sight, I asked the son of Hridika.",
+      "bhavadeepa": "आनर्तेति ॥१॥",
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः",
+      "combined_translation": "2-3"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "अनभिज्ञेयरूपाणि द्वारकोपवनानि च। दृष्ट्वा शङ्कोपपन्नोऽहमपृच्छं हृदिकात्मजम्॥३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः",
+      "english_ref": 2,
+      "combined_translation": "2-3"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "अस्वस्थनरनारीकमिदं वृष्णिकुलं भृशम्। किमिदं नरशार्दूल श्रोतुमिच्छामि तत्त्वतः॥४॥",
+      "english": "\"O best of men, why are the men and the women of the Vrishni race are all woc-begone. I desire to hear all about it.\"",
+      "bhavadeepa": "हृदिकात्मजं कृतवर्माणम् ॥३॥",
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "एवमुक्तः स तु मया विस्तरेणेदमब्रवीत्। रोधं मोक्षं च शाल्वेन हार्दिक्यो राजसत्तम॥५॥",
+      "english": "O best of kings, having been thus addressed by me, the son of Hridika narrated to me in detail the invasion of the city by Shalva and his subsequent defeat and departure.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "ततोऽहं भरतश्रेष्ठ श्रुत्वा सर्वमशेषतः। विनाशे शाल्वराजस्य तदैवाकरवं मतिम्॥६॥",
+      "english": "O best of the Bharata race, thereupon having heard all, I instantly made up my mind to kill king Shalva.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः",
+      "combined_translation": "6-7"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "ततोऽहं भरतश्रेष्ठ समाश्वास्य पुरे जनम्। राजानमाहुकं चैव तथैवानकदुन्दुभिम्॥७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः",
+      "english_ref": 6,
+      "combined_translation": "6-7"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "सर्वन्वृष्णिप्रवीरांश्च हर्षयन्नब्रुवं तदा। अप्रमादः सदा कार्यो नगरे यादवर्षभाः॥८॥",
+      "english": "O best of the Bharata race, encouraging the citizens, I thus addressed with cheerfulness king Ahuka and Anakadundubhi and also all the chief heroes of the Vrishni race, \"O best of the Yadavas, stay all of you in the city with all caution.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "शाल्वराजविनाशाय प्रयातं मां निबोधत। नाहत्वा तं निवर्तिष्ये पुरीं द्वारवतीं प्रति॥९॥",
+      "english": "Know, I shall go to kill Shalva, Without killing him, I shall not return to the city of Dvarvati.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "स शाल्वं सौभनगरं हत्वा द्रष्टास्मि वः पुनः। त्रिःसामा हन्यतामेषा दुन्दुभिः शत्रुभीषणा॥१०॥",
+      "english": "I will again come back to you after destroying Shalva with his city “Saubha'' made of precious metals. Strike up the three notes of the Dundubhi (musical instrument) which are so dreadful to the foes.\"",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "ते मयाश्वासिता वीरा यथावद्भरतर्षभ। सर्वे मामब्रुवन्हृष्टाः प्रयाहि जहि शात्रवान्॥११॥",
+      "english": "O best of the Bharata race, thus adequately encouraged by me, they all with cheerful hearts said to me, “Go and kill the enemy.\"",
+      "bhavadeepa": "त्रिःसामा त्रिस्वरा नीचमंद्रतारभावेन त्रिःसमा हन्यतामित्यपि पठन्ति ॥१०॥",
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "तैः प्रहृष्टात्मभिर्वीरैराशीर्भिरभिनन्दितः। वाचयित्वा द्विजश्रेष्ठान्प्रणम्य शिरसाभवम्॥१२॥",
+      "english": "O king, having received the benedictions of those cheerful heroes and having caused the Brahmanas to utter auspicious words and having also bowed down to the best of Brahmanas and to Shiva, I started on my car yoked with (my horses) Shaivya and Sugriva, filling all directions with the clatter of its wheels and blowing that best of conches named the Panchajanya. O best of men, surrounded by my invincible and victorious army consisting of four kinds of troops, all so persevering in battle, I started.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः",
+      "combined_translation": "12-14"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "शैब्यसुग्रीवयुक्तेन रथेनानादयन्दिशः। प्रध्माय शङ्खप्रवरं पाञ्चजन्यमहं नृप॥१३॥",
+      "english": null,
+      "bhavadeepa": "वाचयित्वा स्वस्तिवादानिति शेषः ॥१२॥",
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः",
+      "english_ref": 12,
+      "combined_translation": "12-14"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "प्रयातोऽस्मि नरव्याघ्र बलेन महता वृतः। कॢप्तेन चतुरङ्गेण यत्तेन जितकाशिना॥१४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः",
+      "english_ref": 12,
+      "combined_translation": "12-14"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "समतीत्य बहून्देशान्गिरींश्च बहुपादपान्। सरांसि सरितश्चैव मार्त्तिकावतमासदम्॥१५॥",
+      "english": "Passing over many countries, mountains and trees, many lakes and rivers, I at last arrived at the country of Martikavata.",
+      "bhavadeepa": "जितकाशिना जयशोभिना । जिताः काशयो देशविशेषा येनेति वा ते हि शरत्वेनातिप्रसिद्धाः ‘काश्यो वा वैदेहो वा’ इति श्रुतिलिङ्गात् ॥१४॥",
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "तत्राश्रौषं नरव्याघ्र शाल्वं सागरमन्तिकात्। प्रयान्तं सौभमास्थाय तमहं पृष्ठतोऽन्वयाम्॥१६॥",
+      "english": "O best of men, here did I hear that Shalva was coursing in his (car) Saubha near the ocean. I soon followed him there.",
+      "bhavadeepa": "मार्तिकावतं देशविशेषम् आसदं प्राप्तः ॥१५॥",
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "ततः सागरमासाद्य कुक्षौ तस्य महोर्मिणः। समुद्रनाभ्यां शाल्वोऽभूत्सौभमास्थाय शत्रुहन्॥१७॥",
+      "english": "O slayer of foes, having reached the ocean (I saw) Shalva on his (Saubha, car made of precious metal in the midst of the ocean full of heaving billows.",
+      "bhavadeepa": "सागरमन्तिकात् सागरससीपे अन्वयाम् अनुगतवानस्मि ॥१६॥",
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "स समालोक्य दूरान्मां स्मयन्निव युधिष्ठिर। आह्वयामास दुष्टात्मा युद्धायैव मुहुर्मुहुः॥१८॥",
+      "english": "O Yudhishthira, having seen ine from a distance, that wicked-minded (Asura) challenged me again and again to the fight.",
+      "bhavadeepa": "महोर्मिणः महोर्मिमतः व्रीह्यादित्वादिनिः नाभ्यां गर्भे गुप्त इत्यर्थः ॥१७॥",
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "तस्य शार्ङ्गविनिर्मुक्तैर्बहुभिर्मर्मभेदिभिः। पुरं नासाद्यत शरैस्ततो मां रोष आविशत्॥१९॥",
+      "english": "Many arrows, each capable of piercing to the very heart, discharged from my bow, did not reach his car. Thereupon I became filled with wrath.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "स चापि पापप्रकृतिर्दैतेयापसदो नृप। मय्यवर्षत दुर्धर्षः शरधाराः सहस्रशः॥२०॥",
+      "english": "O king, that greatly sinful and irrepressibly powerful wretch of a Daitya's son began to shoot at me thousands of arrows in torrents.",
+      "bhavadeepa": "तस्य पुरं मदीयैः शरैर्नासाद्यतेति संबन्धः ॥१९॥",
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "सैनिकान्मम सूतं च हयांश्च स समाकिरत्। अचिन्तयन्तस्तु शरान्वयं युध्याम भारत॥२१॥",
+      "english": "O descendant of Bharata, he showered arrows on my soldiers, on my charioteer and on my horses. But without much caring for his arrows, we continued to fight.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "ततः शतसहस्राणि शराणां नतपर्वणाम्। चिक्षिपुः समरे वीरा मयि शाल्वपदानुगाः॥२२॥",
+      "english": "Thereupon those warriors who were at the command of Shalva showced on me thousands of straight arrows.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "ते हयांश्च रथं चैव तदा दारुकमेव च। छादयामासुरसुरास्तैर्बाणैर्मर्मभेदिभिः॥२३॥",
+      "english": "The Asura heroes covered my horses, my car and my charioteer, Daruka, with arrows cach capable of piercing to the very heart.",
+      "bhavadeepa": "नतानि निम्नीकृतानि पर्वाणि ग्रन्थयो येषां श्लक्ष्णानामित्यर्थः ॥२२॥",
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "न हया न रथो वीर न यन्ता मम दारुकः। अदृश्यन्त शरैश्छन्नास्तथाहं सैनिकाश्च मे॥२४॥",
+      "english": "O nero, I could not at that time see either my car or horses or my charioteer Daruka. For ! and my soldiers were covered with arrows.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "ततोऽहमपि कौन्तेय शराणामयुतान्बहून्। आमन्त्रितानां धनुषा दिव्येन विधिनाऽक्षिपम्॥२५॥",
+      "english": "O son of Kunti, thereupon I too discharged from my bows tens of thousands of arrows inspiring them with proper Mantras and shooting them with celestials methods.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "न तत्र विषमस्त्वासीन्मम सैन्यस्य भारत। खे विषक्तं हि तत्सौभं क्रोशमात्र इवाभवत्॥२६॥",
+      "english": "O descendant of Bharata, as that (car) Saubha made of precious metals was in the sky full two miles off, it could not be seen by my troops.",
+      "bhavadeepa": "आमन्त्रितानाम् अभिमन्त्रितानां दिव्येन विधिना अलौकिया अश्वविद्यया ॥२५॥",
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "ततस्ते प्रेक्षकाः सर्वे रङ्गवाट इव स्थिताः। हर्षयामासुरुच्चैर्मां सिंहनादतलस्वनैः॥२७॥",
+      "english": "Therefore, they only looked on from that field of battle like (so many) spectators in a place of annusement but they cheered me on by clappings and by shouts loud as the roars of lions.",
+      "bhavadeepa": "विषयः गोचरः तत्र हेतुः खे विषक्तं लग्नम् ॥२६॥",
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "मत्कराग्रविनिर्मुक्ता दानवानां शरास्तथा। अङ्गेषु रुचिरापाङ्गा विविशुः शलभा इव॥२८॥",
+      "english": "The beautiful arrows discharged from the fore part of my hand penetrated into the bodies of the Danavas like biting insects.",
+      "bhavadeepa": "तलस्वनैः हस्ततलशब्दैः ॥२७॥",
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "ततो हलहलाशब्दः सौभमध्ये व्यवर्धत। वध्यतां विशिखैस्तीक्ष्णैः पततां च महार्णवे॥२९॥",
+      "english": "Thereupon loud cries of those dying of the wounds inflicted by the arrows rose on the Saubha (car); and they (those wounded) fell into the water of the great ocean.",
+      "bhavadeepa": "दानवानाम् अङ्गेष्विति संबन्धः रुचिरापाङ्गाश्चित्रपुङ्खाः ॥२८॥",
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "ते निकृत्तभुजस्कन्धाः कबन्धाकृतिदर्शनाः। नदन्तो भैरवान्नादान्निपतन्ति स्म दानवाः॥३०॥",
+      "english": "Having lost their arms and necks and having appeared like Kabandhas (a sort of headless ghosts), the Danavas fell (down into the sea) with fearful cries.",
+      "bhavadeepa": "वध्यतां वध्यमानानाम् ॥२९॥",
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "पतितास्तेऽपि भक्षन्ते समुद्राम्भोनिवासिभिः। ततो गोक्षीरकुन्देन्दुमृणालरजतप्रभम्॥३१॥",
+      "english": "As they fell, they were devoured by the animals, living in the waters of the ocean. Thereupon 1 powerfully blew the (conch) Panchajanya, which was obtained from the waters and which was as graceful as the lotus stock and as white as the milk or the Kunda flower or the moon or the silver. Having seen them fall, the king of Saubha Shalva. Began to fight with me with the help of illusion. Then he began to hurl upon me clubs, plough-shares, winged darts, lances, javelins, thunder-bolts, nooses, broad-swords, bullets, shafts, axes and rockets.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः",
+      "combined_translation": "31-34"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "जलजं पाञ्चजन्यं वै प्राणेनाहमपूरयम्। तान्दृष्ट्वा पतितांस्तत्र शाल्वः सौभपतिस्ततः॥३२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः",
+      "english_ref": 31,
+      "combined_translation": "31-34"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "मायायुद्धेन महता योधयामास मां युधि। ततो गदा हलाः प्रासाः शूलशक्तिपरश्वधाः॥३३॥",
+      "english": null,
+      "bhavadeepa": "प्राणेन बलेन ॥३२॥",
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः",
+      "english_ref": 31,
+      "combined_translation": "31-34"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "असयः शक्तिकुलिशपाशर्ष्टिकनपाः शराः। पट्टिशाश्च भुशुण्ड्यश्च प्रपतन्त्यनिशं मयि॥३४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः",
+      "english_ref": 31,
+      "combined_translation": "31-34"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "तामहं माययैवाशु प्रतिगृह्य व्यनाशयम्। तस्यां हतायां मायायां गिरिशृङ्गैरयोधयत्॥३५॥",
+      "english": "Allowing them to come towards me, I soon destroyed them all by counter illusion. On mis illusion being rendered ineffectual he began to fight with mountain-peaks.",
+      "bhavadeepa": "अस्रयः खङ्गाः शक्तिः कौमारी कुलिशानि वज्राणि पाशाः वारुणाः ऋष्टयो दण्डाः शक्त्यादीनां कनो दीप्तिर्गतिः शोभा वा तां पान्ति ते शक्तिकुलिशपाशर्ष्टिकनपाः कार्तिकेयेन्द्रवरुणयमायुधतुल्या इत्यर्थः । कनीत्रि श्रीगति द्युताविति वोपदेवः ॥३४॥",
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "ततोऽभवत्तम इव प्रकाश इव चाभवत्। दुर्दिनं सुदिनं चैव शीतमुष्णं च भारत॥३६॥",
+      "english": "O descendant of Bharata, then there was darkness and light alternately, the day was now fair, now gloomy and now hot and now cold. There was a fearful shower of cools, ashes and weapons. Creating such illusions, the enemy fought with me.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः",
+      "combined_translation": "36-37"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "अङ्गारपांशुवर्षं च शस्त्रवर्षं च भारत। एवं मायां प्रकुर्वाणो योधयामास मां रिपुः॥३७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः",
+      "english_ref": 36,
+      "combined_translation": "36-37"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "विज्ञाय तदहं सर्वं माययैव व्यनाशयम्। यथाकालं तु युद्धेन व्यधमं सर्वतः शरैः॥३८॥",
+      "english": "Knowing this, I destroyed his illusion by counter illusion; and at the proper times I showered arrows all around.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "ततो व्योम महाराज शतसूर्यमिवाभवत्। शतचन्द्रं च कौन्तेय सहस्रायुततारकम्॥३९॥",
+      "english": "O great king, O son of Kunti, then the sky blazed forth with one hundred suns, with one hundred moons and thousands and tens of thousands of stars.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "ततो नाज्ञायत तदा दिवारात्रं तथा दिशः। ततोऽहं मोहमापन्नः प्रज्ञास्त्रं समयोजयम्॥४०॥",
+      "english": "None could ascertain whether it was then day or night. None could distinguish even the points of heaven. Thereupon becoming bewildered, I fixed on my bowstring the weapon, named Prajnastra.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "ततस्तदस्त्रं कौन्तेय धूतं तूलमिवानलैः। तथा तदभवद्युद्धं तुमुलं लोमहर्षणम्। लब्धा लोकस्तु राजेन्द्र पुनः शत्रुमयोधयम्॥४१॥",
+      "english": "O son of Kunti, that weapon rushed onwards like flakes of cotton blown away by the winds. Tlien a great and hair-stirring battle took place. O king of kings, having rcguined light, I again fought with the enemy.",
+      "bhavadeepa": null,
+      "chapter": 20,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अर्जुनाभिगमनपर्व",
+      "adhyaya_name": "विंशोऽध्यायः"
+    }
+  ]
+}

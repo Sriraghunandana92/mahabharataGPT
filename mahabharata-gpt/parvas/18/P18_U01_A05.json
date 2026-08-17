@@ -1,0 +1,703 @@
+{
+  "adhyaya_id": "P18_U01_A05",
+  "book": 18,
+  "parva_name": "स्वर्गारोहणपर्व",
+  "upaparva_name": "स्वर्गारोहणपर्व",
+  "adhyaya_name": "अध्यायः 005",
+  "chapter": 5,
+  "verse_count": 68,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "जनमेजय उवाच ।\n          भीष्मद्रोणौ महात्मानौ धृतराष्ट्रश्च पार्थिवः । विराटद्रुपदौ चोभौ शङ्खश्चैवोत्तरस्तथा ॥१॥",
+      "english": "Janamejaya said Bhishma and Drona, those two great persons, king Dhritarashtra, and Virata and Drupada, and Shankha and Uttara, Dhrishtaketu and Jayatsena, and Shakuni the son of Subala, Karna's sons of great prowess king Jayadratha, Ghatotkacha and others whom you have not mentioned, the other heroic kings of shining forms, tell me for what period they remained in the celestial region.",
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005",
+      "combined_translation": "1-4"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "धृष्टकेजुर्जयत्सेनो राजा चैव स सत्यजित् । दुर्योधनसुताश्चैव शकुनिश्चैव सौबलः ॥२॥",
+      "english": null,
+      "bhavadeepa": "पूर्वस्मिन्नध्याये यो यो योधो यस्य यस्य देवस्यांशः स स्वर्गं गत्वा स्वस्य स्वस्यांशिनः सान्निध्यं प्रापेत्युक्तम् तत्र संशयः किमेते अंशाः काण्डरुहाणां वृक्षाणामंशा इव पृथक् संसारित्वं प्राप्ता उत तेष्वेवांशिषु लीयन्ते। आद्ये कर्मजदेहपरंपरायास्तत्त्वज्ञानमन्तरेणोच्छेदायोगात्तेषां नित्यसंसारित्वमस्मदादिवत्स्यात्। द्वितीये मानुष्यभावे तैः कृतानां कर्मणां नाशापत्तिरिति संदिहानो जनमेजयः पृच्छति भीष्मद्रोणाविति॥१॥",
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "कर्णपुत्राश्च विक्रान्ता राजा चैव जयद्रथः । घटोत्कवादयश्चैव ये चान्ये नानुकीर्तिताः ॥३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "ये चान्ये कीर्तिता वीरा राजानो दीप्तमूर्तयः । स्वर्गे कालं कियन्तं ते तस्थुस्तदपि शंस मे ॥४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005",
+      "english_ref": 1,
+      "combined_translation": "1-4"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "आहोस्विच्छाश्वतं स्थानं तेषां तत्र द्विजोत्तम । अन्ते वा कर्मणां कां ते गतिं प्राप्ता नरर्षभाः ॥५॥",
+      "english": "O best of twice-born, did they live in Heaven for ever? What was the end acquired by those best of men when their acts terminated.",
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "एतदिच्छाम्यहं श्रोतुं प्रोच्यमानं द्विजोत्तम । तपसा हि प्रदीप्तेन सर्वं त्वमनुपश्यसि॥६॥",
+      "english": null,
+      "bhavadeepa": "ते अन्ते कां गतिं पुण्यभोगान्ते अंशिना सह ऐक्यं वा सालोक्यं वा शाश्वतं प्राप्नुवन्ति उत भूभाववतरन्तीति प्रश्नः॥५॥",
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "सौतिरुवाच ।\n          इत्युक्तः स तु विप्रर्षिरनुज्ञातो महात्मना । व्यासेन तस्य नृपतेराख्यातुमुपचत्रमे ॥७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "वैशम्पायन उवाच ।\n          न शक्यं कर्मणामन्ते सर्वेषां मनुजाधिप। प्रकॆतिं किं नु सम्य़क्ते पृच्छैषा संप्रयोजित ॥८॥",
+      "english": "Vaishampayana said Every one, O king, is not capable of returning to his own nature at the end of his deeds. Whether this is so or not, is, undoubtedly, a good question asked by you.",
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "शृणु गुह्यमिदं राजन्देवानां भरतर्षभ । यदुवाच महातेजा दिव्यचक्षुः प्रतापवान् ॥९॥",
+      "english": "Hear, O king, this which is a mystery of the celestials, O chief of Bharata's race! It was explained (to us) by Vyasa of great energy, celestial vision, and great prowess, that ancient ascetic, O Kauravya, who is the son of Parashara and who always practises high vows, who is of immeasurable understanding, who is omniscient, and who, therefore, knows the end of all deeds.",
+      "bhavadeepa": "अत्रोत्तरमाह न शक्यमिति कर्मणामन्ते सर्वेण प्रकृतिं प्रति गन्तुं न शक्यमित्यध्याहृत्य योज्यं यदि सर्वोऽपि जन्तुः प्रारब्धकर्मान्ते स्वां प्रकृतिं गच्छेत्तर्हि सर्वेऽपि मुक्ताः स्युः संसारश्चादिमान् भवेत् ततश्च कृतहानाकृताभ्यागमप्रसंगो विधिप्रतिषेधशास्त्रानर्थक्यं च । तस्मात्केचिदेव कर्मणामन्ते स्वां प्रकृतिं भजन्ते न सर्वे इति किं तर्हि ये प्रकृतिं न प्राप्तास्तानुद्दिश्य ते त्वयैषा पृच्छा सम्यक् प्रयोजिता॥८॥",
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005",
+      "combined_translation": "9-11"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "मुनिः पुराणः कौरव्य पाराशर्यो महाव्रतः । अगाधबुद्धिः सर्वज्ञो गतिज्ञः सर्वकर्मणाम् ॥१०॥",
+      "english": null,
+      "bhavadeepa": "तत्र कांश्चित् स्वर्गप्रापककर्मणामन्ते स्वैः स्वैरंशिभिस्तादात्म्यं प्राप्तुं योग्यान् योगजदृष्ट्या पश्यन्परिगणयति शृण्वित्यादिना अर्थादितरे स्वर्गं गता अपि पुनश्च्यवन्ते एते तु उत्तरामुत्तरामूर्ध्वोर्ध्वक्रमेण गतिं प्राप्य अन्ते ब्रह्मणा सह मुच्यन्ते तेन देवत्वप्राप्तये कर्माणि यज्ञदानतपआदीनि कर्तव्यान्येव न चोक्तदोष इति सर्वमनवद्यम्॥९॥",
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "तेनोक्तं कर्मणामन्ते प्रविशन्ति स्विकां तनुम्  । वसूनेव महातेजा भीष्मः प्राप महाद्युतिः ॥११॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005",
+      "english_ref": 9,
+      "combined_translation": "9-11"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "अष्टावेव हि दृश्यन्ते वसवो भरतर्षभ । बृहस्पतिं विवेशाथ द्रोणो ह्यङ्गिरसां वरम् ॥१२॥",
+      "english": "Bhishma of great energy and great effulgence acquired the dignity of the Vasus. Eight Vasus, O chief of Bharata's race, are now seen.",
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "कृतवर्मा तु हार्दिक्यः प्रविवेश मरुद्गणान् । सनत्कुमारं प्रद्युम्नः प्रविवेश यथागतम् ॥१३॥",
+      "english": "Drona entered into Brihaspati, that foremost, one of Angirasaa's descendants. Hridika's son Kritavarman entered the Maruts.",
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "धृतराष्ट्रो धनेशस्य लोकान्प्राप दुरासदान् ।  धृतराष्ट्रो सहिता गन्धारी च यशस्विनी ॥१४॥",
+      "english": "Pradyumna entered Sanatkumara whence he had come. Dhritarashtra obtained the regions, so difficult of acquisition, belonging to Kubera.",
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "पत्नीभ्यां सहितः पाण्डुमहेन्द्रसदनं ययौ । विराटद्रुपदौ चोभौ धृष्टकेतुश्च पार्थिवः ॥१५॥",
+      "english": "The famous Gandhari gained the same regions with her husband Dhritarashtra. With his two wives, Pandu went to the abode of the great Indra. as",
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "निशठाक्रूरसाम्बाश्च भानुः कण्वो विदूरथः । भूरिश्रवाः शलश्चैव भूरिश्च पृथिवीपतिः ॥१६॥",
+      "english": "Both Virata ad Drupada, and king Dhrishtaketu, also Nishatha, Akrura, Shamba, Bhanukampa, and Viduratha, and Bhurishravas and Shana and king Bhuri, and Kansa, and Ugrasena, and Vasudeva, and Uttara, that foremost of men, with his brother Shankha, all these foremost of persons entered the celestials.",
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005",
+      "combined_translation": "16-17"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "कंशश्चैवोग्रसेनश्च वसुदेवस्तथैव च । उत्तरश्च सह भ्रात्रा शङ्खेन नरपुङ्गवः ॥१७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005",
+      "english_ref": 16,
+      "combined_translation": "16-17"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "विश्वेषां देवतानां ते विविशुर्नरसत्तमाः । वर्चा नाम महातेजाः सोमपुत्रः प्रतापवान्  ॥१८॥",
+      "english": "Soma's son of great prowess, named Varshas of mighty energy became Abhimanyu, the son of Phalguna, that foremost of men.",
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005",
+      "combined_translation": "18-19"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "सोभिमन्युर्नृसिंहस्य फल्गुनस्य सुतोऽभवत् । स युद्ध्वा क्षत्रधर्मेण यथा नान्यः पुमान्क्वचित्  ॥१९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005",
+      "english_ref": 18,
+      "combined_translation": "18-19"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "विवेश सोमं धर्मात्मा कर्मणोन्ते मरारथः । आविवेश रविं कर्णो निहतः पुरुषर्षभ   ॥२०॥",
+      "english": "Having fought, according to Kshatriya practices, with bravery such as none else had ever been able to show, tat mighty-armed and righteous-souled being entered Soma. Killed on the field of battle, O foremost of men, sons Karna entered the Sun. Shakuni entered into the Dvapara, and Dhrishtadyumna into the God of Fire.",
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "द्वापरं शकुनिः प्राप धृष्टद्युम्नस्तु पावकम् । धृतराष्ट्रात्मजाः सर्वे यातुधान बलोत्कटाः ॥२१॥",
+      "english": "The of Dhritarashtra were all Rakshasas of great power. Sanctified by death caused by weapons, those great beings of great prosperity all succeeded in acquiring the celestial region.",
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "ऋद्विमन्तो महात्मानःशखपुना दिवं गताः। धर्ममेवाविशत्क्षत्ता राजा चैव युधिष्ठिरः ॥२२॥",
+      "english": "Both Kshatri and king Yudhishthira entered into the God of Virtue. The holy and illustrious Ananta (who had taken birth as Balarama) went to the region below the Earth.",
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "अनन्तो भगवान्देवः प्रविवेश रसातलम् । पितामहनियोगाद्वै यो योगाद्गामधारयत् ॥२३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "यः स नारायणो नाम देवदेवः सनातनः । तस्यांशो वासुदेवस्तु कर्मणोन्ते विवेश ह ॥२४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "षोडशस्त्रीसहस्राणि वासुदेवपरिग्रहाः । अमज्जंस्ताः सरस्वत्यां कालेन जनमेजय ॥२५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "तत्र त्यक्त्वा शरीराणि दिवमारुरुहुः पुनः । ताश्चैवाप्सरसो भूत्वा वासुदेवमुपाविशन् ॥२६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "हतास्तस्मिन्महायुद्धे ये वीरास्तु महारथाः । घटोत्कचादयश्चैव देवान्यक्षांश्च भेजिरे ॥२७॥",
+      "english": "Those heroic and powerful car-warriors, viz., Ghatotkacha and others, who were killed in the great battle, attained to the status, some of celestials and some of Yakshas.",
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "दुर्योधनसहायाश्च राक्षसा येऽनुकीर्तिताः । प्राप्तास्ते क्रमशो राजन्सर्वलोकाननुत्तमान् ॥२८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "भवनं च महेन्द्रस्य कुबेरस्य च धीमतः । वरुणस्य तथा लोकान्विविशुः पुरुषर्षभाः ॥२९॥",
+      "english": "Those foremost of men have gone, some to the abode of Indra, some to that of highly intelligent Kubera of great intelligence, and some to that of Varuna.",
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "एतत्ते सर्वमाख्यातं विस्तरेण महाद्युते । कुरूणां चरितं कृत्स्नं पाण्डवानां च भारत ॥३०॥",
+      "english": "I have now told you, you of great splendour, everything about the acts, O Bharatas, of both the Kurus and the Pandavas.",
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "सौतिरुवाच\n          एतच्छ्रुत्वा द्विजश्रेष्ठात्स राजा जनमेजयः । विस्मितोऽभवदत्यर्थं यज्ञकर्मान्तरेष्वथ ॥३१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "ततः समापयामासुः कर्म तत्तस्य याजकाः । आस्तिकश्चाभवत्प्रीतः परिमोक्ष्य भुजङ्गमान् ॥३२॥",
+      "english": null,
+      "bhavadeepa": "एवं पाण्डवानां कथां समाप्य जनमेजयस्य यज्ञे वैशम्पायन एता कथामुक्तवानिति प्रकृतमनुसन्दधानः सौतिरूवाच एतच्छ्रुत्वेत्यादि॥३१॥",
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "ततो द्विजातीन्सर्वास्तान्दक्षिणाभिरतोषयत् । पूजिताश्चापि ते राज्ञा ततो जग्मुर्यथागतम् ॥३३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "विसर्जयित्वा विप्रांस्तान्राजाऽपि जनमेजयः । हृष्टस्तक्षशिलायाः स पुनरायाद्गचाह्वयम् ॥३४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "एतत्ते सर्वमाख्यातं वैशम्पायनकीर्तितम् । व्यासाज्ञया समाज्ञातं सर्पसत्रे नृपस्य हि ॥३५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "पुण्योऽयमितिहासाख्यः पवित्रं चेदमुत्तमम् । कृष्णेन मुनिना विप्र निर्मितं सत्यवादिना ॥३६॥",
+      "english": "Called a history, it is sacred, purifying and excellent. It has been composed by the ascetic Krishna, O Brahmana, of truthful speech.",
+      "bhavadeepa": "समाज्ञातं मया सूतेन व्यासाज्ञया वैशम्पायनेन कीर्तितं च॥३५॥",
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "सर्वज्ञेन विधिज्ञेन धर्मज्ञानवता सता । अतीन्द्रियेण शुचिना तपसा भावितात्मना ॥३७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "ऐश्वर्ये वर्तता चैव साङ्ख्ययोगवता तथा । नैकतन्त्रविबुद्धेन दृष्ट्वा दिव्येन चक्षुषा ॥३८॥",
+      "english": null,
+      "bhavadeepa": "विधिज्ञेन दैवज्ञेन अतीन्द्रियेण इन्द्रियाण्यतिक्रान्तेन योगबलादेव सर्वदर्शनसिद्धेरित्याह तपसेति भावितात्मना शोधितचितेन॥३७॥",
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "कीर्तिं प्रथयता लोके पाण्डवानां महात्मनाम् । अन्येषां क्षत्रियाणां च भूरिद्रविणतेजसाम् ॥३९॥",
+      "english": null,
+      "bhavadeepa": "सर्वेषां तृतीयान्तानां निर्मितमित्यनेनान्वयः अन्येषामपि कीर्तिं प्रथयतेति सम्बन्धः॥३८॥",
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "' यश्चेदं श्रावयेद्विद्वान्सदा पर्वणि पर्वणि। धूतपाप्मा जितस्वर्गो ब्रह्मभूयाय कल्पते ॥४०॥",
+      "english": "That learned man who recites this history on sacred days in the midst of an attentive audience becomes purged of every sin, conquers that celestial region, and attains to the status of Brahma.",
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "कार्ष्णं वेदमिमं सर्वं शृणुयाद्यः समाहितः । ब्रह्महत्यादिपापानां कोटिस्तस्य विनश्यति॥४१॥",
+      "english": "Of that man who listens with rapt attention to the recitation of the whole of this Veda composed by (the Island-borm) Krishna, a millions sins, numbering such grave ones as Brahmanicide and the rest, are washed off.",
+      "bhavadeepa": "ब्रह्मभूयाय मोशाय कल्पते तत्रोक्तसाधनानुष्ठानक्रमेण॥४०॥",
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "यश्चेदं श्रावयेच्छ्राद्धे ब्राह्मणान्पादमन्ततः । अक्षय्यमन्नपानं वै पितॄंस्तस्योपतदिष्ठते ॥४२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "अह्ना यदेनः कुरुते इन्द्रियैर्मनसाऽपि वा । महाभारतमाख्याय पश्चात्संध्यां प्रमुच्यते ॥४३॥",
+      "english": "The sins that one commits during the day by one's senses or the mind are all washed off before evening by reciting a portion of the Mahabharata.",
+      "bhavadeepa": "अन्ततः निकटे॥४२॥",
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "यद्रात्रौ कुरुते पापं ब्राह्मणः स्त्रीगणैर्वृतः । महाभारतमाख्याय पूर्वां सन्ध्यां प्रमुच्यते ॥४४॥",
+      "english": null,
+      "bhavadeepa": "अह्नेति महाभारतस्याऽल्पमपि पश्चिमायां सन्ध्यायां पठ्यते चेद्दिनकृतं पापं नश्यति एवं प्रातः सन्ध्यायां रात्रिकृतमित्यर्थः॥४३॥",
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "महत्त्वाद्भारवत्त्वाच्च महाभारतमुच्यते । निरुक्तमस्य यो वेद सर्वपापैः प्रमुच्यते ॥४५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "अष्टादशपुराणानि धर्मशास्त्राणि सर्वशः । वेदाः साङ्गास्तथैकत्र भारतं चैकतः स्थितम् ॥४६॥",
+      "english": "He who is versed in interpretations of this great work becomes purged of every sin. Such a man lives in virtue, profit and pleasure, and acquires Liberation also, O chief of Bharata's race.",
+      "bhavadeepa": "निरुकं नामनिर्वचनम्॥४५॥",
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "श्रूयतां सिंहनादोऽयमृषेस्तस्य महात्मनः । अष्टादशपुराणानां कर्तुर्वेदमहोदधेः ॥४७॥",
+      "english": "That which is in this is elsewhere. That which does not occur here occurs no where else. This history is known by the name of Jaya. It should be heard by every one desirous of Liberation.",
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "त्रिभिर्वर्षैर्महत्पुण्यं कृष्णद्वैपायनः प्रभुः । अखिलं भारतं चेदं चकार भगवान्मुनिः ॥४८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "आकर्ण्य भक्त्या सततं जयाख्यं भारतं महत् । श्रीश्च कीर्तिस्तथा विद्या भवन्ति सहिताः सदा॥४९॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "धर्मे चार्थे च कामे च मोक्षे च भरतर्षभ । यदिहास्ति तदन्यत्र यन्नेहास्ति न कुत्रिचित् ॥५०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "जयो नामेतिहासोऽयं श्रोतव्यो मोक्षमिच्छता । ब्राह्मणेन च राज्ञा गर्भिण्या चैव योषिता ॥५१॥",
+      "english": "A Brahmana desirous of emancipation, A Kshatriya desirous of ruling and a pregnant women desirous of having a son should listen to this history named as Jaya. One who desires the heaven achieve the same and the man desirous of victory in war achieve the same and pregnant women gets an able son or a luckiest daughter, In case, these recite or listen to this Bharata. The renowned sage Krishna Dvaipayana has composed this Bharata in order to establish the rightiousness, because he himself was in the form of emancipation. He made another compilation consisting of sixty lakh of verses.",
+      "bhavadeepa": "धर्मेचेति चकारचतुष्टयादधर्मादिचतुष्टयमप्यत्रोक्तं हानार्थमिति बोध्यम्॥५०॥",
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "स्वर्गकामो लभेत्स्वर्गं जयकामो लभेज्जयम् । गर्भिणी लभते पुत्रं कन्यां वा बहुभागिनीम् ॥५२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "अनागतश्च मोक्षश्च कृष्णद्वैपायनः प्रभुः । संदर्भं भारतस्यास्य कृतवान्धर्मकाम्यया ॥५३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "षष्टिं शतसहस्राणि चकारान्यां स संहिताम् । त्रिंशच्छतसहस्राणि देवलोके प्रतिष्ठितम् ॥५४॥",
+      "english": null,
+      "bhavadeepa": "अनागतोऽनागन्तुको नित्यसिद्ध इति यावत् एवंविधो यो मोक्षः कैवल्यं तदेव स्वरूपं यस्य स मोक्षः। यद्वा मोक्तुमिच्छन् मुचोऽकर्मकस्य गुणो वेति सनि गुणोऽभ्यासलोपश्च मुमुक्षुरित्यर्थः लोकहित इति भावः॥५३॥",
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 55,
+      "sanskrit": "पित्र्ये पञ्चदशं ज्ञेयं यक्षलोके चतुर्दश । एकं शतसहस्रं तु मानुषेषु प्रभाषितम् ॥५५॥",
+      "english": null,
+      "bhavadeepa": "अन्यां वेदचतुष्टयसंहिताभ्यः पृथग्भूतां तदर्थवतीम्॥५४॥",
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 56,
+      "sanskrit": "नारदोऽश्रावयद्देवानसितो देवलः पितॄन् । रक्षोयक्षाञ्शुको मर्त्यान्वैशम्पायन एव तु ॥५६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 57,
+      "sanskrit": "इतिहासमिमं पुण्यं महार्थं वेदसंमितम् । व्यासोक्तं श्रूयते येन कृत्वा ब्राह्म्णमग्रतः ॥५७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 58,
+      "sanskrit": "स नरः सर्वकामांश्च कीर्तिं प्राप्येह शौनक । गच्छेत्परमिकां सिद्धिमत्र मे नास्ति संशयः ॥५८॥",
+      "english": null,
+      "bhavadeepa": "श्रूयते येन यः शृणोतीत्यर्यः उभयत्र विभक्तिव्यत्यय आर्षः॥५७॥",
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 59,
+      "sanskrit": "भारताध्ययनात्पुण्यादपि पादमधीयतः । श्रद्धया परया भक्त्या श्राव्यते चापि येन तु । य इमां संहितां पुण्यां पुत्रमध्यापयच्छुकम् ॥५९॥",
+      "english": "Formerly, the great Rishi Vyasa, having composed this work caused his son Shuka to read it with him, along with these four verses.",
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 60,
+      "sanskrit": "मातापितृसहस्राणि पुत्रदारशतानि च । संसारेष्वनुभूतानि यान्ति यास्यन्ति चापरे ॥६०॥",
+      "english": "Thousands of mothers, and fathers, and hundreds of sons and wives arise in the world and depart from it. Others will arise and similarly go away.",
+      "bhavadeepa": "भारताध्ययनादिति सार्धश्लोकः यो व्यास इमां संहितां शुकं पुत्रम् अध्यापयत् तस्य अधीयतो भारताख्यमितिहासं स्मरन्तः स्मृत्वा च ग्रन्थरूपेण प्रणयतः भक्त्या परया श्रद्धया च व्यास एव पूज्यस्तस्य वाक्यं प्रमाणमेवेत्यास्तिक्यबुद्ध्या येन पुसा इदं श्राव्यते पुण्यात् पुण्यकरादपि पादं श्लोकपादं ग्रन्थपादं वा भारतस्याध्ययनात्परमिकां सिद्धिं गच्छेदिति पूर्वेणान्वयः व्यासे श्रद्धां बध्वा भारतमध्येतव्यमित्यर्थः॥५९॥",
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 61,
+      "sanskrit": "हर्षस्थानसहस्राणि भयस्थानशतानि च । दिवसेदिवसे मूढमाविशन्ति न पण्डितम् ॥६१॥",
+      "english": null,
+      "bhavadeepa": "सन्ध्यायां भारतं पठनीयमित्युक्तं तत्र पठनयोग्यं भारतसारसङ्ग्रहं चतुःश्लोकीरूपमाह मातेति॥६०॥",
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 62,
+      "sanskrit": "ऊर्ध्वबाहुर्विरौम्येष न च कश्चिच्छृणोति मे । धर्मादर्थश्च कामश्च स किमर्थं न सेव्यते ॥६२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 63,
+      "sanskrit": "न जातु कामान्न भयान्न लोभा- द्धर्मं त्यजेज्जीवितस्यापि हेतोः । नित्यो धर्मः सुखदुःखे त्वनिथ्ये जीवो नित्यो हेतुरस्य त्वनित्यः ॥६३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 64,
+      "sanskrit": "इमां भारतसावित्रीं प्रातरुत्थायः यः पठेत् । स भारतफलं प्राप्य परं ब्रह्माधिगच्छति ॥६४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 65,
+      "sanskrit": "यथा समुद्रो भगवान्यथा हि हिमवान्गिरिः । ख्यातावुभौ रत्ननिधी तथा भारतमुच्यते ॥६५॥",
+      "english": "As the sacred Ocean, as the Himavat mountain, are both, considered as mines of precious gems, so is this Bharata.",
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 66,
+      "sanskrit": "कार्ष्णं देवमिमं विद्वाञ्श्रावयित्वाऽर्थमश्नुते । इदं भारतमाख्यानं यः पठेत्सुसमाहितः । स गच्छेत्परमां सिद्धिमिति मे नास्ति संशयः ॥६६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 67,
+      "sanskrit": "द्वैपायनोष्ठपुटनिस्सृतमप्रमेयं पुण्यं पवित्रमथ पापहरं शिवं च । यो भारतं समधिगच्छति वाच्यमानं किं तस्य पुष्करजलैरभिषेचनेन ॥६७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    },
+    {
+      "verse": 68,
+      "sanskrit": "यो गोशतं कनकशृङ्गमयं ददाति विप्राय वेदविदुषे सुबहुश्रुताय । पुण्यां च भारतकथां सततं शृणोति तुल्यं फलं भवति तस्य च तस्य चैव ॥६८॥",
+      "english": "Who gives hundred cows, with horns cased in gold to a most learned Brahmana, well versed in the Vedas and one who listens the sacred story of Bharata every day, both acquire equal fruit.",
+      "bhavadeepa": null,
+      "chapter": 5,
+      "parva_name": "स्वर्गारोहणपर्व",
+      "upaparva_name": "स्वर्गारोहणपर्व",
+      "adhyaya_name": "अध्यायः 005"
+    }
+  ]
+}

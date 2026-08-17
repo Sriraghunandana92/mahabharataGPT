@@ -1,0 +1,233 @@
+{
+  "adhyaya_id": "P02_U09_A059",
+  "book": 2,
+  "parva_name": "सभापर्व",
+  "upaparva_name": "द्यूतपर्व",
+  "adhyaya_name": "नवपञ्चाशत्तमोऽध्यायः",
+  "chapter": 59,
+  "verse_count": 21,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "वैशम्पायन उवाच।\n              प्रविश्य तां सभां पार्था युधिष्ठिरपुरोगमाः। समेत्य पार्थिवान्सर्वान्पूजार्हानभिपूज्य च॥१॥",
+      "english": "Vaishampayana said Having entered the Sabha, the sons of Pritha with Yudhishthira at their head met all the kings that were present there. Worshipping all those that deserved to be worshipped and saluting others as each deserved according to his age, they took their seats on pure seats covered with costly carpets.",
+      "bhavadeepa": null,
+      "chapter": 59,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "द्यूतपर्व",
+      "adhyaya_name": "नवपञ्चाशत्तमोऽध्यायः",
+      "combined_translation": "1-2"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "यथावयः समेयाना उपविष्टा यथार्हतः। आसनेषु विचित्रेषु स्पर्द्ध्यास्तरणवत्सु च॥२॥",
+      "english": null,
+      "bhavadeepa": "प्रविश्येति ॥१॥",
+      "chapter": 59,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "द्यूतपर्व",
+      "adhyaya_name": "नवपञ्चाशत्तमोऽध्यायः",
+      "english_ref": 1,
+      "combined_translation": "1-2"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "तेषु तत्रोपविष्टेषु सर्वेष्वथ नृपेषु च। शकुनिः सौबलस्तत्र युधिष्ठिरमभाषत॥३॥",
+      "english": "When they were seated, and when the kings took their seats also, the son of Subala, Shakuni, thus spoke to Yudhishthira.",
+      "bhavadeepa": "समेयानाः यथार्हमाशीर्नत्यादिनां सङ्गतिं कुर्वाणाः स्पर्ध्यानि स्पर्धार्कराणि पश्यतां स्पृहणीयानीति यावत् ॥२॥",
+      "chapter": 59,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "द्यूतपर्व",
+      "adhyaya_name": "नवपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "शकुनिरुवाच। उपस्तीर्णा सभा राजन्सर्वे त्वयि कृतक्षणाः। अक्षानुप्त्वा देवनस्य समयोऽस्तु युधिष्ठिर॥४॥",
+      "english": "Shakuni said O king, the Assembly is full. All was waiting for you. O Yudhishthira, let now the dice be cast and the rules of play be fixed.",
+      "bhavadeepa": null,
+      "chapter": 59,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "द्यूतपर्व",
+      "adhyaya_name": "नवपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "युधिष्ठिर उवाच।\n              निकृतिर्देवनं पापं न क्षात्रोऽत्र पराक्रमः। न च नीतिर्ध्रुवा राजन्किं त्वं द्यूतं प्रशंससि॥५॥",
+      "english": "Yudhishthira said O king, deceitful gambling is a sin. there is no Kshatriya prowess (to be found) in it. There is certainly no moraliiy in it; why then are you praising gambling?",
+      "bhavadeepa": "उपस्तीर्णा आस्फुराख्येनाक्षपातनवाससा उपरिस्तीर्णा । कृतक्षणाः कृतसंकेताः । उप्त्वा पातयित्वा॥४॥",
+      "chapter": 59,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "द्यूतपर्व",
+      "adhyaya_name": "नवपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "न हि मानं प्रशंसन्ति निकृतौ कितवस्य हि। शकुने मैवं नोऽजैषीरमार्गेण नृशंसवत्॥६॥",
+      "english": "O Shakuni, the wise men do not praise the pride that gamesters feel in deceitful play. Do not like a cruel man defeat us by deceitful means.",
+      "bhavadeepa": "निकृतिर्वञ्चनम् । देवनं द्यूतम् । पापं पापहेतुः यतो न च नीतिः द्यूते सत्यं नास्तीत्यर्थः ॥५॥",
+      "chapter": 59,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "द्यूतपर्व",
+      "adhyaya_name": "नवपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "शकुनिरुवाच। यो वेत्ति सङ्ख्यां निकृतौ विधिज्ञश्चेष्टास्वखिन्नः कितवोऽक्षजासु। महामतिर्यश्च जानाति द्यूतं स वै सर्वं सहते प्रक्रियासु॥७॥",
+      "english": "Shakuni said. That high minded player, who knows the secrets of winning and losing, who is skilled in baffling the deceitful arts of those with whom he plays, and who is united with the various operations which gambling consists of, knows truly the play and suffers all in course of it. O son of Pritha, it is the staking of dice that may be lost and won, and which may injure us. And it is for this reason gambling is considered to be a fault. Therefore, O king, let us begin the play. Fear not, let the stakes be fixed. Do not make any further delay.",
+      "bhavadeepa": "निकृतौ शाठ्ये एवं शाठ्येन  ॥६॥",
+      "chapter": 59,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "द्यूतपर्व",
+      "adhyaya_name": "नवपञ्चाशत्तमोऽध्यायः",
+      "combined_translation": "7-8"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "अक्षग्लहः सोऽभिभवेत्परं नस्तेनैव दोषो भवतीह पार्थ। दीव्यामहे पार्थिव मा विशङ्कां कुरुष्व पाणं च चिरं च मा कृथाः॥८॥",
+      "english": null,
+      "bhavadeepa": "संख्या सम्यक् ख्यानं जयपराजयद्वारविवेकम् । निकृतौ छले परेण क्रियमाणे । विधिज्ञो द्यूतेतिकर्तव्यताभिज्ञः । यश्च महामतिर्जयावहं पणं कृत्वा पराजयावहं चिकित्सति । स द्यूतं जानाति स च प्रक्रियासु द्यूतक्रियासु सर्वं कर्तुं सहते उत्सहते ॥७॥",
+      "chapter": 59,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "द्यूतपर्व",
+      "adhyaya_name": "नवपञ्चाशत्तमोऽध्यायः",
+      "english_ref": 7,
+      "combined_translation": "7-8"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "युधिष्ठिर उवाच।\n              एवमाहायमसितो देवलो मुनिसत्तमः। इमानि लोकद्वाराणि यो वै भ्राम्यति सर्वदा॥९॥",
+      "english": "Yudhishthira said That best of Rishis, the son of Asita, Devala, who always instructs us about all those acts that may lead(men) to heaven, hell or to the other regions, has said this it is sinful to play deceitfully with a gamester. The best sport is to obtain victory in a righteous battle. Gambling is not a sport.",
+      "bhavadeepa": "यत्तु देवनं पापमित्युक्तं तत्राह अक्षग्लह इति । पाशाधीनो ग्लहः पणो जयपराजयरूपो व्यवहारः स प्रतिकूलश्चेत् नः युष्माकम् अस्माकं च दीव्यतां मध्ये परम् अभिभवेत् । तेनैव अक्षग्लहेनैव दोषः पराभवाख्यो भवति नत्वत्र स्वेच्छया कपटं कर्तुं शक्यं दैवाधीनत्वादक्षपातस्येत्यर्थः । पाणं पणनीयं द्रव्यं च कुरुष्व । वचनेन प्रत्यक्षेण वा पुरः कुरुष्वेत्यर्थः ॥८॥",
+      "chapter": 59,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "द्यूतपर्व",
+      "adhyaya_name": "नवपञ्चाशत्तमोऽध्यायः",
+      "combined_translation": "9-10"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "इदं वै देवनं पापं निकृत्या कितवैः सह। धर्मेण तु जयो युद्धे तत्परं न तु देवनम्॥१०॥",
+      "english": null,
+      "bhavadeepa": "अयं असितः यो लोकद्वाराणि स्वर्गापवर्गप्रापकाणि कर्मज्ञानादीनि भ्राम्यति । तेषु संचरति सोऽयम् एवमाहेति संबन्धः ॥९॥",
+      "chapter": 59,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "द्यूतपर्व",
+      "adhyaya_name": "नवपञ्चाशत्तमोऽध्यायः",
+      "english_ref": 9,
+      "combined_translation": "9-10"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "नार्या म्लेच्छन्ति भाषाभिर्मायया न चरन्त्युत। अजिह्यमशठं युद्धमेतत्सत्पुरुषव्रतम्॥११॥",
+      "english": "Those that are respectable do not use the Mleccha language, nor do they adopt deceitfulness in their behaviours. The act of honest men is to carry on a war without crookedness of cunning.",
+      "bhavadeepa": "द्विविधं देवनम् अक्षैः शास्त्रैश्च । तत्राद्यम् इति ॥१०॥",
+      "chapter": 59,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "द्यूतपर्व",
+      "adhyaya_name": "नवपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "शक्तितो ब्राह्मणार्थाय शिक्षितुं प्रयतामहे। तद्वै वित्तं मातिदेवीर्मा जैषीः शकुने परान्॥१२॥",
+      "english": "O Shakuni, by playing disparately do not deceitfully win from us that wealth with which according to our ability we try to benefit the Brahmanas. Even enemies should not be vanquished by desperate stakes in a deceitful play.",
+      "bhavadeepa": "म्लेच्छन्ति अपशब्दं कुर्वन्ति । भाषाभिर्गीर्भिः । मायया कपटेन । न चरन्ति न कर्म कुर्वन्ति । वाचा देहेन च कौटिल्यं न कुर्वन्तीति भावः । अत एवाजिह्ममकुटिलम् । अशठं कुटिलपुरुषहीनम् ॥११॥",
+      "chapter": 59,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "द्यूतपर्व",
+      "adhyaya_name": "नवपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "निकृत्या कामये नाहं सुखान्युत धनानि वा। कितवस्येह कृतिनो वृत्तमेतन्न पूज्यते॥१३॥",
+      "english": "I do not desire to have happiness or wealth by means of cunning. The conduct of one that is a gamester, even if his playing be without deceitfulness, should still never be praised.",
+      "bhavadeepa": "ब्राह्मर्थाय ब्राह्मणप्रयोजनाय । शिक्षितुं विद्यामुपादातुं यतामहे येन वित्तेन । तद्वै वित्तम् अपहर्तुं मातिदेवीः सर्वस्वस्य पणीकरणेन अतिद्यूतं मा कृथाः ॥१२॥",
+      "chapter": 59,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "द्यूतपर्व",
+      "adhyaya_name": "नवपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "शकुनिरुवाच। श्रोत्रियः श्रोत्रियानेति निकृत्यैव युधिष्ठिर। विद्वानविदुषोऽभ्येति नाहुस्तां निकृतिं जनाः॥१४॥",
+      "english": "Shakuni said O Yudhishthira, it is with the desire of vanquishing, which is (of course) not a very honest motive, that a high-born man approaches another (like him); so does a learned man an ignorant one;",
+      "bhavadeepa": "नन्वक्षपाताधीनो जयस्तवापि समान इत्याशङ्क्याह निकृत्येति निकृत्या नीचकर्मणा । इह कितवस्य एतद्वृत्तं । कृतिनः न पूज्यते सतां न प्रशस्यमित्यर्थः ॥१३॥",
+      "chapter": 59,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "द्यूतपर्व",
+      "adhyaya_name": "नवपञ्चाशत्तमोऽध्यायः",
+      "combined_translation": "14-15"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "अक्षैर्हि शिक्षितोऽभ्येति निकृत्यैव युधिष्ठिर। विद्वानविदुषोऽभ्येति नाहुस्तां निकृतिं जनाः॥१५॥",
+      "english": null,
+      "bhavadeepa": "निकृत्या जिगीषाख्येन नचिकर्मणा । ‘बहूनि मे अकृता कर्त्वानि युध्यैत्वेन सन्त्वेन पृच्छै’ इति मन्त्रवर्णात् युद्धेन वादेन वा जिगीषा नीचमेव कर्म । तथापि जनाः व्यावहारिका लोकास्ते जिगीषया शत्रुं प्रति गतिं निकृतिं नीचकर्मत्वेन नाहुः । श्रुतेर्विरक्तविषयत्वादित्यर्थः । अकृता वर्तुमयोग्यानि कर्त्वानि कर्तव्यानि भविष्यन्ति । तान्येवाह त्वेन एकेन युध्यै स्वेन संपृच्छै इति श्रुत्यर्थः ॥१४॥",
+      "chapter": 59,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "द्यूतपर्व",
+      "adhyaya_name": "नवपञ्चाशत्तमोऽध्यायः",
+      "english_ref": 14,
+      "combined_translation": "14-15"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "अकृतास्त्रं कृतास्रश्च दुर्बलं बलवत्तरः। एवं कर्मसु सर्वेषु निकृत्यैव युधिष्ठिरः। विद्वानविदुषोभ्येति नाहुस्तां निकृतिं जनाः॥१६॥",
+      "english": "O Yudhishthira, so also a man skilled in weapons approaches one who is not so; so does a strong man a weak one. This is the practice in every contest. The victory is(always)the motive.",
+      "bhavadeepa": "दार्ष्टान्तिकमाह अक्षैरिति ॥१५॥",
+      "chapter": 59,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "द्यूतपर्व",
+      "adhyaya_name": "नवपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "एवं त्वं मामिहाभ्येत्य निकृतिं यदि मन्यसे। देवनाद्विनिवर्तस्व यदि ते विद्यते भयम्॥१७॥",
+      "english": "If, therefore, in approaching me to play, you consider that I am actuated by dishonest motives, and if you are afraid then desist from the play.",
+      "bhavadeepa": null,
+      "chapter": 59,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "द्यूतपर्व",
+      "adhyaya_name": "नवपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "युधिष्ठिर उवाच।\n              आहूतो न निवर्तेयमिति मे व्रतमाहितम्। विधिश्च बलवान्राजन्दिष्टस्यास्मि वशे स्थितः॥१८॥",
+      "english": "Yudhishthira said. O king, challenged, I do not withdraw; this is my established vow. (I know) fate is (all) powerful. We are all under the sway of Fate.",
+      "bhavadeepa": "एवं त्वं निकृतिं छलं मन्यसे तर्हि श्रोत्रियादश्रोत्रिय इव विद्यावतो मत्तः पराभवभीतस्त्वं  द्यूताद्विनिवर्तस्वेत्यर्थः ॥१७॥",
+      "chapter": 59,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "द्यूतपर्व",
+      "adhyaya_name": "नवपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "अस्मिन्समागमे केन देवनं मे भविष्यति। प्रतिपाणश्च कोऽन्योस्ति ततो द्यूतं प्रवर्तताम्॥१९॥",
+      "english": "In this assembly with whom am I to play? Who is there who can stake equally with me? Let the play begin (with him).",
+      "bhavadeepa": "विधिःकारयितान्तर्यामी दिष्टं दैवम् ॥१८॥",
+      "chapter": 59,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "द्यूतपर्व",
+      "adhyaya_name": "नवपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "दुर्योधन उवाच।\n              अहं दातास्मि रत्नानां धनानां च विशाम्पते। मदर्थे देविता चायं शकुनिर्मातुलो मम॥२०॥",
+      "english": "Duryodhana said O king, I shall supply gems and jewels and wealth, and my uncle, Shakuni, will play the dice on my behalf.",
+      "bhavadeepa": "प्रतिपाणश्च कोऽन्योस्ति प्रतिपाणः पणप्रतिभूः तवाल्पधनत्वान्मत्तुल्यो धनिकः कोऽन्यो देवितास्तीति भावः । पणश्चैव हि कोऽन्यस्त इति पाठे तु पणः पणनकर्ता को न्यस्तस्त्वया मृत्युमुखे इति शेषः । तव मया सह देवितुमनर्हत्वादितिभावः ॥१९॥",
+      "chapter": 59,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "द्यूतपर्व",
+      "adhyaya_name": "नवपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "युधिष्ठिर उवाच।\n              अन्येनान्यस्य वै द्यूतं विषमं प्रतिभाति मे। एतद्विद्विन्नुपादत्स्व काममेवं प्रवर्तताम्॥२१॥",
+      "english": "Yudhishthira said Gambling by one on another's behalf seems to me to be contrary to rule. O learned man, you too will admit this. If however, you still desire it, let the play begin.",
+      "bhavadeepa": null,
+      "chapter": 59,
+      "parva_name": "सभापर्व",
+      "upaparva_name": "द्यूतपर्व",
+      "adhyaya_name": "नवपञ्चाशत्तमोऽध्यायः"
+    }
+  ]
+}

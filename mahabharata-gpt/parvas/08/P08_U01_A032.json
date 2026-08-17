@@ -1,0 +1,676 @@
+{
+  "adhyaya_id": "P08_U01_A032",
+  "book": 8,
+  "parva_name": "कर्णपर्व",
+  "upaparva_name": "कर्णपर्व",
+  "adhyaya_name": "द्वात्रिंशोऽध्यायः",
+  "chapter": 32,
+  "verse_count": 66,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "सञ्जय उवाच।\n              पुत्रस्तव महाराज मद्रराजं महारथम् । विनयेनोपसंगम्य प्रणयाद्वाक्यमब्रवीत् ॥१॥",
+      "english": "Sanjaya said O great king, your son, approaching the prince of Madras, that very powerful carwarrior, with enough of humility, spoke these words to him out of affection.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "सत्यव्रत महाभाग द्विषतां तापवर्धन । मद्रेश्वर रणे शूर परसैन्यभयङ्कर ॥२॥",
+      "english": "O you of truthful vows, O greatly fortunate one, O you who increase the sorrows of the antagonists, O lord of the Madras, O hero in battle, O you who instill terror in the hostile forces.",
+      "bhavadeepa": "पुत्र इति । विनयेन नत्या प्रणयात् प्रकृष्टात् न्यायात् । युक्तियुक्त इत्यर्थः ॥१॥",
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "श्रुतवानसि कर्णस्य ब्रुवतो वदतां वर । यथा नृपतिसिंहानां मध्ये त्वां वरये स्वयम् ॥३॥",
+      "english": "O best of speakers, you have heard what Karna had said, namely that this hero (Karna) chooses you amongst all the foremost of princes.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "तत्त्वामप्रतिवीर्याद्य शत्रुपक्षक्षयावह । मद्रेश्वर प्रयाचेऽहं शिरसा विनयेन च ॥४॥",
+      "english": "When such you are, O you of invincible prowess, O prince of the Madras, I solicit you today with enough of humility and bowing down my head in order to bring about the destruction of my enemies.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "तस्मात्पार्थविनाशार्थं हितार्थं मम चैव हि । सारथ्यं रथिनां श्रेष्ठ प्रणयात्कर्तुमर्हसि ॥५॥",
+      "english": "In consequence thereof, O best of carwarriors, it is necessary that you should serve me, out of affection, as my charioteer in order to bring about the death of the sun of Pritha, as also to render me a real good.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "त्वयि यन्तरि राधेयो विद्विषो मे विजेष्यते । अभीषूणां हि कर्णस्य ग्रहीताऽन्यो न विद्यते ॥६॥",
+      "english": "Having had you for his charioteer, the son of Radha will surely vanquish my antagonists.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "ऋते हि त्वां महाभाग वासुदेवसमं युधि । स पाहि सर्वथा कर्णं यथा ब्रह्मा महेश्वरम् ॥७॥",
+      "english": "Indeed, O greatly fortunate one, these exists on one, who can restrain the horses belonging to Karna, excepting yourself, who are cruel to Vasudeva in battle. So do you protect Karna by all means, even as Brahma protects Maheshvara.",
+      "bhavadeepa": "अभीषूणां हयरश्मीनाम् ॥६॥",
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "यथा च सर्वथाऽऽपत्सु वार्ष्णेयः पाति पाण्डवम् । तथा मद्रेश्वराद्य त्वं राधेयं प्रतिपालय ॥८॥",
+      "english": "Even as that descendant of the Vrishni race protects the son of Pandu all means in all his difficulties, so, O chief of the Madras, do you support today the son of Radha.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "भीष्मो द्रोणः कृपः कर्णो भवान् भोजश्च वीर्यवान् । शकुनिः सौबलो द्रौणिरहमेव च नो बलम् ॥९॥",
+      "english": "Bhishma, Drona, Kripa, Karna, yourself and the most energetic king of the Bhojas as well as Shakuni, the son of Subala, the son of Drona and myself too, all had formed our army.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "एवमेष कृतो भागो नवधा पृथिवीपते । न च भागोत्र भीष्मस्य द्रोणस्य च महात्मनः ॥१०॥",
+      "english": "O ruler of earth, thus nine divisions had : been made of the army, but no such division or allotted share does yet exist of either Bhishma or lofty-minded Drona.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "ताभ्यामतीत्य तौ भागौ निहता मम शत्रवः । वृद्धौ हि तौ महेष्वासौ छलेन निहतौ युधि ॥११॥",
+      "english": "By those two (Bhishma and Drona), who had gone beyond their respective divisions, all my enemies were slain.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "कृत्वा नसुकरं कर्म गतौ स्वर्गमितोऽनघ । तथाऽन्ये पुरुषव्याघ्राः परैर्विनिहता युधि ॥१२॥",
+      "english": "Those two foremost of persons, who were very old, were slaughtered by stratagem in the field. O sinless one, they repaired to heaven from here, after having performed the most arduous tasks; as also other foremost of men, having been slain by the enemies in battle, departed to paradise.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "अस्मदीयाश्च बहवः स्वर्गायोपगता रणे । त्यक्त्वा प्राणान् यथाशक्ति चेष्टां कृत्वा च पुष्कलाम् ॥१३॥",
+      "english": "So again numerous other heroes, all belonging to our army, after having achieved the most difficult attempts to the best of their prowess and as also other having abandoned their lives in the battle, at last departed to heaven.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "तदिदं हतभूयिष्ठं बलं मम नराधिप । पूर्वमप्यल्पकैः पार्थैर्हतं किमुत सांप्रतम् ॥१४॥",
+      "english": "O lord of men, this our army the large part of which has been slain have already been massacred by the sons of Pritha, who were at first very few in number. What would be done now?",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "बलवन्तो महात्मानः कौन्तेयाः सत्यविक्रमाः । बलं शेषं न हन्युर्मे यथा तत्कुरु पार्थिव ॥१५॥",
+      "english": "The sons of Kunti are all possessed of immense strength; they are lofty-minded; and also they are endued with undaunted course. O lord of earth, now act up in such a way that they may not slaughter the rest of my army.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "हतवीरमिदं सैन्यं पाण्डवैः समरे विभो । कर्णो ह्येको महाबाहुरस्मत्प्रियहिते रतः ॥१६॥",
+      "english": "O lord, this my force has lost the most heroic warriors, who were all slain by the sons of Pandu in the field of battle.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "भवांश्च पुरुषव्याघ्र सर्वलोकमहारथः । शल्यं कर्णोऽर्जुनेनाद्य योद्धुमिच्छति संयुगे ॥१७॥",
+      "english": "Indeed, Karna alone, that mighty-armed hero, is dear to us and attached to our good; as also, O foremost of persons you are, who are the mightiest car-warrior throughout the entire world.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "तस्मिञ्जयाशा विपुला मद्रराज नराधिप । तस्याभीषुग्रहवरो नान्योऽस्ति भुवि कश्चन ॥१८॥",
+      "english": "O Shalya, Karna desires to engage in battle today with Arjuna. But O chief of the people of Madras, I entertain very great hopes in that dreadful battle.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "पार्थस्य लमरे कृष्णो यथाभीषुग्रहो वरः । तथा त्वमपि कर्णस्य रथेऽभीषुग्रहो भव ॥१९॥",
+      "english": "There does none exist in the whole world, who can act as the best holder of the reins of Karna's horses; even as Krishna makes the foremost holder of reins of Partha's horses in the field of battle, so, O monarch, should you be the holder of reins of the car belonging to Karna.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "तेन युक्तो रणे पार्थो रक्ष्यमाणश्च पार्थिव । यानि कर्माणि कुरुते प्रत्यक्षाणि तथैव तत् ॥२०॥",
+      "english": "O sire, having been attended by him (Krishna) and also well guarded in battle, whatever deeds that the son of Pritha performs, will all be consequently done before your eyes.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "पूर्वं नः समरे ह्येवमवधीदर्जुनो रिपून् । इदानीं विक्रमो ह्यस्य कृष्णेन सहितस्य च ॥२१॥",
+      "english": "Formerly Arjuna, indeed, never slaughtered his enemies in battle; but now, as he is always attended by Krishna, he shows forth such a prowess.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "कृष्णेन सहितः पार्थो धार्तराष्ट्रीं महाचमूम् । अहन्यहनि मद्रेश द्रावयन् दृश्यते युधि ॥२२॥",
+      "english": "And now, O lord of the Madras, it is witnessed that day after day the son of Pritha causes the vast army of Dhritarashtra to retreat, because he is ever attended by Krishna in the field of battle.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "भागोऽवशिष्टः कर्णस्य तव चैव महाद्युते । तं भागं सह कर्णेन युगपन्नाशयाद्य हि ॥२३॥",
+      "english": "O most resplendent one, the rest of the share given to Karna as well as to yourself still remains. Being accompanied by Karna, do you at once proceed to the field of battle.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "अरुणेन यथा सार्धं तमः सूर्यो व्यपोहति । तथा कर्णेन सहितो जहि पार्थं महाहवे ॥२४॥",
+      "english": "Even as the Sun, being attended by the Arjuna, disposes the darkness, so you, being united with Karna, slaughter the son of Pritha in this dreadful battle.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "उद्यन्तौ च यथा सूर्यौ बालसूर्यसमप्रभौ । कर्णशल्यौ रणे दृष्ट्वा विद्रवन्तु महारथाः ॥२५॥",
+      "english": "Let the greatest car-warriors, belonging to the hostile force, run away from the field, after seeing in the battle both Karna and Shalya, who are like two risen suns and who also are possessed of the splendour of the rising sun.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "सूर्यारुणौ यथा दृष्ट्वा तमो नश्यति मारिष । तथा नश्यन्तु कौन्तेयाः सपञ्चालाः ससुञ्जयाः ॥२६॥",
+      "english": "As, O sire, the thick gloom is destroyed at the very view of both the Sun and Arjuna, even so let all the descendants of Kunti along with the Panchalas and the Srinjayas be destroyed (at the sight of Karna and Shalya in the battle).",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "रथिनां प्रवरः कर्णो यन्तॄणां प्रवरो भवान् । संयोगो युवयोर्लोके नाभून्न च भविष्यति ॥२७॥",
+      "english": "Karna is superior to all the car-warriors, as also you are the foremost of all the charioteers; and there exists no one in the whole world, who is your peer in the field of battle.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "यथा सर्वास्ववस्थासु वार्ष्णेयः पाति पाण्डवम् । तथा भवान्परित्रातु कर्णं वैकर्तनं रणे ॥२८॥",
+      "english": "Even as that descendant of the Vrishni race protects the son of Pandu in all his vicissitudes, so do you guard Karna the son of Vikartana, in the battle.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "त्वया सारथिना ह्येष अप्रधृष्यो भविष्यति । देवतानामपि रणे सशक्राणां महीपते । किं पुनः पाण्डवेयानां मा विशंकीर्वचो मम ॥२९॥",
+      "english": "O ruler of earth, when you are his charioteer, this hero (Karna) will surely be invincible even in the war with all the celestials, headed by Shakra (Indra); and what again, need be said with all the Pandavas. O, do not doubt my sayings!",
+      "bhavadeepa": "त्रातु त्रायताम् ॥२८॥",
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "सञ्जय उवाच।\n              दुर्योधनवचः श्रुत्वा शल्यः क्रोधसमन्वितः । त्रिशिखां भ्रुकुटिं कृत्वा धुन्वन् हस्तौ पुनः पुनः ॥३०॥",
+      "english": "Sanjaya said Having heard the words of Duryodhana, Shalya, who became highly enraged and who was stretching his bow to its extent and who, again, was waving his two arms often and often,",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "क्रोधरक्ते महानेत्रे परिवृत्य महाभुजः । कुलैश्वर्यश्रुतबलैर्दृप्तः शल्योऽब्रवीदिदम् ॥३१॥",
+      "english": "And who, moreover, was rolling his two expensive eyes reddened with great rage and who himself was endued with the mighty arms and who also was greatly proud of the possession of his high-birth, properties, vast learning and physical capability, Shalya uttered these words.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "शल्य उवाच।\n              अवमन्यसि गान्धारे ध्रुवं च परिशंकसे । यन्मां ब्रवीषि विश्रब्धं सारथ्यं क्रियतामिति ॥३२॥",
+      "english": "Shalya said O son of Gandhari, you are offending me; and also surely you are suspecting my conduct, when you ask me without hesitation by saying-Do you act as my charioteer.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "अस्मत्तोऽभ्यधिकं कर्णं मन्यमानः प्रशंससि । न चाहं युधि राधेयं गणये तुल्यमात्मनः ॥३३॥",
+      "english": "You praise Karna by considering that he is superior to ourselves. But I never reckon the son of Radha to be equal to myself in the field of battle.",
+      "bhavadeepa": "विश्रब्धं निःशङ्कं यथा स्यात्तथा ॥३२॥",
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "आदिश्यतामभ्यधिको ममांशः पृथिवीपते । तमहं समरे जित्वा गमिष्यामि यथागतम् ॥३४॥",
+      "english": "O ruler of earth, let a much greater share be permitted to me in the battle. Having slaughtered him in the field, who has come to contend with me, I will repair to the place where from I came.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "अथवाऽप्येक एवाहं योत्स्यामि कुरुनन्दन । पश्य वीर्यं ममाद्य त्वं संग्रामे दहतो रिपून् ॥३५॥",
+      "english": "O descendant of the Kuru race, if it be desirable, I will fight alone. Do you witness today my energy in the field of battle, whilst I will engage in scorching the enemies.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "यथाभिमानं कौरव्य निधाय हृदये पुमान् । अस्मद्विधः प्रवर्तेत मा मां त्वमभिशंकिथाः ॥३६॥",
+      "english": "O descendant of the Kuru race, no person, who is like ourselves, ever engages himself in the execution of my duties, after having reflected in the heart such an insult. Do not doubt me (my prowess). In the battle, you should not at all attach such a great insult to me.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "युधि वाऽप्यवमानो मे न कर्तव्यः कथञ्चन । पश्य पीनौ मम भुजौ वज्रसंहननोपमौ ॥३७॥",
+      "english": "See these two my mascular arms, that can smite down like thunder; as also do you behold my bow that is variegated with the excellent colors, as well as my shafts that are like snakes possessing virulent poison.",
+      "bhavadeepa": "निधाय त्वत्कृतमपमानमिति शेषः । प्रवर्तेत त्यक्तुमिति शेषः ॥३६॥",
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "धनुः पश्य च मे चित्रं शरांश्चाशीविषोपमान् । रथं पश्य च मे क्लृप्तं सदश्वैर्वातवेगितैः ॥३८॥",
+      "english": "See again, my car, to which are yoked the most beautiful horses endued with the swiftness of the wind. And O son of Gandhari, see my mace, that is ornamented with gold and threads of hemp.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "गदां च पश्य गान्धारे हेमपट्टविभूषिताम् । दारयेयं महीं कृत्स्नां विकिरेयं च पर्वतान् ॥३९॥",
+      "english": "O lord of earth, when I am angry I can split up the very earth; and I can break as under the mountains, as also I can soak up even all the oceans by means of my own energy.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "शोषयेयं समुद्रांश्च तेजसा स्वेन पार्थिव । तं मामेवंविधं राजन् समर्थमरिनिग्रहे ॥४०॥",
+      "english": "Why do you, O king, being conscious of the fact that I am thus capable of striking down the enemies, employ me to the office of the charioteer in the field of battle to the son of Adhiratha, who is born of such low parentage.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "कस्माद्युनङ्क्षि सारथ्ये नीचस्याधिरथे रणे । न मामधुरि राजेन्द्र नियोक्तुं त्वमिहार्हसि ॥४१॥",
+      "english": "O lord of kings, you should not appoint me to this menial service. Having been indeed, thus superior to him, I cannot dare obey the commands of that sinful person.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः",
+      "combined_translation": "41-42"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "न हि पापीयसः श्रेयान् भूत्वा प्रेष्यत्वमुत्सहे । यो ह्यभ्युपगतं प्रीत्या गरीयांसं वशे स्थितम् ॥४२॥",
+      "english": null,
+      "bhavadeepa": "अधुरि नीचे कर्मणि ॥४१॥",
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः",
+      "english_ref": 41,
+      "combined_translation": "41-42"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "वशे पापीयसो धत्ते तत्पापमधरोत्तरम् । ब्रह्मणा ब्राह्मणाः सृष्टा मुखात् क्षत्रं च बाहुतः ॥४३॥",
+      "english": "That person, who makes one, who is a guest out of love and who is most supreme and who, again, is already very obedient, submissive to a very sinful man, surely becomes subject to that sort of crime which is similar to one of confusing the superior with the inferior.",
+      "bhavadeepa": "पापीयसः नीचयोनेः प्रेष्यत्वं दासत्वं कर्तुमिति शेषः ॥४२॥",
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "ऊरुभ्यामसृजद्वैश्यान् शूद्रान्पद्भ्यामिति श्रुतिः । तेभ्यो वर्णविशेषाश्च प्रतिलोमानुलोमजाः ॥४४॥",
+      "english": "This is a truth that Brahma created the twice-born persons from his mouth; and the Kshatriyas (or the people of the warrior class) from his arms, and also he created the Vaisyas (or the merchant class) from his thighs; and the Sudras (or the people of the servile class) from his feet.",
+      "bhavadeepa": "वशे आज्ञायाम् । अधरोत्तरं नीचोच्चयोर्वैपरीत्यकरणजं महत्पापम् ॥४३॥",
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "अथान्योन्यस्य संयोगाच्चातुर्वर्ण्यस्य भारत । गोप्तारः संगृहीतारो दातारः क्षत्रियाः स्मृताः ॥४५॥",
+      "english": "Thereupon, O descendant of the Bharata race, the particular classes of persons, that is these born of (superior father marrying an inferior mother, or of a inferior father marrying a superior mother), have all originated from these four classes by means of their union with one another.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "याजनाध्यापनैर्विप्रा विशुद्धैश्च प्रतिग्रहैः । लोकस्यानुग्रहार्थाय स्थापिता ब्राह्मणा भुवि ॥४६॥",
+      "english": "It has often been told that the Kshatriyas are the protectors of the rest of the classes, as also they are the possessors and givers of wealth. The Brahmana, or the regenerate persons, are characterised as presiding at sacrifices, teaching and also by the acceptance of pure gifts and again, the Brahmanas, that is, the twice-born persons, were established upon the earth in order that they would shower forth blessings upon all the people.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "कृषिश्च पाशुपाल्यं च विशां दानं च धर्मतः । ब्रह्म-क्षत्र-विशां शूद्रा विहिताः परिचारकाः ॥४७॥",
+      "english": "According to the Dharma-Shastras the occupations of the Vaisyas are agriculture, the rearing of cattle and gift; whereas the Sudras are ordained to be the servants of the Brahmanas, Kshatriyas and Vaisyas.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "ब्रह्मक्षत्रस्य विहिताः सुता वै परिचारकाः । न क्षत्रियो वै सूतानां शृणुयाच्च कथञ्चन ॥४८॥",
+      "english": "Then, again, the charioteers, indeed are servants to the Kshatriyas; but never the Kshatriyas, O sinless one, are servants to the charioteer class. Do you, therefore, listen to these my words.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "अहं मूर्धाभिषिक्तो हि राजर्षिकुलजो नृपः । महारथः समाख्यातः सेव्यः स्तुत्यश्च बन्दिनाम् ॥४९॥",
+      "english": "I am that person, who have his head (or hairs) washed off with sanctity and I am born of a high family of royal sage and I am a mighty car-warriors and I am person of great note; as, again, I am worshipped and praised by the eulogists.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "सोऽहमेतादृशो भूत्वा नेहारिबलसूदनः । सूतपुत्रस्य संग्रामे सारथ्यं कर्तुमुत्सहे ॥५०॥",
+      "english": "O slayer of the hostile force, when I am such a person as described, I cannot dare act as the charioteer of the son of Suta in the field.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "अवमानमहं प्राप्य न योत्स्यामि कथञ्चन । आपृच्छे त्वाऽद्य गान्धारे गमिष्यामि गृहाय वै ॥५१॥",
+      "english": "Thus having obtained this insult I will never battle in the field, O son of Gandhari, today. I ask your permission, as I am really willing to return home.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "सञ्जय उवाच।\n              एवमुक्त्वा महाराज शल्यः समितिशोभनः । उत्थाय प्रययौ तूर्णं राजमध्यादमर्षितः ॥५२॥",
+      "english": "Sanjaya said Having thus addressed, that foremost of persons, Shalya, who was the ornament of assemblies and who also became highly enraged, immediately went away from the midst of the kings, after having stood up.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "प्रणयाद्बहुमानाच्च तन्निगृह्य सुतस्तव । अब्रवीन्मधुरं वाक्यं साम्ना सर्वार्थसाधकम् ॥५३॥",
+      "english": "Then your son, having received him (Shalya) with great affection and high respect, addressed him in a friendly manner these sweet expressions, pregnant with very grave ideas.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "यथा शल्य विजानीषे एवमेतदसंशयम् । अभिप्रायस्तु मे कश्चित्तन्निबोध जनेश्वर ॥५४॥",
+      "english": "O Shalya, this what you utter is doubtlessly true. In this, I have some object in sight. Be you, therefore, O lord of men, acquainted with this,",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 55,
+      "sanskrit": "न कर्णोऽभ्यधिकस्त्वत्तो न शंके त्वां च पार्थिव । न हि मद्रेश्वरो राजा कुर्याद्यदनृतं भवेत् ॥५५॥",
+      "english": "O lord of earth, Karna is in no way higher than what you are; nor that I doubt your conduct. It is sure also that the royal chief of the Madras will not achieve what should be unreal.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 56,
+      "sanskrit": "ऋतमेव हि पूर्वास्ते वदन्ति पुरुषोत्तमाः । तस्मादार्तायनिः प्रोक्तो भवानिति मतिर्मम ॥५६॥",
+      "english": "Indeed, your ancestors, who were the best of persons, always told the truth; and hence it is my opinion that yourself is said to be the descendant of the truthful persons.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 57,
+      "sanskrit": "शल्यभूतस्तु शत्रणां यस्मात्त्वं युधि मानद । तस्माच्छल्यो हि ते नाम कथ्यते पृथिवीतले ॥५७॥",
+      "english": "O you who confer honors, you are like a barbed shaft to your enemies upon this earth. In consequence thereof you are called by the name of Shalya on the surface of the world.",
+      "bhavadeepa": "ऋतमिति । ऋतमेव अयनम् आश्रयो येषां ते ऋतायनास्तेषां गोत्रापत्यमार्तायनिस्त्वम् ॥५६॥",
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 58,
+      "sanskrit": "यदेतद्व्याहृतं पूर्वं भवता भूरिदक्षिण । तदेव कुरु धर्मज्ञ मदर्थं यद्यदुच्यते ॥५८॥",
+      "english": "O you who award ample gifts (to the regenerate persons). O you who are acquainted with virtue, you now achieve for my sake what was told by you before, saying that you would achieve.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 59,
+      "sanskrit": "न च त्वत्तो हि राधेयो न चाहमपि वीर्यवान् । वृणेऽहं त्वां हयाग्र्याणां यन्तारमिह संयुगे ॥५९॥",
+      "english": "Really neither the son of Radha, nor I am more powerful than you. Hence I solicit you to be the driver of these horses of the best species (yoked to the car of Karna) in this dreadful battle.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 60,
+      "sanskrit": "मन्ये चाभ्यधिकं शल्य गुणैः कर्णं धनञ्जयात् । भवन्तं वासुदेवाच्च लोकोऽयमिति मन्यते ॥६०॥",
+      "english": "O sire, even as Karna is reckoned to be superior to Dhananjaya regarding innumerable qualities, so this whole world is of opinion that you are superior to even Vasudeva.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 61,
+      "sanskrit": "कर्णो ह्यभ्यधिकः पार्थादस्त्रैरेव नरर्षभ । भवानभ्यधिकः कृष्णा‌श्वज्ञाने बले तथा ॥६१॥",
+      "english": "O foremost of persons, Karna is, indeed, far superior to the son of Pritha respecting the management of weapons; and you, too, are superior to Krishna both in the horse-lore and physical power.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 62,
+      "sanskrit": "यथाऽश्वहृदयं वेद वासुदेवो महामनाः । द्विगुणं त्वं तथा वेत्सि मद्रराजेश्वरात्मज ॥६२॥",
+      "english": "As that high-souled Vasudeva is thoroughly versed in the knowledge about horses, even so you, O royal chief of the Madras, is twice acquainted with that knowledge. There is no doubt about it.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 63,
+      "sanskrit": "शल्य उवाच।\n              यन्मां ब्रवीषि गान्धारे मध्ये सैन्यस्य कौरव । विशिष्टं देवकीपुत्रात्प्रीतिमानस्म्यहं त्वयि ॥६३॥",
+      "english": "Shalya said O son of Gandhari, O descendant of the Kuru race, as you tell me that amongst all these troops there is none more accomplished than the son of Devaki, even so I am highly gratified with you.",
+      "bhavadeepa": "मद्रेश्वरेत्यश्वोत्पत्तिदेशजत्वाद्विशेषेण तद्गुणाभिज्ञत्वं सूच्यते ॥६२॥",
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 64,
+      "sanskrit": "एष सारथ्यमातिष्ठे राधेयस्य यशस्विनः । युध्यतः पाण्डवाग्र्येण यथा त्वं वीर मन्यसे ॥६४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः",
+      "english_ref": 29,
+      "combined_translation": "29-64"
+    },
+    {
+      "verse": 65,
+      "sanskrit": "समयश्च हि मे वीर कश्चिद्वैकर्तनं प्रति । उत्सृजेयं यथाश्रद्धमहं वाचोऽस्य सन्निधौ ॥६५॥",
+      "english": "But O hero, this should really be my provision towards the son of Vikartana that I will sent froth in his presence such utterances as I will desire.",
+      "bhavadeepa": null,
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    },
+    {
+      "verse": 66,
+      "sanskrit": "सञ्जय उवाच।\n              तथेति राजन्पुत्रस्ते सह कर्णेन भारत । अब्रवीन्मद्रराजस्य मतं भरतसत्तम ॥६६॥",
+      "english": "Sanjaya said O king, O descendant of Bharata, O best of the Bharata race, your son, accompanied by Karna, replied to the son of the king of the Madras, saying-so be it.",
+      "bhavadeepa": "वाच उत्सृजेयं ताः अनेन क्षन्तव्या इति भावः ॥६५॥",
+      "chapter": 32,
+      "parva_name": "कर्णपर्व",
+      "upaparva_name": "कर्णपर्व",
+      "adhyaya_name": "द्वात्रिंशोऽध्यायः"
+    }
+  ]
+}

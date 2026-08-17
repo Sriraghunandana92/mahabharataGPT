@@ -1,0 +1,823 @@
+{
+  "adhyaya_id": "P06_U04_A096",
+  "book": 6,
+  "parva_name": "भीष्मपर्व",
+  "upaparva_name": "भीष्मवधपर्व",
+  "adhyaya_name": "षण्णवतितमोऽध्यायः",
+  "chapter": 96,
+  "verse_count": 80,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "सञ्जय उवाच ।\n          पुत्रं विनिहतं श्रुत्वा इरावन्तं धनञ्जयः ।  दुःखेन महताऽऽविष्टो निःश्वसन्पन्नगो यथा ॥१॥",
+      "english": "Sanjaya said Hearing his son Iravat slain, Dhananjaya, overwhelmed with grief and sighing like a snake.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "अब्रवीत्समरे राजन्वासुदेवमिदं वचः ।  इदं नूनं महाप्राज्ञो विदुरो दृष्टवान् पुरा ॥२॥",
+      "english": "Spoke, O king, these words addressing the son of Vasudeva, even on the field of battle. \"Surely the high-minded Vidura of great wisdom divined before hand this dreadful destruction of the Kurus and the Pandavas. It he was therefore that forbade king Dhritarashtra.",
+      "bhavadeepa": "पुत्रमिति ॥१॥",
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः",
+      "combined_translation": "2-3"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "कुरूणां पाण्डवानां च क्षयं घोरं महामतिः ।  स ततो निवारितवान्धृतराष्ट्रं जनेश्वरम् ॥३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः",
+      "english_ref": 2,
+      "combined_translation": "2-3"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "अन्ये च बहवो वीराः संग्रामे मधुसूदन ।  निहताः कौरवैः संख्ये तथाऽस्माभिश्च कौरवाः ॥४॥",
+      "english": "Innumerable other heroes, Oslayer of Madhu, have been slain by ourselves and the Kauravas in this sanguinary war.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "अर्थहेतोर्नरश्रेष्ठो क्रियते कर्म कुत्सितम् ।  धिगर्थान्यत्कृते ह्येवं क्रियते ज्ञातिसङ्क्षयः ॥५॥",
+      "english": "For the sake of wealth, O foremost of men, vile deeds are being perpetrated. Fie on that wealth for the sake of which this destruction of kinsmen is being perpetrated.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "अधनस्य मृतं श्रेयो न च ज्ञातिवधाद्धनम् ।  किं नु प्राप्स्यामहे कृष्ण हत्वा ज्ञातीन् समागतान् ॥६॥",
+      "english": "Death is preferable, for him who has no wealth, to the acquisition of wealth by the slaughter of his kinsmen. What good 0 Krishna, shall we reap, slaughtering these our kinsmen assembled together.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "दुर्योधनापराधेन शकुनेः सौबलस्य च ।  क्षत्रिया निधनं यान्ति कर्णदुर्मन्त्रितेन च ॥७॥",
+      "english": "In consequence of the faults of Duryodhana and those of Shakuni the son of Subala, and in consequence of the wicked counsels of Karna, the Kshatriyas are suffering destruction.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "इदानीं च विजानामि सुकृतं मधुसूदन ।  कृतं राज्ञा महाबाहो याचता च सुयोधनम् ॥८॥",
+      "english": "Now, O slayer of Madhu, do I realize what a great act of piety, O mighty-armed, one, did the king (Yudhishthira) do by begging of Suyodhana,",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "राज्यार्धं पञ्च वा ग्रामान् नाकार्षीत् स च दुर्मतिः ।  दृष्ट्वा हि क्षत्रियान् शूरान् शयानान् धरणीतले ॥९॥",
+      "english": "Either half of the kingdom or else five villages only. But the pervert Duryodhana turned deaf ears to our solicitations. Beholding these Kshatriyas, all brave warriors, prostrate on the surface of the earth.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "निन्दामि भृशमात्मानं धिगस्तु क्षत्रजीविकाम् ।  अशक्तमिति मामेते ज्ञास्यन्ते क्षत्रिया रणे ॥१०॥",
+      "english": "I can not but reproach myself. Fie on the life of a Kshatriya. These Kshatriyas may consider me incapable of batting any longer,",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "युद्धं तु मे न रुचितं ज्ञातिभिर्मधुसूदन ।  सञ्चोदय हयान् शीघ्रं धार्तराष्ट्रचमूं प्रति ॥११॥",
+      "english": "But, O slayer of Madhu, this battle with my kinsmen does not at all please me. However, swiftly drive the horses towards the army of the sons of Dhritarashtra.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "प्रतरिष्ये महापारं भुजाभ्यां समरोदधिम् ।  नायं यापयितुं कालो विद्यते माधव क्वचित् ॥१२॥",
+      "english": "I shall cross this ocean of battle incapable of being crossed by the strength of my arms. Surely, O Madhava, this is not the time for the display of feminine sentiments.\"",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "एवमुक्तस्तु पार्थेन केशवः परवीरहा ।  चोदयामास तानश्वान्पाण्डुरान् वातरंहसः ॥१३॥",
+      "english": "Thus spoken to by the son of Pritha that slayer of hostile heroes Keshava, urged on those cream colored steeds endued with the fleetness of the wind.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "अथ शब्दो महानासीत्तव सैन्यस्य भारत ।  मारुतोद्धूतवेगस्य सागरस्येव पर्वणि ॥१४॥",
+      "english": "Thereupon a deafening uproar was set up by your troops. O Bharata, like that of the ocean lashed into fury by the wind in the day of the new moon or the full moon.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "अपराह्णे महाराज संग्रामः समपद्यत ।  पर्जन्यसमनिर्घोषो भीष्मस्य सह पाण्डवैः ॥१५॥",
+      "english": "Then in the afternoon, O mighty monarch, the battle that was fought between Bhishma and the Pandavas, resembled in its din the rumble of the rain clouds Parjanya.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "ततो राजंस्तव सुता भीमसेनमुपाद्रवन् ।  परिवार्य रणे द्रोणं वसवो वासवं यथा ॥१६॥",
+      "english": "Then your sons, O king, surrounding Drona like the Vasus encircling Vasava, assailed Bhimasena.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "ततः शान्तनवो भीष्मः कृपश्च रथिनां वरः ।  भगदत्तः सुशर्मा च धनञ्जयमुपाद्रवन् ॥१७॥",
+      "english": "Thereafter Bhishma the son of Shantanu, Kripa the foremost of car-warriors, Bhagadatta and Susharma rushed against Dhananjaya.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "हार्दिक्यो बाह्लिकश्चैव सात्यकिं समभिद्रुतौ ।  अम्बष्ठकस्तु नृपतिरभिमन्युमवस्थितः ॥१८॥",
+      "english": "The son of Hridika and Balhika both assailed Satyaki. King Ambashtaka encountered Abhimanyu.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "शेषास्त्वन्ये महाराज शेषानेव महारथान् ।  ततः प्रववृते युद्धं घोररूपं भयावहम् ॥१९॥",
+      "english": "The rest of the warriors, O mighty monarch, engaged with other great car-warriors of the hostile party. Then commenced an awful engagement whose aspect was indeed terrible.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "भीमसेनस्तु संप्रेक्ष्य पुत्रांस्तव जनेश्वर ।  प्रजज्वाल रणे क्रुद्धो हविषा हव्यवाडिव ॥२०॥",
+      "english": "Bhimasena beholding your sons, O ruler of me, in battle, blazed forth in anger like the sacrificial fire blazing forth with clarified butter.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "पुत्रास्तु तव कौन्तेयं छादयाञ्चक्रिरे शरैः ।  प्रावृषीव महाराज जलदा इव पर्वतम् ॥२१॥",
+      "english": "Your sons, o king, covered that son of Kunti with a shower of arrows like clouds covering a mountain with torrents of rain during the rainy season.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "स च्छाद्यमानो बहुधा पुत्रैस्तव विशांपते ।  सृक्किणी संलिहन्वीरः शार्दूल इव दर्पितः ॥२२॥",
+      "english": "Then, O ruler of men, when thus covered with arrows by your sons, that hero Bhima, agile as a tiger, began to lick the corners of his mouth.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "व्यूढोरस्कं ततो भीमः पातयामास भारत ।  क्षुरप्रेण सुतीक्ष्णेन सोऽभवद्गतजीवितः ॥२३॥",
+      "english": "Thereafter, 0 Bharata, he felled Vyudoraska with a sharp arrow furnished with a head like that of a horse-shoe; and the letter was deprived of his life.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "अपरेण तु भल्लेन पीतेन निशितेन तु ।  अपातयत्कुण्डलिनं सिंहः क्षुद्रमृगं यथा ॥२४॥",
+      "english": "Then again with an well tempered and well sharpened broad-headed shaft, he felled Kundalin, like a lion felling a smell deer.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "ततः सुनिशितान्पीतान्समादत्त शिलीमुखान् ।  ससर्ज त्वरया युक्तः पुत्रांस्ते प्राप्य मारिष ॥२५॥",
+      "english": "Then Bhima fixed on his bow-string arrows well-tempered and of exceeding sharpness. Getting near your sons. O sire, he let these arrows go with great lightness and with good aim.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "प्रेषिता भीमसेनेन शरास्ते दृढधन्वना ।  अपातयन्त पुत्रांस्ते रथेभ्यः सुमहारथान् ॥२६॥",
+      "english": "These arrows sped by that firm bowman Bhimasena began to overthrow your sons, all mighty car-warriors, from their seats.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "अनाधृष्टिं कुण्डभेदिं वैराटं दीर्घलोचनम् ।  दीर्घबाहुं सुबाहुं च तथैव कनकध्वजम् ॥२७॥",
+      "english": "Bhima felled Anadhrishti, Kundabheda, Vairata, Deerghalochana, Deerghabhau and Kanakdhvaja.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "प्रपतन्त स्म वीरास्ते विरेजुर्भरतर्षभ ।  वसन्ते पुष्पशबलाश्चूताः प्रपतिता इव ॥२८॥",
+      "english": "When falling, these heroes, O scion of the Bharata race, appeared beautiful like blossoming mango trees falling down in the spring.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "ततः प्रदुद्रुवुः शेषास्तव पुत्रा महाहवे ।  तं कालमिव मन्यन्तो भीमसेनं महाबलम् ॥२९॥",
+      "english": "Then considering the highly puissant Bhima to be the Destroyer incarnate, the rest of your sons, O ruler of men fled with haste.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "द्रोणस्तु समरे वीरं निर्दहन्तं सुतांस्तव ।  यथाद्रिं वारिधाराभिः समंताद्व्यकिरच्छरैः ॥३०॥",
+      "english": "Then Drona covered that hero (Bhima) who had been consuming your sons, with a shower of shafts, like showers of rain covering the mountain breast.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "तत्राद्भुतमपश्याम कुन्तीपुत्रस्य पौरुषम् ।  द्रोणेन वार्यमाणोऽपि निजघ्ने यत्सुतांस्तव ॥३१॥",
+      "english": "Then indeed we beheld the wonderful prowess of the son of Kunti, in as much as, though opposed by Drona himself, he succeeded in slaughtering your sons.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "यथा गोवृषभो वर्षं सन्धारयति स्वात् पतत् ।  भीमस्तथा द्रोणमुक्तं शरवर्षमदीधरत् ॥३२॥",
+      "english": "Just as a heifer bears the shower of rain falling from the skies, so did Bhima bear the arrowy downpour discharged by Drona, like one undaunted.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "अद्भुतं च महाराज तत्र चक्रे वृकोदरः ।  यत्पुत्रांस्तेऽवधीत्संख्ये द्रोणं चैव न्यवारयत् ॥३३॥",
+      "english": "Really, O mighty monarch, Vrikodara achieved marvellous feats, in as much as he succeeded in slaying your sons and opposing Drona simultaneously.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "पुत्रेषु तव वीरेषु चिक्रीडार्जुनपूर्वजः ।  मृगेष्विव महाराज चरन् व्याघ्रो महाबलः ॥३४॥",
+      "english": "Then the elder brother of Arjuna played amidst your heroic sons like, O monarch, a powerful tiger roving amidst a herd of deer.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "यथा हि पशुमध्यस्थो दारयेत पशून् वृकः ।  वृकोदरस्तव सुतांस्तथा व्यद्रावयद्रणे ॥३५॥",
+      "english": "Just a wolf, remaining inside a herd of cattle, chases and terrifies them, so, in that battle, did Vrikodara crush and frighten your sons.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "गाङ्गेयो भगदत्तश्च गौतमश्च महारथाः ।  पाण्डवं रभसं युद्धे वारयामासुरर्जुनरम् ॥३६॥",
+      "english": "The son of Ganga, Bhagadatta, the mighty car-warrior Gautami's son, all opposed in battle Arjuna himself the son of Pandu.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "अस्त्रैरस्त्राणि संवार्य तेषां सोऽतिरथो रणे ।  प्रवीरांस्तव सैन्येषु प्रेषयामास मृत्यवे ॥३७॥",
+      "english": "Then that Atiratha checking the enemies weapons with his own weapons, dispatched many mighty heroes of the hostile rank to the regions of Death.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "अभिमन्युस्तु राजानमम्बष्ठं लोकविश्रुतम् ।  विरथं रथिनां श्रेष्ठं वारयामास सायकैः ॥३८॥",
+      "english": "Then Abhimanyu with his shafts, deprived that foremost of car-warriors, viz., king Ambashta of world-wide fame, of his car.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "विरथो वध्यमानस्तु सौभद्रेण यशस्विना ।  अवप्लुत्य रथात्तूर्णमम्बष्ठो वसुधाधिपः ॥३९॥",
+      "english": "Deprived of his car and wondered by the illustrious son of Subhadra, he quickly jumped down from his car in shame and O lord of men.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "असिं चिक्षेप समरे सौभद्रस्य महात्मनः ।  आरुरोह रथं चैव हार्दिक्यस्य महाबलः ॥४०॥",
+      "english": "Hurled his sword at the high-souled son of Subhadra. Thereafter that highly-powerful hero ascended the car of the son of Hridika.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "आपतन्तं तु निस्त्रिंशं युद्धमार्गविशारदः ।  लाघवाद्व्यंसयामास सौभद्रः परवीरहा ॥४१॥",
+      "english": "Then that slayer of hostile hero, namely Abhimanyu, versed in all the modes, of warfare, beholding the swiftly advancing sword, evaded its strike by the agility of his movements.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "व्यंसितं वीक्ष्य निस्त्रिंशं सौभद्रेण रणे तदा ।  साधु साध्विति सैन्यानां प्रणादोऽभूद्विशांपते ॥४२॥",
+      "english": "Beholding the sword thus baffled by the son of Subhadra, in that battle, the troops, O ruler of men, set up an uproar crying 'well-done' 'well-done'.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "धृष्टद्युम्नमुखास्त्वन्ये तव सैन्यमयोधयन् ।  तथैव तावकाः सर्वे पाण्डुसैन्यमयोधयन् ॥४३॥",
+      "english": "Other warriors of the Pandava host headed by Dhrishtadyumna himself, engaged with your warriors; so also your warriors fought against the troops of the Pandavas.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "तत्राक्रन्दो महानासीत्तव तेषां च भारत ।  निघ्नतां दृढमन्योन्यं कुर्वतां कर्म दुष्करम् ॥४४॥",
+      "english": "Then when they were thus slaughtering one another mercilessly and achieving feats difficult of being accomplished, fierce was the battle that raged between your and their warriors.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "अन्योन्यं हि रणे शूराः केशेष्वाक्षिप्य मानिनः ।  नखदन्तैरयुध्यन्त मुष्टिभिर्जानुभिस्तथा ॥४५॥",
+      "english": "In that battle the warriors, O sire, dragging one another by the hair, fought on striking one another with their finger-nails, their teeth, their blows and thighs,",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "तलैश्चैवाथ निस्त्रिंशैर्बाहुभिश्च सुसंस्थितैः ।  विवरं प्राप्य चान्योन्यमनयन्यमसादनम् ॥४६॥",
+      "english": "Their sabers and palms and sinewy arms. Availing themselves of another's one weaknesses, they dispatched one another to the regions of Death.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "न्यहनच्च पिता पुत्रं पुत्रश्च पितरं तथा ।  व्याकुलीकृतसर्वांगा युयुधुस्तत्र मानवाः ॥४७॥",
+      "english": "Father slew son and son slew father in that battle men fought on making the best use of all limbs.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "रणे चारूणि चापानि हेमपृष्ठानि मारिष ।  हतानामपविद्धानि कलापाश्च महाधनाः ॥४८॥",
+      "english": "Beautiful bows with their staves decked with gold, O Bharata, loosened from the hold of slain warriors, and precious ornaments,",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "जातरूपमयैः पुङ्खैः राजतैर्निशिताः शराः ।  तैलधौता व्यराजन्त निर्मुक्तभुजगोपमाः ॥४९॥",
+      "english": "And whetted shafts furnished with golden or Argentine wings and cleansed with oil and resembling snakes that have recently cast of their slough, bone on the field (as they lay scattered thereon).",
+      "bhavadeepa": "अपविद्धानि पतितानि ॥४८॥",
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "हस्तिदन्तत्सरून् खड्गान् जातरूपपरिष्कृतान् ।  चर्माणि चापविद्धानि रुक्मचित्राणि धन्विनाम् ॥५०॥",
+      "english": "Swords with hilts made of ivory and decked with gold, and bucklers, belonging to bowmen, embossed with gold, lay scattered on the field, loosened from the grasp of their wielders.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "सुवर्णविकृतप्रासान् पट्टिशान्हेमभूषितान् ।  जातरूपमयाश्चर्ष्टीः शक्तीश्च कनकोज्ज्वलाः ॥५१॥",
+      "english": "Lances and dares and battle-axes, and javelins, all decked with gold and of golden hue,",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "सुसन्नाहाश्च पतिता मुसलानि गुरूणि च ।  परिघान्पट्टिशांश्चैव भिन्दिपालांश्च मारिष ॥५२॥",
+      "english": "And, O sire, beautiful coats of mail, heavy and light bludgeons, inaces, battle-axes and small arrows,",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "पतितान्विविधांश्चापांश्चित्रान्हेमपरिष्कृतान् ।  कुथा बहुविधाकाराश्चामरान् व्यजनानि च ॥५३॥",
+      "english": "And diverse-sharped, capricious for elephants, and chamaras and fans and numerous bows variegated and decorated with gold, lay scattered on the field.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "नानाविधानि शस्त्राणि प्रगृह्य पतिता नराः ।  जीवन्त इव दृश्यन्ते गतसत्त्वा महारथाः ॥५४॥",
+      "english": "Men lying on the field with diverse weapons in grasp looked as if alive, though those mighty car-warriors were all deprived of the vital breaths.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 55,
+      "sanskrit": "गदाविमथितैर्गात्रैपुर्सलैर्भिन्नमस्तकाः ।  गजवाजिरथक्षुण्णाः शेरते स्म नराः क्षितौ ॥५५॥",
+      "english": "With their bodies crushed with strokes of maces, their heads smashed with the blows of bludgeons, and thoroughly mangled by the cars and elephants and steed, men lay on the field.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 56,
+      "sanskrit": "तथैवाश्वनृनागानां शरीरैर्विबभौ तदा ।  संछन्ना वसुधा राजन् पर्वतैरिव सर्वशः ॥५६॥",
+      "english": "Then the surface of the earth covered over with carcasses and corpses of men and elephants and steeds, appeared, O king, as if covered with hillocks.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 57,
+      "sanskrit": "समरे पतितैश्चैव शक्त्यृष्टिशरतोमरैः ।  निस्त्रिंशैः पट्टिशैः प्रासैरयस्कुन्तैः परश्वधैः ॥५७॥",
+      "english": "The field of battle was strewn over with fallen dares, swords, arrows, lances, sabers, axes, piked stakes, iron crows, battle-axes, clubs and bludgeons, and Shataghnees and bodies mutilated with weapons.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः",
+      "combined_translation": "57-58"
+    },
+    {
+      "verse": 58,
+      "sanskrit": "परिघैर्भिन्दिपालैश्च शतघ्नीभिश्च मारिष ।  शरीरैः शस्त्रनिर्भिन्नैः समास्तीर्यत मोदनी ॥५८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः",
+      "english_ref": 57,
+      "combined_translation": "57-58"
+    },
+    {
+      "verse": 59,
+      "sanskrit": "विशब्दैरल्पशब्दैश्च शोणितौघपरिप्लुतैः ।  गतासुभिरमित्रघ्न विबभौ निचिता मही ॥५९॥",
+      "english": "O slayer of enemies, the earth covered with some warriors silent in death, with others weltering in their blood and with some again moaning feebly, became highly beautiful.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 60,
+      "sanskrit": "सतलत्रैः सकेयूरैर्बाहुभिश्चन्द‌नोक्षितैः ।  हस्तिहस्तोपमैश्छिन्नैरूरुभिश्च तरस्विनाम् ॥६०॥",
+      "english": "O Bharata, the field of battle assumed a beautiful aspect, being strewn over with arms of mighty warriors smeared with sandal paste and adorned with leather fences and bracelets, as also with well snapped thighs resembling the trunks of elephants, and with severed heads of large-eyed combatants, graced with gems and car-rings.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः",
+      "combined_translation": "60-61"
+    },
+    {
+      "verse": 61,
+      "sanskrit": "बद्धचूडामणिवरैः शिरोभिश्च सकुण्डलैः ।  पातितैर्ऋषभाक्षाणां बभौ भारत मेदिनी ॥६१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः",
+      "english_ref": 60,
+      "combined_translation": "60-61"
+    },
+    {
+      "verse": 62,
+      "sanskrit": "कवचैः शोणितादिग्धैर्विप्रकीर्णैश्च काञ्चनैः ।  रराज सुभृशं भूमिः शान्तार्चिभिरिवानलैः॥६२॥",
+      "english": "Covered over with blood-soiled amours and golden ornaments, the field of battle appeared most beautiful as of scattered over with fires of mild flames.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 63,
+      "sanskrit": "विप्रविद्धैः कलापैश्च पतितैश्च शरासनैः ।  विप्रकीर्णैः शरैश्चैव रुक्मपुङ्खैः समन्ततः ॥६३॥",
+      "english": "With ornaments of various kinds loosened from their places, with bows fallen about, with shafts of golden wings lying about,",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 64,
+      "sanskrit": "रथैश्च सर्वतो भग्नैः किङ्किणीजालभूषितैः ।  वाजिभिश्च हतैर्बाणैः स्रस्तजिह्वैः सशोणितैः ॥६४॥",
+      "english": "With many broken cars decked with rows of bells, with numerous slain steeds bespattered with gore and their tongues protruding,",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 65,
+      "sanskrit": "अनुकर्षैः पताकाभिरुपासङ्गैर्ध्वजैरपि ।  प्रवीराणां महाशङ्खैर्विप्रकीर्णैश्च पाण्डुरैः॥६५॥",
+      "english": "With car-bottons, and standards quivers, pennons, huge milk white conchs, belonging to mighty warrior,",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 66,
+      "sanskrit": "स्रस्तहस्तैश्च मातङ्गैः शयानैर्विबभौ मही ।  नानारूपैरलङ्कारैः प्रमदेवाभ्यलङ्कृता ॥६६॥",
+      "english": "With trunkless elephants, scattered on the field, the earth appeared charming like a damsel adorned with various of ornaments.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 67,
+      "sanskrit": "दन्तिभिश्चापरैस्तत्र सप्रासैर्गाढवेदनैः ।  करैः शब्दं विमुञ्चद्भिः शीकरं च मुहुर्मुहुः ॥६७॥",
+      "english": "Then also with other elephants pierced with lances and pained to the extreme, and repeatedly uttering shrinks of agony with their trunks, the field of battle appeared beautiful as if covered with moving mountains. With blankets of various colors, and caparisons of elephants, sorts",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः",
+      "combined_translation": "67-68"
+    },
+    {
+      "verse": 68,
+      "sanskrit": "विबभौ तद्रणस्थानं स्यन्दमानैरिवाचलैः ।  नानारागैः कम्बलैश्च परिस्तोमैश्च दन्तिनाम् ॥६८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः",
+      "english_ref": 67,
+      "combined_translation": "67-68"
+    },
+    {
+      "verse": 69,
+      "sanskrit": "वैदूर्यमणिदण्डैश्च पतितैरङ्कुशैः शुभैः ।  घण्टाभिश्च गजेन्द्राणां पतिताभिः समन्ततः ॥६९॥",
+      "english": "With well-shaped hooks having their handles decked with lapses, with bells of huge elephants scattered here and there.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 70,
+      "sanskrit": "विपाटितविचित्राभिः कुथाभिरङ्कुशैस्तथा ।  ग्रैवेयैश्चित्ररूपैश्च रुक्मकक्ष्याभिरेव च ॥७०॥",
+      "english": "With clean housing of wonderful workmanship, with the skins of Ranku deer, with beautiful neck-laces and golden girths,",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 71,
+      "sanskrit": "यन्त्रैश्च बहुधाच्छिन्नैस्तोमरैश्चापि काञ्चनैः ।  अश्वानां रेणुकपिलै रुक्मच्छन्नैरुरश्छदैः ॥७१॥",
+      "english": "With many broken implements of war, with golden dares, with many gold fringed breast plates of steeds soiled with dust,",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 72,
+      "sanskrit": "सादिनां भुजगैश्छिनैः पतितैः साङ्गदैस्तथा ।  प्रासैश्च विमलैस्तीक्ष्णौर्विमलाभिस्तथर्ष्टिभिः॥७२॥",
+      "english": "With served arms of horse soldiers, adorned with bracelets and scattered about, with well polished lances of keep points and with resplendent swords,",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 73,
+      "sanskrit": "उष्णीषैश्च तथा चित्रैर्विप्रविद्धैस्ततस्ततः ।  विचित्रैर्बाणवर्षैश्च जातरूपपरिष्कृतैः ॥७३॥",
+      "english": "With variegated turbans fallen off and lying about, with wonderful crescent shaped arrows of golden effulgence,",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 74,
+      "sanskrit": "अश्वास्तरपरिस्तोमै राङ्कवैर्मृदितैस्तथा ।  नरेन्द्रचूडामणिभिर्विचित्रैश्च महाधनैः ॥७४॥",
+      "english": "With housings of steeds with skins of Ranku deer, torn and soiled, with beautiful and precious gems that had graced the turbans of the kings,",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 75,
+      "sanskrit": "छत्रैस्तथाऽपविद्धैश्च चामरैर्व्यजैनरपि ।  पद्मेन्दु तिभिश्चैव वदनैश्चारुकुण्डलैः ॥७५॥",
+      "english": "With umbrellas, and chamaras and fans scattered about, with moon-like or lotus-like faces of warriors conspicuous with charming ear-rings,",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 76,
+      "sanskrit": "क्लृप्तश्मश्रुभिरत्यर्थं वीराणां समलङ्कृतैः ।  अपविद्धैर्महाराज सुवर्णोज्ज्वलकुण्डलैः ॥७६॥",
+      "english": "And graced with well clipped beards and beautified, O king, with Kundalas of golden effulgence,",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 77,
+      "sanskrit": "ग्रहनक्षत्रशबला द्यौरिवार्साद्वसुन्धरा ।  एवमेते महासेने मृदिते तत्र भारत ॥७७॥",
+      "english": "The earth looked like the sky be-spangled with the stars and the planets. Thus, O Bharata, the two mighty armies crushed one another,",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 78,
+      "sanskrit": "परस्परं समासाद्य तव तेषां च संयुगे ।  तेषु श्रान्तेषु भग्नेषु मृदितेषु च भारत ॥७८॥",
+      "english": "Encountering one another in battle. When, O Bharata, the two armies were crushed and exhausted and completely broken,",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 79,
+      "sanskrit": "रात्रिः समभवत्तत्र नापश्याम ततोऽनुगान् ।  ततोऽवहारं सैन्यानां प्रचक्रुः कुरुपाण्डवाः ॥७९॥",
+      "english": "The hideous pall of night fell over the earth and the fight could no longer be discerned. Then the Kurus and the Pandavas withdrew their forces from the field.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    },
+    {
+      "verse": 80,
+      "sanskrit": "रजनीमुखे सुरौद्रे तु वर्तमाने महाभये ।  अवहारं ततः कृत्वा सहिताः कुरुपाण्डवाः ।  न्यविशन्त यथाकालं गत्वा स्वशिबिरं तदा ॥८०॥",
+      "english": "When that hideous night, fierce and dreadful, set in, both the Kurus and the Pandavas, having withdrawn their forces, entered their encampments and retired to their respective tents.",
+      "bhavadeepa": null,
+      "chapter": 96,
+      "parva_name": "भीष्मपर्व",
+      "upaparva_name": "भीष्मवधपर्व",
+      "adhyaya_name": "षण्णवतितमोऽध्यायः"
+    }
+  ]
+}

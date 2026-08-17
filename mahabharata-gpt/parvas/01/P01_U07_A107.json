@@ -1,0 +1,191 @@
+{
+  "adhyaya_id": "P01_U07_A107",
+  "book": 1,
+  "parva_name": "आदिपर्व",
+  "upaparva_name": "सम्भवपर्व",
+  "adhyaya_name": "सप्ताधिकशततमोऽध्यायः",
+  "chapter": 107,
+  "verse_count": 17,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "जनमेजय उवाच।\n              किं कृतं कर्म धर्मेण येन शापमुपेयिवान्। कस्य शापाच्च ब्रह्मर्षेः शूद्रयोनावजायत॥१॥",
+      "english": "Janamejaya said : What did Dharma (the god of justice) for which he was cursed? Who was the Brahmana Rishi, for whose curse the god had to be born in the womb of Shudra woman?",
+      "bhavadeepa": "एत इति क्षेत्रत्वं दास्या अपीत्यनेनैवगम्यत इति केचित्  ॥३२॥",
+      "chapter": 107,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "सप्ताधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "वैशंपायन उवाच।\n              बभूव ब्राह्मणः कश्चिन्माण्डव्य इति विश्रुतः। धृतिमान्सर्वधर्मज्ञः सत्ये तपसि च स्थितः॥२॥",
+      "english": "Vaishampayana said : There was a certain Brahmana, who was known as Mandavya. He was learned in all the precepts of virtue; he was devoted to truth and asceticism.",
+      "bhavadeepa": "सप्ताधिकशततमोऽध्यायः किं कृतमिति  ॥१॥",
+      "chapter": 107,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "सप्ताधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "स आश्रमपदद्वारि वृक्षमूले महातपाः। ऊर्ध्वबाहुर्महायोगी तस्थौ मौनव्रतान्वितः॥३॥",
+      "english": "The great ascetic sat at the entrance of his hermitage, as a great Yogi with his arms upraised in the observance of the vow of silence.",
+      "bhavadeepa": null,
+      "chapter": 107,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "सप्ताधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "तस्य कालेन महता तस्मिंस्तपसि वर्ततः। तमाश्रममनुप्राप्ता दस्यवो लोप्त्रहारिणः॥४॥",
+      "english": "As he passed years together (in that state), one day (some) robbers came to his hermitage with stolen properties.",
+      "bhavadeepa": null,
+      "chapter": 107,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "सप्ताधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "अनुसार्यमाणा बहुभी रक्षिभिर्भरतर्षभ। ते तस्यावसथे लोप्त्रं दस्यवः कुरुसत्तम॥५॥",
+      "english": "O best of the Bharata race, they were pursued by many guards-men. O best of the Kuru race, the thieves, entering that hermitage, hid their booty there. Before the force (guardsmen) came up, they too hid themselves in fear. But as soon as they had concealed themselves, the guards in pursuit came to the spot. O king, the pursuers of the thieves saw the ascetic sitting in that state; and they asked him, \"O excellent Brahmana, which way the thieves have gone? O Brahmana, point them to us, so that we may follow them without loss of time.”",
+      "bhavadeepa": null,
+      "chapter": 107,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "सप्ताधिकशततमोऽध्यायः",
+      "combined_translation": "5-8"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "निधाय च भयाल्लीनास्तत्रैवानागते बले। तेषु लीनेष्वथो शीघ्रं ततस्तद्रक्षिणां बलम्॥६॥",
+      "english": null,
+      "bhavadeepa": "लोप्त्रं लुप्यत इति व्युत्पत्त्या चोराप्थृतं धनम्॥५॥",
+      "chapter": 107,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "सप्ताधिकशततमोऽध्यायः",
+      "english_ref": 5,
+      "combined_translation": "5-8"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "आजगाम ततोऽपश्यंस्तमृषिं तस्करानुगाः। तमपृच्छंस्ततो राजंस्तथावृत्तं तपोधनम्॥७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 107,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "सप्ताधिकशततमोऽध्यायः",
+      "english_ref": 5,
+      "combined_translation": "5-8"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "कतमेन पथां याता दस्यवो द्विजसत्तम। तेन गच्छामहे ब्रह्मन्यथा शीघ्रतरं वयम्॥८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 107,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "सप्ताधिकशततमोऽध्यायः",
+      "english_ref": 5,
+      "combined_translation": "5-8"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "तथा तु रक्षिणां तेषां ब्रुवतां स तपोधनः। न किंचिद्वचनं राजन्नब्रवीत्साध्वसाधु वा॥९॥",
+      "english": "O king, having been thus addressed by the guards, the ascetic did not say a word in reply, good or bad.",
+      "bhavadeepa": null,
+      "chapter": 107,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "सप्ताधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "ततस्ते राजपुरुषा विचिन्वानास्तमाश्रमम्। ददृशुस्तत्र लीनांस्तांश्चोरांस्तद्द्रव्यमेव च॥१०॥",
+      "english": "Thereupon, the officers of the king, in searching that hermitage, found the thieves with the stolen properties concealed there.",
+      "bhavadeepa": null,
+      "chapter": 107,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "सप्ताधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "ततः शङ्का समभवद्रक्षिणां तं मुनिं प्रति। संयम्यैनं ततो राज्ञे दस्यूंश्चैव न्यवेदयन्॥११॥",
+      "english": "The suspicion of the guards fell upon the Rishi; they seized him with the thieves and brought him before the king.",
+      "bhavadeepa": null,
+      "chapter": 107,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "सप्ताधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "तं राजा सह तैश्चोरैरन्वशाद्वध्यतामिति। स रक्षिभिस्तैरज्ञातः शूले प्रोतो महातपाः॥१२॥",
+      "english": "The king sentenced him along with the thieves. The guards, acting in ignorance, put the great Rishi also on the Shula (an instrument of death).",
+      "bhavadeepa": "संयम्य चोरवन्निगृह्य  ॥११॥",
+      "chapter": 107,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "सप्ताधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "ततस्ते शूलमारोप्य तं मुनिं रक्षिणस्तदा। प्रतिजग्मुर्महीपालं धनान्यादाय तान्यथ॥१३॥",
+      "english": "Having put them (the thieves) and the Rishi on an iron-spit, they returned to the king with the stolen property they had recovered.",
+      "bhavadeepa": null,
+      "chapter": 107,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "सप्ताधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "शूलस्थः स तु धर्मात्मा कालेन महता ततः। निराहारोऽपि विप्रर्षिर्मरणं नाभ्यपद्यत॥१४॥",
+      "english": "Though the virtuous-minded Brahmana Rishi remained for many years on the Shula (iron-spit) without food, yet he did not die.",
+      "bhavadeepa": null,
+      "chapter": 107,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "सप्ताधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "धारयामास च प्राणानृषींश्च समुपानयत्। शूलाग्रे तप्यमानेन तपस्तेन महात्मना॥१५॥",
+      "english": "The illustrious man, who was in deep Tapa, at the point of the Shula, kept up his life and brought other Rishis there by his ascetic power. O descendant of the Bharata race, they came in the night in the forms of birds; and seeing him engaged in Tapa (ascetic meditation), though fixed on the Shula, they were extremely aggrieved. Having shown themselves in their own forms, they asked that excellent Brahmana",
+      "bhavadeepa": null,
+      "chapter": 107,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "सप्ताधिकशततमोऽध्यायः",
+      "combined_translation": "15-16"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "सन्तापं परमं जग्मुर्मुनयस्तपसाऽन्विताः। ते रात्रौ शकुना भूत्वा सन्निपत्त्य तु भारत। दर्शयन्तो यथाशक्ति तमपृच्छन्द्विजोत्तमम्॥१६॥",
+      "english": null,
+      "bhavadeepa": "ऋषीन् वेदान् समुपानयत् स्वाधीनानकरोत् । चिरं वेदनार्तोपि वेदान्न विस्मृतवानित्यर्थः । यद्वा ऋषीन्मुनीन् स्वसमीपे उपानयदित्युक्तं तदेव विवृणोति । शूलाग्र इत्यादिना ॥१५॥",
+      "chapter": 107,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "सप्ताधिकशततमोऽध्यायः",
+      "english_ref": 15,
+      "combined_translation": "15-16"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "श्रोतुमिच्छामहे ब्रह्मन्किं पापं कृतवानसि। येनेह समनुप्राप्तं शूले दुःखभयं महत्॥१७॥",
+      "english": "\"O Brahmana, we desire to hear what is your sin for which you suffer this torture of being placed at the point of the Shula.\"",
+      "bhavadeepa": "दर्शयन्तः स्वानि रूपाणि प्रकाशयन्तः  ॥१६॥",
+      "chapter": 107,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "सप्ताधिकशततमोऽध्यायः"
+    }
+  ]
+}

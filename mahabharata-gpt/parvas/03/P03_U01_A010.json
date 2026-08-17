@@ -1,0 +1,418 @@
+{
+  "adhyaya_id": "P03_U01_A010",
+  "book": 3,
+  "parva_name": "वनपर्व",
+  "upaparva_name": "अरण्यपर्व",
+  "adhyaya_name": "दशमोऽध्यायः",
+  "chapter": 10,
+  "verse_count": 39,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "धृतराष्ट्र उवाच।\n              एवमेतन्महाप्राज्ञ यथा वदसि नो मुने। अहं चैव विजानामि सर्वे चेमे नराधिपाः॥१॥",
+      "english": "Dhritarashtra said: O greatly intelligent Rishi, it is exactly as you say. I know it well, as do all these kings.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "भवांश्च मन्यते साधु यत्कुरूणां महोदयम्। तदेव विदुरोऽप्याह भीष्मो द्रोणश्च मां मुने॥२॥",
+      "english": "O Rishi, what you consider beneficial for the Kurus was pointed out to me by Vidura, Bhishma and Drona.",
+      "bhavadeepa": "एवमिति । विनाशकाले साधूनपि मूढा अवजानन्तीत्यध्यायतात्पर्यम् ॥१॥",
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "यदि त्वहमनुग्राह्यः कौरव्येषु दया यदि। अन्वशाधि दुरात्मानं पुत्रं दुर्योधनं मम॥३॥",
+      "english": "If I deserve your grace and if you have kindness for the Kurus, then teach my wicked son Duryodhana (to be good).",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "व्यास उवाच।\n              अयमायाति वै राजन्मैत्रेयो भगवानृषिः। अन्विष्य पाण्डवान्भ्रातॄनिहैत्यस्मद्दिदृक्षया॥४॥",
+      "english": "Vyasa said: O king, after having seen the Pandava brothers, there comes the illustrious. Rishi Maitreya with the desire of seeing us.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "एष दुर्योधनं पुत्रं तव राजन्महानृषिः। अनुशास्ता यथान्यायं शमायास्य कुलस्य च॥५॥",
+      "english": "O king, this great Rishi will admonish your son Duryodhana for the sake of the welfare of this race.",
+      "bhavadeepa": "अन्विष्य अवेक्ष्य भातॄन्पञ्चेति शेषः ॥४॥",
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "ब्रूयाद्यदेष कौरव्य तत्कार्यमविशङ्कया। अक्रियायां तु कार्यस्य पुत्रं ते शप्स्यते रुषा॥६॥",
+      "english": "O descendant of Kuru, what he will advise should be done without any hesitation, for if what he will recommend is not done, the Rishi will curse your son in anger.",
+      "bhavadeepa": "अनुशास्ता अनुशासिष्यति ॥५॥",
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "वैशम्पायन उवाच।\n              एवमुक्त्वा ययौ व्यासो मैत्रेयः प्रत्यदृश्यत। पूजया प्रतिजग्राह सपुत्रस्तं नराधिपः॥७॥",
+      "english": "Vaishampayana said : Having said this, Vyasa went away and Maitreya came there. The king with his sons received with all respect.",
+      "bhavadeepa": "अक्रियायाम् अकरणे कार्यस्य अवश्यकर्तव्यस्य ॥६॥",
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "अर्घाद्याभिः क्रियाभिर्वै विश्रान्तं मुनिसत्तमम्। प्रश्रयेणाब्रवीद्राजा धृतराष्ट्रोऽम्बिकासुतः॥८॥",
+      "english": "That way-worn chief of the Rishis, by offering him Arghya and performing other rites. The son of Ambika, king Dhritarashtra, then asked him these questions.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "सुखेनागमनं कच्चिद्भगवन्कुरुजाङ्गलान्। कच्चित्कुशलिनो वीरा भ्रातरः पञ्च पाण्डवाः॥९॥",
+      "english": "Dhritarashtra said: O illustrious one, has your journey from the Kurujangal been a pleasant one? Are the heroes, the five Pandava brothers, living happily (there)?",
+      "bhavadeepa": "क्रियाभिः सत्कारैः ॥८॥",
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "समये स्थातुमिच्छन्ति कच्चिच्च भरतर्षभाः। कच्चित्कुरूणां सौभ्रात्रमव्युच्छिन्नं भविष्यति॥१०॥",
+      "english": "Do those foremost (heroes) of the Kuru race intend to pass all the time (they have pledged?) Will the brotherly affection of the Kurus remain unimpaired?",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "मैत्रेय उवाच।\n              तीर्थयात्रामनुक्रामन्प्राप्तोऽस्मि कुरुजाङ्गलान्। यदृच्छया धर्मराजं दृष्टवान्काम्यके वने॥११॥",
+      "english": "Maitreya said : Setting out on a pilgrimage, I arrived at the Kurujangala. I suddenly met there Dharmaraja (Yudhishthira) in the forest of Kamyaka.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "तं जटाजिनसंवीतं तपोवननिवासिनम्। समाजग्मुर्महात्मानं द्रष्टुं मुनिगणाः प्रभो॥१२॥",
+      "english": "Attiring himself in deer skin and wearing matted locks, he is living in the forest in asceticism. O lord, many Rishis have assembled there to see him.",
+      "bhavadeepa": "यदृच्छया दैवात् ॥११॥",
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "तत्राश्रौषं महाराज पुत्राणां तव विभ्रमम्। अनयं द्यूतरूपेण महाभयमुपस्थितम्॥१३॥",
+      "english": "O great king, it was there that I heard of the grave errors that your sons liave committed and also of the approaching) calamity and fearful danger that have arisen from gambling.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "ततोऽहं त्वामनुप्राप्तः कौरवाणामवेक्षया। सदा ह्यभ्यधिकः स्नेहः प्रीतिश्च त्वयि मे प्रभो॥१४॥",
+      "english": "Therefore, I have come to you for the good of the Kurus. O lord, my affection for you is great and I am always pleased with you.",
+      "bhavadeepa": "विभ्रमं द्यूतानर्थेऽप्यर्थबुद्धिम् ॥१३॥",
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "नैतदौपयिकं राजंस्त्वयि भीष्मे च जीवति। यदन्योऽन्येन ते पुत्रा विरोध्यन्ते कथञ्चन॥१५॥",
+      "english": "O king, when yourself and Bhishma are (still) alive, it is not proper that your sons should quarrel amongst themselves.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "मेढीभूतः स्वयं राजन्निग्रहे प्रग्रहे भवान्। किमर्थमनयं घोरमुत्पद्यन्तमुपेक्षसे॥१६॥",
+      "english": "O king, you are (as it were) the stake at which bulls are tied. You are competent to punish and reward. Why do you then overlook this great evil that is about to overtake all?",
+      "bhavadeepa": "औपयिकं योग्यम् ॥१५॥",
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "दस्यूनामिव यद्वृत्तं सभायां कुरुनन्दन। तेन न भ्राजसे राजंस्तापसानां समागमे॥१७॥",
+      "english": "O descendant of Kuru, O king, as these wrongs have been perpetrated in your Sabha, wrongs that are like the acts of thieves, you cannot shine in the assembly of ascetics.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "वैशम्पायन उवाच।\n              ततो व्यावृत्य राजानं दुर्योधनममर्षणम्। उवाच श्लक्ष्णया वाचा मैत्रेयो भगवानृषिः॥१८॥",
+      "english": "Vaishampayana said : Thereupon turning to the angry Duryodhana, the illustrious Rishi Maitreya spoke to him thus in soft words.",
+      "bhavadeepa": "मेढीभूतः खलदामस्तम्भीभूतः प्रग्रहे अनुग्रहे ॥१७॥",
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "मैत्रेय उवाच।\n              दुर्योधन महाबाहो निबोध वदतां वर। वचनं मे महाभाग ब्रुवतो यद्धितं तव॥१९॥",
+      "english": "Maitreya said : O mighty-armed Duryodhana, O best of all eloquent me.l, O blessed one, listen to the words I utter for your good.",
+      "bhavadeepa": "व्यावृत्य अभिमुखीभूयेत्यर्थः ॥१८॥",
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "मा द्रुहः पाण्डवान्राजन्कुरुष्व प्रियमात्मनः। पाण्डवानां कुरूणां च लोकस्य च नरर्षभ॥२०॥",
+      "english": "O king, do not quarrel with the Pandavas. O best of men, thus accomplish the good of your own, of the Pandavas, of the Kurus and of all the world.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "ते हि सर्वे नरव्याघ्राः शूरा विक्रान्तयोधिनः। सर्वे नागायुतप्राणा वज्रसंहनना दृढाः॥२१॥",
+      "english": "All these foremost of men (the Pandavas) are heroes of great prowess in war. They are endued with strength of ten thousand elephants; their bodies are as hard as the thunder.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "सत्यव्रतधराः सर्वे सर्वे पुरुषमानिनः। हन्तारो देवशत्रूणां रक्षसां कामरूपिणाम्॥२२॥",
+      "english": "They are all truthful and proud of their manliness. They have killed the enemies of the celestials, the Rakshasas, who are able to assume.any from at will. (The Rakshasas) such as were headed by Hidimba, Baka and Kirmira.",
+      "bhavadeepa": "विक्रान्तयोधिनः विक्रान्ताश्च युद्धशीलाश्च वज्रसंहननाः वज्रकायाः अत एव दृढाः ॥२१॥",
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः",
+      "combined_translation": "22-23"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "हिडिम्बबकमुख्यानां किर्मीरस्य च रक्षसः। इतः प्रद्रवतां रात्रौ यः स तेषां महात्मनाम्॥२३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः",
+      "english_ref": 22,
+      "combined_translation": "22-23"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "आवृत्य मार्गं रौद्रात्मा तस्थौ गिरिरिवाचलः। तं भीमः समरश्लाघी बलेन बलिनां वरः॥२४॥",
+      "english": "When departing from this place, he (Kirmira) of fearful soul obstructed in the night the path of those high-souled ones like an immovable hill, that foremost of all strong men, Bhima, ever delighting in fight. Killed him like a beast, as a tiger kills a small deer. O king, see how Bhima, when out for conquest, killed. The great bow-man Jarasandha who possessed the strength of ten thousand elephants. Related (as they are) with Vasudeva (Krishna) and having sons of Prishata (Draupada) as their brother-in-law.",
+      "bhavadeepa": "प्रद्रवतां गच्छताम् ॥२३॥",
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः",
+      "combined_translation": "24-26"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "जघान पशुमारेण व्याघ्रः क्षुद्रमृगं यथा। पश्य दिग्विजये राजन्यथा भीमेन पातितः॥२५॥",
+      "english": null,
+      "bhavadeepa": "समरे जेतुमिति पाठे क्षम इत्यध्याहारः॥२४॥",
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः",
+      "english_ref": 24,
+      "combined_translation": "24-26"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "जरासन्धो महेष्वासो नागायुतबलो युधि। सम्बन्धी वासुदेवश्च श्यालाः सर्वे च पार्षताः॥२६॥",
+      "english": null,
+      "bhavadeepa": "पशुमारेण पशुमारणप्रकारेण ॥२५॥",
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः",
+      "english_ref": 24,
+      "combined_translation": "24-26"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "कस्तान्युधि समासीत जरामरणवान्नरः। तस्य ते शम एवास्तु पाण्डवैर्भरतर्षभ॥२७॥",
+      "english": "Who is there such a hero who being subject to old age and death will cope with them? O best of the Bharata race, let there be peace between you and the Pandavas. Follow my advice; surrender not yourself to danger.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "कुरु मे वचनं राजन्मा मन्युवशमन्वगाः।\n              वैशम्पायन उवाच।\n              एव\n              ं तु ब्रुवतस्तस्य मैत्रेयस्य विशांपते॥२८॥",
+      "english": "Vaishampayana said : O king, having been thus addressed by Maitreya, Duryodhana slapped his thigh which resembled the trunk of an elephant and he then smilingly began to scratch the ground with his foot.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः",
+      "combined_translation": "28-29"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "ऊरुं गजकराकारं करेणाभिजघान सः। दुर्योधनः स्मितं कृत्वा चरणेनोल्लिखन्महीम्॥२९॥",
+      "english": null,
+      "bhavadeepa": "मन्युवशं क्रोधवशं मेति निषेधार्थो निपातः न तु माङ् ॥२८॥",
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः",
+      "english_ref": 28,
+      "combined_translation": "28-29"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "न किञ्चिदुक्त्वा दुर्मेधास्तस्थौ किञ्चिदवाङ्मुखः। तमशुश्रूषमाणं तु विलिखन्तं वसुन्धराम्॥३०॥",
+      "english": "That wicked wretch (Duryodhana) did not speak a word, but he hung down his head. O king, seeing Duryodhana thus offer an insult to him by silently scratching the earth (by his foot), Maitreya became angry. That best of Rishis, Maitreya, overwhelmed with anger.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः",
+      "combined_translation": "30-31"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "दृष्ट्वा दुर्योधनं राजन्मैत्रेयं कोप आविशत्। स कोपवशमापन्नो मैत्रेयो मुनिसत्तमः॥३१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः",
+      "english_ref": 30,
+      "combined_translation": "30-31"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "विधिना सम्प्रणुदितः शापायास्य मनो दधे। ततः स वार्युपस्पृश्य कोपसंरक्तलोचनः। मैत्रेयो धार्तराष्ट्रं तमशपद्दुष्टचेतसम्॥३२॥",
+      "english": "And, as if commissioned by fate set his mind to curse him. Thereupon touching water and with eyes red in anger. Maitreya cursed the evil-minded son of Dhritarashtra, saying, \"Since slighting my words you decline to follow my advice, you shall soon reap the fruit of your this insolence.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः",
+      "combined_translation": "32-33"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "यस्मात्त्वं मामनादृत्य नैमां वाचं चिकीर्षसि। तस्मादस्याभिमानस्य सद्यः फलमवाप्नुहि॥३३॥",
+      "english": null,
+      "bhavadeepa": "प्रणुदितः प्रेरितः प्रचुदित इति पाठेऽपि स एवार्थः॥३२॥",
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः",
+      "english_ref": 32,
+      "combined_translation": "32-33"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "त्वदभिद्रोहसंयुक्तं युद्धमुत्पत्स्यते महत्। तत्र भीमो गदाघातैस्तवोरुं भेत्स्यते बली॥३४॥",
+      "english": "In the great war which will spring out of the wrongs perpetrated by you (on the Pandavas) the mighty Bhima shall smash your that thigh with a blow of his club.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "इत्येवमुक्ते वचने धृतराष्ट्रो महीपतिः। प्रसादयामास मुनिं नैतदेवं भवेदिति॥३५॥",
+      "english": "When the Rishi had thus spoken, the ruler of earth, Dhritarashtra, began to gratify the Rishi, so that what he had said may not happen.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "मैत्रेय उवाच।\n              शमं यास्यति चेत्पुत्रस्तव राजन्यदा तदा। शापो न भविता तात विपरीते भविष्यति॥३६॥",
+      "english": "Maitreya said : O king, if your son make peace (with the Pandavas) then, O child, my curse will not take effect. Otherwise it would.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "वैशम्पायन उवाच।\n              विलक्षयंस्तु राजेन्द्रो दुर्योधनपिता तदा। मैत्रेयं प्राह किर्मीरः कथं भीमेन पातितः॥३७॥",
+      "english": "Vaishampayana said : The king of kings, the father of Duryodhana (Dhritarashtra), thus averting the curse, asked Maitreya (to tell him) how Kirmira had been kiiled by Bhima.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "मैत्रेय उवाच।\n              नाहं वक्ष्यामि ते भूयो न ते शुश्रूषते सुतः। एष ते विदुरः सर्वमाख्यास्यति गते मयि॥३८॥",
+      "english": "Maitreya said: I shall not again speak to you as my words are not accepted by your son. When I shall go away. Vidura will tell you all.",
+      "bhavadeepa": "विलक्षयन् भीमस्य बलं विशेषेण अयमस्मज्जय्यो नवेति राक्षसबलद्वारा लक्षयन् हेतौ शतृप्रत्ययः विलक्षण इति पाठे दुर्योधनस्य दुराग्रहेण शापभयाद्विच्छायः वलक्षस्तत्रेति पाठे वलक्षो धवलोर्जुनः इति कोशात् स एवार्थः॥३७॥",
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "इत्येवमुक्त्वा मैत्रेयः प्रातिष्ठत यथागतम्। किर्मीरवधसंविग्नो बहिर्दुर्योधनो ययौ॥३९॥",
+      "english": "Vaishampayana said : Having said this, Maitreya went away whence he came. Duryodhana (also) went away much agitated by the thought of the death of Kirmira.",
+      "bhavadeepa": null,
+      "chapter": 10,
+      "parva_name": "वनपर्व",
+      "upaparva_name": "अरण्यपर्व",
+      "adhyaya_name": "दशमोऽध्यायः"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "adhyaya_id": "P01_U07_A068",
+  "book": 1,
+  "parva_name": "आदिपर्व",
+  "upaparva_name": "सम्भवपर्व",
+  "adhyaya_name": "अष्टषष्टितमोऽध्यायः",
+  "chapter": 68,
+  "verse_count": 15,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "जनमेजय उवाच।\n              त्वत्तः श्रुतमिदं ब्रह्मन्देवदानवरक्षसाम् । अंशावतरणं सम्यग्गन्धर्वाप्सरसो तथा ॥१॥",
+      "english": "Janamejaya said : O Brahmana, I have heard in detail the account of the births of the Devas, the Danavas, the Rakshasas, the Gandharvas and the Apsaras.",
+      "bhavadeepa": "प्रभावाप्ययः परमात्मा । विश्वोत्पत्तिप्रलयाधिष्ठानत्वात् । तं वेत्तीति प्रभवाप्ययविद्भूत्वेतिशेषः । कृच्छ्रेषु संसारगहनेषु । अयं भावः यथा शास्त्रे वियदादिसृष्टिः ब्रह्मोपादानिका ब्रह्माद्वैतप्रतिपत्तये कीर्त्यते । वियत्प्राणपादयोः सृष्टिश्रुतीनां परस्परविरोधपरिहारश्च कीर्त्यते । तथापि सृष्टौ ताप्तर्यं नास्ति । एवमिहाऽपि नांशावतरणे तात्पर्यमस्ति । किंतु तद्वारा ब्रह्माद्वैतप्रतिपत्तावेव । तथा सृष्टिस्मृतीनां विरोधः कल्पभेदाभिप्रायेण वावर्णनीय उपेक्षणीयो वा । स्वार्थे तात्पर्याभावादिति दिक् ॥१६४॥",
+      "chapter": 68,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "अष्टषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "इमं तु भूय इच्छामि कुरूणां वंशमादितः । कथ्यमानं त्वया विप्र विप्रर्षिगणसंनिधौ ॥२॥",
+      "english": "Now I desire to hear the accounts of the births of the kings of the Kuru race from the beginning. Therefore, O Brahmana, narrate them before all these Brahmana Rishis.",
+      "bhavadeepa": "अष्टषष्टितमः अध्यायः त्वत्त इति ॥१॥",
+      "chapter": 68,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "अष्टषष्टितमोऽध्यायः",
+      "combined_translation": "2-7"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "वैशंपायन उवाच ।\n              यौरवाणां वंशकरो दुष्यन्तो नाम वीर्यवान् । पृथिव्याश्चतुरन्ताया गोप्ता भरतसत्तम ॥३॥",
+      "english": "Vaishampayana said : O best of the Bharata race, the founder of the Paurava dynasty was a greatly powerful king, named Dushyanta. He was the protector of the earth bounded by the four seas.",
+      "bhavadeepa": null,
+      "chapter": 68,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "अष्टषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "चतुर्भागं भुवः कृत्स्नं यो भुङ्क्ते मनुजेश्वरः ।  समुद्रावरणांश्चापि देशान्स समितिंजयः ॥४॥",
+      "english": "That king of men enjoyed the fourth part of all the products of the land. He was (also) the lord of various countries in the midst of the sea. That chastiser of foes had sway even over all the countries begining from that of upto the sea, the mine of gems, Mlecchas, which were full of men of the four orders.",
+      "bhavadeepa": "चतुरन्तायाः चतुःसमुद्रावच्छिन्नायाः ॥३॥",
+      "chapter": 68,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "अष्टषष्टितमोऽध्यायः",
+      "combined_translation": "4-5"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "आम्लेच्छावधिकान्सर्वान्स भुङ्क्ते रिपुमर्दनः । रत्नाकरसमुद्रां तांश्चातुर्वर्ण्यजनावृतान् ॥५॥",
+      "english": null,
+      "bhavadeepa": "चतुर्भागं भागचतुष्कं सर्वमिति यावत् ॥४॥",
+      "chapter": 68,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "अष्टषष्टितमोऽध्यायः",
+      "english_ref": 4,
+      "combined_translation": "4-5"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "न वर्णसंकरकरो न कृष्याकरकृज्जनः । न पापकृत्कश्चिदासीत्तस्मिन्राजनि शासति ॥६॥",
+      "english": "During his reign, there were no mixed castes, no tillers of the land, no toilers of the mines and no sinful men.",
+      "bhavadeepa": null,
+      "chapter": 68,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "अष्टषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "धर्मे रतिं सेवमाना धर्मार्थावमिपेदिरे । तदा नरा नरव्याघ्र तस्मिञ्जनपदेश्वरे ॥७॥",
+      "english": "O best of men, during his reign, all men, were virtuous and they did every thing with an eye on virtue. O child, during his reign, there was no fear from the thieves and no fear from famines; and there was no fear of diseases.",
+      "bhavadeepa": "न कृष्याकरकृत्कृषिकृन्न । भुवोऽकृष्टपच्यत्वात् । आकरः सुवर्णादिधातूत्पत्तिस्थानम् । तत्रापि यत्नं न करोति । पृथिव्या रत्नैर्धातुभिश्च पूर्णत्वात् ॥६॥",
+      "chapter": 68,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "अष्टषष्टितमोऽध्यायः",
+      "combined_translation": "7-8"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "नासच्चौरभयं तात न क्षुधामयमण्वपि । नासीद्व्याधिभयं चापि तस्मिञ्जनपदेश्वरे॥८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 68,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "अष्टषष्टितमोऽध्यायः",
+      "english_ref": 7,
+      "combined_translation": "7-8"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "स्वधर्मे रेमिरे वर्णा दैवे कर्मणि निःस्पृहाः। तमाश्रित्य महीपालमासंश्चैवाकुतोभयाः ॥९॥",
+      "english": "Men of all the four castes took pleasure in doing their respective duties and they performed all acts without the desire of gaining fruits. O protector of the world, depending upon him, his subjects felt no fear.",
+      "bhavadeepa": null,
+      "chapter": 68,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "अष्टषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "कालवर्षी च पर्जन्यः सस्यानि रसवन्ति च । सर्वरत्नसमृद्धा च मही पशुमती तथा ॥१०॥",
+      "english": "Parjanya (Indra) poured showers of rains at the proper time and the crops were all juicy. The earth was full of all kinds of wealth and animals.",
+      "bhavadeepa": "दैवे कर्मणि वृष्ट्याद्यर्थे कारीर्यादिकाम्यकर्मणि ॥९॥",
+      "chapter": 68,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "अष्टषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "स्वकर्मनिरता विप्रा नानृतं तेषु विद्यते। स चाद्भुतमहार्वार्यों वज्रसंहननो युवा॥११॥",
+      "english": "The Brahmanas were always engaged in their duties and they were very truthful. He (Dushyanta) was a young prince of wonderful prowess and of a body like the thunder-bolt.",
+      "bhavadeepa": "तदेवाह कालेति वसुमतीति पाठे धनवती ॥१०॥",
+      "chapter": 68,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "अष्टषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "उद्यम्य मन्दरं दोर्भ्यां वहेत्सवनकाननम् । चतुष्पथगदयुद्धे सर्वप्रहरणेषु च॥१२॥",
+      "english": "He could support the Mandara (mountain) with its woods and forests, raising it up on his arins. He was an expert in the four kinds of club-fight and also in using every kind of weapons. He was greatly expert in riding elephants and horses. In strength, he was like Vishnu and in splendour he was like the sun.",
+      "bhavadeepa": "वज्रसंहननो दृढदेहः ॥११॥",
+      "chapter": 68,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "अष्टषष्टितमोऽध्यायः",
+      "combined_translation": "12-13"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "नागपृष्ठेऽश्वपृष्ठे च बभूव परिनिष्ठितः। बले विष्णुसमश्चासीत्तेजसा भास्करोपमः॥१३॥",
+      "english": null,
+      "bhavadeepa": "सवनकाननं वनं जलम् उपवनं वा । चत्वारः प्रक्षेपविक्षेपपरिक्षेपाभिक्षेपाख्याः पन्थानो यस्य तद्गदायुद्धम् । प्रक्षेपो दूरस्थे शत्रौ त्यागः । विक्षेपः समीपस्थे कोठ्या प्रहारः। परिक्षेपो बहुषु समन्तात्परिभ्रमणेन शत्रूणां क्षेपः । अभिक्षेपोऽग्रेण ताडनम् ॥१२॥",
+      "chapter": 68,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "अष्टषष्टितमोऽध्यायः",
+      "english_ref": 12,
+      "combined_translation": "12-13"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "अक्षोभ्यत्वेऽर्णवसमः सहिष्णुत्वे धरासमः। संमतः स महीपालः प्रसन्नपुरराष्ट्रवान् ॥१४॥",
+      "english": "In gravity he was like the ocean and in patience he was like the earth. The king (Dushyanta) was loved by all his subjects and he too ruled very virtuously those contented men.",
+      "bhavadeepa": null,
+      "chapter": 68,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "अष्टषष्टितमोऽध्यायः",
+      "combined_translation": "14-15"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "भूयो धर्मपरैर्भावैर्मुदितं जनमादिशत् ॥१५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 68,
+      "parva_name": "आदिपर्व",
+      "upaparva_name": "सम्भवपर्व",
+      "adhyaya_name": "अष्टषष्टितमोऽध्यायः",
+      "english_ref": 14,
+      "combined_translation": "14-15"
+    }
+  ]
+}

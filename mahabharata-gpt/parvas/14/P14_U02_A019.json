@@ -1,0 +1,684 @@
+{
+  "adhyaya_id": "P14_U02_A019",
+  "book": 14,
+  "parva_name": "आश्वमेधिकपर्व",
+  "upaparva_name": "अथानुगीतपर्व - २",
+  "adhyaya_name": "ऊनविंशोऽध्यायः",
+  "chapter": 19,
+  "verse_count": 66,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "ब्राह्मण उवाच।\n              यः स्यादेकायने लीनस्तूष्णीं किञ्चिदचिन्तयन्। पूर्वं पूर्वं परित्यज्य स तीर्णो बन्धनाद् भवेत्॥१॥",
+      "english": "Brahman said He who becomes immerged in the one receptacle (of all things), freeing himself from cven the thought of his own identity with all things, indeed, ccasing to things of even his own existencc-gradually renouncing one after another, will succeed in crossing his bonds.",
+      "bhavadeepa": null,
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "सर्वमित्रः सर्वसहः शमे रक्तो जितेन्द्रियः। व्यपेतभयमन्युश्च आत्मवान् मुच्यते नरः॥२॥",
+      "english": "That man who is the friend of all, who endures all, who is attached to tranquillity, who has conquered all his senses, who is shorn of fear and anger, and who is of controlled soul, succeeds in liberating himself.",
+      "bhavadeepa": "शरीरस्य नाशोत्पत्तिप्रकारानुक्त्वा पूर्वोपक्रान्तं ततो मुक्तिप्रकारं प्रपञ्चयति- यः स्यादिति। तद्यथा सर्वासामपां समुद्र एकायनमित्यादिश्रुत्युक्तप्रकारेण सर्वलयाधिष्ठानं ब्रह्म एकायनं तस्मिन् लीनः स यथा सैन्धवखिल्य उदके प्रास्त उदकमेवानुविलीयते इति श्रुत्युक्तरीत्या ऐक्यं प्राप्तः तूष्णीम् अहमेवेदं सर्वोऽस्मीत्यभिमानमप्यकुर्वन् किञ्चिदचिन्तयन्नित्यनेनास्मीत्यपि वारयति पूर्वं पूर्वं स्थूलसूक्ष्मकारणेषु परित्यज्य उत्तरस्मिन् उत्तरस्मिन्प्रविलाप्य॥१॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "आत्मवत्सर्वभूतेषु यश्चरेनियतः शुचिः। अमानी निरभीमानः सर्वतो मुक्त एव सः॥३॥",
+      "english": "He who treats all creatures as his ownself, who is restrained, pure, free froin vanity, and shorn of egoism, is considered as liberated from everything",
+      "bhavadeepa": "सर्वमित्र अद्रोही सर्वंसहः क्षमी शमे चित्तनिग्रहे भयं योगासिद्धौ कर्मसंन्यासिनः कर्मब्रह्मोमयभ्रष्टताप्रयुक्तं मन्युरियताऽपि कालेन न योगः सिद्ध इति दैन्यं तत्र द्वेषो वा आत्मवान् जितचित्तः॥२॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "जीवितं मरणं चोभे सुखदुःखे तथैव च। लाभालाभे प्रियद्वेष्ये यः समः स च मुच्यते॥४॥",
+      "english": "He also is libcrated who considers in the same light life and death, pleasure and pain, gain and loss, agreeable and disagrecable.",
+      "bhavadeepa": null,
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "न कस्यचित् स्पृहयते नावजानाति किञ्चन। निर्द्वन्द्वो वीतरागात्मा सर्वथा मुक्त एव सः॥५॥",
+      "english": "He is in every way liberated who does not covet others' properties, who never disregards any body, who is above all pairs of opposites, and whose soul is shorn of attachments.",
+      "bhavadeepa": null,
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "अनमित्रश्च निर्बन्धुरनपत्यश्च यः क्वचित्। त्यक्तधर्मार्थकामश्च निराकांक्षी च मुच्यते॥६॥",
+      "english": "He is liberated who has no enemy, no। kinsman, and no child, who has cast off religion, riches and pleasure, and who is freed from desire or cupidity.",
+      "bhavadeepa": null,
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "नैव धर्मी न चाधर्मी पूर्वोपचितहायकः। धातुक्षयप्रशान्तात्मा निर्द्वन्द्वः स विमुच्यते॥७॥",
+      "english": "He becomes liberated who acquires neither merit nor demerit, who casts off the merits and demerits accumulated in pristine births, who wastes the elements of his body for attaining to a tranquillised soul, and who gets over all pairs of opposites.",
+      "bhavadeepa": "अनमित्रः शत्रुहीनः॥६॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "अकर्मवान् विकांक्षश्च पश्येज्जगदशाश्वतम्। अश्वत्थसदृशं नित्यं जन्ममृत्युजरायुतम्॥८॥",
+      "english": "He who abstains from all deeds, who is free from desire or cupidity, who considers the universe as un-enduring or as like an Ashvatha tree, ever gifted with birth, death, and ! decrepitude, whose understanding is fixed on renunciation, and whose eyes are always directed towards his own faults, soon succeeds in freeing himself from the fetters that bind him.",
+      "bhavadeepa": "ज्ञानफलमाह- नैवेति। धर्माधर्मशून्यः पूर्वोपचितं प्रारब्धकर्म तस्य हायको यापकः धातुक्षयेण शरीरारम्भकभूतविनाशेनैव प्रशान्तः अत्यन्तसमुच्छिन्न आत्मा चित्तं यस्य सः अत एव निर्द्वन्द्वः अद्वैतः यत्र त्वस्य सर्वमात्मैवाभूत्तत्केन कं पश्येदिति श्रुतेः॥७॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः",
+      "combined_translation": "8-9"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "वैराग्यबुद्धिः सततमात्मदोषव्यपेक्षकः। आत्मबन्धविनिर्मोक्षं स करोत्यचिरादिव॥९॥",
+      "english": null,
+      "bhavadeepa": "अकर्मवान् संन्यासी॥८॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः",
+      "english_ref": 8,
+      "combined_translation": "8-9"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "अगन्धमरसस्पर्शमशब्दमपरिग्रहम्। अरूपमनभिज्ञेयं दृष्ट्वाऽऽत्मानं विमुच्यते॥१०॥",
+      "english": "He who sees his soul void of smell, of taste and touch, of sound, of belongings, of vision, and unknowable, becomes liberated.",
+      "bhavadeepa": null,
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "पञ्चभूतगुणैर्हीनममूर्तिमदहेतुकम्। अगुणं गुणभोक्तारं यः पश्यति स मुच्यते॥११॥",
+      "english": "He who sces his soul shorn of the attributes of the five elements, to be without form and cause, to be really destitute of attributes though enjoying them, becomes liberated.",
+      "bhavadeepa": "अगन्धं गन्धादिहीनं चिन्मात्रम्॥१०॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "विहाय सर्वसङ्कल्पान् बुद्ध्या शारीरमानसान्। शनैर्निर्वाणमाप्नोति निरिन्धन इवानलः॥१२॥",
+      "english": "Abandoning, with the help of the understanding, all purposes relating to body and mind, one gradually attains to cessation of separate existence, like a fire unfed with fuel.",
+      "bhavadeepa": "पञ्चभूतगुणैर्हीनमिति स्थूलनिरासः अमूर्तिमदिति सूक्ष्मस्य अहेतुकमिति कारणस्य अत एव अगुणं गुणमोक्तृपूर्वैस्त्रिभी रूपैः गुणाविषयादयः॥११॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "सर्वसंस्कारनिर्मुक्तो निर्द्वन्द्वो निष्परिग्रहः। तपसा इन्द्रियग्रामं यश्चरेन्मुक्त एव सः॥१३॥",
+      "english": "One who is freed from all impressions, who is above all pairs of opposites, who is destitute of all belongings, and who uses all his senses under the guidance of penances, becomes liberated.",
+      "bhavadeepa": null,
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "विमुक्तः सर्वसंस्कारैस्ततो ब्रह्म सनातनम्। परमाप्नोति संशान्तमचलं नित्यमक्षरम्॥१४॥",
+      "english": "Having become freed from all impressions, one then attains to Brahma which is Eternal and supreme, and tranquil, and stable, and enduring and indestructible.",
+      "bhavadeepa": "एवं ध्यानजसंस्कारैर्बाह्यसंस्कारा नश्यन्ति तज्जः संस्कारोऽन्यसंस्कारप्रतिबन्धीति योगसूत्रादित्याह- सर्वसंस्कारेति॥१३॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "अतः परं प्रवक्ष्यामि योगशास्त्रमनुत्तमम्। युञ्जन्तः सिद्धमात्मानं यथा पश्यन्ति योगिनः॥१५॥",
+      "english": "After this I shall describe the science of Yoga than which there is nothing superior, and how Yogins, by concentration, sce the perfect soul.",
+      "bhavadeepa": null,
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "तस्योपदेशं वक्ष्यामि यथावत् तन्निवोध मे। यैर्द्वारैश्चारयन्नित्यं पश्यत्यात्मानमात्मनि॥१६॥",
+      "english": "The self controlled man, concentrated in Yoga, can create (for himself) the godship of the very gods. Renouncing his transient body he attains to immutable Brahma.",
+      "bhavadeepa": "स एकधा भवति त्रिधा भवतीत्यादि कायव्यूहकरणम्। न तस्य रोगो न जरा न मृत्युः सर्वस्य वशी सर्वस्येशानः इत्यादिश्रुतिप्रसिद्धं योगफलमाह- अन्यान्या इति। अन्यान्या देवगन्धर्वमनुष्याद्याः तनवस्तनूः कामरूपी भवतीत्यर्थः॥२५॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः",
+      "combined_translation": "16-16"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "देवानामपि देवत्वं युक्तः कारयते वशी। ब्रह्म चाव्ययमाप्नोति हित्वा देहमशाश्वतम्॥१६॥",
+      "english": "The self controlled man, concentrated in Yoga, can create (for himself) the godship of the very gods. Renouncing his transient body he attains to immutable Brahma.",
+      "bhavadeepa": "स एकधा भवति त्रिधा भवतीत्यादि कायव्यूहकरणम्। न तस्य रोगो न जरा न मृत्युः सर्वस्य वशी सर्वस्येशानः इत्यादिश्रुतिप्रसिद्धं योगफलमाह- अन्यान्या इति। अन्यान्या देवगन्धर्वमनुष्याद्याः तनवस्तनूः कामरूपी भवतीत्यर्थः॥२५॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः",
+      "combined_translation": "16-16"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "इन्द्रियाणि तु संहृत्य मन आत्मनि धारयेत्। तीव्रं तप्त्वा तपः पूर्वं मोक्षयोगं समाचरेत्॥१७॥",
+      "english": null,
+      "bhavadeepa": "यैर्द्वारैश्चित्तनिग्रहोपायैः आत्मानं चित्तम् आत्मनि देहे चारयन् अन्तर्मुखं कुर्वन् नित्यम् आद्यन्तशून्यं वस्तु पश्यति तानि निबोधेति पूर्वेणान्वयः॥१६॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "तपस्वी सततं युक्तो योगशास्रमथाचरेत्। मनीषी मनसा विप्रः पश्यन्नात्मानमात्मनि॥१८॥",
+      "english": "Observant of penances and always practising concentration of mind, the learned Brahmana, gifted with intelligence, should observe the precepts of the Science of Yoga, seeing the soul in the body.",
+      "bhavadeepa": "संहृत्य स्वस्वविषयेभ्यः प्रत्यावर्त्य आत्मनि क्षेत्रज्ञे एतच्च तप आख्यस्वधर्मानुष्ठानेन शुद्धे चेतस्येव भवतीत्याह- तीव्रमिति॥१७॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "य चेच्छक्नोत्ययं साधुर्योक्तुमात्मानमात्मनि। तत एकान्तशीलः स पश्यत्यात्मानमात्मनि॥१९॥",
+      "english": "If the good man succeeds in concentrating the mind on the soul, he then, used to exclusive meditation, secs the Supreme Soul in his own soul.",
+      "bhavadeepa": "एतदेवान्वयव्यतिरेकाभ्यां द्रढयति- तपस्वीत्यादिना॥१८॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "संयतः सततं युक्त आत्मवान्विजितेन्द्रियः। तथा य आत्मनाऽऽत्मानं सम्प्रयुक्तः प्रपश्यति॥२०॥",
+      "english": "Self-controlled and always concentrated, and with all his senses completely conquered, the man of purified soul, on account of such complete concentration of mind, succeeds in seeing the soul by soul.",
+      "bhavadeepa": null,
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "यथा पुरुषः स्वप्ने दृष्ट्वा पश्यत्यसाविति। तथा रूपमिवात्मानं साधुयुक्तः प्रपश्यति॥२१॥",
+      "english": "As a person seeing some unseen individual in a dream recognises him, saying. This is he, when he sees him after waking, similar.y the good man having seen the Supreme Soul in the deep contemplation of Samadhi recognises it upon waking from Samadhi.",
+      "bhavadeepa": null,
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "इषीकां च यथा मुञ्जात्कश्चिन्निष्कृष्य दर्शयेत्। योगी निष्कृष्य चात्मानं तथा पश्यति देहतः॥२२॥",
+      "english": "As one sees the fibrous pith after extracting it from a blade of the Saccharum Munja, so the Yogin sees the Soul, extracting it from the body.",
+      "bhavadeepa": "यथा हीति। यथा स्वप्ने स्थूलदेहाङसङ्गेन स्थितः सन्कञ्चिददृष्टचरं पुरषं पश्यति उस्वेव अनिरुद्धं प्रबुद्धश्च पुनस्तं दृष्ट्वा सोऽयमिति प्रत्यभिजानाति तथाऽऽत्मानं विश्वरूपं समाधौ दृष्ट्वा व्युत्थानेऽपि विश्वमात्मत्वेनैव पश्यतीत्यर्थः॥२१॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "मुञ्जं शरीरमित्याहुरिषीकामात्मनि श्रिताम्। एतन्निदर्शनं प्रोक्तं योगविद्भिरनुत्तमम्॥२३॥",
+      "english": null,
+      "bhavadeepa": "तं स्वाच्छरीरात्प्रवृहेन्मुञ्जादिवैषीकां धैर्येणेति देहासङ्गे श्रौतं दृष्टान्तमाह- इषीकामिति॥२२॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "यदा हि युक्तमात्मानं सम्यक् पश्यति देहभृत्। न तस्येहेश्वरः कश्चित्त्रैलोक्यस्यापि यः प्रभुः॥२४॥",
+      "english": "When the bearer of a body adequately sees the Soul in Yoga, he then has no one to master him, for he then becomes the lord of three worlds.",
+      "bhavadeepa": "दृष्टान्तं दार्ष्टान्तिके योजयति- मुञ्जमिति। आत्मनि श्रितां मायां जगदाकारेण मासमानामिति शेषः॥२३॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "अन्यान्याश्चैव तनवो यथेष्टं प्रतिपद्यते। विनिवृत्य जरां मृत्युं न शोचति न हृष्यति॥२५॥",
+      "english": "He succeeds in assuming various bodies according as as he wishes. Turning away decrepitude and death, he neither grieves nor exalis.",
+      "bhavadeepa": "यतोऽयं सबाह्याभ्यन्तरं प्रत्यगनन्यत्वेन वीक्षतेऽत एव चानन्याधिपतिरयमित्याह- यदा हीति॥२४॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "विनश्यत्सु च भूतेषु न भयं तस्य जायते। क्लिश्यमानेषु भूतेषु न स क्लिश्यति केनचित्॥२७॥",
+      "english": "He does not fear even at on seçing all creatures falling victims to destruction. When all creatures are afflicted, he can never be afflicted by any one.",
+      "bhavadeepa": "यैर्द्वारैश्चित्तनिग्रहोपायैः आत्मानं चित्तम् आत्मनि देहे चारयन् अन्तर्मुखं कुर्वन् नित्यम् आद्यन्तशून्यं वस्तु पश्यति तानि निबोधेति पूर्वेणान्वयः॥१६॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "दुःखशोकमयैर्घोरैः सङ्गस्नेहसमुद्भवैः। न विचाल्यति युक्तात्मा निःस्पृहः शान्तमानसः॥२८॥",
+      "english": "Devoid of desire and gifted with a tranquil mind, the person in Yoga is never affected by pain and sorrow and fear and the dreadful effects of attachment and affection.",
+      "bhavadeepa": null,
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "नैनं शस्त्राणि विध्यन्ते न मृत्युश्चास्य विद्यते। नातः सुखतरं किञ्चिल्लोके क्वचन दृश्यते॥२९॥",
+      "english": null,
+      "bhavadeepa": "विनश्यत्स्वितिति विदेहमुक्तस्य न क्लेशाः सङ्तीत्युक्तं तत्कैमुतिकन्यायेन द्रढयितुं सदेहमुक्तस्यापि ते न सन्तीत्याह दुःखशोकेत्यादिना॥२८॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "सम्यग्युक्त्वा स आत्मानमात्मन्येव प्रतिष्ठते। विनिवृत्तजरादुःखः सुखं स्वपिति चापि सः॥३०॥",
+      "english": "Having adequately concentrated his soul, he lives firmly himself. Pruning off decrepitude and pain and pleasure, he sleeps at case.",
+      "bhavadeepa": null,
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "देहान्यथेष्टमभ्येति हित्वेमां मानुषीं तनुम्। निर्वेदस्तु न कर्तव्यो भुञ्जानेन कथञ्चन॥३१॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "सम्यग्युक्तो यदाऽऽत्मानमात्मन्येव प्रपश्यति। तदैव न स्पृहयते साक्षादपि शतक्रतोः॥३२॥",
+      "english": "When one, after adequate devotion to Yoga, sees the Soul in his ownself, he then ceases to have any regard for even him of a hundred sacrifices (India).",
+      "bhavadeepa": "अन्यान्याश्चेति पूर्वोक्तस्य विवरणं देहानिति। भुञ्जानेन योगैश्वर्यमिति शेषः। निर्वेदो योगाद्वैराग्यं न कर्तव्यमित्यर्थः॥३१॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "योगमेकान्तशीलस्तु यथा विन्दति तच्छृणु। दृष्टपूर्वां दिशं चिन्त्य यस्मिन्सन्निवसेत्पुरे॥३३॥",
+      "english": null,
+      "bhavadeepa": "वस्तुतस्तु योगजसंस्कारप्राबल्याद्योगिनो भोगेच्छैव न भवतीत्याह- सम्यगिति। असम्यग्योगिविषयैव भोगेच्छेोक्तिरिति भावः॥३२॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "पुरस्याभ्यन्तरे तस्य मनः स्थाप्यं न बाह्यतः। पुरस्याभ्यन्तरे तिष्ठन् यस्मिन्नावसथे वसेत्। तस्मिन्नावसथे धार्यं सबाह्याभ्यन्तरं मनः॥३४॥",
+      "english": "Hear now how one, habituating himself to exclusive meditation, succeeds in attaining to Yoga. Thinking of that points of the compass which has the Sun behind it, the mind should be fixed not outside, but in the interior of that palace in which one may happen to live. Livin within that palace the mind should then, with all it outward and inward (operations). see in that particular room in which one may live. At that time when, having deeply meditated one sees the All (viz., Brahma, the Soul of the Universe). there is then nothing external to Brahma where the mind may live. Controlling all the senses in a forest that is free from the noise and that is uninhabited, with mind fired thereon, one should meditate on the All both outside and inside his body. One should mediate on the teeth, the palate, the tongue, the throat, the neck likewise; one should also meditate on the heart and the ligatures of the heart.",
+      "bhavadeepa": "एकान्तशीलः एकं ब्रह्म अभ्यते प्राप्यतेऽनेनेति एकान्तो  ध्यानं तच्छीलः। ततस्तु तं पश्यति निष्कलं ध्यायमान इति श्रुतेः दृष्टपूर्वां दिशं दृष्टं श्रुतिः प्रामाण्यं प्रत्यनपेक्षत्वात् वेदान्तश्रवणपूर्विकां दिशम् उपदेशं चिन्त्य युक्त्यापि पर्यालोच्य श्रोतव्यो मन्तव्य इति श्रुतेः। यस्मिन्पुरे देहे॥३३॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः",
+      "combined_translation": "34-37"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "प्रचिन्त्यावसथे कृत्स्नं यस्मिन्काले स पश्यति। तस्मिन्काले मनश्चास्य न च किञ्चन बाह्यतः॥३५॥",
+      "english": null,
+      "bhavadeepa": "आवसथे मूलाधाराद्यन्यतमस्मिञ्श्चक्रे॥३४॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः",
+      "english_ref": 34,
+      "combined_translation": "34-37"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "सन्नियम्येन्द्रियग्रामं निर्घोषं निर्जने वने। कायमभ्यन्तरं कृत्स्नमेकाग्रः परिचिन्तयेत्॥३६॥",
+      "english": null,
+      "bhavadeepa": "तदेव कृत्स्नं सर्वात्मकं यदा पश्यति तदाऽस्य बाह्यतः प्रत्युग्रूपादन्यन्न किञ्चन अस्ति यत्रास्य मनः सज्जेत् अतो निर्वासनत्वान्मुच्यत इत्यर्थः॥३५॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "दन्तांस्तालु च जिह्वां च गलं ग्रीवां तथैव च। हृदयं चिन्तयेच्चापि तथा हृदयबन्धनम्॥३७॥",
+      "english": null,
+      "bhavadeepa": "उपसंहरति- सन्नियम्येति। कायमभि देहस्याभितो बहिरन्तरं मध्ये च कृत्स्नं परिपूर्णं ब्रह्मैव चिन्तयेदित्यर्थः॥३६॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः",
+      "english_ref": 34,
+      "combined_translation": "34-37"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "इत्युक्तः स मया शिष्यो मेधावी मधुसूदन। पप्रच्छ पुनरेवेमं मोक्षधर्मं सुदुर्वचम्॥३८॥",
+      "english": "Thus addressed by me, that intelligent disciple, O destroyer of Madhu, once more asked me about this religion of Liberation that is so difficult to explain.",
+      "bhavadeepa": "अस्य योगस्य साधनान्याह- दन्तानित्यादि। दन्तान्दन्तैरवखण्ड्यावखंड्य गृह्यमाणानाहारान् चिन्तयेत्। आहारशुद्धौ सत्त्वशुद्धिः सत्त्वशुद्धौ ध्रुवा स्मृतिः। स्मृतिलम्भे सर्वग्रन्थीनां विप्रमोक्ष इति आहारशुद्धेर्मोक्षहेतुत्वश्रुतेः। तथा तालु आधारं जिह्वा तत्राधेयां यथोक्तमीश्वरप्रोक्ते- लम्बिकोर्ध्वं स्थिते गर्ते रसना विपरीतगाम्। संयोजयेत्प्रयत्नेन मुद्रा सा खेचरी मता इति। दत्तात्रेयः- अन्तः कपालविवरे जिह्वा व्यावृत्य चार्पयेत्। भ्रूमध्यदृष्टिरप्येषा मुद्रा भवति खेचरी इति। भ्रुवोर्मध्ये प्राणमावेश्य प्राणापानौ समौ कृत्वा नासाभ्यन्तरचारिणाविति चैतदेवोक्तं गलं-जिह्वामूलादधोभागः। ग्रीवा- तदधः कण्ठनालं ताभ्यां कण्ठकूपस्ततोऽप्यधः स्थितो लक्ष्यते तत्र धारणा सद्यः फलायत्नादभ्यसनीया योगे विश्वासोत्पत्त्यर्थं तथा च सूत्रम्- कण्ठकूपे क्षुत्पिपासानिवृत्तिरिति। भाष्यमपि आसामेकस्याः फलं यावन्नानुभवति तावद्योगधर्मे न श्रद्धते इति। हृदयं हृदयायतनं ब्रह्म हृदयबन्धनं शतं चैका च हृदयस्य नाड्य इति श्रूयमाणं नाडीमार्गं तत्तल्लोकगत्युपयोगि॥३७॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "भुक्तं भुक्तमिदं कोष्ठे कथमन्नं विपच्यते। कथं रसत्वं व्रजति शोणितत्वं कथं पुनः॥३९॥",
+      "english": null,
+      "bhavadeepa": "मेधावी दन्तादिशब्दैः पारोक्ष्येणोक्तमर्थं ज्ञातवान्॥३८॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "तथा मांसं च मेदश्च स्नाय्वस्थीनि च योषिति। कथमेतानि सर्वाणि शरीराणि शरीरिणाम्॥४०॥",
+      "english": "How docs it nourish the flesh, the marrow, the sinews, the bones? How do all these limbs of embodied creatures grow?",
+      "bhavadeepa": "पञ्चस्वर्थेषु आद्यं विवृत्य पृच्छति त्रिभिः भुक्तं भुक्तमिति॥३९॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "वर्धन्ते वर्धमानस्य वर्धते च कथं बलम्। निरोधानां निर्गमनं मलानां च पृथक् पृथक्॥४१॥",
+      "english": "How does the strength grow of the growing man? How takes place the escape of all such elements as are not nutritive, and of all impurities separately?",
+      "bhavadeepa": null,
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "कुतो वायं प्रश्वसिति उच्छ्वसित्यपि वा पुनः। कं च देशमधिष्ठाय तिष्ठेत्यात्मायमात्मनि॥४२॥",
+      "english": "How does this one inhale and again, exhale? Staying upon what particular part does the Soul live in the body?",
+      "bhavadeepa": null,
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "जीवः कथं वहति च चेष्टमानः कलेवरम्। किं वर्णं कीदृशं चैव निवेशयति वै पुनः॥४३॥",
+      "english": null,
+      "bhavadeepa": "द्वितीयमर्धेन- कुतो वेति। तृतीयं योगानुपकारित्वादपृष्ट्वा चतुर्थमेव पृच्छति-कञ्चेति॥४२॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "याथातथ्येन भगवन् वक्तुमर्हसि मेऽनघ। इति सम्परिपृष्टोऽहं तेन विप्रेण माधव॥४४॥",
+      "english": "O' holy one, you should tell me all this accurately, O sinless one' Thus was I accosted by that learned Brahimana, O Madhava?",
+      "bhavadeepa": "पञ्चमं पृच्छति- जीव इति। कथं जीवो नाडीमार्गैः सूक्ष्मं कलेवरं वहति किंवर्णा वा ते नाडीमार्गास्तैश्च कीदृशं पुनर्वपुः प्राप्यमिति प्रश्नार्थः। एतेषां मध्ये आद्ययोर्विवरणार्था ब्राह्मणगीता इतरयोर्गुरुशिष्यसंवादः प्राधान्येन। अन्यत्तु तत्र तत्रोपसर्जनत्वेन प्रतिपाद्यत इति विभागः॥४३॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "प्रत्यब्रुवं महाबाहो यथाश्रुतमरिन्दम। यथा स्वकोष्ठे प्रक्षिप्य भाण्डं भाण्डमना भवेत्॥४५॥",
+      "english": "I replied to him. O you of mighty arms, as I myself had heard, O chastiser of all enemies! As onc, placi.:g some precious object in his store-room, should keep his mind on it, so placing the mind within one's own body, one should then, controlling all the senses, seek after the Soul, avoiding all carclessness.",
+      "bhavadeepa": null,
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 46,
+      "sanskrit": "तथा स्वकाये प्रक्षिप्य मनो द्वारैरनिश्चलैः। आत्मानं तत्र मार्गेत प्रमादं परिवर्जयेत्॥४६॥",
+      "english": null,
+      "bhavadeepa": "कोष्ठे धान्यगृहे भाण्डं गृहोपस्करं निक्षिप्तं यथा गृहं प्रविष्टो विविच्य जानाति॥४५॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "एवं सततमुद्युक्तः प्रीतात्मा न चिरादिव। आसादयति तद्ब्रह्म यद्दृष्ट्वा स्यात्प्रधानवित्॥४७॥",
+      "english": "One should, becoming always assiduous in this way and pleased with his own self, within a very short time, attain to that Brahman by seeing which one would become conversant with Pradhana.",
+      "bhavadeepa": "एवं स्वकाये देहान्तर्मनः प्रक्षिप्य अनिश्चलैः अनिश्चरद्भिर्द्वारैरिन्द्रियैः। सर्वद्वाराणि संयम्य मनो यदि निरुद्ध्य चेति स्मृतेस्त्वया यत्पृष्ठं तद्वस्तुयोगबलेन ज्ञेयमित्यर्थः॥४६॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "न त्वसौ चक्षुषा ग्राह्यो न च सर्वैरपीन्द्रियैः। मनसैव प्रदीपेन महानात्मा प्रदृश्यते॥४८॥",
+      "english": "He is not capable of being apprehended by the eye; nor even by all the senses. It is only with the lamp of the mind that the great Soul can be seell.",
+      "bhavadeepa": "एतदेवोपपादयति एवमिति। प्रधानवित् प्रकृतिवत्सर्व विकारविद्भवति विकाराणां प्रकृतेरनन्यत्वादिति॥४७॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "सर्वतः पाणिपादान्तः सर्वतोऽक्षिशिरोमुखः। सर्वतः श्रुतिमाल्लोके सर्वमावृत्य तिष्ठति॥४९॥",
+      "english": "He has hands and feet on all sides; he has ears on all sides; he lives, pervading all things in this world.",
+      "bhavadeepa": null,
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "जीवो निष्क्रान्तमात्मानं शरीरात्सम्प्रपश्यति। स तमुत्सृज्य देहे स्वं धारयन् ब्रह्म केवलम्॥५०॥",
+      "english": "The Individual Soul beholds the Soul as extracted from the body. Then renouncing Brahma as invested with form, by holding the mind in the body, he sees Brahma as freed from all qualities.",
+      "bhavadeepa": "चक्षुराद्यग्राह्यस्यामूर्तस्य रूपं सर्वतः पाणिपादान्त इत्यादि लक्षणम्॥४९॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "आत्मानमालोकयति मनसा प्रहसन्निव। तदेवमाश्रयं कृत्वा मोक्ष याति ततो मयि॥५१॥",
+      "english": "He sees the Soul with his mind, siniling as it were at the time. Depending upon that Brahma; he then attains to Liberation in me.",
+      "bhavadeepa": "तदेव जीवस्य स्वात्मभूतदेहात् निष्क्रान्तं पृथग्भूतं भुञ्जेषीकावत्पश्यति सम्प्रज्ञाते। तं सर्वत इत्युक्तलक्षणं कारणम् उत्सृज्य प्रविलाप्य देहे स्वं स्वरूपं धारयन्मनो निगृह्णन् केवलं निर्गुणं ब्रह्म पश्यति। स एवं विद्वानस्माच्छरीरादूर्ध्वमुत्क्रम्यामुष्मिन् स्वर्गे लोके सर्वान्कामानाऽप्त्वा मृतः समभवदिति देहाभिमानकृतं भेदं त्यक्त्वा ऊर्ध्वं कारणब्रह्मभावं प्राप्तं तत्रैव सर्वकामभुग्भूत्वाऽमृताख्यं कैवल्यमश्रुत इति श्रवणात्॥५०॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "इदं सर्वरहस्यं ते मया प्रोक्तं द्विजोत्तम। आपृच्छे साधयिष्यामि गच्छ विप्र यथासुखम्॥५२॥",
+      "english": "O foremost of twice both oncs, all this mystery has now been declared by me. I ask your permission, for I shall leave this place. Do you (also) go wherever you like.",
+      "bhavadeepa": "प्रहसन्निव अहो वृथैव मरीचिकोदकतुल्येन संसारेणाहं भ्रामित इति विस्मयेनेति भावः। तदेवं तत् ब्रह्म एवम् उक्तरीत्या॥५१॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 53,
+      "sanskrit": "इत्युक्तः स तदा कृष्ण मया शिष्यो महातपाः। अगच्छत यथाकामं ब्राह्मणः संशितव्रतः॥५३॥",
+      "english": "Thus, addressed by me, O Krishna, on that occasion that disciple of mine, gifted with austere penances, that Brahmana of rigid vows, went away according to this pleasure.",
+      "bhavadeepa": null,
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "वासुदेव उवाच।\n              इत्युक्त्वा स तदा वाक्यं मां पार्थ द्विजसत्तमः। मोक्षधर्माश्रितः सम्यक् तत्रैवान्तरधीयत॥५४॥",
+      "english": "Vasudeva said O'son of Pritha having said these words to me, on that occasion, about the Religion of Emancipation, that best of Brahmanas disappeared then and there.",
+      "bhavadeepa": null,
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 55,
+      "sanskrit": "कच्चिदेतत्त्वया पार्थ श्रुतमेकाग्रचेतसा। तदापि हि रथस्थस्त्वं श्रुतवानेतदेव हि॥५५॥",
+      "english": "Have you heard this discourse, O son of Pritha, with mind directed solely to wards it? This you did hear on that occasion while you were on your car.",
+      "bhavadeepa": null,
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 56,
+      "sanskrit": "नैतत्पार्थ सुविज्ञेयं व्यामिश्रेणेति मे मतिः। नरेणाकृतसंज्ञेन विशुद्धेनान्तरात्मना॥५६॥",
+      "english": "I think, O son of Pritha, that this is difficult of being comprehended by one whose understanding is confused, or who has acquired no wisdom by study, or who eats food not suited to his body' or whose Soul is not purified.",
+      "bhavadeepa": null,
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 57,
+      "sanskrit": "सुरहस्यमिदं प्रोक्तं देवानां भरतर्षभ। कच्चिन्नेदं श्रुतं पार्थ मनुष्येणेह कर्हिचित्॥५७॥",
+      "english": "O chief of Bharata's race, this is a great mystery among the celestials that has been declared. At no time or place; O son of Pritha, has this teen heard by man in this world.",
+      "bhavadeepa": "व्यामिश्रेण व्यग्रेण अकृतसंज्ञेन अज्ञातविद्यासंप्रदायेन॥५६॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 58,
+      "sanskrit": "न ह्येतच्छ्रोतुमर्होऽन्यो मनुष्यस्त्वामृतेऽनघ। नैतदद्य सुविज्ञेयं व्यामिश्रेणान्तरात्मना॥५८॥",
+      "english": "O sinless one, save yourself no other man is worthy of hearing it. It is not, at this time, capable of being easily understood by one whose inner soul is confused.",
+      "bhavadeepa": null,
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 59,
+      "sanskrit": "क्रियावद्भिर्हि कौन्तेय देवलोकः समावृतः। न चैतदिष्टं देवानां मर्त्यरूपनिवर्तनम्॥५९॥",
+      "english": "The world of the celestials is filled, O son of Kunti, with those who follow the religion of actions. The cessation of the body is not liked by the celestials.",
+      "bhavadeepa": null,
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 60,
+      "sanskrit": "परा हि सा गतिः पार्थ यत्तद्ब्रह्म सनातनम्। यत्रामृतत्वं प्राप्नोति त्यक्त्वा देहं सदा सुखी॥६०॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 61,
+      "sanskrit": "इमं धर्मं समास्थाय येऽपि स्युः पापयोनयः। स्त्रियो वैशयास्तथा शूद्रास्तेऽपि यान्ति परां गतिम्॥६१॥",
+      "english": "By following this religion, even they who are of sinful birth, such as women and Vaishyas and Shudras, come by the highest goal.",
+      "bhavadeepa": null,
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 62,
+      "sanskrit": "किं पुनर्ब्राह्मणाः पार्थ क्षत्रिया वा बहुश्रुताः। स्वधर्मरतयो नित्यं ब्रह्मलोकपरायणाः॥६२॥",
+      "english": "What need be said then, O son of Pritha, of Brahmanas and Kshatriyas endued with great learning, always devoted to the duties of their own orders, and who are intent on the region of Brahma?",
+      "bhavadeepa": "इमं धर्मम् आत्मदर्शनाख्यम्॥६१॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 63,
+      "sanskrit": "हेतुमच्चैतदुद्दिष्टमुपायाश्चास्य साधने। सिद्धि फलं च मोक्षश्च दुःखस्य च विनिर्णयः॥६३॥",
+      "english": "This has been laid down with the reasons; and also the means for its acquisition; and as complete attainment and fruit, viz., Liberation and the ascertainment of the truth about pain.",
+      "bhavadeepa": null,
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    },
+    {
+      "verse": 64,
+      "sanskrit": "नातः परं सुखं त्वन्यत् किञ्चित्स्याद्भरतर्षभ। बुद्धिमाञ्श्रद्दधानश्च पराक्रान्तश्च पाण्डव॥६४॥",
+      "english": "O chief of Bharata's race, there is nothing else which yields happiness greater than is That mortal, O son of Pandu, who gifted with intelligence, and faith, and prowess, renounces unsubstantial what is considered substantial by the world, succeeds within a short time in obtaining the Supreme by these as as jeans.",
+      "bhavadeepa": null,
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः",
+      "combined_translation": "64-65"
+    },
+    {
+      "verse": 65,
+      "sanskrit": "यः परित्यज्यते मर्त्यो लोकसारमसारवत्। एतैरुपायैः स क्षिप्रं परां गतिमवाप्नुते॥६५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः",
+      "english_ref": 64,
+      "combined_translation": "64-65"
+    },
+    {
+      "verse": 66,
+      "sanskrit": "एतावदेव वक्तव्यं नातो भूयोऽस्ति किञ्चन। षण्मासान्नित्ययुक्तस्य योगः पार्थ प्रवर्तते॥६६॥",
+      "english": "This is all that is to be said-there is nothing else which is higher than this. He, O son of Pritha, who devotes himself to its constant practice for a period of six months, succeeds in attaining to Yoga.",
+      "bhavadeepa": "लोकसारं धनादि असारवत् तृणादिवत् यः परित्यज्यते विवेकादिना परित्यागवान्। क्रियते उपायैः शमादिभिः॥६५॥",
+      "chapter": 19,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "ऊनविंशोऽध्यायः"
+    }
+  ]
+}

@@ -1,0 +1,540 @@
+{
+  "adhyaya_id": "P13_U01_A063",
+  "book": 13,
+  "parva_name": "अनुशासनपर्व",
+  "upaparva_name": "दानधर्मपर्व",
+  "adhyaya_name": "त्रिषष्टितमोऽध्यायः",
+  "chapter": 63,
+  "verse_count": 52,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "युधिष्ठिर उवाच। कानि दानानि लोकेऽस्मिन्दातुकामो महीपतिः । गुणाधिकेभ्यो विप्रेभ्यो दद्याद्भरतसत्तम ॥१॥",
+      "english": "Yudhishthira said When a king wishes to make gifts in this world, what, indeed, are those gifts which he should make, O best of the Bharatas, to such Brahmanas as are endued with superior accomplishments? What gift is that by which the Brahmanas become readily pleased? What fruits do they give in return? O you of powerful arms, tell me what is the high reward which can be won through the merit of gifts.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः",
+      "combined_translation": "1-2"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "केन तुष्यन्ति ते सद्यः किं तुष्टाः प्रदिशन्ति च । शंस मे तन्महाबाहो फलं पुण्यकृतं महत् ॥२॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः",
+      "english_ref": 1,
+      "combined_translation": "1-2"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "दत्तं कि फलवद्राजन्निह लोके परत्र च । भवतः श्रोतुमिच्छामि तन्मे विस्तरतो वद ॥३॥",
+      "english": "What gifts, O king; yield rewards both in this world and in the next? I wish to hear all this from you. Do you describe to me all this in detail.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "भीष्म उवाच। इममर्थं पुरा पृष्टो नारदो देवदर्शनः । यदुक्तवानसौ वाक्यं तन्मे निगदतः शृणु ॥४॥",
+      "english": "Bhishma said These very questions were formerly put by me to Narada. Hear me as I recite to you what that celestial sage had told me in reply.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "नारद उवाच। अन्नमेव प्रशंसन्ति देवा ऋषिगणास्तथा । लोकतन्त्रं हि संज्ञाश्च सर्वमन्ने प्रतिष्ठितम् ॥५॥",
+      "english": "Narada said The celestials and all the Rishis speak highly of food. The course of the world and the intellectual faculties have all been fixed on food.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "अन्नेन सदृशं दानं न भूतं न भविष्यति । तस्मादन्नं विशेषेण दातुमिच्छन्ति मानवाः ॥६॥",
+      "english": "There has never been, nor will be, any gift equal to the gift of food. Hence, men always wish particularly to make gifts of food.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः",
+      "combined_translation": "6-26"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "अन्नमूर्जस्करं लोके प्राणाश्चान्ने प्रतिष्ठिताः । अन्नेन धार्यते सर्वं विश्वं जगदिदं प्रभो ॥७॥",
+      "english": "In this world, food is the root of energy and strength. The vital airs are established on food. It is food that keeps up the wide universe, O powerful one.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "अन्नाद्गृहस्था लोकेऽस्मिन् भिक्षवस्तापसास्तथा । अन्नाद्भवन्ति वै प्राणाः प्रत्यक्षं नात्र संशयः ॥८॥",
+      "english": "All classes of men, householders and mendicants and ascetics, live upon food. The vital airs depend upon food. There is no doubt in this.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "कुटुम्बिने सीदते च ब्राह्मणाय महात्मने । दातव्यं भिक्षषे चान्नमात्मनो भूतिमिच्छता ॥९॥",
+      "english": "Afflicting one's relatives, one, if desirous of his own prosperity, should make gifts of food to a great Brahmana or a person of the mendicant order.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "ब्राह्मणायाभिरूपाय यो दद्यादन्नमर्थिने। विदधाति निधिं श्रेष्ठं पारलौकिकमात्मनः ॥१०॥",
+      "english": "That man who makes a gift of food to an accomplished Brahmana who begs the same, secures for himself in the next world wealth of great value.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "श्रान्तमध्वनि वर्तन्तं वृद्धमर्हमुपस्थितम् । अर्चयेद्भूतिमन्विच्छन् गृहस्थो गृहमागतम् ॥११॥",
+      "english": "The householder who seeks his own prosperity should receive with respect a deserving old man who is worn out with toil while proceeding on his way far from home, when such a man come to the householder's house.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "क्रोधमुत्पतितं हित्वा सुशीलो वीतमत्सरः । अन्नदः प्राप्नुते राजन् दिविः चेह च यत्सुखम् ॥१२॥",
+      "english": "That man who, shorn of irrepressible anger and becoming righteous in nature and freed from malice, makes gifts of food, is sure to acquire happiness, O king, both in this world and in the next.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "नावमन्येदभिगतं न प्रणुद्यात्कदाचन । अपि श्वपाके शुनि वा न दानं विप्रणश्यति ॥१३॥",
+      "english": "The householder should never disregard the man who comes to his place, nor should he insult him by sending him away. A gift of food made to even a Chandala or a dog is never lost.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "यो दद्यादपरिक्लिष्टमन्नमध्वनि वर्तते । आर्तायादृष्टपूर्वाय स महद्धर्ममाप्नुयात् ॥१४॥",
+      "english": "That man who makes a gift of clean food to a person on the way who is fatigued and unknown to the giver, is sure to win great merit.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "पितॄन्देवानृषीन्विप्रानतिथींश्च जनाधिप । यो नरः प्रीणयत्यनैस्तस्य पुण्यफलं महत् ॥१५॥",
+      "english": "The man who pleases with gifts of food the departed manes, the deities, the Rishis, the Brahmanas, and guests arrived at his house, wins great merit.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "कृत्वाऽतिपातकं कर्म यो दद्यादन्नमर्थिने। ब्राह्मणाय विशेषेण न स पापेन मुह्यते ॥१६॥",
+      "english": "That person who having committed even a heinous crime makes a gift of food to one who solicits, or to a Brahmana in special, is never stupefied by that heinous sin.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "ब्राह्मणेष्वक्षयं दानमन्नं शुद्रे महाफलम् । अन्नदानं हि शूद्रे च ब्राह्मणे च विशिष्यते ॥१७॥",
+      "english": "A gift of food made to a Brahmana becoines eternal. One made to a Shudra yields great merit. This is the difference between the merits of the gifts of food made to Brahmanas and Shudras.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "न पृच्छेद्गोत्रचरणं स्वाध्यायं देशमेव च । भिक्षितो ब्राह्मणेनेह दद्यादन्नं प्रयाचितः ॥१८॥",
+      "english": "Solicited by a Brahmana, one should not enquire about his family or conduct or Vedic learning. Asked for food, one should give food to him who asks.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "अन्नदस्यान्नवृक्षाश्च सर्वकामफलप्रदाः । भवन्ति चेह चामुत्र नृपतेर्नात्र संशयः ॥१९॥",
+      "english": "There is no doubt in this, O king, that he who makes gifts of food gets both in this world and in the next many trees giving food and every other object of desire.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "आशंसन्ते हि पितरः सुवृष्टिमिव कर्षकाः । अस्माकमपि पुत्रो वा पौत्रो वाऽन्न प्रदास्यति ॥२०॥",
+      "english": "Like cultivators expecting auspicious showers of rain, the departed manes always expect that their sons and grandsons would present food to them.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "ब्राह्मणो हि महद्भूतं स्वयं देहीति याचति । अकामो वा सकामो वा दत्त्वा पुण्यमवाप्नुयात् ॥२१॥",
+      "english": "The Brahmana is a great being. When he comes into one's house and solicits, saying, Give me!the owner of the house, whether actuated or not by the desire of gaining merit, is sure to win great merit by listening to that prayer.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "ब्राह्मणः सर्वभूतानामतिथिः प्रसृताग्रभुक् । विप्रा यदधिगच्छन्ति भिक्षमाणा गृहं सदा ॥२२॥",
+      "english": "The Brahmana is the guest of all creatures in the universe. He is entitled to the first part of every food. That house increases in prosperity to which the Brahmanas go from desire of getting alms and from which they return honoured on account of their desires being satisfied. The owner of such a house is born in his next life in a family, O Bharata, that has all the comforts and luxuries of life.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः",
+      "combined_translation": "22-23"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "सत्कृताश्च निवर्तन्ते तदतीव प्रवर्धते । महाभागे कुले प्रेत्य जन्म चाप्नोति भारत ॥२३॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः",
+      "english_ref": 22,
+      "combined_translation": "22-23"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "दत्त्वा त्वन्नं नरो लोके तथा स्थानमनुत्तमम् । नित्यं मिष्टान्नदायी तु स्वर्गे वसति सत्कृतः ॥२४॥",
+      "english": "A man, by making gifts of food in this world, is sure to acquire an excellent place hereafter. He who makes gifts of sweet meats and all food that is sweet, gains a residence in heaven where he is honoured of all the deities and other denizens. inan",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "अन्नं प्राणा नराणां हि सर्वमन्ने प्रतिष्ठितम् । अन्नदः पशुमान्पुत्री धनवान् भोगवानपि ॥२५॥",
+      "english": "Food forms the life-breaths of men. Everything rests upon food. He who makes gifts of food gets many animals, many children, profuse riches (in other shape), and all articles of comfort and luxury in profusion.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "प्राणवांश्चापि भवति रूपवांश्च तथा नृप । अन्नदः प्राणदो लोके सर्वदः प्रोच्यते तु सः ॥२६॥",
+      "english": "The giver of food is said to be the giver of life. Indeed, he is said to be the giver of everything. Hence, O king, such a acquires both strength and personal grace in this world.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "अन्नं हि दत्वाऽतिथये ब्राह्मणाय यथाविधि । प्रदाता सुखमामोति दैवतैश्वापि पूज्यते ॥२७॥",
+      "english": "If food be given duly to a Brahmana come to one's house as a guest, the giver acquires great happiness, and is adored by the very celestials.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "ब्राह्मणो हि महद्भूतं क्षेत्रभूतं युधिष्ठिर । उप्यते तत्र यद्बीजं तद्धि पुण्यफलं महत् ॥२८॥",
+      "english": "The Brahmana, O Yudhishthira, is a great Being. He is also a fertile field. Whatever seed is sown on that field yields an abundant crop of merit.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "प्रत्यक्षं प्रीतिजननं भोक्तुर्दातुर्भवत्युत । सर्वाण्यन्यानि दानानि परोक्षफलवन्त्युत ॥२९॥",
+      "english": "A gift of food readily yields the happiness of both the giver and the receiver. All other gifts produce unseen fruits.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "अन्नाद्धि प्रसवं यान्ति रतिरन्नाद्धि भारत । धर्मार्थावन्नतो विद्धि रोगनाशं तथाऽन्नतः ॥३०॥",
+      "english": "From food originate creatures. From food springs happiness and joy, O Bharata, Know that virtue and wordly profit both spring from food. The cure of disease or health also comes from food.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "अन्नं ह्यमृतमित्याह पुराकल्पे प्रजापतिः । अन्नं भुवं दिवं खं च सर्वमन्ने प्रतिष्ठितम् ॥३१॥",
+      "english": "In a former Age, the Lord of all creatures said that food is ambrosia or the source of immortality. Food is Earth, Food is Heaven, Food is the Sky. Everything rests on food.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "अन्नप्रणाशे भिद्यन्ते शरीरे पञ्च धातवः । बलं बलवतोऽपीह प्रणश्यत्यन्नहानितः ॥३२॥",
+      "english": "In the absence of food, the five elements that form the body cease to exist in a state of unison. From want of food the strength of even the strongest man is seen to fail.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "आवाहाश्च विवाहाश्च यज्ञाश्चान्नमृते तथा । निवर्तन्ते नरश्रेष्ठ ब्रह्म चात्र प्रलीयते ॥३३॥",
+      "english": "Invitation and marriages and sacrifices all cease for want of food. The very Vedas disappear when there is no food.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "अन्नतः सर्वमेतद्धि यत्किञ्चित्स्थाणुजंगमम् । त्रिषु लोकेषु धर्मार्थमन्नं देयमतो बुधैः ॥३४॥",
+      "english": "All the mobile and iminobile creatures of the universe depend on food. Virtue and, worldly profit, in the three worlds, depend on food. Hence the wise should make gifts of food.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "अन्नदस्य मनुष्यस्य बलमोजो यशांसि च । कीर्तिश्च वर्धते शश्वत्त्रिषु लोकेषु पार्थिव ॥३५॥",
+      "english": "The strength, energy, fame and achievements of the man who makes gifts of food, always multiply themselves in the three worlds, O king.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "मेघेषूर्ध्वं सन्निधत्ते प्राणानां पवनः पतिः । तच्च मेघगतं वारि शक्रो वर्षति भारत ॥३६॥",
+      "english": "The deity of wind, places above the clouds (the water drawn by the Sun). The water thus taken to the clouds is caused by Shakra to be poured upon the Earth, O Bharata.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "आदत्ते च रसान्भौमानादित्यः स्वगभस्तिभिः । वायुरादित्यतस्तांश्च रसान्देवः प्रवर्षति ॥३७॥",
+      "english": "The Sun, by means of his rays, draws up the moisture of the Earth. The god of wind cause the moisture to fall down from the Sun.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "तद्यदा मेघतो वारि पतितं भवति क्षितौ । तदा वसुमती देवी स्निग्धा भवति भारत ॥३८॥",
+      "english": "When the water comes down from the clouds upon the Earth, the goddess Earth become moist, О Bharata.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "ततः सस्यानि रोहन्ति येन वर्तयते जगत् । मांसमेदोस्थिशुक्राणां प्रादुर्भावस्ततः पुनः ॥३९॥",
+      "english": "Then do people sow various kinds of crops upon whose outturn the universe of creatures depends. It is from the food thus produced that the flesh, fat, bones and vital seed of all beings originate.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "संभवन्ति ततः शुक्रात्प्राणिनः पृथिवीपते । अग्नीषोमौ हि तच्छुक्रं सृजतः पुष्पतश्च ह ॥४०॥",
+      "english": "From the vital seed thus made, O king, spring various kinds of living creatures. Agni and Soma, living within the body, create and maintain the vital seed.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "एवमन्नाद्धि सूर्यश्च पवनः शुक्रमेव च । एक एव स्मृतो राशिस्ततो भूतानि जज्ञिरे ॥४१॥",
+      "english": "Thus from food, the Sun and the god of wind and the vital seed spring and act. All these are said to form one element or quantity, and it is from these that all creatures originate.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "प्राणान्ददाति भूतानां तेजश्च भरतर्षभ । गृहमभ्यागतायाथ यो दद्यादन्नमर्थिने ॥४२॥",
+      "english": "That man who gives unto one who comes to his house and begs it, is said, O chief of the Bharatas, to contribute both life and energy to living creatures.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "भीष्म उवाच। नारदेनैवमुक्तोऽहमदामन्नं सदा नृप । अनसूयुस्त्वमप्यन्नं तस्माद्देहि गतज्वरः ॥४३॥",
+      "english": "Bhishma said Thus addressed by Narada, O king, I have always made gifts of food. Do you also, therefore, freed from malice and with a cheerful heart, make gifts of food.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "दत्वाऽन्नं विधिवद्राजन्विप्रेभ्यस्त्वमिति प्रभा । यथावद‌नुरूपेभ्यस्ततः स्वर्गमवाप्स्यसि ॥४४॥",
+      "english": "By making gifts of food, O king, worthy Brahinanas with due rites, you may be sure, O powerful one, of attaining to Heaven.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "तारासंस्थानि रूपाणि नानास्तंभान्वितानि च । चन्द्रमण्डलशुभ्राणि किंकिणीजालवन्ति च ॥४५॥",
+      "english": "Bright as the stars in the sky, and supported upon many columns, white as the disc of the moon, and adorned with many tinkling bells, and rosy like the newly risen sun, those palaces are either fixed or movable.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 47,
+      "sanskrit": "तरुणादित्यवर्णानि स्थावराणि चराणि च । अनेकशतभौमानि सान्तर्जलचराणि च ॥४७॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः",
+      "english_ref": 24,
+      "combined_translation": "24-47"
+    },
+    {
+      "verse": 48,
+      "sanskrit": "वैदूर्यार्कप्रकाशानि रौप्यरुक्ममयानि च । सर्वकामफलाश्चापि वृक्षा भवनसंस्थिताः ॥४८॥",
+      "english": "Those mansions are filled with hundreds and hundreds of things and animals that live on land and as many things and animals living in water. Some of them are effulgent like lapis lazuli and some are resplendent like the Sun. Some of them are made of silver and some of gold.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 49,
+      "sanskrit": "वाप्यो वीथ्यः सभाः कूपा दीर्घिकाश्चैव सर्वशः । घोषवन्ति च यानानि युक्तान्यथ सहस्रशः ॥४९॥",
+      "english": "Within those mansions are many trees capable of satisfying every desire of the inmates. Many tanks and roads and halls and wells and lakes are all there.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 50,
+      "sanskrit": "भक्ष्यभोज्यमयाः शैला वासांस्याभरणानि च । क्षीरं स्रवन्ति सरितस्तथा चैवान्नपर्वताः ॥५०॥",
+      "english": "Thousands of vehicles with horses and other animals harnessed thereto and with wheels whose caltter is always loud, are all there. Mountains of food and all enjoyable articles and heaps of cloths and ornaments are also there.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 51,
+      "sanskrit": "प्रासादाः पाण्डुराभ्राभाः शय्याश्च कांचनोज्ज्वलाः । तान्यन्नदाः प्रपद्यन्ते तस्मादन्नप्रदो भव ॥५१॥",
+      "english": "Numerous rivers that run milk, and hills of rice and other edibles, are also there. Indeed, many palatial residences loO king like white clouds, with many beds of golden splendour, are in those regions.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 52,
+      "sanskrit": "एते लोकाः पुण्यकृता अन्नदानां महात्मनाम् । तस्मादन्नं प्रयत्नेन दातव्यं मानवैर्भुवि ॥५२॥",
+      "english": "All these are won by those men who make gifts of food in this world. Do you, therefore, become a giver of food. Indeed these are the regions reserved for those great and righteous persons who make gifts of food in this world. For these reasons, men should always make gifts of food in this world.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    },
+    {
+      "verse": 54,
+      "sanskrit": "अन्नदानां हि ये लोकास्तांस्त्वं शृणु जनाधिप । भवनानि प्रकाशन्ते दिवि तेषां महात्मनाम् ॥५४॥",
+      "english": "Hear me, O king, as I tell you what the regions are reserved for those who make gifts of food. The mansions of those great persons shine with resplendence in the regions of Heaven.",
+      "bhavadeepa": null,
+      "chapter": 63,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्रिषष्टितमोऽध्यायः"
+    }
+  ]
+}

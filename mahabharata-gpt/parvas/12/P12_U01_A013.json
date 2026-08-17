@@ -1,0 +1,154 @@
+{
+  "adhyaya_id": "P12_U01_A013",
+  "book": 12,
+  "parva_name": "शान्तिपर्व",
+  "upaparva_name": "राजधर्मानुशासनपर्व",
+  "adhyaya_name": "त्रयोदशोध्यायः",
+  "chapter": 13,
+  "verse_count": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "सहदेव उवाच । न बाह्यं द्रव्यमुत्सृज्य सिद्धिर्भवति भारत । शारीरं द्रव्यसुत्सृज्य सिद्धिर्भवति वा न वा ॥१॥",
+      "english": "Bharadwaja said If it is the air that keeps us alive, if it is the air that makes us inove and act is if it, the air that makes us breathe and speak, then it appears that life is not worth much.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "त्रयोदशोध्यायः",
+      "combined_translation": "1-1"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "बाह्यद्रव्यविमुक्तस्य शारीरेष्वनुगृध्यतः । यो धर्मो यत्सुखं वा स्याद् द्विषतां तत्तथाऽस्तु नः ॥२॥",
+      "english": "If the animal heat be of the nature of fire, and if it is that fire which helps digestion by dissolving the food we take, then life is not worth much.",
+      "bhavadeepa": "न बाह्यमिति । अहङ्कारममकारौ त्यक्तव्यावित्युक्तम् । तत्राद्यत्यागे सर्वव्यवहारोच्छेदः स्यादिति ममकार एव त्याज्य इत्येतदर्थमध्याय आरभ्यते । तत्र द्रव्यं ममकारास्पदं द्विविधं बाह्यं व्यावहारिकं शारीरं शरीरे भवं मनःकल्पितं च यथोक्तं ‘घटौ मृन्मयधीमयौ’ इति । तथा च श्रुतिर्विदुषो विदेहकैवल्यकाले बाह्यद्रव्यस्य स्वकारणे लयं दर्शयति- गताः कलाः पञ्चदश प्रतिष्ठा इति । कलाः प्राणमनःप्रभृतयः प्रतिष्ठाः उपादानकारणानि प्रति गताः तथा इमाः षोडश कलाः पुरुषायणाः पुरुषं प्राप्यास्तं यन्तीति मनःकल्पितानां कलानां पुरुषे लयं दर्शयति अतः शारीरमेव द्रव्यं बन्धनमूलं न बाह्यमिति बाह्यत्यागो व्यर्थः । शारीरद्रव्यत्यागेऽपि मनश्चाञ्चल्यात्पुनरुपादाने सिद्धिर्न भवतीति न वेत्यनेन उक्तम् । तेन दृढत्याग एव सिद्धिकृदित्युक्तम् । अक्षरयोजना स्पष्टा ॥१॥",
+      "chapter": 13,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "त्रयोदशोध्यायः",
+      "combined_translation": "2-2"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "शारीरं द्रव्यसुत्सृज्य पृथिवीमनुशासतः । यो धर्मो यत्सुखं वा स्यात्सुहृदां तत्तथाऽस्तु नः ॥३॥",
+      "english": "When an animal dies, that which is called its life is never seen to depart. Only the vital air relinquishes it, and the internal heat is put out.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "त्रयोदशोध्यायः",
+      "combined_translation": "3-3"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "द्व्यक्षरस्तु भवेन्मृत्युस्त्र्यक्षरं ब्रह्म शाश्वतम् । ममेति च भवेन्मृत्युर्न ममेति च शाश्वतम् ॥४॥",
+      "english": "If life were nothing else than air, or if life depended only on the air, then it could have been seen like the outward sea of air, and when passing out it would have been mixed with that air.",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "त्रयोदशोध्यायः",
+      "combined_translation": "4-4"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "ब्रह्ममृत्यू ततो राजन्नात्मन्येव समाश्रितौ । अदृश्यमानौ भूतानि योधयेतामसंशयम् ॥५॥",
+      "english": "If life depended upon air, and if it ended with the passing of that air from the body, it would then mingle with the eternal air like a portion of water passing into the great sea and thereby only changing the place of its residence. If a quantity of water be thrown into a well, or if the flame of a lamp be thrown into a burning fire, either of them, entering the original element, loses its independent existence. If life were air, it also, when the animal died, would merge in the great sea of air outside.",
+      "bhavadeepa": "ममेति स्वीकारः न ममेति परित्यागश्च एतौ मृत्युशाश्वतौ संसारमोक्षयोर्मूले इत्यर्थः ॥४॥",
+      "chapter": 13,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "त्रयोदशोध्यायः",
+      "combined_translation": "5-6"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "अविनाशोऽस्य सत्त्वस्य नियतो यदि भारत । हत्वा शरीरं भूतानां न हिंसा प्रतिपत्स्यते ॥६॥",
+      "english": "How we can say that there is life in this animal body which is composed of the five elements? If one of those clements disappear, the dissolution of the other four is brought about.",
+      "bhavadeepa": "आत्मनि बुद्धौ भूतानि शास्त्रकर्तॄन् तथा च केचित् कर्ताऽऽत्मा नित्य इति केचिदनित्य इति ॥५॥",
+      "chapter": 13,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "त्रयोदशोध्यायः",
+      "combined_translation": "6-7"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "अथापि च सहोत्पत्तिः सत्त्वस्य प्रलयस्तथा । नष्टे शरीरे नष्टः स्याद्वृथा च स्यात् क्रियापथः ॥७॥",
+      "english": "The element of water dries up if food is not taken. The element of air disappears if the breath is controlled. The element of space disappears if the excretions cease. So also the element of fire disappears if food does not go in.",
+      "bhavadeepa": "तत्राद्ये दोषाभावमाह- अविनाश इति ॥६॥",
+      "chapter": 13,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "त्रयोदशोध्यायः",
+      "combined_translation": "7-8"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "तस्मादेकान्तमुत्सृज्य पूर्वैः पूर्वतरैश्च यः । पन्था निषेवितः सद्भिः स निषेव्यो विजानता ॥८॥",
+      "english": "The element of earth is shattered to pieces by disease, wounds and other sufferings. If only one of the five is spoiled, the union is dissolved and the five go away into five different directions.",
+      "bhavadeepa": "सत्त्वस्य कर्तृत्वधर्मवत्या बुद्धेः ॥७॥",
+      "chapter": 13,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "त्रयोदशोध्यायः",
+      "combined_translation": "8-9"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "लब्ध्वाऽपि पृथिवीं कृत्स्नां सहस्थावरजङ्गमाम् । न भुङ्क्ते यो नृपः सम्यक् निष्फलं तस्य जीवितम् ॥९॥",
+      "english": "When the five ingredients of the body which is a compound of the five elements, are separated, where does life go? What does it then know. What does it then hear? What does it then say?",
+      "bhavadeepa": "द्वितीये कृतहानादिदोष इत्याह- तस्मादिति । तस्मात् कर्तुरनाशे मोक्षाभावो नाशे देहात्मवादप्रसङ्गस्तस्मादेकान्तम् अन्यतरं निश्चयं त्यक्त्वा प्राचां पन्थास्तन्मिथ्यात्वपक्ष एवादर्तव्यः । तेन कल्पितस्य शारीरद्रव्यस्य स्वाप्नस्येव त्यागो युज्यत इत्याशयवानह- तस्मादिति ॥८॥",
+      "chapter": 13,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "त्रयोदशोध्यायः",
+      "combined_translation": "9-10"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "अथवा वसतो राजन् वने वन्येन जीवतः । द्रव्येषु यस्य ममता मृत्योरास्ये स वर्तते ॥१०॥",
+      "english": "The cow, it is said, will save me in the next world. The animal, however, which is given away, itself dies. Whom then will this cow save?",
+      "bhavadeepa": "निष्फलं बाह्यद्रव्यत्यागं कृत्वाऽऽन्तद्रव्यत्यागमकुर्वन् मूढ एवेत्याह द्वाभ्यां- लब्ध्वाऽपीति ॥९॥",
+      "chapter": 13,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "त्रयोदशोध्यायः",
+      "combined_translation": "10-11"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "बाह्यान्तरं च भूतानां स्वभावं पश्य भारत । ये तु पश्यन्ति तद्भूतं मुच्यन्ते ते महाभयात् ॥११॥",
+      "english": "The taker of the cow and the giver are both equally subject to death. Both of them meet with destruction in this world. How then will they meet again?",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "त्रयोदशोध्यायः",
+      "combined_translation": "11-12"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "भवान् पिता भवान्माता भवान्भ्राता भवान् गुरुः । दुःखप्रलापानार्तस्य तन्मे त्वं क्षन्तुमर्हसि ॥१२॥",
+      "english": "How will the man that has been eaten up by birds, or that has been shattered to pieces by a fall from a mountain summit, or that has been consumed by fire, regain life?",
+      "bhavadeepa": "तर्ह्युभयद्रव्यत्यागः श्रेयानित्याशङ्क्याह- बाह्येति । भूतानां बाह्यमाभ्यन्तरं च यद्भयं तत्सर्वं स्वभावं स्वस्य प्रत्यगात्मनः भावं सत्तां पश्य जानीहि तदात्मव्यतिरिक्तं नास्तीत्यर्थः । तथा च श्रुतिः- ‘आत्मैवेदं सर्वम्’ इति । ये तु पुमांसस्तदात्मरूपं भूतं नित्यसिद्धं पश्यन्ति । वृत्तमिति पाठेऽपि स एवार्थः । ते महतो भयात् उभयद्रव्यसङ्गजात् संसारान्मुच्यन्ते कल्पितस्य मरीचिकोदकस्येव त्यागः कर्तव्यो न स्वरूपतस्तस्य नित्यनिवृत्तत्वादिति भावः ॥११॥",
+      "chapter": 13,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "त्रयोदशोध्यायः",
+      "combined_translation": "12-13"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "तथ्यं वा यदि वाऽतथ्यं यन्मयैतत्प्रभाषितम् । तद्विद्धि पृथिवीपाल भक्त्या भरतसत्तम ॥१३॥",
+      "english": "The root of a tree that has been cut down docs not revive. Only the seeds put forth sprouts. Where is the person who having died regains life?",
+      "bhavadeepa": null,
+      "chapter": 13,
+      "parva_name": "शान्तिपर्व",
+      "upaparva_name": "राजधर्मानुशासनपर्व",
+      "adhyaya_name": "त्रयोदशोध्यायः",
+      "combined_translation": "13-14"
+    }
+  ]
+}

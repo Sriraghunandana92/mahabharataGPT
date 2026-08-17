@@ -1,0 +1,481 @@
+{
+  "adhyaya_id": "P13_U01_A103",
+  "book": 13,
+  "parva_name": "अनुशासनपर्व",
+  "upaparva_name": "दानधर्मपर्व",
+  "adhyaya_name": "त्र्यधिकशततमोऽध्यायः",
+  "chapter": 103,
+  "verse_count": 46,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "युधिष्ठिर उवाच। दानं बहुविधाकारं शान्तिः सत्यमहिंसितम् । स्वदारतुष्टिश्चोक्ता ते फलं दानस्य चैव यत् ॥१॥",
+      "english": "Yudhishthira said You have described to us the various kinds of gifts, tranquillity of soul, Truth, mercy, contentment with one's married wife, and the merits of gift.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "पितामहस्य विदितं किमन्यत्तपसो बलात् । तपसो यत्परं तेऽद्य तन्नो व्याख्यातुमर्हसि ॥२॥",
+      "english": "You know very well, O grandfather, that there is nothing whose power is superior to that of Penances. You should explain to us what forms the highest penance.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "भीष्म उवाच। तपः प्रचक्षते यावत्तावल्लोको युधिष्ठिर । मतं ममात्र कौन्तेय तपो नानशनात्परम् ॥३॥",
+      "english": "Bhishma said I tell you, O Yudhishthira, that one acquires a regions of happiness according to the nature of penances he practises. This is what I hold, O son of Kunti, that there is no Penance superior to abstention from food. Regarding it is recited the ancient discourse between Bhagiratha and the illustrious Brahman.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः",
+      "combined_translation": "3-4"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "अत्राप्युदाहरन्तीममितिहासं पुरातनम् । भगीरथस्य संवादं ब्रह्मणश्च महात्मनः ॥४॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः",
+      "english_ref": 3,
+      "combined_translation": "3-4"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "अतीत्य सुरलोकं च गवां लोकं च भारत । ऋषिलोकं च सोऽगच्छत् भगीरथ इति श्रुतम् ॥५॥",
+      "english": "We have heard, O Bharata, that Bhagiratha attained to that region which is superior to that of the celestials of kine, and of the Rishis.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "तं तु दृष्ट्वा वचः प्राह ब्रह्मा राजन्भगीरथन् । कथं भगीरथागास्त्वमिमं लोकं दुरासदम् ॥६॥",
+      "english": "Seeing this, O monarch, the Grandfather Brahman, addressing Bhagirama, said, How, O Bhagiratha, have you attained to this region that is so hard to get at.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "न हि देवा न गन्धर्वा न मनुष्या भगीरथ । आयान्त्यतप्ततपसः कथं वै त्वमिहागतः ॥७॥",
+      "english": "Neither the celestials, nor Gandharvas, nor mankind, o Bhagiratha, succeed in coming here without having performed the severest austerities. How, indeed, have you come by this region.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "भगीरथ उवाच । निष्काणां वै ह्यददं ब्राह्मणेभ्यः शतं सहस्त्राणि सदैव दानम् । ब्राह्मं व्रतं नित्यमास्थाय विद्वन्न त्वेवाहं तस्य फलादिहागाम् ॥८॥",
+      "english": "Bhagiratha said I used to make gifts of hundred thousands of gold coins to the Brahmanas practising the vow of celibacy all the while. It is not by dint of the merit of those, gifts, O learned one, that I have acquired this region.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "दशैकरात्रान्दशपञ्चरात्रानेकादशैकादशकान् क्रतूंश्च । ज्योतिष्टोमानां च शतं यदिष्टं फलेन तेनापि च नागतोऽहम् ॥९॥",
+      "english": "I celebrated the Ekaratri (onenight's) sacrifice (consisting of fasts and gifts) for ten times, and the Pancharatri (fivenights) sacrifices for as many times. I performed eleven times the Ekadashratri sacrifice. I performed a hundred times the great sacrifices of Jyotishtoma. It is not, however, through the merits of those sacrifices that I have acquired this region of happiness.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "यच्चावसं जाह्नवीतीरनित्यः शतं समास्तप्यमानस्तपोऽहम् । अदां च तत्राश्वतरीसहस्रं नारीपुरं न च तेनाहमागाम् ॥१०॥",
+      "english": "For a hundred years I lived continuously by the side of the sacred Jahnavi, all the while performed the severest austerities. There I made gifts to the Brahmanas of thousands of males and numberless female slaves.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "दशायुतानि चाश्वानां गोयुतानि च विंशतिम् । पुष्करेषु द्विजातिभ्यः प्रादां शतसहस्रशः ॥११॥",
+      "english": "By the side of the Pushkara lake I made gifts to the Brahmanas, for a hundred thousand times, a hundred thousand horses, and two hundred thousand kine.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "सुवर्णचन्द्रोत्तमधारिणीनां कन्योत्तमानामददं सहस्रम् । षष्टिं सहस्राणि विभूषितानां जाम्बूनदैराभरणैर्न तेन॥१२॥",
+      "english": "I also gave away a thousand women of great beauty, each adorned with golden moons, and sixty thousand more, decked with ornaments of pure gold. It is not, however, through the merits of those deeds that I have succeeded in acquiring these regions.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "दशार्बुदान्यददं गोसवेज्यास्वेकैकशो दश गां लोकनाथ । समानवत्साः पयसा समन्विताः सुवर्णकांस्योपदुहा न तेन ॥१३॥",
+      "english": "O lord of the universe, performing those sacrifices known as Gosava, I gave away ten Arvudas of kine, presenting each Brahmana with ten kine, each of whom was accompanied with her calf, each of whom gave milk at the time, and with each of whom were given a vessel of gold and one white brass for milking her.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "आप्तोर्यामेषु नियतमेकैकस्मिन्दशाददम् । गृष्टीनां क्षीरदात्रीणां रोहिणीनां शतानि च ॥१४॥",
+      "english": "Celebrating many Soma sacrifices, I gave away to cach Brahinana ten kine each of whom gave milk, and each of whom had brought forth only her first calf, besides making presents to them of hundreds of kine belonging to that kind which is known by the name of Rohini.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "दोग्ध्रीणां वै गवां चापि प्रयुतानि दशैव ह । प्रादां दशगुणं ब्रह्मन्न तेनाहमिहागतः ॥१५॥",
+      "english": "I also gave away to the Brahmanas twice ten Prayutas of other kine, all giving milk, It is not through the merit of those gifts, O Brahman, that I have succeeded in acquiring to this region of happiness.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "वाजिनां बाह्लिजातानामयुतान्यददं दश । कर्काणां हेममालानां न च तेनाहमागतः ॥१६॥",
+      "english": "I also gave away a hundred thousand horses of the Valhika breed, all of white complexion, and adorned with garlands of gold. It is not, however, through the merits of those deeds that I have acquired this region.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "कोटीश्च काञ्चनस्याष्टौ प्रादां ब्रह्मन्दशान्वहम् । एकैकस्मिन् क्रतौ तेन फलेनाहं न चागतः ॥१७॥",
+      "english": "I gave also eight crores of golden coins to the Brahmanas, O Brahmana, and another ten crores also in each sacrifice that I celebrated. It is not, however, through the merits of those deeds that I have acquired this region of happiness.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "वाजिनां श्यामकर्णानां हरितानां पितामह । प्रादां हेमस्रजां ब्रह्मन्कोटीर्दश च सप्त च ॥१८॥",
+      "english": "I also gave away seventeen crors of horses, O Grandfather, each of green colour, each having black ears, and each adorned with garlands of gold.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "ईषादन्तान्महाकायान्काञ्चनस्रग्विभूषितान् । पद्मिनो वै सहस्राणि प्रादां दश च सप्त च ॥१९॥",
+      "english": "I also gave away seventeen thousand huge elephants having teeth as large as ploughshares, each having those whirls on its body, which are called Padmas, and each bedecked with garlands of gold.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "अलङ्कृतानां देवेश दिव्यैः कनकभूषणैः । रथानां काञ्चनाङ्गानां सहस्त्राण्यददं दश ॥२०॥",
+      "english": "I gave away ten thousand cars, Grandfather, whose parts were made of gold, and which were adorned with various ornaments of gold.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "सप्त चान्यानि युक्तानि वाजिभिः समलङ्कृतैः । दक्षिणावयवाः केचिद्वेदैर्ये संप्रकीर्तिताः ॥२१॥",
+      "english": "vast sum I also gave away seven thousand other cars with horses yoked to each. All the horses that were yoked to them were adorned with omaments of gold. Those cars represented the presents of a sacrifice and were of exactly that kind which is indicated in the Vedas.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "वाजपेयेषु दशसु प्रादां तेष्वपि चाप्यहम् । शक्रतुल्यप्रभावाणामिज्यया विक्रमेण ह ॥२२॥",
+      "english": "In the ten great Vajapeya sacrifices that I celebrated I gave away a thousand heroes each gified with the power of Indra himself, judged by their prowess and the sacrifices they had celebrated.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "सहस्रं निष्ककण्ठानामददं दक्षिणामहम् । विजित्य भूपतीन्सर्वानर्थैरिष्ट्वा पितामह ॥२३॥",
+      "english": "Spending a of money, O Grandfather, and celebrating eight Rajasuya Sacrifices. I gave away to the Brahmanas who officiated in them, a thousand kings whose necks were adorned with garlands of gold, after having defeated them in battle. It is not, however, through the merits of those deeds that I have acquired this region.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "अष्टभ्यो राजसूयेभ्यो न च तेनाहमागतः । स्रोतश्च यावद्गङ्गायाश्छन्नमासीज्जगत्पते ॥२४॥",
+      "english": "In those sacrifices, O Lord of the universe, I made presents as profuse as the stream of Ganga herself. Each Brahmana I gave two thousand elephants decked with gold, as many horses adorned with golden ornaments, and a hundred villages of the best kind.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः",
+      "combined_translation": "24-26"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "दक्षिणाभिः प्रवृत्ताभिर्मम नागां च तत्कृते । वाजिनां च सहस्त्रे द्वे सुवर्णशतभूषिते ॥२५॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः",
+      "english_ref": 24,
+      "combined_translation": "24-26"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "वरं ग्रामशतं चाहमेकैकस्य त्रिधाऽददम् । तपस्वी नियताहारः शममास्थाय वाग्यतः ॥२६॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः",
+      "english_ref": 24,
+      "combined_translation": "24-26"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "दीर्घकालं हिमवति गङ्गायाश्च दुरुत्सहाम् । मूर्ध्ना धारां महादेवः शिरसा यामधारयत् । न तेनाप्यहमागच्छं फलेनेह पितामह ॥२७॥",
+      "english": "Indeed, I gave these thrice to each Brahmana obscrvant of penances, living on regulated dict, adopting tranquillity of soul, and controlling speech, I lived for a long time on the breast of Himavat by the side of that Ganga whose irresistible current was borne by Mahadeva on his head. It is not through the merit of these deeds, O grandfather, that I have acquired this region.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "शम्याक्षेपैरयजं यच्च देवान्साद्यस्क्रानामयुतैश्चापि यत्तत् । त्रयोदशद्वादशाहैश्च देव सपौण्डरीकान्न च तेषां फलेन ॥२८॥",
+      "english": "Throwing the Shami, I worshipped the gods in numberless such sacrifices as are completed in course of single day, and such others as take twelve days for completing, and others still as can be completed in thirteen days, besides many Pundarikas. I have not acquired this region through the merits of any of those sacrifices.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "अष्टौ सहस्राणि ककुद्मिनामहं शुक्लर्षभाणामददं द्विजेभ्यः । एकैकं वै काञ्चनं श्रृङ्गमेभ्यः पत्नीश्चैषामददं निष्ककण्ठीः ॥२९॥",
+      "english": "I gave to the Brahmanas eight thousands of white bulls, each possessed of a beautiful hump, and each having one of its horns covered with gold. To them I also gave beautiful wives whose necks were adorned with chains of gold.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "हिरण्यरत्ननिचयानददं रत्नपर्वतान् । धनधान्यसमृद्धाश्च ग्रामाश्चान्ये सहस्रशः ॥३०॥",
+      "english": "I also gave away inasses of gold and wealth of other kinds. I gave away hills of gems and valuable stones. I gave away Villages, thousands in number and filled with wealth and corn.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "शतं शतानां गृष्टीनामददं चाप्यतन्द्रितः । इष्ट्वाऽनेकैर्महायज्ञैर्ब्राह्मणेभ्यो न तेन च ॥३१॥",
+      "english": "With all my senses about me, I gave away the Brahmanas a hundred thousand kine each of whom had brought forth only her first calf, at many great sacrifices which I celebrated. It i is not, however, through the merits of those। deeds that I have acquired this region.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 32,
+      "sanskrit": "एकादशाहैरयजं सदक्षिणैर्द्विर्द्वादशाहैरश्वमेधैश्च देव । आर्कायणैः षोडशभिश्च ब्रह्मस्तेषां फलेनेह न चागतोऽस्मि ॥३२॥",
+      "english": "I worshipped the celestials in a sacrifice that is completed in eleven days. Twice I worshipped them in sacrifices that are completed in twelve days. I worshipped ther, also many a time in the Horsesacrifices. I performed the Arkayana sacrifice sixteen times, it is not through the merits of those deeds that I have acquired this region.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 33,
+      "sanskrit": "निष्कैककण्ठमददं योजनायतं तद्विस्तीर्णं काञ्चनपादपानाम् । वनं वृतानां रत्नविभूषितानां न चैव तेषामागतोऽहं फलेन ॥३३॥",
+      "english": "I also gave each Branis. 17 a forest of Kanchana trees extending for Yojana on every side, and with each tree adorned with jewels and gems. It is not through the merits of that deed that I have acquired this region.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 34,
+      "sanskrit": "तुरायणं हि व्रतमप्यधृष्यमक्रोधनोऽकरवं त्रिंशतोऽब्दान् । शतं गवामष्टशतानि चैव दिने दिने ह्यददं ब्राह्मणेभ्यः ॥३४॥",
+      "english": "For thirty years, with heart perfectly freed from anger, I observed the Turayana vow that has very superior merit, and gave away to the Brahmanas every day nine hundred kine.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 35,
+      "sanskrit": "पयस्विनीनामथ रोहिणीनां तथैवान्याननडुहो लोकनाथ । प्रादां नित्यं ब्राह्मणेभ्यः सुरेश नेहागतस्तेन फलेन चाहम् ॥३५॥",
+      "english": "Indeed, O Lord of the universe, every one of those kine belonged to the Rohini species and gave milk at the time I gave them away. It is not through the merits of those deeds, O king of the deities, that I have acquired this region.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 36,
+      "sanskrit": "त्रिंशदग्नीनहं ब्रह्मन्नयजं यच्च नित्यदा । अष्टाभिः सर्वमेधैश्च नरमेधैश्च सप्तभिः ॥३६॥",
+      "english": "a I adored thirty fires, O Brahman, every day. I worshipped the celestials in eight sacrifices in which the fat of all animals was poured on the fire. I worshipped them in seven sacrifices in which the fat of human beings was poured on the fire.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 37,
+      "sanskrit": "दशभिर्विश्वजिद्भिश्च शतैरष्टाद‌शोत्तरैः । न चैव तेषां देवेश फलेनाहमिहागमम् ॥३७॥",
+      "english": "ored them in thousand and livcrtyeight Vishvajit sacrifices. It is not through the merits of those sacrifices, O king of all the celestials, that I have acquired this region.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 38,
+      "sanskrit": "सरय्वां बाहुदायां च गङ्गायामथ नैमिषे । गवां शतानामयुतमददं न च तेन वै ॥३८॥",
+      "english": "On the banks of Sarayu and Vahuda and Ganga, as also in the forest of Naimisha, I gave away millions of kine to the Brahmanas. It is not through the merits of those deeds that I have acquired this region.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 39,
+      "sanskrit": "इन्द्रेण गुह्यं निहितं वै गुहायां यद्भार्गवस्तपसेहाभ्यविन्दत् । जाज्वल्यमानमुशनस्तेजसेह तत्साधयामासमहं वरेण्य ॥३९॥",
+      "english": "The vow of fast had been known to Indra. He had, however, kept it a secret. Shukra, the descendent of Bhrigu, gained a knowledge of it by means of spiritual sight acquired through penances. Burning with energy as he does, it is Ushanas who first made it known to the universe. I observed that vow, O boongiving Deity.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 40,
+      "sanskrit": "ततो मे ब्राह्मणास्तुष्टास्तस्मिन्कर्मणि साधिते । सहस्रमृषयश्चासन्ये वै तत्र समागताः ॥४०॥",
+      "english": "When I finished that very superior vow, the Brahmanas became all pleased with me. A thousand Rishis came there.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 41,
+      "sanskrit": "उक्तस्तैरस्मि गच्छ त्वं ब्रह्मलोकमिति प्रभो । प्रीतेनोक्तसहस्रेण ब्राह्मणानामहं प्रभो । इमं लोकमनुप्राप्तो माभूत्तेऽत्र विचारणा ॥४१॥",
+      "english": "All those Brahmanas and Rishis, O powerful lord, pleased with me, said, do you go to the region of Brahman! It is on account of the merits of that vow that I have succeeded in acquiring this region of very superior happiness. There is no doubt in this.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 42,
+      "sanskrit": "कामं यथावद्विहितं विधात्रा पृष्टेन वाच्यं तु मया यथावत् । तपो हि नान्यच्चानशनान्मतं मे नमोऽस्तु ते देववर प्रसीद ॥४२॥",
+      "english": "Asked by the Supreme Creator of all things, I have duly explained the merits of the vow of fast. In my opinion, there is no penance higher than fast. I bow to you, o foremost of all the celestials. Be propitiated with me.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 43,
+      "sanskrit": "भीष्म उवाच। इत्युक्तवन्तं ब्रह्मा तु राजानं स भगीरथम् । पूजयामास पूजार्हं विधिदृष्टेन कर्मणा ॥४३॥",
+      "english": "Bhishma said King Bhagiratha, who had said so and who was worthy of every honour, was, on the conclusion of his speech, honoured by Brahman according to the rites ordained for that purpose.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 44,
+      "sanskrit": "तस्मादनशनैर्युक्तो विप्रान्पूजय नित्यदा । विप्राणां वचनात्सर्वं परत्रेह च सिध्यति ॥४४॥",
+      "english": "Do you, therefore, O Yudhishtira, observe the vow of fast and adore the Brahmanas every day. The words uttered by Brahmanas can do every things both in this world and in the next.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "वासोभिरन्नैर्गोभिश्च शुमैर्नैवेशिकैरपि । शुभैः सुरगणैश्चापि स्तोष्या एव द्विजास्तथा ॥४५॥",
+      "english": "Indeed, the Brahmanas should ever be pleased with gifts of dresses and food and whitecomplexioned kine and good dwelling houses and palaces. The very celestials should please the Brahmanas. Freeing yourself from cupidity, do you practice this vow of very superior merit that is not known to all.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः",
+      "combined_translation": "45-45"
+    },
+    {
+      "verse": 45,
+      "sanskrit": "एतदेव परं गुह्यमलोभेन समाचर ॥४५॥",
+      "english": "Indeed, the Brahmanas should ever be pleased with gifts of dresses and food and whitecomplexioned kine and good dwelling houses and palaces. The very celestials should please the Brahmanas. Freeing yourself from cupidity, do you practice this vow of very superior merit that is not known to all.",
+      "bhavadeepa": null,
+      "chapter": 103,
+      "parva_name": "अनुशासनपर्व",
+      "upaparva_name": "दानधर्मपर्व",
+      "adhyaya_name": "त्र्यधिकशततमोऽध्यायः",
+      "combined_translation": "45-45"
+    }
+  ]
+}

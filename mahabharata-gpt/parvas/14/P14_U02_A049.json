@@ -1,0 +1,181 @@
+{
+  "adhyaya_id": "P14_U02_A049",
+  "book": 14,
+  "parva_name": "आश्वमेधिकपर्व",
+  "upaparva_name": "अथानुगीतपर्व - २",
+  "adhyaya_name": "एकोनपञ्चाशत्तमोऽध्यायः",
+  "chapter": 49,
+  "verse_count": 17,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "ऋषय ऊचुः।\n              को वा स्विदिह धर्माणामनुष्ठेयतमो मतः। व्याहतामिव पश्यामो धर्मस्य विविधां गतिम्॥१॥",
+      "english": "The Rishis said Which among the duties is considered to be the most worthy of being performed? The various modes of duty, we sec, are contradictory.",
+      "bhavadeepa": "उक्तं विद्यते येषु ते उक्तवन्तः उक्तमर्थं सम्यगवधृतवन्त इत्यर्थः। सहजस्यापि सत्त्वस्य पुरुषासंसर्गित्वं दुर्घटं ब्रह्मणश्च वचनं न मिथ्येति तर्कश्रद्धाभ्यामुभयतो निरुद्धत्वात्संशयमापन्ना॥१३॥",
+      "chapter": 49,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोनपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 2,
+      "sanskrit": "ऊर्ध्वं देहाद्वदन्त्येके नैतदस्तीति चापरे। केचित्संशयितं सर्वं निःसंशयमथापरे॥२॥",
+      "english": null,
+      "bhavadeepa": "एवं सदिहाना प्रथमं वेदशास्त्रेषु मतभेदं दर्शयन्ति- को वेति। निवृत्तिधर्मो वा प्रवृत्तिधर्मो वाऽनुष्ठेयः- न कर्मणेति। \"कुर्वन्नेवेह कर्माणि\" (ई.वा.म१) इत्युभयविधश्रुतिदर्शनान्मुह्यामहे इति भावः॥१॥",
+      "chapter": 49,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोनपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 3,
+      "sanskrit": "अनित्यं नित्यमित्येके नास्त्यस्तीत्यपि चापरे। एकरूपं द्विधेत्येके व्यामिश्रमिति चापरे॥३॥",
+      "english": "Some say that the eternal (principle) is not eternal. Some say that it exists, and some that it exists not. Some say it is of one form, or twofold, and others that it is mixed.",
+      "bhavadeepa": "ऊर्ध्वं देहात् देहनाशादूर्ध्वमपि आत्मास्तीत्येके वदन्तीति सम्बन्धः- नैतदिति। लोकायता सर्वं संशयितामिति स्याद्वादिनः सप्तभङ्गीनयज्ञा निःसंशयामिति। प्रातित्विकं सर्वं तैर्थिकाः॥२॥",
+      "chapter": 49,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोनपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 4,
+      "sanskrit": "मन्यन्ते ब्राह्मणा एव ब्रह्मज्ञास्तत्त्वदर्शिनः। एकमेके पृथक्चान्ये बहुत्वमिति चापरे॥४॥",
+      "english": "Some Brahmanas who are conversant with Brahma and utterers of truth consider it to be one. Others, that is distinct; and others again that it is manifold.",
+      "bhavadeepa": "अनित्यं सर्वं सृष्टिप्रलययुक्तमिति तार्किकादयः नित्यं प्रवाहनित्यमिति मीमांसकाः नास्तीति शून्यवादिनः अस्ति परन्तु क्षणिकमिति सौगताः एकरूपं विज्ञानमेव द्विधा इदमर्थाकारमहमर्थाकारमिति योगाचाराः व्यामिश्रं भिन्नमभिन्नं चेत् इति उडुलोमाः॥३॥",
+      "chapter": 49,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोनपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 5,
+      "sanskrit": "देशकालावुभौ केचिन्नैतदस्तीति चापरे। जटाजिनधराश्चान्ये मुण्डाः केचिदसंवृताः॥५॥",
+      "english": null,
+      "bhavadeepa": "एके ब्रह्मज्ञाः शास्त्रज्ञाः तत्त्वदर्शिनोऽपरोक्षज्ञानवन्तः ब्राह्मणास्तु ब्रह्मैवैकमस्तीति मन्यन्ते सगुणोपासकाः पृथक् असाधारणानि कर्माण्येव कारणानीत्यन्ये मीमांसकाः बहुत्वमपि कारणानां प्राहुः परमाणुवादिनः॥४॥",
+      "chapter": 49,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोनपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 6,
+      "sanskrit": "अस्नानं केचिदिच्छन्ति स्नानमप्यपरे जनाः। मन्यन्ते ब्राह्मणा देवा ब्रह्मज्ञास्तत्त्वदर्शिनः॥६॥",
+      "english": "Some abstain entirely from bathing and some are for bathing. Such differences of views may be seen among celestials and Brahmanas conversant with Brahma and gifted with perceptions of truth.",
+      "bhavadeepa": "देशकालाविति ज्योतिर्विदः एतत् दृश्यं सर्वं कालत्रयेऽपि नास्ति स्वप्नराज्यवच्चिद्विलासमात्रमिति वृद्धाः॥५॥",
+      "chapter": 49,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोनपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 7,
+      "sanskrit": "आहारं केचिदिच्छन्ति केचिच्चानशने रताः। कर्म केचित्प्रशंसन्ति प्रशान्तिं चापरे जनाः॥७॥",
+      "english": "Some are for taking food; while some are given to fasts. Some speak highly of action. Others speak highly of perfect tranquility.",
+      "bhavadeepa": "अस्नानं नैष्ठिकब्रह्मचर्यं स्नानं गार्हस्थ्यम्॥६॥",
+      "chapter": 49,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोनपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 8,
+      "sanskrit": "केचिन्मोक्षं प्रशंसन्ति केचिद्भोगान्पृथग्विधान्। धनानि केचिदिच्छन्ति निर्धनत्वमथापरे। उपास्य साधनं त्वेके नैतदस्तीति चापरे॥८॥",
+      "english": null,
+      "bhavadeepa": null,
+      "chapter": 49,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोनपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 9,
+      "sanskrit": "अहिंसानिरताश्चान्ये केचिद्धिंसापरायणाः। पुण्येन यशसा चान्ये नैतदस्तीति चापरे॥९॥",
+      "english": "Some are given to a life of abstention from injury. Others are inclined to destruction. Some are for merit and glory. Others say that this is not so.",
+      "bhavadeepa": "साधनं ध्यानादिकमुपास्य कृत्वाऽपि नैतदस्तीति पश्चात्सर्वमपवदन्ति तथा च श्रुतिः- न निरोधो न चोत्पत्तिर्न बद्धो न च साधकः। न मुमुक्षुर्न वै मुक्त इत्येषा परमार्थता इति॥८॥",
+      "chapter": 49,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोनपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 10,
+      "sanskrit": "सद्भावनिरताश्चान्ये केचित् संशयिते स्थिताः। दुःखादन्ये सुखादन्ये ध्यानमित्यपरे जनाः॥१०॥",
+      "english": "Some are devoted to goodness. Others are established on doubt. Some are for pleasure. Some are for pain. Others people say that it is meditation.",
+      "bhavadeepa": "पुण्येन पुष्यार्थमेव यतेतेत्यन्ये। एतत्पुण्यं नास्त्येवेत्यन्ये लोकायताः॥९॥",
+      "chapter": 49,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोनपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "यज्ञमित्यपरे विप्राः प्रदानमिति चापरे। तपस्त्वन्ये प्रशंसन्ति स्वाध्यायमपरे जनाः॥११॥",
+      "english": "Other learned Brahmanas say that it is Sacrifice. Others, again, say that it is gift. Others speak highly of penances. Others, the study of the scriptures.",
+      "bhavadeepa": "सशयिते कृतमस्ति न वेत्ति सन्दिग्धे पथि दुःखात् दुःखनिवृत्त्यर्थं सुखात्सुखप्राप्त्यर्थं ध्यानं कर्तव्यं निष्काममेवेत्यपरे॥१०॥",
+      "chapter": 49,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोनपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "ज्ञानं संन्यासमित्येके स्वभावं भूतचिन्तकाः। सर्वमेके प्रशंसन्ति न सर्वमिति चापरे॥१२॥",
+      "english": "Some say that knowledge and renunciation (should be followed). Others who ponder on the elements, say that it is nature. Some speak too much of everything. Others, nothing.",
+      "bhavadeepa": null,
+      "chapter": 49,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोनपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "एवं व्युत्थापिते धर्मे बहुधा विप्रबोधिते। निश्चयं नाधिगच्छामः सम्मूढाः सुरसत्तम॥१३॥",
+      "english": "O foremost of the celestials, duty being thus confused and full of contradictions of various kinds, we are deluded and unable to arrive at any conclusion.",
+      "bhavadeepa": "ज्ञानं सन्यासः सन्यासैकप्राप्य भूतचिन्तका वस्तुतत्त्वविचारका स्वभावं साधनपौष्कल्यं साधनपौष्कल्यस्वाभाव्यादेव ज्ञानमुत्पद्यते आश्रमान्तरेऽपि न संन्यासमात्रेणेत्याहुः॥१२॥",
+      "chapter": 49,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोनपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "इदं श्रेय इदं श्रेय इत्येवं व्युस्थितो जनः। यो हि यस्मिन् रतो धर्मे स तं पूजयते सदा॥१४॥",
+      "english": "People stand up for acting, saying, This is good, This is good. He who follow a certain duty speaks highly of that duty as the best.",
+      "bhavadeepa": null,
+      "chapter": 49,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोनपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "तेन नोऽविहिता प्रज्ञा मनश्च बहुलीकृतम्। एतदाख्यातमिच्छामः श्रेयः किमिति सत्तम॥१५॥",
+      "english": "Therefore our understanding breaks down and our mind is distracted. We, therefore, wish, O best of all beings, to know what is good.",
+      "bhavadeepa": null,
+      "chapter": 49,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोनपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "अतः परं तु यद्गुह्यं तद्भवान्वक्तुमर्हति। सत्त्वक्षेत्रज्ञयोश्चापि सम्बन्धः केन हेतुना॥१६॥",
+      "english": "You should declare to us, after this, what is (so) mysterious, and what is the cause of the connection between the Soul and Nature.",
+      "bhavadeepa": "अविहिता अशिक्षिता आख्यातं त्वयेति शेषः॥१५॥",
+      "chapter": 49,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोनपञ्चाशत्तमोऽध्यायः"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "एवमुक्तः स तैर्विप्रैर्भगवाँल्लोकभावनः। तेभ्यः शशंस धर्मात्मा याथातथ्येन बुद्धिमान्॥१७॥",
+      "english": null,
+      "bhavadeepa": "मुख्यं प्रष्टव्यमाह- अतः परमिति॥१६॥",
+      "chapter": 49,
+      "parva_name": "आश्वमेधिकपर्व",
+      "upaparva_name": "अथानुगीतपर्व - २",
+      "adhyaya_name": "एकोनपञ्चाशत्तमोऽध्यायः"
+    }
+  ]
+}
